@@ -1,4 +1,4 @@
-tt,#genre
+tt,#genre#
 CNN HD,http://redirektamar.ddns.net:8000/R2E5Dir3kCiJ1Q/oXFvX0yRK9/11977
 BBC News HD,http://redirektamar.ddns.net:8000/R2E5Dir3kCiJ1Q/oXFvX0yRK9/11958
 Sky News,http://redirektamar.ddns.net:8000/R2E5Dir3kCiJ1Q/oXFvX0yRK9/12068
@@ -6,7 +6,7 @@ Fox News HD,http://redirektamar.ddns.net:8000/R2E5Dir3kCiJ1Q/oXFvX0yRK9/12001
 Nat Geo,http://redirektamar.ddns.net:8000/R2E5Dir3kCiJ1Q/oXFvX0yRK9/12030
 
 
-test,#genre
+test,#genre#
 Sky Movies Action & Adv,http://redirektamar.ddns.net:8000/R2E5Dir3kCiJ1Q/oXFvX0yRK9/12058
 Sky Movies Comedy,http://redirektamar.ddns.net:8000/R2E5Dir3kCiJ1Q/oXFvX0yRK9/12059
 Sky Movies Drama,http://redirektamar.ddns.net:8000/R2E5Dir3kCiJ1Q/oXFvX0yRK9/12060
