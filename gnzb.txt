@@ -1,5 +1,221 @@
 
 test,#genre#
+11,http://185.236.229.4:8000/play/a0xe
+24 Kitchen HD,http://185.236.229.4:8000/play/a10v
+24 Kitchen HD,http://185.236.229.4:8000/play/a11g
+A Bola TV,http://185.236.229.4:8000/play/a0xk
+AMC,http://185.236.229.4:8000/play/a11y
+AMC,http://185.236.229.4:8000/play/a0tv
+AMC HD,http://185.236.229.4:8000/play/a11x
+ARTV,http://185.236.229.4:8000/play/a0ty
+AXN HD,http://185.236.229.4:8000/play/a0zg
+AXN HD,http://185.236.229.4:8000/play/a0zo
+AXN Movies HD,http://185.236.229.4:8000/play/a10u
+AXN Movies HD,http://185.236.229.4:8000/play/a11a
+AXN White HD,http://185.236.229.4:8000/play/a10y
+AXN White HD,http://185.236.229.4:8000/play/a11c
+Afro Music,http://185.236.229.4:8000/play/a0xd
+BBC Entertainment,http://185.236.229.4:8000/play/a120
+BBC World News,http://185.236.229.4:8000/play/a13c
+BTV 1,http://185.236.229.4:8000/play/a0zt
+BTV 1 HD,http://185.236.229.4:8000/play/a0zr
+BTV 1 HD (clone),http://185.236.229.4:8000/play/a13p
+BTV HD,http://185.236.229.4:8000/play/a0zj
+Baby TV,http://185.236.229.4:8000/play/a12g
+Baby TV,http://185.236.229.4:8000/play/a0tr
+Biggs,http://185.236.229.4:8000/play/a12m
+Biggs,http://185.236.229.4:8000/play/a138
+Blaze,http://185.236.229.4:8000/play/a12h
+Blaze,http://185.236.229.4:8000/play/a133
+Bloomberg,http://185.236.229.4:8000/play/a0yt
+Bloomberg,http://185.236.229.4:8000/play/a0y5
+Btv,http://185.236.229.4:8000/play/a0zs
+CBS Reality,http://185.236.229.4:8000/play/a0xc
+CMTV,http://185.236.229.4:8000/play/a0yh
+CMTV,http://185.236.229.4:8000/play/a0z5
+CNBC Europe,http://185.236.229.4:8000/play/a0y6
+CNN,http://185.236.229.4:8000/play/a13a
+Canal 11 HD,http://185.236.229.4:8000/play/a121
+Canal NOS,http://185.236.229.4:8000/play/a109
+Canal NOS,http://185.236.229.4:8000/play/a10a
+Canal NOS,http://185.236.229.4:8000/play/a10m
+Canal Panda,http://185.236.229.4:8000/play/a10i
+Canal Panda,http://185.236.229.4:8000/play/a0xs
+Canal Q,http://185.236.229.4:8000/play/a0y7
+Canal Q,http://185.236.229.4:8000/play/a0yu
+CanĿªo Nova,http://185.236.229.4:8000/play/a0yg
+CanĿªo Nova,http://185.236.229.4:8000/play/a0z4
+Cartoon Network,http://185.236.229.4:8000/play/a0yl
+Cartoon Network,http://185.236.229.4:8000/play/a0xw
+Casa e Cozinha HD,http://185.236.229.4:8000/play/a118
+CaĿa e Pesca,http://185.236.229.4:8000/play/a11s
+CaĿavision,http://185.236.229.4:8000/play/a0z9
+Channel 1 Russia,http://185.236.229.4:8000/play/a0x1
+Cinemundo,http://185.236.229.4:8000/play/a0tp
+Crime+Investigation,http://185.236.229.4:8000/play/a0x3
+Deutsche Welle (A),http://185.236.229.4:8000/play/a0xh
+Discovery Channel,http://185.236.229.4:8000/play/a107
+Discovery Channel,http://185.236.229.4:8000/play/a0x4
+Discovery HD,http://185.236.229.4:8000/play/a11u
+Disney Channel,http://185.236.229.4:8000/play/a11v
+Disney Channel,http://185.236.229.4:8000/play/a0xg
+Disney Junior,http://185.236.229.4:8000/play/a12w
+Disney Jœnior,http://185.236.229.4:8000/play/a13i
+E! Entertainment,http://185.236.229.4:8000/play/a0y1
+Eleven 1 HD,http://185.236.229.4:8000/play/a11h
+Eleven 2 HD,http://185.236.229.4:8000/play/a0zi
+Eleven 3,http://185.236.229.4:8000/play/a0y2
+Eleven 4,http://185.236.229.4:8000/play/a11i
+Eleven 5,http://185.236.229.4:8000/play/a11j
+Eleven 6,http://185.236.229.4:8000/play/a0yf
+Eleven Sports 1,http://185.236.229.4:8000/play/a113
+Eleven Sports 1,http://185.236.229.4:8000/play/a114
+Eleven Sports 2,http://185.236.229.4:8000/play/a0zq
+Eleven Sports 3,http://185.236.229.4:8000/play/a0yq
+Eleven Sports 3,http://185.236.229.4:8000/play/a0z2
+Eleven Sports 6,http://185.236.229.4:8000/play/a0z1
+Eurochannel,http://185.236.229.4:8000/play/a0ts
+Euronews,http://185.236.229.4:8000/play/a13d
+Eurosport 1,http://185.236.229.4:8000/play/a103
+Eurosport 1,http://185.236.229.4:8000/play/a0to
+Eurosport 1 HD,http://185.236.229.4:8000/play/a10z
+Eurosport 1 HD,http://185.236.229.4:8000/play/a11d
+Eurosport 2,http://185.236.229.4:8000/play/a0yd
+Eurosport 2,http://185.236.229.4:8000/play/a0yz
+FOX Comedy,http://185.236.229.4:8000/play/a0yn
+FOX Comedy,http://185.236.229.4:8000/play/a0xy
+FOX Crime HD,http://185.236.229.4:8000/play/a10w
+FOX Crime HD,http://185.236.229.4:8000/play/a11f
+FOX HD,http://185.236.229.4:8000/play/a0zh
+FOX HD,http://185.236.229.4:8000/play/a0zp
+FOX Life HD,http://185.236.229.4:8000/play/a110
+FOX Life HD,http://185.236.229.4:8000/play/a11e
+FOX Movies,http://185.236.229.4:8000/play/a12f
+FOX Movies,http://185.236.229.4:8000/play/a132
+FOX News,http://185.236.229.4:8000/play/a0x6
+FTV,http://185.236.229.4:8000/play/a0y3
+France 24,http://185.236.229.4:8000/play/a13e
+Fuel TV,http://185.236.229.4:8000/play/a11r
+Globo,http://185.236.229.4:8000/play/a0zz
+Globo,http://185.236.229.4:8000/play/a0u4
+Globo Now,http://185.236.229.4:8000/play/a0yb
+Globo Now,http://185.236.229.4:8000/play/a0yx
+HOT,http://185.236.229.4:8000/play/a13h
+Histðria,http://185.236.229.4:8000/play/a106
+Histðria,http://185.236.229.4:8000/play/a0tq
+Hollywood,http://185.236.229.4:8000/play/a104
+Hollywood,http://185.236.229.4:8000/play/a0tt
+Hollywood HD,http://185.236.229.4:8000/play/a0tk
+ID Investigation Discovery,http://185.236.229.4:8000/play/a111
+Kombat Sport,http://185.236.229.4:8000/play/a0zb
+MCM POP,http://185.236.229.4:8000/play/a0ye
+MCM Pop,http://185.236.229.4:8000/play/a0z0
+MTV Portugal,http://185.236.229.4:8000/play/a105
+MTV Portugal,http://185.236.229.4:8000/play/a0u0
+Mezzo,http://185.236.229.4:8000/play/a136
+Motorvision,http://185.236.229.4:8000/play/a11z
+NBA TV,http://185.236.229.4:8000/play/a0x2
+NHK World Japan,http://185.236.229.4:8000/play/a0xo
+NOS Studios HD,http://185.236.229.4:8000/play/a123
+NOS Studios HD,http://185.236.229.4:8000/play/a124
+NOS Studios HD (clone),http://185.236.229.4:8000/play/a13q
+National Geographic HD,http://185.236.229.4:8000/play/a0zf
+National Geographic HD,http://185.236.229.4:8000/play/a0zn
+National Geographic WILD,http://185.236.229.4:8000/play/a0yi
+National Geographic Wild,http://185.236.229.4:8000/play/a0xt
+Nick Jr.,http://185.236.229.4:8000/play/a11t
+Nickelodeon,http://185.236.229.4:8000/play/a11q
+Odisseia,http://185.236.229.4:8000/play/a108
+Odisseia,http://185.236.229.4:8000/play/a0x5
+Porto Canal,http://185.236.229.4:8000/play/a0yk
+Porto Canal,http://185.236.229.4:8000/play/a0xv
+RTP .frica,http://185.236.229.4:8000/play/a0ys
+RTP .frica,http://185.236.229.4:8000/play/a0y4
+RTP 1 HD,http://185.236.229.4:8000/play/a10c
+RTP 1 HD (clone),http://185.236.229.4:8000/play/a13m
+RTP 2 HD,http://185.236.229.4:8000/play/a10d
+RTP 2 HD (clone),http://185.236.229.4:8000/play/a13n
+RTP 3,http://185.236.229.4:8000/play/a10e
+RTP AĿores,http://185.236.229.4:8000/play/a10f
+RTP AĿores,http://185.236.229.4:8000/play/a0tx
+RTP Madeira,http://185.236.229.4:8000/play/a10g
+RTP Madeira,http://185.236.229.4:8000/play/a0tw
+RTP Memðria,http://185.236.229.4:8000/play/a0ym
+RTP Memðria,http://185.236.229.4:8000/play/a0xx
+RTP1,http://185.236.229.4:8000/play/a0th
+RTP2,http://185.236.229.4:8000/play/a0ti
+RTP3,http://185.236.229.4:8000/play/a0tl
+SIC,http://185.236.229.4:8000/play/a0wy
+SIC Caras,http://185.236.229.4:8000/play/a0yo
+SIC Caras,http://185.236.229.4:8000/play/a0y0
+SIC HD,http://185.236.229.4:8000/play/a11l
+SIC K,http://185.236.229.4:8000/play/a10k
+SIC K,http://185.236.229.4:8000/play/a0tz
+SIC Mulher,http://185.236.229.4:8000/play/a12d
+SIC Mulher,http://185.236.229.4:8000/play/a130
+SIC NotŦcias,http://185.236.229.4:8000/play/a10h
+SIC NotŦcias,http://185.236.229.4:8000/play/a0wz
+SIC Radical,http://185.236.229.4:8000/play/a0yj
+SIC Radical,http://185.236.229.4:8000/play/a0xu
+SPORT TV +,http://185.236.229.4:8000/play/a134
+SPORT TV 1,http://185.236.229.4:8000/play/a0xn
+SPORT TV 1 HD,http://185.236.229.4:8000/play/a0zc
+SPORT TV 2,http://185.236.229.4:8000/play/a0x0
+SPORT TV 2 HD,http://185.236.229.4:8000/play/a0zd
+SPORT TV 3,http://185.236.229.4:8000/play/a0x7
+SPORT TV 3 HD,http://185.236.229.4:8000/play/a0ze
+SPORT TV 4,http://185.236.229.4:8000/play/a0u1
+SPORT TV 5,http://185.236.229.4:8000/play/a13f
+SPORT TV+,http://185.236.229.4:8000/play/a12i
+SYFY,http://185.236.229.4:8000/play/a0z3
+Sport TV 1,http://185.236.229.4:8000/play/a10b
+Sport TV 1 HD,http://185.236.229.4:8000/play/a0zk
+Sport TV 2,http://185.236.229.4:8000/play/a0zx
+Sport TV 2 HD,http://185.236.229.4:8000/play/a0zl
+Sport TV 3,http://185.236.229.4:8000/play/a101
+Sport TV 3 HD,http://185.236.229.4:8000/play/a0zm
+Sport TV 4,http://185.236.229.4:8000/play/a102
+Sport TV 5,http://185.236.229.4:8000/play/a12t
+Sport TV NBA,http://185.236.229.4:8000/play/a112
+Sporting TV,http://185.236.229.4:8000/play/a12x
+Sporting TV,http://185.236.229.4:8000/play/a13j
+SyFy,http://185.236.229.4:8000/play/a0xz
+TLC,http://185.236.229.4:8000/play/a12e
+TLC,http://185.236.229.4:8000/play/a131
+TSF,http://185.236.229.4:8000/play/a11n
+TV Cine Action,http://185.236.229.4:8000/play/a0u3
+TV Cine Edition,http://185.236.229.4:8000/play/a0tu
+TV Cine Emotion,http://185.236.229.4:8000/play/a0xa
+TV Cine Top,http://185.236.229.4:8000/play/a0x9
+TV Galicia,http://185.236.229.4:8000/play/a0y9
+TV Galicia,http://185.236.229.4:8000/play/a0yv
+TV Record,http://185.236.229.4:8000/play/a0zy
+TV Record,http://185.236.229.4:8000/play/a0tj
+TV5 Monde,http://185.236.229.4:8000/play/a13k
+TVCine ACTION HD,http://185.236.229.4:8000/play/a11o
+TVCine EDITION HD,http://185.236.229.4:8000/play/a119
+TVCine EMOTION HD,http://185.236.229.4:8000/play/a117
+TVCine TOP HD,http://185.236.229.4:8000/play/a11w
+TVE 24H,http://185.236.229.4:8000/play/a139
+TVE 24h,http://185.236.229.4:8000/play/a12n
+TVE Internacional,http://185.236.229.4:8000/play/a12l
+TVEi,http://185.236.229.4:8000/play/a137
+TVI,http://185.236.229.4:8000/play/a0xm
+TVI 24,http://185.236.229.4:8000/play/a100
+TVI FicĿªo,http://185.236.229.4:8000/play/a10l
+TVI FicĿªo,http://185.236.229.4:8000/play/a0xj
+TVI HD,http://185.236.229.4:8000/play/a11m
+TVI Reality,http://185.236.229.4:8000/play/a12c
+TVI Reality,http://185.236.229.4:8000/play/a13l
+TVSØries HD,http://185.236.229.4:8000/play/a125
+Toros TV,http://185.236.229.4:8000/play/a12u
+Toros TV,http://185.236.229.4:8000/play/a13g
+Trace Toca,http://185.236.229.4:8000/play/a11p
+Trace Urban,http://185.236.229.4:8000/play/a0xi
+Travel Channel HD,http://185.236.229.4:8000/play/a10x
+Travel Channel HD,http://185.236.229.4:8000/play/a11b
+VH1,http://185.236.229.4:8000/play/a12j
+
 卡式台,http://live.vpnyun.tk:8080/demo/456321/23
 凤凰电影,https://www.fanmingming.cn/hls/fhdy.m3u8
 东森電影,http://live5.ocnttv.com:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
@@ -762,6 +978,30 @@ Exxxotica HD,http://born-tv.ga/id0390/index.m3u8?token=brighid
 PINK EROTIC 1,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/828
 PINK EROTIC 6,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/823
 PINK EROTIC 7,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/822
+
+Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
+Blonde,http://cdn.adultiptv.net/blonde.m3u8
+Blowjob,http://cdn.adultiptv.net/blowjob.m3u8
+Fetish,http://cdn.adultiptv.net/fetish.m3u8
+Gay,http://cdn.adultiptv.net/gay.m3u8
+Hardcore,http://cdn.adultiptv.net/hardcore.m3u8
+Latina,http://cdn.adultiptv.net/latina.m3u8
+Lesbian,http://cdn.adultiptv.net/lesbian.m3u8
+Pornstar,http://cdn.adultiptv.net/pornstar.m3u8
+POV,http://cdn.adultiptv.net/pov.m3u8
+Russian,http://cdn.adultiptv.net/russian.m3u8
+Teen,http://cdn.adultiptv.net/teen.m3u8
+Threesome,http://cdn.adultiptv.net/threesome.m3u8
+AST TV 1,https://www.ast.tv/stream/1/ultra.m3u8
+AST TV 2,https://www.ast.tv/stream/2/ultra.m3u8
+Jasmin TV,http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+Miami TV,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+Miami TV Jenny Live,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+Miami TV Latino,https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
+Private TV HD,http://188.35.9.5:10005/stolen/153a/imposter.rar
+Super One HD,http://188.35.9.5:10007/stolen/246r/parasite.install
+Visit-X TV,http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+Vivid TV Europe,http://188.35.9.26:2031/udp/031a
 
 
 欢乐台,https://717616144.r.worldssl.net/717616144/tv/ttv12/playlist.m3u8
