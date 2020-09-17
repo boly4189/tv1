@@ -108,9 +108,6 @@ ALJAZEERA ENGLISH,http://f.ok2.se:8000/victor1/victor123/1661
 FRANCE 24,http://f.ok2.se:8000/victor1/victor123/4796
 RT DOCUMENTARY,http://f.ok2.se:8000/victor1/victor123/3075
 
-BUSINESS ,#genre#
-FOX NEWS BUSINESS,http://f.ok2.se:8000/victor1/victor123/4600
-
 Movies ,#genre#
 HBO 1 HD,http://f.ok2.se:8000/victor1/victor123/26321
 HBO 2 HD,http://f.ok2.se:8000/victor1/victor123/26322
@@ -328,6 +325,7 @@ SKY RTE 2,http://f.ok2.se:8000/victor1/victor123/4858
 SKY ATLANTIC,http://f.ok2.se:8000/victor1/victor123/1740
 SKY ALIBI,http://f.ok2.se:8000/victor1/victor123/1774
 SKY 2,http://f.ok2.se:8000/victor1/victor123/1749
+FOX NEWS BUSINESS,http://f.ok2.se:8000/victor1/victor123/4600
 
 GEO-Discoveries ,#genre#
 *DISCOVERY HD (CDN),http://f.ok2.se:8000/victor1/victor123/319
@@ -427,21 +425,6 @@ CCTV5+体育,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 北京体育,http://m.zhiboba.org/app/myalicdn.aspx?id=btv6
 博斯魅力,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8 
 
-电影,#genre#
-FOX动作电影,http://192.154.103.74:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-FOX动作电影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-FOX动作电影,http://cdn.52ypp.com:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-科幻频道,http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-歐美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSEAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
-亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSEAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
-东森电影,http://192.154.103.74:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-东森洋片,http://192.154.103.74:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
-龙祥电影,http://192.154.103.74:8080/ZZ_shidai/ZZ_shidai.m3u8
-好莱坞电影,http://192.154.103.74:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-国家地理,http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
-Movie Kingdom,https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-Movies Now,https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-天映娱乐thrll,http://210.210.155.35/qwr9ew/s/s34/02.m3u8
 
 HKTV,#genre#
 凤凰中文,http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
@@ -574,6 +557,23 @@ TVBS歡樂台,http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE
 NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 NHK英语新闻,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
 彭博财经,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+
+
+电影,#genre#
+FOX动作电影,http://192.154.103.74:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+FOX动作电影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+FOX动作电影,http://cdn.52ypp.com:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+科幻频道,http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+歐美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSEAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
+亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSEAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
+东森电影,http://192.154.103.74:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+东森洋片,http://192.154.103.74:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+龙祥电影,http://192.154.103.74:8080/ZZ_shidai/ZZ_shidai.m3u8
+好莱坞电影,http://192.154.103.74:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+国家地理,http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
+Movie Kingdom,https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+Movies Now,https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+天映娱乐thrll,http://210.210.155.35/qwr9ew/s/s34/02.m3u8
 
 夜曲频道,#genre#
 v快乐频道,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8
