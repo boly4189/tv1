@@ -130,6 +130,10 @@ Sky News Extra 3,https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau
 CNBC HD,http://f.ok2.se:8000/victor1/victor123/364
 SKY COMEDY CENTRAL,http://f.ok2.se:8000/victor1/victor123/1748
 
+歐美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSEAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
+亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSEAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
+Movie Kingdom,https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+
 News ,#genre#
 *CNN HD,http://f.ok2.se:8000/victor1/victor123/360
 BBC WORLD NEWS,http://f.ok2.se:8000/victor1/victor123/9546
@@ -156,6 +160,10 @@ TRT WORLD HD (TR),http://f.ok2.se:8000/victor1/victor123/27136
 ALJAZEERA ENGLISH,http://f.ok2.se:8000/victor1/victor123/1661
 FRANCE 24,http://f.ok2.se:8000/victor1/victor123/4796
 RT DOCUMENTARY,http://f.ok2.se:8000/victor1/victor123/3075
+亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
+NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+NHK英语新闻,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
+
 
 Movies ,#genre#
 HBO 1 HD,http://f.ok2.se:8000/victor1/victor123/26321
@@ -511,6 +519,7 @@ HKS香港卫视,http://cctvalih5ca.v.myalicdn.com/cstv/xianggangweishi_2/index.m
 HKS香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 亚视ATV,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 环球电视3,http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
+环球电視,http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
 RTHK 32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 TVB无线新聞台,http://45.93.217.106/jiuban/hg.php?id=1#http://kean-hoe.ga/dl/tvb/tvb.php?id=wxxwsd#http://danielwu.gz01.bdysite.com/iptv/?id=wxxw2
 TVB新聞台,http://45.93.217.106/jiuban/hg.php?id=1#https://www.ootori.xyz/tv/tvb.php?id=inews#http://96.45.185.192/tv.php?vid=wxxw#http://tv.sason.xyz/proxy/tvb.php?id=xw
@@ -571,18 +580,9 @@ TVBS新闻 FHD ★,http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
 台视新闻 FHD ★,http://seb.sason.top/sc/tsxw_fhd.m3u8
 中视新闻 FHD ★,http://seb.sason.top/sc/zsxw_fhd.m3u8
 中天新闻 FHD ★,http://seb.sason.top/sc/ztxw_fhd.m3u8
-中天新聞,http://192.154.103.74:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-东森新闻,http://192.154.103.74:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-中天娛樂,http://192.154.103.74:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-中天綜合,http://192.154.103.74:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 壹新闻 FHD ★,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 三立新闻,http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
 三立新闻,http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
-中视,http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-中视,http://cdn.52ypp.com:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-中视,http://192.154.103.74:8080//ZZ_zhongshi/ZZ_zhongshi.m3u8
-中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-中天娱乐,http://192.154.103.74:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
 民视 ★,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 民视 ★,http://seb.sason.top/ptv/ftv.php?id=ms
 民视第一 ★,http://seb.sason.top/ptv/ftv.php?id=dy
@@ -592,39 +592,17 @@ TVBS新闻 FHD ★,http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
 民视旅游 ★,http://seb.sason.top/ptv/ftv.php?id=ly
 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-
-CNEX Taiwan,http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE
-HBO Asia,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 TVBS新聞台,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 TVBS歡樂台,http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE
-三立新聞台,http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
+CNEX Taiwan,http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE
+HBO Asia,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 博斯魅力,https://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-民視新聞台,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 番薯衛星電視台,http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
 空中英語教室,http://220.158.149.14:9999/live/TV00000000000000000077@HHZT;LIVE
 緯來體育台,http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
-亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
-环球电視,http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
-NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-NHK英语新闻,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
-彭博财经,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-东森電影,http://live5.ocnttv.com:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 
-电影,#genre#
-FOX动作电影,http://192.154.103.74:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-FOX动作电影,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-FOX动作电影,http://cdn.52ypp.com:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-科幻频道,http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-歐美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSEAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
-亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSEAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
-东森电影,http://192.154.103.74:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-东森洋片,http://192.154.103.74:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
-龙祥电影,http://192.154.103.74:8080/ZZ_shidai/ZZ_shidai.m3u8
-好莱坞电影,http://192.154.103.74:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-国家地理,http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
-Movie Kingdom,https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-Movies Now,https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-天映娱乐thrll,http://210.210.155.35/qwr9ew/s/s34/02.m3u8
+
+
 
 夜曲频道1,#genre#
 v快乐频道,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8
