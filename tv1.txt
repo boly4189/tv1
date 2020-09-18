@@ -5,10 +5,15 @@ BBC World News,http://185.236.229.4:8000/play/a13c
 FOX News,http://185.236.229.4:8000/play/a0x6
 CNBC Europe,http://185.236.229.4:8000/play/a0y6
 Discovery HD,http://185.236.229.4:8000/play/a11u
+National Geographic HD,http://185.236.229.4:8000/play/a0zf
+National Geographic HD,http://185.236.229.4:8000/play/a0zn
+Travel Channel HD,http://185.236.229.4:8000/play/a10x
+Travel Channel HD,http://185.236.229.4:8000/play/a11b
 NBA TV,http://185.236.229.4:8000/play/a0x2
-AMC,http://185.236.229.4:8000/play/a11y
-AMC,http://185.236.229.4:8000/play/a0tv
+Hollywood HD,http://185.236.229.4:8000/play/a0tk
 AMC HD,http://185.236.229.4:8000/play/a11x
+AMC HD,http://185.236.229.4:8000/play/a11y
+AMC HD,http://185.236.229.4:8000/play/a0tv
 AXN HD,http://185.236.229.4:8000/play/a0zg
 AXN HD,http://185.236.229.4:8000/play/a0zo
 AXN Movies HD,http://185.236.229.4:8000/play/a10u
@@ -28,7 +33,6 @@ FOX Movies,http://185.236.229.4:8000/play/a132
 BBC Entertainment,http://185.236.229.4:8000/play/a120
 Blaze,http://185.236.229.4:8000/play/a12h
 Blaze,http://185.236.229.4:8000/play/a133
-Bloomberg,http://185.236.229.4:8000/play/a0yt
 Bloomberg,http://185.236.229.4:8000/play/a0y5
 CBS Reality,http://185.236.229.4:8000/play/a0xc
 ID Investigation Discovery,http://185.236.229.4:8000/play/a111
@@ -39,23 +43,15 @@ Histðria,http://185.236.229.4:8000/play/a106
 Histðria,http://185.236.229.4:8000/play/a0tq
 Hollywood,http://185.236.229.4:8000/play/a104
 Hollywood,http://185.236.229.4:8000/play/a0tt
-Hollywood HD,http://185.236.229.4:8000/play/a0tk
-Motorvision,http://185.236.229.4:8000/play/a11z
-NHK World Japan,http://185.236.229.4:8000/play/a0xo
-National Geographic HD,http://185.236.229.4:8000/play/a0zf
-National Geographic HD,http://185.236.229.4:8000/play/a0zn
-National Geographic Wild,http://185.236.229.4:8000/play/a0yi
-National Geographic Wild,http://185.236.229.4:8000/play/a0xt
 SyFy,http://185.236.229.4:8000/play/a0z3
 SyFy,http://185.236.229.4:8000/play/a0xz
+Motorvision,http://185.236.229.4:8000/play/a11z
+NHK World Japan,http://185.236.229.4:8000/play/a0xo
+National Geographic Wild,http://185.236.229.4:8000/play/a0yi
+National Geographic Wild,http://185.236.229.4:8000/play/a0xt
 TLC,http://185.236.229.4:8000/play/a12e
 TLC,http://185.236.229.4:8000/play/a131
-Travel Channel HD,http://185.236.229.4:8000/play/a10x
-Travel Channel HD,http://185.236.229.4:8000/play/a11b
 
-卡式台,http://live.vpnyun.tk:8080/demo/456321/23
-凤凰电影,https://www.fanmingming.cn/hls/fhdy.m3u8
-东森電影,http://live5.ocnttv.com:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 canada tv,#genre#
 CA : CNN,http://randomserver.site:2086/wickeduk/etqyhww45e/16216
 CA : CNBC CANADA,http://randomserver.site:2086/wickeduk/etqyhww45e/65861
@@ -501,6 +497,8 @@ VIUTV,http://61.238.6.49:8000/bysid/96
 天映娱乐thrll,http://210.210.155.35/qwr9ew/s/s34/02.m3u8
 kk金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 kk开心影院,http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
+卡式台,http://live.vpnyun.tk:8080/demo/456321/23
+凤凰电影,https://www.fanmingming.cn/hls/fhdy.m3u8
 澳视澳门,https://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
 澳视电影,https://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
 澳视体育,https://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
@@ -610,7 +608,7 @@ TVBS歡樂台,http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE
 NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 NHK英语新闻,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
 彭博财经,http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-
+东森電影,http://live5.ocnttv.com:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 
 电影,#genre#
 FOX动作电影,http://192.154.103.74:8080/ZZ_foxaction/ZZ_foxaction.m3u8
