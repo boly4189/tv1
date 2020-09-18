@@ -626,11 +626,29 @@ Movie Kingdom,https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 Movies Now,https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 天映娱乐thrll,http://210.210.155.35/qwr9ew/s/s34/02.m3u8
 
-夜曲频道,#genre#
+夜曲频道1,#genre#
 v快乐频道,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8
 vi松视一台,https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462549.m3u8
-娱乐频道2,https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream1/playlist.m3u8
 娱乐频道,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
+娱乐频道2,https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream1/playlist.m3u8
+欢乐台,https://717616144.r.worldssl.net/717616144/tv/ttv12/playlist.m3u8
+HOT,http://185.236.229.4:8000/play/a13h
+MILF HD,http://live.redtraffic.xyz/milf.m3u8
+Exxxotica HD,http://born-tv.ga/id0390/index.m3u8?token=brighid
+Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
+Blonde,http://cdn.adultiptv.net/blonde.m3u8
+Blowjob,http://cdn.adultiptv.net/blowjob.m3u8
+Fetish,http://cdn.adultiptv.net/fetish.m3u8
+Gay,http://cdn.adultiptv.net/gay.m3u8
+Hardcore,http://cdn.adultiptv.net/hardcore.m3u8
+Latina,http://cdn.adultiptv.net/latina.m3u8
+Lesbian,http://cdn.adultiptv.net/lesbian.m3u8
+Pornstar,http://cdn.adultiptv.net/pornstar.m3u8
+POV,http://cdn.adultiptv.net/pov.m3u8
+Russian,http://cdn.adultiptv.net/russian.m3u8
+Teen,http://cdn.adultiptv.net/teen.m3u8
+Threesome,http://cdn.adultiptv.net/threesome.m3u8
+Vivid TV Europe,http://188.35.9.26:2031/udp/031a
 RedTraffic 1,http://live.redtraffic.xyz/blowjob.m3u8
 RedTraffic 2,http://live.redtraffic.xyz/bigdick.m3u8
 RedTraffic 3,http://live.redtraffic.xyz/bigass.m3u8
@@ -701,14 +719,6 @@ AST TV 2,https://www.ast.tv/stream/2/normal.m3u8
 福利28,https://www.800-cdn.com/20191024/nP15lEjD/index.m3u8
 福利29,https://www.800-cdn.com/20191024/y2HqkX9g/index.m3u8
 福利30,https://www.800-cdn.com/20191024/TpNs2GDB/index.m3u8
-华纳电影,http://192.154.103.74:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
-
-Miami TV,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
-Miami TV Jenny Live,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
-Miami TV Latino,https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
-MILF HD,http://live.redtraffic.xyz/milf.m3u8
-
-Exxxotica HD,http://born-tv.ga/id0390/index.m3u8?token=brighid
 
 1,http://nvid100.cdnii.com/2019/0/20190824-720p.mp4
 2,http://nvid100.cdnii.com/2018/2/20182584-720p.mp4
@@ -814,36 +824,12 @@ PINK EROTIC 1,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/828
 PINK EROTIC 6,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/823
 PINK EROTIC 7,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/822
 
-Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
-Blonde,http://cdn.adultiptv.net/blonde.m3u8
-Blowjob,http://cdn.adultiptv.net/blowjob.m3u8
-Fetish,http://cdn.adultiptv.net/fetish.m3u8
-Gay,http://cdn.adultiptv.net/gay.m3u8
-Hardcore,http://cdn.adultiptv.net/hardcore.m3u8
-Latina,http://cdn.adultiptv.net/latina.m3u8
-Lesbian,http://cdn.adultiptv.net/lesbian.m3u8
-Pornstar,http://cdn.adultiptv.net/pornstar.m3u8
-POV,http://cdn.adultiptv.net/pov.m3u8
-Russian,http://cdn.adultiptv.net/russian.m3u8
-Teen,http://cdn.adultiptv.net/teen.m3u8
-Threesome,http://cdn.adultiptv.net/threesome.m3u8
-AST TV 1,https://www.ast.tv/stream/1/ultra.m3u8
-AST TV 2,https://www.ast.tv/stream/2/ultra.m3u8
-Jasmin TV,http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-Miami TV,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
-Miami TV Jenny Live,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
-Miami TV Latino,https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
-Private TV HD,http://188.35.9.5:10005/stolen/153a/imposter.rar
-Super One HD,http://188.35.9.5:10007/stolen/246r/parasite.install
-Visit-X TV,http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-Vivid TV Europe,http://188.35.9.26:2031/udp/031a
 
-HOT,http://185.236.229.4:8000/play/a13h
-CMTV,http://185.236.229.4:8000/play/a0yh
-CMTV,http://185.236.229.4:8000/play/a0z5
 
-欢乐台,https://717616144.r.worldssl.net/717616144/tv/ttv12/playlist.m3u8
-日本娱台,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
+
+
+
+
 Madonna/繭018,https://yiqikan.wuyouzuida.com/20200112/2764_33b2e2fd/index.m3u8
 生田奈々013,https://yiqikan.wuyouzuida.com/20200112/2797_b71a2265/index.m3u8
 前田有希1147,https://yiqikan.wuyouzuida.com/20200112/2798_7fed4f21/index.m3u8
@@ -902,6 +888,9 @@ Madonna/繭018,https://yiqikan.wuyouzuida.com/20200112/2764_33b2e2fd/index.m3u8
 日韩高清25[1280*720],https://www.800-cdn.com/20191027/bySOhvPZ/index.m3u8
 日韩高清26[1280*720],https://www.800-cdn.com/20191027/xqHCnmsK/index.m3u8
 
+夜曲频道2,#genre#
+CMTV,http://185.236.229.4:8000/play/a0yh
+CMTV,http://185.236.229.4:8000/play/a0z5
 魔力男士上错身,https://n4.huayundiaosu.com/202009/08/qA25TnRX/2200kb/hls/index.m3u8
 美女约小伙打炮,https://n4.huayundiaosu.com/202009/08/G5yeuRsb/2200kb/hls/index.m3u8
 荷官的情欲睡衣诱惑,https://n4.huayundiaosu.com/202009/01/Cx6Gd1AT/2200kb/hls/index.m3u8
@@ -978,7 +967,6 @@ Madonna/繭018,https://yiqikan.wuyouzuida.com/20200112/2764_33b2e2fd/index.m3u8
 情景演绎乱伦兄妹,https://n4.huayundiaosu.com/202003/06/JOG8sCFh/2200kb/hls/index.m3u8
 强肏女友漂亮表妹,https://n4.huayundiaosu.com/202001/01/lEWt4TJa/2200kb/hls/index.m3u8
 被强壮小哥征服的美少妇,https://n4.huayundiaosu.com/201910/16/lRXYXv2v/2200kb/hls/index.m3u8
-
 一路向西,https://n1.huayundiaosu.com/201811/22/MvpHa81T/1000kb/hls/index.m3u8
 女经理,https://n4.huayundiaosu.com/201910/01/PAl0XO3W/2200kb/hls/index.m3u8
 睡美人之宅,https://n4.huayundiaosu.com/201910/01/wMRfY16o/2200kb/hls/index.m3u8
