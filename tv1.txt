@@ -493,35 +493,37 @@ HKTV,#genre#
 凤凰资讯,http://220.158.149.26:8182/hls/TV00000000000000000066@HHZT.m3u8
 凤凰香港,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 凤凰香港,http://220.158.149.26:8182/hls/TV00000000000000000068@HHZT.m3u8
-鳳凰香港,http://104.250.154.42:8080/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
 HKS香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 HKS香港卫视,http://cctvalih5ca.v.myalicdn.com/cstv/xianggangweishi_2/index.m3u8
-HKS香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 环球电視,http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
 翡翠台,https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGFeiCui.m3u8#http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
+无线新闻,http://45.93.217.106/jiuban/hg.php?id=1#http://kean-hoe.ga/dl/tvb/tvb.php?id=wxxwsd#http://danielwu.gz01.bdysite.com/iptv/?id=wxxw2
+无线新闻,http://45.93.217.106/jiuban/hg.php?id=1#https://www.ootori.xyz/tv/tvb.php?id=inews#http://96.45.185.192/tv.php?vid=wxxw#http://tv.sason.xyz/proxy/tvb.php?id=xw
 无线新闻,http://tv.sason.xyz/proxy/tvb.php?id=xw
 无线新闻,http://xggj04450269.gfzyw.cn/tvb.php?id=1
+无线财经,http://45.93.217.106/jiuban/hg.php?id=2#http://96.45.185.192/tv.php?vid=wxcjzx#https://www.ootori.xyz/tv/tvb.php?id=finance#http://tv.sason.xyz/proxy/tvb.php?id=cj
 无线财经,http://tv.sason.xyz/proxy/tvb.php?id=cj
-TVB无线新聞台,http://45.93.217.106/jiuban/hg.php?id=1#http://kean-hoe.ga/dl/tvb/tvb.php?id=wxxwsd#http://danielwu.gz01.bdysite.com/iptv/?id=wxxw2
-TVB新聞台,http://45.93.217.106/jiuban/hg.php?id=1#https://www.ootori.xyz/tv/tvb.php?id=inews#http://96.45.185.192/tv.php?vid=wxxw#http://tv.sason.xyz/proxy/tvb.php?id=xw
-TVB財經台,http://45.93.217.106/jiuban/hg.php?id=2#http://96.45.185.192/tv.php?vid=wxcjzx#https://www.ootori.xyz/tv/tvb.php?id=finance#http://tv.sason.xyz/proxy/tvb.php?id=cj
+耀才財經台1,http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
+耀才財經台1,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+耀才財經台1,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+耀才財經台1,http://202.69.69.180:443/webcast/bshdlive-mobile/playlist.m3u8
 亚视本港,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
-亚视ATV,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 RHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
-NOW新闻台,http://a.315600.xyz/dl/gt.php?id=nowtvlive
 有线新闻2,http://danielwu.gz01.bdysite.com/iptv/?id=yxxw2
+NOW新闻台,http://a.315600.xyz/dl/gt.php?id=nowtvlive
 C+,http://liveima.utvlive.top/livehls/MOB-U1-NO/03.m3u8
 VIUTV,http://61.238.6.49:8000/bysid/99
 VIUTV,http://61.238.6.49:8000/bysid/96
+凤凰电影,https://www.fanmingming.cn/hls/fhdy.m3u8
 天映娱乐thrll,http://210.210.155.35/qwr9ew/s/s34/02.m3u8
 kk金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-kk开心影院,http:/歐美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSEAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
+kk开心影院,http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
+歐美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSEAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
 亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSEAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
 Movie Kingdom,https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8/hpull.kktv8.com/livekktv/111536805/playlist.m3u8
 亞美衛視,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 天映频道Celestial Movies,http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 卡式台,http://live.vpnyun.tk:8080/demo/456321/23
-凤凰电影,https://www.fanmingming.cn/hls/fhdy.m3u8
 好消息台,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 澳视澳门,https://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
 澳视电影,https://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
@@ -546,10 +548,6 @@ Movie Kingdom,https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8/hpull.k
 澳門3台,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 澳門微电影,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
 澳门葡萄牙,http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
-耀才財經台1,http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
-耀才財經台1,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
-耀才財經台1,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-耀才財經台1,http://202.69.69.180:443/webcast/bshdlive-mobile/playlist.m3u8
 
 TWTV,#genre#
 TVBS新闻 FHD ★,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
