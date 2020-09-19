@@ -1,6 +1,61 @@
 tt,#genre#
-HBO HD,http://iptv.movie:8080/Josinaldo10/Josinaldo10/1463
-CNN,http://185.236.229.4:8000/play/a13a
+ABC,http://61.68.127.183:9981/stream/channelid/67968123
+SBS ONE,http://61.68.127.183:9981/stream/channelid/381724314
+
+ABC HD,http://61.68.127.183:9981/stream/channelid/43837816
+ABC,http://61.68.127.183:9981/stream/channelid/36059125
+ABC,http://61.68.127.183:9981/stream/channelid/1526855582
+ABC Comedy/Kids,http://61.68.127.183:9981/stream/channelid/442790358
+ABC ME,http://61.68.127.183:9981/stream/channelid/1062745230
+ABC ME,http://61.68.127.183:9981/stream/channelid/1399479605
+ABC NEWS,http://61.68.127.183:9981/stream/channelid/157596582
+ABC Classic,http://61.68.127.183:9981/stream/channelid/1054591171
+#EXTINF:-1,SBS HD
+http://61.68.127.183:9981/stream/channelid/346456686
+#EXTINF:-1,SBS VICELAND HD
+http://61.68.127.183:9981/stream/channelid/1786038001
+#EXTINF:-1,SBS World Movies
+http://61.68.127.183:9981/stream/channelid/1460036566
+#EXTINF:-1,SBS Food
+http://61.68.127.183:9981/stream/channelid/1821838877
+#EXTINF:-1,9HD Regional
+http://61.68.127.183:9981/stream/channelid/1999970685
+#EXTINF:-1,9HD Toowoomba
+http://61.68.127.183:9981/stream/channelid/547197880
+#EXTINF:-1,9 Toowoomba https://iptv.live
+http://61.68.127.183:9981/stream/channelid/1529879463
+#EXTINF:-1,9Gem Regional
+http://61.68.127.183:9981/stream/channelid/148734981
+#EXTINF:-1,9Go! Regional
+http://61.68.127.183:9981/stream/channelid/814806688
+#EXTINF:-1,9Life
+http://61.68.127.183:9981/stream/channelid/1023925982
+#EXTINF:-1,9Life Regional
+http://61.68.127.183:9981/stream/channelid/530544457
+#EXTINF:-1,7HD - QLD
+http://61.68.127.183:9981/stream/channelid/1413862548
+#EXTINF:-1,7TWO
+http://61.68.127.183:9981/stream/channelid/2010328197
+#EXTINF:-1,7mate Toowoomba
+http://61.68.127.183:9981/stream/channelid/1131748280
+#EXTINF:-1,7mate HD
+http://61.68.127.183:9981/stream/channelid/333841289
+#EXTINF:-1,7flix
+http://61.68.127.183:9981/stream/channelid/1234050967
+#EXTINF:-1,WIN HD
+http://61.68.127.183:9981/stream/channelid/1037557995
+#EXTINF:-1,WIN Bold
+http://61.68.127.183:9981/stream/channelid/1879734523
+#EXTINF:-1,WIN Peach
+http://61.68.127.183:9981/stream/channelid/1337729751
+#EXTINF:-1,Satellite TV
+http://61.68.127.183:9981/stream/channelid/1531314253
+#EXTINF:-1,GOLD
+http://61.68.127.183:9981/stream/channelid/595981124
+#EXTINF:-1,ABC Jazz
+http://61.68.127.183:9981/stream/channelid/1073866419
+#EXTINF:-1,ABC KIDS Listen
+http://61.68.127.183:9981/stream/channelid/226149762
 test,#genre#
 CNN,http://185.236.229.4:8000/play/a13a
 BBC World News,http://185.236.229.4:8000/play/a13c
