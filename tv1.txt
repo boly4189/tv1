@@ -1,5 +1,5 @@
 test1,#genre#
-ABC,http://14.202.13.147:9981/stream/channelid/157596582
+ABC,http://ipvideo.online:2082/grace/grace/55038
 test,#genre#
 CNN,http://185.236.229.4:8000/play/a13a
 BBC World News,http://185.236.229.4:8000/play/a13c
