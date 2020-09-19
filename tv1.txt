@@ -1,4 +1,41 @@
 test1,#genre#
+Seven,https://npc.cdn.7livecloud.io/hls/live/SYD1/masterSD.m3u8
+Seven,https://npc.cdn.7livecloud.io/hls/live/MEL1/masterSD.m3u8
+Seven,https://npc.cdn.7livecloud.io/hls/live/BRI1/masterSD.m3u8
+Seven,https://npc.cdn.7livecloud.io/hls/live/ADE1/masterSD.m3u8
+Seven,https://npc.cdn.7livecloud.io/hls/live/PER1/masterSD.m3u8
+Seven,https://npc.cdn.7livecloud.io/hls/live/CNS1/masterSD.m3u8
+Seven,https://npc.cdn.7livecloud.io/hls/live/MKY1/masterSD.m3u8
+Seven,https://npc.cdn.7livecloud.io/hls/live/RKY1/masterSD.m3u8
+Seven,https://npc.cdn.7livecloud.io/hls/live/SSC1/masterSD.m3u8
+Seven,https://npc.cdn.7livecloud.io/hls/live/GLD1/masterSD.m3u8
+Seven,https://npc.cdn.7livecloud.io/hls/live/TWB1/masterSD.m3u8
+Seven,https://npc.cdn.7livecloud.io/hls/live/TSV1/masterSD.m3u8
+Seven,https://npc.cdn.7livecloud.io/hls/live/WBY1/masterSD.m3u8
+7TWO,https://npc.cdn.7livecloud.io/hls/live/SYD2/masterSD.m3u8
+7TWO,https://npc.cdn.7livecloud.io/hls/live/MEL2/masterSD.m3u8
+7TWO,https://npc.cdn.7livecloud.io/hls/live/BRI2/masterSD.m3u8
+7TWO,https://npc.cdn.7livecloud.io/hls/live/ADE2/masterSD.m3u8
+7TWO,https://npc.cdn.7livecloud.io/hls/live/PER2/masterSD.m3u8
+7TWO,https://npc.cdn.7livecloud.io/hls/live/QLD2/masterSD.m3u8
+7mate,https://npc.cdn.7livecloud.io/hls/live/SYD3/masterSD.m3u8
+7mate,https://npc.cdn.7livecloud.io/hls/live/MEL3/masterSD.m3u8
+7mate,https://npc.cdn.7livecloud.io/hls/live/BRI3/masterSD.m3u8
+7mate,https://npc.cdn.7livecloud.io/hls/live/ADE3/masterSD.m3u8
+7mate,https://npc.cdn.7livecloud.io/hls/live/PER3/masterSD.m3u8
+7mate,https://npc.cdn.7livecloud.io/hls/live/QLD3/masterSD.m3u8
+7flix,https://npc.cdn.7livecloud.io/hls/live/SYD6/masterSD.m3u8
+7flix,https://npc.cdn.7livecloud.io/hls/live/MEL6/masterSD.m3u8
+7flix,https://npc.cdn.7livecloud.io/hls/live/BRI6/masterSD.m3u8
+7flix,https://npc.cdn.7livecloud.io/hls/live/ADE6/masterSD.m3u8
+7flix,https://npc.cdn.7livecloud.io/hls/live/PER6/masterSD.m3u8
+7flix,https://npc.cdn.7livecloud.io/hls/live/QLD6/masterSD.m3u8
+openshop,https://npc.cdn.7livecloud.io/hls/live/ASN/masterSD.m3u8
+RACING,https://npc.cdn.7livecloud.io/hls/live/RAC/masterSD.m3u8
+RACING,https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+PAC-12 Sports,https://pac12b.cdn.7livecloud.io/index.m3u8
+Outdoor Channel,https://outdoor.cdn.7livecloud.io/index.m3u8
+Fuel TV,https://fueltv.cdn.7livecloud.io/hls/live/FTV/master.m3u8
 ABC NEWS,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 Sky News Extra 1,https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8?checkedby:hlscat.com
 Sky News Extra 2,https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8?checkedby:hlscat.com
