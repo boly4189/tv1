@@ -1,5 +1,25 @@
 test1,#genre#
-FOX News,rtp://233.29.121.106:1234
+7 Flix,http://hotiptv.site:8080/gerard097/7846085e1a7b/144773?checkedby:hlscat.com
+AFL TV 24/7 (AUSTRALIAN FOOTBALL LEAGUE),http://randomserver.site:2086/live/crystal/12345/18431.m3u8?checkedby:hlscat.com
+Australia Channel,https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8?checkedby:hlscat.com
+Fox Sports News,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?checkedby:hlscat.com
+Australia Channel,https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8?checkedby:hlscat.com
+澳大利亚天和电视台,http://rtvcdn.com.au:8082/TV_GG.m3u8?checkedby:hlscat.com
+Bloomberg TV Australia,https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8?checkedby:hlscat.com
+Bloomberg TV Australia,https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8?checkedby:hlscat.com
+C31 Melbourne,https://dcunilive47-lh.akamaihd.net/i/dclive_1@739220/master.m3u8?checkedby:hlscat.com
+Expo Channel,http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8?checkedby:hlscat.com
+Expo Channel,https://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8?checkedby:hlscat.com
+Fox Sports News,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:hlscat.com
+NRL TV 24/7 (NATIONAL RUGBY LEAGUE),http://randomserver.site:2086/live/crystal/12345/12616.m3u8?checkedby:hlscat.com
+NRL TV 24/7 (NATIONAL RUGBY LEAGUE),http://randomserver.site:2086/live/Bria/Bria/12616.m3u8?checkedby:hlscat.com
+Racing.com,https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?checkedby:hlscat.com
+Racing.com,https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?checkedby:hlscat.com
+Racing.com,https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8?checkedby:hlscat.com
+Sky News Extra 1,https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8?checkedby:hlscat.com
+Sky News Extra 2,https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8?checkedby:hlscat.com
+Sky News Extra 3,https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8?checkedby:hlscat.com
+
 test,#genre#
 CNN,http://185.236.229.4:8000/play/a13a
 BBC World News,http://185.236.229.4:8000/play/a13c
