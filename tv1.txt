@@ -1,5 +1,5 @@
 test1,#genre#
-ABC,http://ipvideo.online:2082/grace/grace/55038
+FOX News,http://185.236.229.4:8000/play/a0x6
 test,#genre#
 CNN,http://185.236.229.4:8000/play/a13a
 BBC World News,http://185.236.229.4:8000/play/a13c
