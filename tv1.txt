@@ -1,15 +1,10 @@
-test1,#genre#
+AU TV,#genre#
 ABC News National,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-ABC Sydney(alt),https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/4f16fd0d74ca4bfd93ed043330b0c010/index.m3u8
-ABC Melbourne,https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8dfc66234f084ed881c52687b675b592/index.m3u8
-ABC Brisbane,https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/2dfc66233f7884ed7q1c52687b675f15/index.m3u8
-ABC Adelaide,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/a8394228ceca4b5e9a98cd55c76f4f1b/index.m3u8
-ABC Perth,https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/c0454ca8272945cf8f5c3169aab5d236/index.m3u8
-ABC Canberra,https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/3cb8838788204f08ad02b0b9fe0ace66/index.m3u8
-ABC Darwin,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/96ac4f18be7e42e49584d34d0db5df83/index.m3u8
-ABC Hobart,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/40903e6a14ae4487897ca7fb37f02d69/index.m3u8
-ABC Comedy/Kids	National,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/3c7653c38e0e40fbbbaeaefb02ae6fd1/index.m3u8
-ABC Me National,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/c2a88b3fcefb4920b6b52134a453ed9c/index.m3u8
+SBS NITV,https://sbs-live.akamaized.net/hls/live/2002826/channel4/geo/master_1800K.m3u8
+SBS Food,https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8
+SBS World Movies,https://sbs-live.akamaized.net/hls/live/2005470/channel5/geo/master_2500K.m3u8
+SBS VICELAND,https://sbs-live.akamaized.net/hls/live/2002828/channel2/geo/master_2500K.m3u8
+SBS ONE,https://sbs-live.akamaized.net/hls/live/2002827/channel1/geo/master_2500K.m3u8
 
 Seven	Sydney	https://npc.cdn.7livecloud.io/hls/live/SYD1/masterSD.m3u8
 Seven Melbourne,https://npc.cdn.7livecloud.io/hls/live/MEL1/masterSD.m3u8
@@ -86,11 +81,7 @@ Bold Melbourne,https://dcn7wi3dww9ud.cloudfront.net/10BoldVIC/stream.m3u8
 Bold Brisbane,https://d4plfdwdh1jq0.cloudfront.net/10BoldQLD/stream.m3u8
 Bold Adelaide,https://d24uqfiq1bub1m.cloudfront.net/10BoldSA/stream.m3u8
 Bold Perth,https://d1t642zarr4e0r.cloudfront.net/10BoldWA/stream.m3u8
-SBS NITV,https://sbs-live.akamaized.net/hls/live/2002826/channel4/geo/master_1800K.m3u8
-SBS Food,https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8
-SBS World Movies,https://sbs-live.akamaized.net/hls/live/2005470/channel5/geo/master_2500K.m3u8
-SBS VICELAND,https://sbs-live.akamaized.net/hls/live/2002828/channel2/geo/master_2500K.m3u8
-SBS ONE,https://sbs-live.akamaized.net/hls/live/2002827/channel1/geo/master_2500K.m3u8
+
 Bloomberg,http://cdn-videos.akamaized.net/btv/desktop/akamai/asia/live/primary.m3u8
 outdoor,http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w996888467_b1006700.m3u8
 Fox news,https://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8
