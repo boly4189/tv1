@@ -1,15 +1,6 @@
-
+test1,#genre#
+ABC,http://14.202.13.147:9981/stream/channelid/157596582
 test,#genre#
-ABC,http://61.68.127.183:9981/stream/channelid/67968123
-SBS ONE,http://61.68.127.183:9981/stream/channelid/381724314
-ABC HD,http://61.68.127.183:9981/stream/channelid/43837816
-ABC,http://61.68.127.183:9981/stream/channelid/36059125
-ABC,http://61.68.127.183:9981/stream/channelid/1526855582
-ABC Comedy/Kids,http://61.68.127.183:9981/stream/channelid/442790358
-ABC ME,http://61.68.127.183:9981/stream/channelid/1062745230
-ABC ME,http://61.68.127.183:9981/stream/channelid/1399479605
-ABC NEWS,http://61.68.127.183:9981/stream/channelid/157596582
-ABC Classic,http://61.68.127.183:9981/stream/channelid/1054591171
 CNN,http://185.236.229.4:8000/play/a13a
 BBC World News,http://185.236.229.4:8000/play/a13c
 FOX News,http://185.236.229.4:8000/play/a0x6
