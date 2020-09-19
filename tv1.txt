@@ -1,6 +1,78 @@
 test1,#genre#
-Channel 10 Sydney,https://dofiuo7zvzwu7.cloudfront.net/10NSW/stream.m3u8
-Channel 10 Melbourne,https://d3b1hcovn4v7q2.cloudfront.net/10VIC/stream.m3u8
+ABC News National,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+ABC Sydney(alt),https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/4f16fd0d74ca4bfd93ed043330b0c010/index.m3u8
+ABC Melbourne,https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8dfc66234f084ed881c52687b675b592/index.m3u8
+ABC Brisbane,https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/2dfc66233f7884ed7q1c52687b675f15/index.m3u8
+ABC Adelaide,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/a8394228ceca4b5e9a98cd55c76f4f1b/index.m3u8
+ABC Perth,https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/c0454ca8272945cf8f5c3169aab5d236/index.m3u8
+ABC Canberra,https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/3cb8838788204f08ad02b0b9fe0ace66/index.m3u8
+ABC Darwin,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/96ac4f18be7e42e49584d34d0db5df83/index.m3u8
+ABC Hobart,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/40903e6a14ae4487897ca7fb37f02d69/index.m3u8
+ABC Comedy/Kids	National,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/3c7653c38e0e40fbbbaeaefb02ae6fd1/index.m3u8
+ABC Me National,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/c2a88b3fcefb4920b6b52134a453ed9c/index.m3u8
+
+Seven	Sydney	https://npc.cdn.7livecloud.io/hls/live/SYD1/masterSD.m3u8
+Seven Melbourne,https://npc.cdn.7livecloud.io/hls/live/MEL1/masterSD.m3u8
+Seven Brisbane,https://npc.cdn.7livecloud.io/hls/live/BRI1/masterSD.m3u8
+Seven Adelaide,https://npc.cdn.7livecloud.io/hls/live/ADE1/masterSD.m3u8
+Seven Perth,https://npc.cdn.7livecloud.io/hls/live/PER1/masterSD.m3u8
+Seven Cairns,https://npc.cdn.7livecloud.io/hls/live/CNS1/masterSD.m3u8
+Seven Mackay,https://npc.cdn.7livecloud.io/hls/live/MKY1/masterSD.m3u8
+Seven Rockhamption,https://npc.cdn.7livecloud.io/hls/live/RKY1/masterSD.m3u8
+Seven Sunshine Coast,https://npc.cdn.7livecloud.io/hls/live/SSC1/masterSD.m3u8
+Seven Gold Coast,https://npc.cdn.7livecloud.io/hls/live/GLD1/masterSD.m3u8
+Seven Toowoomba,https://npc.cdn.7livecloud.io/hls/live/TWB1/masterSD.m3u8
+Seven Townsville,https://npc.cdn.7livecloud.io/hls/live/TSV1/masterSD.m3u8
+Seven Wide Bay,https://npc.cdn.7livecloud.io/hls/live/WBY1/masterSD.m3u8
+7TWO Sydney,https://npc.cdn.7livecloud.io/hls/live/SYD2/masterSD.m3u8
+7TWO Melbourne,https://npc.cdn.7livecloud.io/hls/live/MEL2/masterSD.m3u8
+7TWO Brisbane,https://npc.cdn.7livecloud.io/hls/live/BRI2/masterSD.m3u8
+7TWO Adelaide,https://npc.cdn.7livecloud.io/hls/live/ADE2/masterSD.m3u8
+7TWO Perth,https://npc.cdn.7livecloud.io/hls/live/PER2/masterSD.m3u8
+7TWO Regional QLD,https://npc.cdn.7livecloud.io/hls/live/QLD2/masterSD.m3u8
+7mate Sydney,https://npc.cdn.7livecloud.io/hls/live/SYD3/masterSD.m3u8
+7mate Melbourne,https://npc.cdn.7livecloud.io/hls/live/MEL3/masterSD.m3u8
+7mate Brisbane,https://npc.cdn.7livecloud.io/hls/live/BRI3/masterSD.m3u8
+7mate Adelaide,https://npc.cdn.7livecloud.io/hls/live/ADE3/masterSD.m3u8
+7mate Perth,https://npc.cdn.7livecloud.io/hls/live/PER3/masterSD.m3u8
+7mate Regional QLD,https://npc.cdn.7livecloud.io/hls/live/QLD3/masterSD.m3u8
+7flix Sydney,https://npc.cdn.7livecloud.io/hls/live/SYD6/masterSD.m3u8
+7flix Melbourne,https://npc.cdn.7livecloud.io/hls/live/MEL6/masterSD.m3u8
+7flix Brisbane,https://npc.cdn.7livecloud.io/hls/live/BRI6/masterSD.m3u8
+7flix Adelaide,https://npc.cdn.7livecloud.io/hls/live/ADE6/masterSD.m3u8
+7flix Perth,https://npc.cdn.7livecloud.io/hls/live/PER6/masterSD.m3u8
+7flix Regional QLD,https://npc.cdn.7livecloud.io/hls/live/QLD6/masterSD.m3u8
+openshop National,https://npc.cdn.7livecloud.io/hls/live/ASN/masterSD.m3u8
+RACING National,https://npc.cdn.7livecloud.io/hls/live/RAC/masterSD.m3u8
+RACING Victoria,https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+PAC-12 Sports National,https://pac12b.cdn.7livecloud.io/index.m3u8
+Outdoor Channel	National,https://outdoor.cdn.7livecloud.io/index.m3u8
+Fuel TV	National,https://fueltv.cdn.7livecloud.io/hls/live/FTV/master.m3u8
+Channel 9 Sydney,https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8
+Channel 9 Melbourne,https://9now-livestreams.akamaized.net/hls/live/2008322/ch9-mel/master.m3u8
+Channel 9 Brisbane,https://9now-livestreams.akamaized.net/hls/live/2008324/ch9-bne/master.m3u8
+Channel 9 Adelaide,https://9now-livestreams.akamaized.net/hls/live/2008323/ch9-adl/master.m3u8
+Channel 9 Perth,https://9now-livestreams.akamaized.net/hls/live/2008325/ch9-per/master.m3u8
+9Gem Sydney,https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
+9Gem Melbourne,https://9now-livestreams.akamaized.net/hls/live/2008316/gem-mel/master.m3u8
+9Gem Brisbane,https://9now-livestreams.akamaized.net/hls/live/2008315/gem-bne/master.m3u8
+9Gem Adelaide,https://9now-livestreams.akamaized.net/hls/live/2008314/gem-adl/master.m3u8
+9Gem Perth,https://9now-livestreams.akamaized.net/hls/live/2008317/gem-per/master.m3u8
+9Go! Sydney,https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
+9Go! Melbourne,https://9now-livestreams.akamaized.net/hls/live/2008318/go-mel/master.m3u8
+9Go! Brisbane,https://9now-livestreams.akamaized.net/hls/live/2008320/go-bne/master.m3u8
+9Go! Adelaide,https://9now-livestreams.akamaized.net/hls/live/2008319/go-adl/master.m3u8
+9Go! Perth,https://9now-livestreams.akamaized.net/hls/live/2008321/go-per/master.m3u8
+9Life Sydney,https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
+9Life Melbourne,https://9now-livestreams.akamaized.net/hls/live/2008328/life-bne/master.m3u8
+9Life Brisbane,https://9now-livestreams.akamaized.net/hls/live/2008326/life-adl/master.m3u8
+9Life Adelaide,https://9now-livestreams.akamaized.net/hls/live/2008327/life-per/master.m3u8
+9Life Perth,https://9now-livestreams.akamaized.net/hls/live/2008329/life-mel/master.m3u8
+9Rush Sydney,https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8
+9Rush Melbourne,https://9now-livestreams.akamaized.net/hls/live/2010628/rush-mel/master.m3u8
+9Rush Brisbane,https://9now-livestreams.akamaized.net/hls/live/2010629/rush-bne/master.m3u8
+9Rush Adelaide,https://9now-livestreams.akamaized.net/hls/live/2010627/rush-adl/master.m3u8
+9Rush Perth,https://9now-livestreams.akamaized.net/hls/live/2010630/rush-per/master.m3u8
 Channel 10 Brisbane,https://d2wbjmkh2b1mgc.cloudfront.net/10QLD/stream.m3u8
 Channel 10 Adelaide,https://dpsniydtnu329.cloudfront.net/10SA/stream.m3u8
 Channel 10 Perth,https://d29g8ymgvbt28s.cloudfront.net/10WA/stream.m3u8
