@@ -1,5 +1,5 @@
 test1,#genre#
-FOX News,http://185.236.229.4:8000/play/a0x6
+FOX News,rtp://233.29.121.106:1234
 test,#genre#
 CNN,http://185.236.229.4:8000/play/a13a
 BBC World News,http://185.236.229.4:8000/play/a13c
