@@ -1,4 +1,15 @@
 AU TV,#genre#
+ABC NEWS,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+ABC News National,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+ABC News,https://c.mjh.nz/101002210220/
+ABC Me,https://c.mjh.nz/101002210224/
+ABC KIDS,https://c.mjh.nz/101002210222/
+ABC Comedy,https://c.mjh.nz/abc2/
+ABC,https://c.mjh.nz/101002210221/
+SBS World Movies,https://i.mjh.nz/au/Sydney/tv.320203000307.m3u8
+SBS VICELAND,https://i.mjh.nz/au/Sydney/tv.320203000303.m3u8
+SBS Food,https://i.mjh.nz/au/Sydney/tv.320203000304.m3u8
+SBS,https://i.mjh.nz/au/Sydney/tv.320203000301.m3u8
 TEN,https://i.mjh.nz/au/Sydney/tv.101406020625.m3u8
 10 Peach,https://i.mjh.nz/au/Sydney/tv.101406020628.m3u8
 10 HD Sydney,https://i.mjh.nz/au/Sydney/tv.101406020621.m3u8
@@ -13,28 +24,21 @@ Fuel TV,https://i.mjh.nz/au/Sydney/tv.7fueltv.m3u8
 7mate,https://i.mjh.nz/au/Sydney/tv.101305020523.m3u8
 7flix,https://i.mjh.nz/au/Sydney/tv.101305020525.m3u8
 7TWO,https://i.mjh.nz/au/Sydney/tv.101305020522.m3u8
-SBS World Movies,https://i.mjh.nz/au/Sydney/tv.320203000307.m3u8
-SBS VICELAND,https://i.mjh.nz/au/Sydney/tv.320203000303.m3u8
-SBS Food,https://i.mjh.nz/au/Sydney/tv.320203000304.m3u8
-SBS,https://i.mjh.nz/au/Sydney/tv.320203000301.m3u8
+
 NITV,https://i.mjh.nz/au/Sydney/tv.320203000305.m3u8
 Channel 9,https://i.mjh.nz/au/Sydney/tv.101204200421.m3u8
 9Rush Sydney,https://i.mjh.nz/au/Sydney/tv.101204200429.m3u8
 9Life,https://i.mjh.nz/au/Sydney/tv.101204200424.m3u8
 9Go!,https://i.mjh.nz/au/Sydney/tv.101204200428.m3u8
 9Gem,https://i.mjh.nz/au/Sydney/tv.101204200427.m3u8
-ABC News,https://c.mjh.nz/101002210220/
-ABC Me,https://c.mjh.nz/101002210224/
-ABC KIDS,https://c.mjh.nz/101002210222/
-ABC Comedy,https://c.mjh.nz/abc2/
-ABC,https://c.mjh.nz/101002210221/
+
 Snowy Mountains Television,https://c.mjh.nz/snowy-mountains/
 Redbull TV,https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8
 Fox Sports News,https://i.mjh.nz/au/Sydney/tv.fox.sports.news.m3u8
 Al Jazeera,https://i.mjh.nz/au/Sydney/tv.46.m3u8
 ACCTV,https://i.mjh.nz/au/Sydney/tv.acctv.m3u8
 
-ABC News National,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
 SBS NITV,https://sbs-live.akamaized.net/hls/live/2002826/channel4/geo/master_1800K.m3u8
 SBS Food,https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8
 SBS World Movies,https://sbs-live.akamaized.net/hls/live/2005470/channel5/geo/master_2500K.m3u8
@@ -120,7 +124,7 @@ Bold Perth,https://d1t642zarr4e0r.cloudfront.net/10BoldWA/stream.m3u8
 Bloomberg,http://cdn-videos.akamaized.net/btv/desktop/akamai/asia/live/primary.m3u8
 outdoor,http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w996888467_b1006700.m3u8
 Fox news,https://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8
-ABC NEWS,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
 Sky News Extra 1,https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8?checkedby:hlscat.com
 Sky News Extra 2,https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8?checkedby:hlscat.com
 Sky News Extra 3,https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8?checkedby:hlscat.com
