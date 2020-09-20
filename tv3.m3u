@@ -1,1321 +1,233 @@
 #EXTM3U
-#EXTINF:-1 ,====== AU TV,#genre# ======
-http://0/0.m3u8
-#EXTINF:-1 ,Sky News Extra 1
+#EXTINF:-1 ,group-title"au",Sky News Extra 1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8?checkedby:hlscat.com
-#EXTINF:-1 ,Sky News Extra 2
+#EXTINF:-1 ,group-title"au",Sky News Extra 2
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8?checkedby:hlscat.com
-#EXTINF:-1 ,Sky News Extra 3
+#EXTINF:-1 ,group-title"au",Sky News Extra 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8?checkedby:hlscat.com
-#EXTINF:-1 ,SBS
+#EXTINF:-1 ,group-title"au",SBS
 https://sbs-live.akamaized.net/hls/live/2002827/channel1/geo/master_2500K.m3u8
-#EXTINF:-1 ,SBS
+#EXTINF:-1 ,group-title"au",SBS
 https://i.mjh.nz/au/Sydney/tv.320203000301.m3u8
-#EXTINF:-1 ,SBS Food
+#EXTINF:-1 ,group-title"au",SBS Food
 https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8
-#EXTINF:-1 ,SBS Food
+#EXTINF:-1 ,group-title"au",SBS Food
 https://i.mjh.nz/au/Sydney/tv.320203000304.m3u8
-#EXTINF:-1 ,SBS World Movies
+#EXTINF:-1 ,group-title"au",SBS World Movies
 https://sbs-live.akamaized.net/hls/live/2005470/channel5/geo/master_2500K.m3u8
-#EXTINF:-1 ,SBS World Movies
+#EXTINF:-1 ,group-title"au",SBS World Movies
 https://i.mjh.nz/au/Sydney/tv.320203000307.m3u8
-#EXTINF:-1 ,SBS VICELAND
+#EXTINF:-1 ,group-title"au",SBS VICELAND
 https://sbs-live.akamaized.net/hls/live/2002828/channel2/geo/master_2500K.m3u8
-#EXTINF:-1 ,SBS VICELAND
+#EXTINF:-1 ,group-title"au",SBS VICELAND
 https://i.mjh.nz/au/Sydney/tv.320203000303.m3u8
-#EXTINF:-1 ,SBS NITV
+#EXTINF:-1 ,group-title"au",SBS NITV
 https://sbs-live.akamaized.net/hls/live/2002826/channel4/geo/master_1800K.m3u8
-#EXTINF:-1 ,SBS NITV
+#EXTINF:-1 ,group-title"au",SBS NITV
 https://i.mjh.nz/au/Sydney/tv.320203000305.m3u8
-#EXTINF:-1 ,ABC NEWS
+#EXTINF:-1 ,group-title"au",ABC NEWS
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 ,ABC NEWS
+#EXTINF:-1 ,group-title"au",ABC NEWS
 https://c.mjh.nz/101002210220/
-#EXTINF:-1 ,ABC
+#EXTINF:-1 ,group-title"au",ABC
 https://c.mjh.nz/101002210221/
-#EXTINF:-1 ,ABC Comedy
+#EXTINF:-1 ,group-title"au",ABC Comedy
 https://c.mjh.nz/abc2/
-#EXTINF:-1 ,ABC Me
+#EXTINF:-1 ,group-title"au",ABC Me
 https://c.mjh.nz/101002210224/
-#EXTINF:-1 ,ABC KIDS
+#EXTINF:-1 ,group-title"au",ABC KIDS
 https://c.mjh.nz/101002210222/
-#EXTINF:-1 ,7ONE
+#EXTINF:-1 ,group-title"au",7ONE
 https://npc.cdn.7livecloud.io/hls/live/CNS1/masterSD.m3u8
-#EXTINF:-1 ,7ONE
+#EXTINF:-1 ,group-title"au",7ONE
 https://npc.cdn.7livecloud.io/hls/live/MKY1/masterSD.m3u8
-#EXTINF:-1 ,7ONE
+#EXTINF:-1 ,group-title"au",7ONE
 https://npc.cdn.7livecloud.io/hls/live/RKY1/masterSD.m3u8
-#EXTINF:-1 ,7ONE
+#EXTINF:-1 ,group-title"au",7ONE
 https://npc.cdn.7livecloud.io/hls/live/TWB1/masterSD.m3u8
-#EXTINF:-1 ,7ONE
+#EXTINF:-1 ,group-title"au",7ONE
 https://npc.cdn.7livecloud.io/hls/live/TSV1/masterSD.m3u8
-#EXTINF:-1 ,7ONE
+#EXTINF:-1 ,group-title"au",7ONE
 https://npc.cdn.7livecloud.io/hls/live/WBY1/masterSD.m3u8
-#EXTINF:-1 ,7ONE
+#EXTINF:-1 ,group-title"au",7ONE
 https://i.mjh.nz/au/Sydney/tv.101305020520.m3u8
-#EXTINF:-1 ,7TWO Brisbane
+#EXTINF:-1 ,group-title"au",7TWO Brisbane
 https://npc.cdn.7livecloud.io/hls/live/BRI2/masterSD.m3u8
-#EXTINF:-1 ,7TWO Adelaide
+#EXTINF:-1 ,group-title"au",7TWO Adelaide
 https://npc.cdn.7livecloud.io/hls/live/ADE2/masterSD.m3u8
-#EXTINF:-1 ,7TWO Perth
+#EXTINF:-1 ,group-title"au",7TWO Perth
 https://npc.cdn.7livecloud.io/hls/live/PER2/masterSD.m3u8
-#EXTINF:-1 ,7TWO Regional QLD
+#EXTINF:-1 ,group-title"au",7TWO Regional QLD
 https://npc.cdn.7livecloud.io/hls/live/QLD2/masterSD.m3u8
-#EXTINF:-1 ,7TWO
+#EXTINF:-1 ,group-title"au",7TWO
 https://i.mjh.nz/au/Sydney/tv.101305020522.m3u8
-#EXTINF:-1 ,7mate Sydney
+#EXTINF:-1 ,group-title"au",7mate Sydney
 https://npc.cdn.7livecloud.io/hls/live/SYD3/masterSD.m3u8
-#EXTINF:-1 ,7mate Brisbane
+#EXTINF:-1 ,group-title"au",7mate Brisbane
 https://npc.cdn.7livecloud.io/hls/live/BRI3/masterSD.m3u8
-#EXTINF:-1 ,7mate Adelaide
+#EXTINF:-1 ,group-title"au",7mate Adelaide
 https://npc.cdn.7livecloud.io/hls/live/ADE3/masterSD.m3u8
-#EXTINF:-1 ,7mate Regional QLD
+#EXTINF:-1 ,group-title"au",7mate Regional QLD
 https://npc.cdn.7livecloud.io/hls/live/QLD3/masterSD.m3u8
-#EXTINF:-1 ,7mate
+#EXTINF:-1 ,group-title"au",7mate
 https://i.mjh.nz/au/Sydney/tv.101305020523.m3u8
-#EXTINF:-1 ,7flix Sydney
+#EXTINF:-1 ,group-title"au",7flix Sydney
 https://npc.cdn.7livecloud.io/hls/live/SYD6/masterSD.m3u8
-#EXTINF:-1 ,7flix Melbourne
+#EXTINF:-1 ,group-title"au",7flix Melbourne
 https://npc.cdn.7livecloud.io/hls/live/MEL6/masterSD.m3u8
-#EXTINF:-1 ,7flix Brisbane
+#EXTINF:-1 ,group-title"au",7flix Brisbane
 https://npc.cdn.7livecloud.io/hls/live/BRI6/masterSD.m3u8
-#EXTINF:-1 ,7flix Adelaide
+#EXTINF:-1 ,group-title"au",7flix Adelaide
 https://npc.cdn.7livecloud.io/hls/live/ADE6/masterSD.m3u8
-#EXTINF:-1 ,7flix Perth
+#EXTINF:-1 ,group-title"au",7flix Perth
 https://npc.cdn.7livecloud.io/hls/live/PER6/masterSD.m3u8
-#EXTINF:-1 ,7flix Regional QLD
+#EXTINF:-1 ,group-title"au",7flix Regional QLD
 https://npc.cdn.7livecloud.io/hls/live/QLD6/masterSD.m3u8
-#EXTINF:-1 ,7flix
+#EXTINF:-1 ,group-title"au",7flix
 https://i.mjh.nz/au/Sydney/tv.101305020525.m3u8
-#EXTINF:-1 ,Fuel TV
+#EXTINF:-1 ,group-title"au",Fuel TV
 https://i.mjh.nz/au/Sydney/tv.7fueltv.m3u8
-#EXTINF:-1 ,PAC-12
+#EXTINF:-1 ,group-title"au",PAC-12
 https://pac12b.cdn.7livecloud.io/index.m3u8
-#EXTINF:-1 ,PAC-12
+#EXTINF:-1 ,group-title"au",PAC-12
 https://i.mjh.nz/au/Sydney/tv.7pac12.m3u8
-#EXTINF:-1 ,openshop
+#EXTINF:-1 ,group-title"au",openshop
 https://npc.cdn.7livecloud.io/hls/live/ASN/masterSD.m3u8
-#EXTINF:-1 ,openshop
+#EXTINF:-1 ,group-title"au",openshop
 https://i.mjh.nz/au/Sydney/tv.7openshop.m3u8
-#EXTINF:-1 ,RACING
+#EXTINF:-1 ,group-title"au",RACING
 https://npc.cdn.7livecloud.io/hls/live/RAC/masterSD.m3u8
-#EXTINF:-1 ,RACING
+#EXTINF:-1 ,group-title"au",RACING
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF:-1 ,RACING
+#EXTINF:-1 ,group-title"au",RACING
 https://i.mjh.nz/au/Sydney/tv.101305020528.m3u8
-#EXTINF:-1 ,RACING
+#EXTINF:-1 ,group-title"au",RACING
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?checkedby:hlscat.com
-#EXTINF:-1 ,RACING
+#EXTINF:-1 ,group-title"au",RACING
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?checkedby:hlscat.com
-#EXTINF:-1 ,RACING
+#EXTINF:-1 ,group-title"au",RACING
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8?checkedby:hlscat.com
-#EXTINF:-1 ,outdoor food
+#EXTINF:-1 ,group-title"au",outdoor food
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w996888467_b1006700.m3u8
-#EXTINF:-1 ,Outdoor Channel
+#EXTINF:-1 ,group-title"au",Outdoor Channel
 https://i.mjh.nz/au/Sydney/tv.7outdoor.m3u8
-#EXTINF:-1 ,Channel 9
+#EXTINF:-1 ,group-title"au",Channel 9
 https://i.mjh.nz/au/Sydney/tv.101204200421.m3u8
-#EXTINF:-1 ,Channel 9
+#EXTINF:-1 ,group-title"au",Channel 9
 https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8
-#EXTINF:-1 ,Channel 9
+#EXTINF:-1 ,group-title"au",Channel 9
 https://9now-livestreams.akamaized.net/hls/live/2008322/ch9-mel/master.m3u8
-#EXTINF:-1 ,Channel 9
+#EXTINF:-1 ,group-title"au",Channel 9
 https://9now-livestreams.akamaized.net/hls/live/2008324/ch9-bne/master.m3u8
-#EXTINF:-1 ,Channel 9 Adelaide
+#EXTINF:-1 ,group-title"au",Channel 9 Adelaide
 https://9now-livestreams.akamaized.net/hls/live/2008323/ch9-adl/master.m3u8
-#EXTINF:-1 ,Channel 9 Perth
+#EXTINF:-1 ,group-title"au",Channel 9 Perth
 https://9now-livestreams.akamaized.net/hls/live/2008325/ch9-per/master.m3u8
-#EXTINF:-1 ,9Gem
+#EXTINF:-1 ,group-title"au",9Gem
 https://i.mjh.nz/au/Sydney/tv.101204200427.m3u8
-#EXTINF:-1 ,9Gem
+#EXTINF:-1 ,group-title"au",9Gem
 https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
-#EXTINF:-1 ,9Gem
+#EXTINF:-1 ,group-title"au",9Gem
 https://9now-livestreams.akamaized.net/hls/live/2008316/gem-mel/master.m3u8
-#EXTINF:-1 ,9Gem
+#EXTINF:-1 ,group-title"au",9Gem
 https://9now-livestreams.akamaized.net/hls/live/2008315/gem-bne/master.m3u8
-#EXTINF:-1 ,9Gem Adelaide
+#EXTINF:-1 ,group-title"au",9Gem Adelaide
 https://9now-livestreams.akamaized.net/hls/live/2008314/gem-adl/master.m3u8
-#EXTINF:-1 ,9Gem Perth
+#EXTINF:-1 ,group-title"au",9Gem Perth
 https://9now-livestreams.akamaized.net/hls/live/2008317/gem-per/master.m3u8
-#EXTINF:-1 ,9Go!
+#EXTINF:-1 ,group-title"au",9Go!
 https://i.mjh.nz/au/Sydney/tv.101204200428.m3u8
-#EXTINF:-1 ,9Go!
+#EXTINF:-1 ,group-title"au",9Go!
 https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
-#EXTINF:-1 ,9Go!
+#EXTINF:-1 ,group-title"au",9Go!
 https://9now-livestreams.akamaized.net/hls/live/2008318/go-mel/master.m3u8
-#EXTINF:-1 ,9Go!
+#EXTINF:-1 ,group-title"au",9Go!
 https://9now-livestreams.akamaized.net/hls/live/2008320/go-bne/master.m3u8
-#EXTINF:-1 ,9Go! Adelaide
+#EXTINF:-1 ,group-title"au",9Go! Adelaide
 https://9now-livestreams.akamaized.net/hls/live/2008319/go-adl/master.m3u8
-#EXTINF:-1 ,9Go! Perth
+#EXTINF:-1 ,group-title"au",9Go! Perth
 https://9now-livestreams.akamaized.net/hls/live/2008321/go-per/master.m3u8
-#EXTINF:-1 ,9Life
+#EXTINF:-1 ,group-title"au",9Life
 https://i.mjh.nz/au/Sydney/tv.101204200424.m3u8
-#EXTINF:-1 ,9Life
+#EXTINF:-1 ,group-title"au",9Life
 https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
-#EXTINF:-1 ,9Life
+#EXTINF:-1 ,group-title"au",9Life
 https://9now-livestreams.akamaized.net/hls/live/2008328/life-bne/master.m3u8
-#EXTINF:-1 ,9Life
+#EXTINF:-1 ,group-title"au",9Life
 https://9now-livestreams.akamaized.net/hls/live/2008326/life-adl/master.m3u8
-#EXTINF:-1 ,9Life Adelaide
+#EXTINF:-1 ,group-title"au",9Life Adelaide
 https://9now-livestreams.akamaized.net/hls/live/2008327/life-per/master.m3u8
-#EXTINF:-1 ,9Life Perth
+#EXTINF:-1 ,group-title"au",9Life Perth
 https://9now-livestreams.akamaized.net/hls/live/2008329/life-mel/master.m3u8
-#EXTINF:-1 ,9Rush Sydney
+#EXTINF:-1 ,group-title"au",9Rush Sydney
 https://i.mjh.nz/au/Sydney/tv.101204200429.m3u8
-#EXTINF:-1 ,9Rush
+#EXTINF:-1 ,group-title"au",9Rush
 https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8
-#EXTINF:-1 ,9Rush
+#EXTINF:-1 ,group-title"au",9Rush
 https://9now-livestreams.akamaized.net/hls/live/2010628/rush-mel/master.m3u8
-#EXTINF:-1 ,9Rush
+#EXTINF:-1 ,group-title"au",9Rush
 https://9now-livestreams.akamaized.net/hls/live/2010629/rush-bne/master.m3u8
-#EXTINF:-1 ,9Rush Adelaide
+#EXTINF:-1 ,group-title"au",9Rush Adelaide
 https://9now-livestreams.akamaized.net/hls/live/2010627/rush-adl/master.m3u8
-#EXTINF:-1 ,9Rush Perth
+#EXTINF:-1 ,group-title"au",9Rush Perth
 https://9now-livestreams.akamaized.net/hls/live/2010630/rush-per/master.m3u8
-#EXTINF:-1 ,TEN
+#EXTINF:-1 ,group-title"au",TEN
 https://i.mjh.nz/au/Sydney/tv.101406020625.m3u8
-#EXTINF:-1 ,10 HD Sydney
+#EXTINF:-1 ,group-title"au",10 HD Sydney
 https://i.mjh.nz/au/Sydney/tv.101406020621.m3u8
-#EXTINF:-1 ,Channel 10 Brisbane
+#EXTINF:-1 ,group-title"au",Channel 10 Brisbane
 https://d2wbjmkh2b1mgc.cloudfront.net/10QLD/stream.m3u8
-#EXTINF:-1 ,Channel 10 Adelaide
+#EXTINF:-1 ,group-title"au",Channel 10 Adelaide
 https://dpsniydtnu329.cloudfront.net/10SA/stream.m3u8
-#EXTINF:-1 ,Channel 10 Perth
+#EXTINF:-1 ,group-title"au",Channel 10 Perth
 https://d29g8ymgvbt28s.cloudfront.net/10WA/stream.m3u8
-#EXTINF:-1 ,10 Peach
+#EXTINF:-1 ,group-title"au",10 Peach
 https://i.mjh.nz/au/Sydney/tv.101406020628.m3u8
-#EXTINF:-1 ,Peach Sydney
+#EXTINF:-1 ,group-title"au",Peach Sydney
 https://dwd941bx75no0.cloudfront.net/10PeachNSW/stream.m3u8
-#EXTINF:-1 ,Peach Melbourne
+#EXTINF:-1 ,group-title"au",Peach Melbourne
 https://dmuw1xxfx0a6j.cloudfront.net/10PeachVIC/stream.m3u8
-#EXTINF:-1 ,Peach Brisbane
+#EXTINF:-1 ,group-title"au",Peach Brisbane
 https://d3pjedib5dxuav.cloudfront.net/10PeachQLD/stream.m3u8
-#EXTINF:-1 ,Peach Adelaide
+#EXTINF:-1 ,group-title"au",Peach Adelaide
 https://d2zyd2uok7s5cf.cloudfront.net/10PeachSA/stream.m3u8
-#EXTINF:-1 ,Peach Perth
+#EXTINF:-1 ,group-title"au",Peach Perth
 https://dsww6yr2v4zuj.cloudfront.net/10PeachWA/stream.m3u8
-#EXTINF:-1 ,Bold Sydney
+#EXTINF:-1 ,group-title"au",Bold Sydney
 https://d3dilkfpueg8q1.cloudfront.net/10BoldNSW/stream.m3u8
-#EXTINF:-1 ,Bold Melbourne
+#EXTINF:-1 ,group-title"au",Bold Melbourne
 https://dcn7wi3dww9ud.cloudfront.net/10BoldVIC/stream.m3u8
-#EXTINF:-1 ,Bold Brisbane
+#EXTINF:-1 ,group-title"au",Bold Brisbane
 https://d4plfdwdh1jq0.cloudfront.net/10BoldQLD/stream.m3u8
-#EXTINF:-1 ,Bold Adelaide
+#EXTINF:-1 ,group-title"au",Bold Adelaide
 https://d24uqfiq1bub1m.cloudfront.net/10BoldSA/stream.m3u8
-#EXTINF:-1 ,Bold Perth
+#EXTINF:-1 ,group-title"au",Bold Perth
 https://d1t642zarr4e0r.cloudfront.net/10BoldWA/stream.m3u8
-#EXTINF:-1 ,Al Jazeera
+#EXTINF:-1 ,group-title"au",Al Jazeera
 https://i.mjh.nz/au/Sydney/tv.46.m3u8
-#EXTINF:-1 ,Bloomberg
+#EXTINF:-1 ,group-title"au",Bloomberg
 https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8?checkedby:hlscat.com
-#EXTINF:-1 ,Bloomberg
+#EXTINF:-1 ,group-title"au",Bloomberg
 https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8?checkedby:hlscat.com
-#EXTINF:-1 ,ausbiz TV
+#EXTINF:-1 ,group-title"au",ausbiz TV
 https://i.mjh.nz/au/Sydney/tv.7ausbiz.m3u8
-#EXTINF:-1 ,Olympics Channel
+#EXTINF:-1 ,group-title"au",Olympics Channel
 https://i.mjh.nz/au/Sydney/tv.7olympics.m3u8
-#EXTINF:-1 ,Snowy Mountains Television
+#EXTINF:-1 ,group-title"au",Snowy Mountains Television
 https://c.mjh.nz/snowy-mountains/
-#EXTINF:-1 ,Redbull TV
+#EXTINF:-1 ,group-title"au",Redbull TV
 https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8
-#EXTINF:-1 ,Fox Sports News
+#EXTINF:-1 ,group-title"au",Fox Sports News
 https://i.mjh.nz/au/Sydney/tv.fox.sports.news.m3u8
-#EXTINF:-1 ,ACCTV
+#EXTINF:-1 ,group-title"au",ACCTV
 https://i.mjh.nz/au/Sydney/tv.acctv.m3u8
-#EXTINF:-1 ,NRL TV 24/7 (NATIONAL RUGBY LEAGUE)
+#EXTINF:-1 ,group-title"au",NRL TV 24/7 (NATIONAL RUGBY LEAGUE)
 http://randomserver.site:2086/live/crystal/12345/12616.m3u8?checkedby:hlscat.com
-#EXTINF:-1 ,NRL TV 24/7 (NATIONAL RUGBY LEAGUE)
+#EXTINF:-1 ,group-title"au",NRL TV 24/7 (NATIONAL RUGBY LEAGUE)
 http://randomserver.site:2086/live/Bria/Bria/12616.m3u8?checkedby:hlscat.com
-#EXTINF:-1 ,AFL TV 24/7 (AUSTRALIAN FOOTBALL LEAGUE)
+#EXTINF:-1 ,group-title"au",AFL TV 24/7 (AUSTRALIAN FOOTBALL LEAGUE)
 http://randomserver.site:2086/live/crystal/12345/18431.m3u8?checkedby:hlscat.com
-#EXTINF:-1 ,C31 Melbourne
+#EXTINF:-1 ,group-title"au",C31 Melbourne
 https://dcunilive47-lh.akamaihd.net/i/dclive_1@739220/master.m3u8?checkedby:hlscat.com
-#EXTINF:-1 ,澳大利亚天和电视台
+#EXTINF:-1 ,group-title"au",澳大利亚天和电视台
 http://rtvcdn.com.au:8082/TV_GG.m3u8?checkedby:hlscat.com
-#EXTINF:-1 ,====== test,#genre# ======
-http://1/1.m3u8
-#EXTINF:-1 ,CNN
-http://185.236.229.4:8000/play/a13a
-#EXTINF:-1 ,BBC World News
-http://185.236.229.4:8000/play/a13c
-#EXTINF:-1 ,FOX News
-http://185.236.229.4:8000/play/a0x6
-#EXTINF:-1 ,CNBC Europe
-http://185.236.229.4:8000/play/a0y6
-#EXTINF:-1 ,Discovery HD
-http://185.236.229.4:8000/play/a11u
-#EXTINF:-1 ,National Geographic HD
-http://185.236.229.4:8000/play/a0zf
-#EXTINF:-1 ,National Geographic HD
-http://185.236.229.4:8000/play/a0zn
-#EXTINF:-1 ,Travel Channel HD
-http://185.236.229.4:8000/play/a10x
-#EXTINF:-1 ,Travel Channel HD
-http://185.236.229.4:8000/play/a11b
-#EXTINF:-1 ,NBA TV
-http://185.236.229.4:8000/play/a0x2
-#EXTINF:-1 ,Hollywood HD
-http://185.236.229.4:8000/play/a0tk
-#EXTINF:-1 ,AMC HD
-http://185.236.229.4:8000/play/a11x
-#EXTINF:-1 ,AMC HD
-http://185.236.229.4:8000/play/a11y
-#EXTINF:-1 ,AMC HD
-http://185.236.229.4:8000/play/a0tv
-#EXTINF:-1 ,AXN HD
-http://185.236.229.4:8000/play/a0zg
-#EXTINF:-1 ,AXN HD
-http://185.236.229.4:8000/play/a0zo
-#EXTINF:-1 ,AXN Movies HD
-http://185.236.229.4:8000/play/a10u
-#EXTINF:-1 ,AXN Movies HD
-http://185.236.229.4:8000/play/a11a
-#EXTINF:-1 ,AXN White HD
-http://185.236.229.4:8000/play/a10y
-#EXTINF:-1 ,AXN White HD
-http://185.236.229.4:8000/play/a11c
-#EXTINF:-1 ,FOX Comedy
-http://185.236.229.4:8000/play/a0yn
-#EXTINF:-1 ,FOX Comedy
-http://185.236.229.4:8000/play/a0xy
-#EXTINF:-1 ,FOX Crime HD
-http://185.236.229.4:8000/play/a10w
-#EXTINF:-1 ,FOX Crime HD
-http://185.236.229.4:8000/play/a11f
-#EXTINF:-1 ,FOX HD
-http://185.236.229.4:8000/play/a0zh
-#EXTINF:-1 ,FOX HD
-http://185.236.229.4:8000/play/a0zp
-#EXTINF:-1 ,FOX Life HD
-http://185.236.229.4:8000/play/a110
-#EXTINF:-1 ,FOX Life HD
-http://185.236.229.4:8000/play/a11e
-#EXTINF:-1 ,FOX Movies
-http://185.236.229.4:8000/play/a12f
-#EXTINF:-1 ,FOX Movies
-http://185.236.229.4:8000/play/a132
-#EXTINF:-1 ,BBC Entertainment
-http://185.236.229.4:8000/play/a120
-#EXTINF:-1 ,Blaze
-http://185.236.229.4:8000/play/a12h
-#EXTINF:-1 ,Blaze
-http://185.236.229.4:8000/play/a133
-#EXTINF:-1 ,Bloomberg
-http://185.236.229.4:8000/play/a0y5
-#EXTINF:-1 ,CBS Reality
-http://185.236.229.4:8000/play/a0xc
-#EXTINF:-1 ,ID Investigation Discovery
-http://185.236.229.4:8000/play/a111
-#EXTINF:-1 ,Crime+Investigation
-http://185.236.229.4:8000/play/a0x3
-#EXTINF:-1 ,Discovery Channel
-http://185.236.229.4:8000/play/a0x4
-#EXTINF:-1 ,E! Entertainment
-http://185.236.229.4:8000/play/a0y1
-#EXTINF:-1 ,Histðria
-http://185.236.229.4:8000/play/a106
-#EXTINF:-1 ,Histðria
-http://185.236.229.4:8000/play/a0tq
-#EXTINF:-1 ,Hollywood
-http://185.236.229.4:8000/play/a104
-#EXTINF:-1 ,Hollywood
-http://185.236.229.4:8000/play/a0tt
-#EXTINF:-1 ,SyFy
-http://185.236.229.4:8000/play/a0z3
-#EXTINF:-1 ,SyFy
-http://185.236.229.4:8000/play/a0xz
-#EXTINF:-1 ,Motorvision
-http://185.236.229.4:8000/play/a11z
-#EXTINF:-1 ,NHK World Japan
-http://185.236.229.4:8000/play/a0xo
-#EXTINF:-1 ,National Geographic Wild
-http://185.236.229.4:8000/play/a0yi
-#EXTINF:-1 ,National Geographic Wild
-http://185.236.229.4:8000/play/a0xt
-#EXTINF:-1 ,TLC
-http://185.236.229.4:8000/play/a12e
-#EXTINF:-1 ,TLC
-http://185.236.229.4:8000/play/a131
-#EXTINF:-1 ,====== canada tv,#genre# ======
-http://2/2.m3u8
-#EXTINF:-1 ,CA : CNN
-http://randomserver.site:2086/wickeduk/etqyhww45e/16216
-#EXTINF:-1 ,CA : CNBC CANADA
-http://randomserver.site:2086/wickeduk/etqyhww45e/65861
-#EXTINF:-1 ,CA : HBO 1
-http://randomserver.site:2086/wickeduk/etqyhww45e/3245
-#EXTINF:-1 ,CA : HBO 2
-http://randomserver.site:2086/wickeduk/etqyhww45e/3244
-#EXTINF:-1 ,por: AXN HD
-http://62.210.83.40:25461/alexander/alexander/16549
-#EXTINF:-1 ,por: AXN Black
-http://62.210.83.40:25461/alexander/alexander/16550
-#EXTINF:-1 ,por: AXN White
-http://62.210.83.40:25461/alexander/alexander/16551
-#EXTINF:-1 ,CA : ANIMAL PLANET
-http://randomserver.site:2086/wickeduk/etqyhww45e/3281
-#EXTINF:-1 ,CA : LOVE NATURE
-http://randomserver.site:2086/wickeduk/etqyhww45e/66744
-#EXTINF:-1 ,CA : COTTAGE LIFE TV
-http://randomserver.site:2086/wickeduk/etqyhww45e/3265
-#EXTINF:-1 ,CA : A&E
-http://randomserver.site:2086/wickeduk/etqyhww45e/16240
-#EXTINF:-1 ,CA : ABORIGINAL PEOPLE TELEVISION NETWORK
-http://randomserver.site:2086/wickeduk/etqyhww45e/65869
-#EXTINF:-1 ,CA : ADULT SWIM
-http://randomserver.site:2086/wickeduk/etqyhww45e/65868
-#EXTINF:-1 ,CA : BNN BLOOMBERG
-http://randomserver.site:2086/wickeduk/etqyhww45e/3278
-#EXTINF:-1 ,CA : CABLEPULSE 24TV
-http://randomserver.site:2086/wickeduk/etqyhww45e/65854
-#EXTINF:-1 ,CA : CBC
-http://randomserver.site:2086/wickeduk/etqyhww45e/5487
-#EXTINF:-1 ,CA : CBC NEWS NETWORK
-http://randomserver.site:2086/wickeduk/etqyhww45e/65865
-#EXTINF:-1 ,CA : CHCH
-http://randomserver.site:2086/wickeduk/etqyhww45e/3275
-#EXTINF:-1 ,CA : CHRGD
-http://randomserver.site:2086/wickeduk/etqyhww45e/65862
-#EXTINF:-1 ,CA : COOKING CHANNEL
-http://randomserver.site:2086/wickeduk/etqyhww45e/91273
-#EXTINF:-1 ,CA : CTV 2
-http://randomserver.site:2086/wickeduk/etqyhww45e/65831
-#EXTINF:-1 ,CA : CTV DRAMA
-http://randomserver.site:2086/wickeduk/etqyhww45e/65858
-#EXTINF:-1 ,CA : CTV LIFE
-http://randomserver.site:2086/wickeduk/etqyhww45e/91268
-#EXTINF:-1 ,CA : CTV NEWS CHANNEL
-http://randomserver.site:2086/wickeduk/etqyhww45e/65857
-#EXTINF:-1 ,CA : CTV SCI-FI
-http://randomserver.site:2086/wickeduk/etqyhww45e/65856
-#EXTINF:-1 ,CA : DISCOVERY SCIENCE
-http://randomserver.site:2086/wickeduk/etqyhww45e/3262
-#EXTINF:-1 ,CA : DIY NETWORK
-http://randomserver.site:2086/wickeduk/etqyhww45e/13236
-#EXTINF:-1 ,CA : E!
-http://randomserver.site:2086/wickeduk/etqyhww45e/13235
-#EXTINF:-1 ,CA : FOX SPORTS RACING
-http://randomserver.site:2086/wickeduk/etqyhww45e/65848
-#EXTINF:-1 ,CA : FX
-http://randomserver.site:2086/wickeduk/etqyhww45e/16201
-#EXTINF:-1 ,CA : GAME+
-http://randomserver.site:2086/wickeduk/etqyhww45e/65847
-#EXTINF:-1 ,CA : H2
-http://randomserver.site:2086/wickeduk/etqyhww45e/91264
-#EXTINF:-1 ,CA : HISTORY CHANNEL
-http://randomserver.site:2086/wickeduk/etqyhww45e/3242
-#EXTINF:-1 ,CA : NTV NEWFOUNDLAND
-http://randomserver.site:2086/wickeduk/etqyhww45e/36347
-#EXTINF:-1 ,CA : ONE
-http://randomserver.site:2086/wickeduk/etqyhww45e/91262
-#EXTINF:-1 ,CA : PARAMOUNT
-http://randomserver.site:2086/wickeduk/etqyhww45e/91265
-#EXTINF:-1 ,CA : PEACH TREE TV
-http://randomserver.site:2086/wickeduk/etqyhww45e/3235
-#EXTINF:-1 ,CA : PIX 11
-http://randomserver.site:2086/wickeduk/etqyhww45e/3377
-#EXTINF:-1 ,CA : TLC
-http://randomserver.site:2086/wickeduk/etqyhww45e/3207
-#EXTINF:-1 ,CA : TSN 1
-http://randomserver.site:2086/wickeduk/etqyhww45e/3202
-#EXTINF:-1 ,CA : TV ONTARIO
-http://randomserver.site:2086/wickeduk/etqyhww45e/65828
-#EXTINF:-1 ,por: Crime Investigation
-http://62.210.83.40:25461/alexander/alexander/16564
-#EXTINF:-1 ,CA : DISNEY JR
-http://randomserver.site:2086/wickeduk/etqyhww45e/3260
-#EXTINF:-1 ,CA : DISNEY XD
-http://randomserver.site:2086/wickeduk/etqyhww45e/65851
-#EXTINF:-1 ,KIDS : BABY FIRST TV
-http://randomserver.site:2086/wickeduk/etqyhww45e/59382
-#EXTINF:-1 ,KIDS : BABY TV
-http://randomserver.site:2086/wickeduk/etqyhww45e/6980
-#EXTINF:-1 ,KIDS : BOOMERANG
-http://randomserver.site:2086/wickeduk/etqyhww45e/2756
-#EXTINF:-1 ,KIDS : CARTOON NETWORK
-http://randomserver.site:2086/wickeduk/etqyhww45e/258
-#EXTINF:-1 ,KIDS : CARTOON NETWORK WEST
-http://randomserver.site:2086/wickeduk/etqyhww45e/15220
-#EXTINF:-1 ,KIDS : CARTOONITO
-http://randomserver.site:2086/wickeduk/etqyhww45e/15395
-#EXTINF:-1 ,KIDS : CARTOONS 4U
-http://randomserver.site:2086/wickeduk/etqyhww45e/15535
-#EXTINF:-1 ,KIDS : DISNEY CHANNEL
-http://randomserver.site:2086/wickeduk/etqyhww45e/347
-#EXTINF:-1 ,KIDS : DISNEY JR
-http://randomserver.site:2086/wickeduk/etqyhww45e/13566
-#EXTINF:-1 ,KIDS : DISNEY XD
-http://randomserver.site:2086/wickeduk/etqyhww45e/14943
-#EXTINF:-1 ,KIDS : NICK JR
-http://randomserver.site:2086/wickeduk/etqyhww45e/14950
-#EXTINF:-1 ,KIDS : NICK TOONS
-http://randomserver.site:2086/wickeduk/etqyhww45e/265
-#EXTINF:-1 ,KIDS : NICKELODEON
-http://randomserver.site:2086/wickeduk/etqyhww45e/4081
-#EXTINF:-1 ,====== 常用 ,#genre# ======
-http://3/3.m3u8
-#EXTINF:-1 ,凤凰中文
-http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
-#EXTINF:-1 ,凤凰中文
-http://220.158.149.26:8182/hls/TV00000000000000000067@HHZT.m3u8
-#EXTINF:-1 ,凤凰资讯
-http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
-#EXTINF:-1 ,凤凰资讯
-http://220.158.149.26:8182/hls/TV00000000000000000066@HHZT.m3u8
-#EXTINF:-1 ,凤凰香港
-http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
-#EXTINF:-1 ,凤凰香港
-http://220.158.149.26:8182/hls/TV00000000000000000068@HHZT.m3u8
-#EXTINF:-1 ,翡翠台
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGFeiCui.m3u8
-#EXTINF:-1 ,翡翠台
-http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
-#EXTINF:-1 ,TNT HD
-http://f.ok2.se:8000/victor1/victor123/341
-#EXTINF:-1 ,*ESPN HD
-http://f.ok2.se:8000/victor1/victor123/143
-#EXTINF:-1 ,*CNN HD
-http://f.ok2.se:8000/victor1/victor123/360
-#EXTINF:-1 ,BBC WORLD NEWS
-http://f.ok2.se:8000/victor1/victor123/9546
-#EXTINF:-1 ,*FOX NEWS HD
-http://f.ok2.se:8000/victor1/victor123/363
-#EXTINF:-1 ,Sky News Extra 1
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 ,Sky News Extra 2
-https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-#EXTINF:-1 ,Sky News Extra 3
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:-1 ,CNBC HD
-http://f.ok2.se:8000/victor1/victor123/364
-#EXTINF:-1 ,SKY COMEDY CENTRAL
-http://f.ok2.se:8000/victor1/victor123/1748
-#EXTINF:-1 ,OUTDOOR CHANNEL
-http://f.ok2.se:8000/victor1/victor123/9049
-#EXTINF:-1 ,kk金马影院
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 ,kk开心影院
-http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
-#EXTINF:-1 ,歐美影院
-http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSEAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
-#EXTINF:-1 ,亞洲影院
-http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSEAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
-#EXTINF:-1 ,Movie Kingdom
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-#EXTINF:-1 ,====== News ,#genre# ======
-http://4/4.m3u8
-#EXTINF:-1 ,*CNN HD
-http://f.ok2.se:8000/victor1/victor123/360
-#EXTINF:-1 ,BBC WORLD NEWS
-http://f.ok2.se:8000/victor1/victor123/9546
-#EXTINF:-1 ,*FOX NEWS HD
-http://f.ok2.se:8000/victor1/victor123/363
-#EXTINF:-1 ,FOX NEWS BUSINESS
-http://f.ok2.se:8000/victor1/victor123/4600
-#EXTINF:-1 ,SKY NEWS
-http://f.ok2.se:8000/victor1/victor123/7173
-#EXTINF:-1 ,Sky News Extra 1
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 ,Sky News Extra 2
-https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-#EXTINF:-1 ,Sky News Extra 3
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-#EXTINF:-1 ,CNBC HD
-http://f.ok2.se:8000/victor1/victor123/364
-#EXTINF:-1 ,BBC News
-http://51.52.156.22:8888/http/004
-#EXTINF:-1 ,CCTV NEWS
-http://f.ok2.se:8000/victor1/victor123/3965
-#EXTINF:-1 ,RT NEWS ENGLISH
-http://f.ok2.se:8000/victor1/victor123/512
-#EXTINF:-1 ,DW NEWS
-http://f.ok2.se:8000/victor1/victor123/67410
-#EXTINF:-1 ,EURONEWS
-http://f.ok2.se:8000/victor1/victor123/67409
-#EXTINF:-1 ,CBS NEWS HD
-http://f.ok2.se:8000/victor1/victor123/3078
-#EXTINF:-1 ,ABC NEWS HD
-http://f.ok2.se:8000/victor1/victor123/3077
-#EXTINF:-1 ,CBC NEWS HD
-http://f.ok2.se:8000/victor1/victor123/361
-#EXTINF:-1 ,CTV NEWS NETWORK HD
-http://f.ok2.se:8000/victor1/victor123/2423
-#EXTINF:-1 ,BBC CANADA - NEW
-http://f.ok2.se:8000/victor1/victor123/46724
-#EXTINF:-1 ,BBC AMERICA HD
-http://f.ok2.se:8000/victor1/victor123/357
-#EXTINF:-1 ,MSNBC HD
-http://f.ok2.se:8000/victor1/victor123/365
-#EXTINF:-1 ,CBS HD EAST
-http://f.ok2.se:8000/victor1/victor123/8
-#EXTINF:-1 ,ABC HD EAST
-http://f.ok2.se:8000/victor1/victor123/10
-#EXTINF:-1 ,NBC HD WEST
-http://f.ok2.se:8000/victor1/victor123/303
-#EXTINF:-1 ,ABC HD WEST
-http://f.ok2.se:8000/victor1/victor123/306
-#EXTINF:-1 ,CBS HD WEST
-http://f.ok2.se:8000/victor1/victor123/304
-#EXTINF:-1 ,FOX HD WEST
-http://f.ok2.se:8000/victor1/victor123/305
-#EXTINF:-1 ,*CP24 HD
-http://f.ok2.se:8000/victor1/victor123/11
-#EXTINF:-1 ,HLN HD
-http://f.ok2.se:8000/victor1/victor123/362
-#EXTINF:-1 ,TRT WORLD HD (TR)
-http://f.ok2.se:8000/victor1/victor123/27136
-#EXTINF:-1 ,ALJAZEERA ENGLISH
-http://f.ok2.se:8000/victor1/victor123/1661
-#EXTINF:-1 ,FRANCE 24
-http://f.ok2.se:8000/victor1/victor123/4796
-#EXTINF:-1 ,RT DOCUMENTARY
-http://f.ok2.se:8000/victor1/victor123/3075
-#EXTINF:-1 ,亚洲新闻
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
-#EXTINF:-1 ,NHK华语视界
-https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-#EXTINF:-1 ,NHK英语新闻
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
-#EXTINF:-1 ,====== Movies ,#genre# ======
-http://5/5.m3u8
-#EXTINF:-1 ,HBO 1 HD
-http://f.ok2.se:8000/victor1/victor123/26321
-#EXTINF:-1 ,HBO 2 HD
-http://f.ok2.se:8000/victor1/victor123/26322
-#EXTINF:-1 ,HBO EAST HD - NEW
-http://f.ok2.se:8000/victor1/victor123/371
-#EXTINF:-1 ,HBO COMEDY HD - NEW
-http://f.ok2.se:8000/victor1/victor123/373
-#EXTINF:-1 ,HBO FAMILY HD - NEW
-http://f.ok2.se:8000/victor1/victor123/4829
-#EXTINF:-1 ,HBO SIGNATURE HD - NEW
-http://f.ok2.se:8000/victor1/victor123/372
-#EXTINF:-1 ,HBO ZONE HD - NEW
-http://f.ok2.se:8000/victor1/victor123/4828
-#EXTINF:-1 ,ACTION MAX HD - NEW
-http://f.ok2.se:8000/victor1/victor123/383
-#EXTINF:-1 ,MOREMAX HD - NEW
-http://f.ok2.se:8000/victor1/victor123/381
-#EXTINF:-1 ,THRILLER MAX HD
-http://f.ok2.se:8000/victor1/victor123/80332
-#EXTINF:-1 ,5STAR MAX HD - NEW
-http://f.ok2.se:8000/victor1/victor123/382
-#EXTINF:-1 ,AMC HD
-http://f.ok2.se:8000/victor1/victor123/334
-#EXTINF:-1 ,SHOWCASE HD
-http://f.ok2.se:8000/victor1/victor123/346
-#EXTINF:-1 ,SHOWTIME EAST HD
-http://f.ok2.se:8000/victor1/victor123/11361
-#EXTINF:-1 ,SHOWTIME 2 HD
-http://f.ok2.se:8000/victor1/victor123/11362
-#EXTINF:-1 ,SHOWTIME BEYOND HD
-http://f.ok2.se:8000/victor1/victor123/11363
-#EXTINF:-1 ,SHOWTIME WOMEN HD (NEW)
-http://f.ok2.se:8000/victor1/victor123/11359
-#EXTINF:-1 ,SHOWTIME EXTREME HD
-http://f.ok2.se:8000/victor1/victor123/11358
-#EXTINF:-1 ,SHOWTIME NEXT HD (NEW)
-http://f.ok2.se:8000/victor1/victor123/11360
-#EXTINF:-1 ,SUPER CHANNEL FUSE - NEW
-http://f.ok2.se:8000/victor1/victor123/71289
-#EXTINF:-1 ,VAULT (CDN) - NEW
-http://f.ok2.se:8000/victor1/victor123/67114
-#EXTINF:-1 ,MOVIE TIME HD
-http://f.ok2.se:8000/victor1/victor123/369
-#EXTINF:-1 ,PPV MOVIES
-http://f.ok2.se:8000/victor1/victor123/8784
-#EXTINF:-1 ,SCIENCE FICTION NEW
-http://f.ok2.se:8000/victor1/victor123/8887
-#EXTINF:-1 ,STARZ HD
-http://f.ok2.se:8000/victor1/victor123/374
-#EXTINF:-1 ,STARZ EDGE HD
-http://f.ok2.se:8000/victor1/victor123/377
-#EXTINF:-1 ,STARZ COMEDY HD
-http://f.ok2.se:8000/victor1/victor123/376
-#EXTINF:-1 ,STARZ BLACK HD
-http://f.ok2.se:8000/victor1/victor123/378
-#EXTINF:-1 ,ENCORE WESTERN HD
-http://f.ok2.se:8000/victor1/victor123/379
-#EXTINF:-1 ,EPIX EAST HD - NEW
-http://f.ok2.se:8000/victor1/victor123/69016
-#EXTINF:-1 ,EPIX 2 HD - NEW
-http://f.ok2.se:8000/victor1/victor123/69014
-#EXTINF:-1 ,EPIX DRIVE IN'S HD - NEW
-http://f.ok2.se:8000/victor1/victor123/69012
-#EXTINF:-1 ,EPIX HITS HD - NEW
-http://f.ok2.se:8000/victor1/victor123/69013
-#EXTINF:-1 ,TRUE MOVIES
-http://f.ok2.se:8000/victor1/victor123/1786
-#EXTINF:-1 ,SKY MOVIES COMEDY
-http://f.ok2.se:8000/victor1/victor123/1737
-#EXTINF:-1 ,SKY MOVIES THRILLER
-http://f.ok2.se:8000/victor1/victor123/1742
-#EXTINF:-1 ,CBS ACTION
-http://f.ok2.se:8000/victor1/victor123/7184
-#EXTINF:-1 ,CBS DRAMA
-http://f.ok2.se:8000/victor1/victor123/7186
-#EXTINF:-1 ,SKY 5 STAR
-http://f.ok2.se:8000/victor1/victor123/7181
-#EXTINF:-1 ,SKY CRIME AND INVESTIGATION
-http://f.ok2.se:8000/victor1/victor123/7190
-#EXTINF:-1 ,SKY E4
-http://f.ok2.se:8000/victor1/victor123/7178
-#EXTINF:-1 ,SKY MORE4
-http://f.ok2.se:8000/victor1/victor123/7177
-#EXTINF:-1 ,SKY FILM4
-http://f.ok2.se:8000/victor1/victor123/7189
-#EXTINF:-1 ,SKY HORROR
-http://f.ok2.se:8000/victor1/victor123/7179
-#EXTINF:-1 ,SKY SYFY
-http://f.ok2.se:8000/victor1/victor123/7174
-#EXTINF:-1 ,SKY CHANNEL 4
-http://f.ok2.se:8000/victor1/victor123/7175
-#EXTINF:-1 ,SKY CHANNEL 5
-http://f.ok2.se:8000/victor1/victor123/7176
-#EXTINF:-1 ,SKY SONY MOVIES
-http://f.ok2.se:8000/victor1/victor123/1771
-#EXTINF:-1 ,TVO HD (NA)
-http://f.ok2.se:8000/victor1/victor123/391
-#EXTINF:-1 ,PBS KIDS - NEW
-http://f.ok2.se:8000/victor1/victor123/15071
-#EXTINF:-1 ,YTV HD (NA)
-http://f.ok2.se:8000/victor1/victor123/390
-#EXTINF:-1 ,DISNEY HD EAST
-http://f.ok2.se:8000/victor1/victor123/392
-#EXTINF:-1 ,ABC SPARK HD
-http://f.ok2.se:8000/victor1/victor123/4063
-#EXTINF:-1 ,TREEHOUSE HD
-http://f.ok2.se:8000/victor1/victor123/393
-#EXTINF:-1 ,*LIFETIME MOVIES HD
-http://f.ok2.se:8000/victor1/victor123/326
-#EXTINF:-1 ,SUNDANCE HD - NEW
-http://f.ok2.se:8000/victor1/victor123/10039
-#EXTINF:-1 ,BOOK - NEW
-http://f.ok2.se:8000/victor1/victor123/67100
-#EXTINF:-1 ,SYFY HD
-http://f.ok2.se:8000/victor1/victor123/339
-#EXTINF:-1 ,CTV-SCIFI HD (SPACE)
-http://f.ok2.se:8000/victor1/victor123/8110
-#EXTINF:-1 ,WE TV HD
-http://f.ok2.se:8000/victor1/victor123/342
-#EXTINF:-1 ,*A&E HD
-http://f.ok2.se:8000/victor1/victor123/347
-#EXTINF:-1 ,BET HD
-http://f.ok2.se:8000/victor1/victor123/351
-#EXTINF:-1 ,BET HER HD - NEW
-http://f.ok2.se:8000/victor1/victor123/69008
-#EXTINF:-1 ,CMT HD  - NEW
-http://f.ok2.se:8000/victor1/victor123/12266
-#EXTINF:-1 ,*VH1 HD
-http://f.ok2.se:8000/victor1/victor123/354
-#EXTINF:-1 ,VH1 (US) - NEW
-http://f.ok2.se:8000/victor1/victor123/70262
-#EXTINF:-1 ,VISION HD
-http://f.ok2.se:8000/victor1/victor123/355
-#EXTINF:-1 ,PBS HD
-http://f.ok2.se:8000/victor1/victor123/356
-#EXTINF:-1 ,CHCH HD
-http://f.ok2.se:8000/victor1/victor123/358
-#EXTINF:-1 ,CW11 HD
-http://f.ok2.se:8000/victor1/victor123/359
-#EXTINF:-1 ,CW11 HD WEST
-http://f.ok2.se:8000/victor1/victor123/2421
-#EXTINF:-1 ,TCM HD
-http://f.ok2.se:8000/victor1/victor123/368
-#EXTINF:-1 ,ADULT SWIM HD
-http://f.ok2.se:8000/victor1/victor123/370
-#EXTINF:-1 ,FXM HD
-http://f.ok2.se:8000/victor1/victor123/56246
-#EXTINF:-1 ,007 4 LIFE HD
-http://f.ok2.se:8000/victor1/victor123/7493
-#EXTINF:-1 ,80'S ACTION HITZ HD
-http://f.ok2.se:8000/victor1/victor123/7497
-#EXTINF:-1 ,80'S COMEDY HITZ HD
-http://f.ok2.se:8000/victor1/victor123/7496
-#EXTINF:-1 ,80'S DRAMA HITZ HD
-http://f.ok2.se:8000/victor1/victor123/7495
-#EXTINF:-1 ,80'S HORROR HITZ HD
-http://f.ok2.se:8000/victor1/victor123/7494
-#EXTINF:-1 ,CRAVE 1 HD
-http://f.ok2.se:8000/victor1/victor123/9505
-#EXTINF:-1 ,CRAVE 2 HD
-http://f.ok2.se:8000/victor1/victor123/9506
-#EXTINF:-1 ,CRAVE 3 HD
-http://f.ok2.se:8000/victor1/victor123/9507
-#EXTINF:-1 ,TV LAND HD
-http://f.ok2.se:8000/victor1/victor123/313
-#EXTINF:-1 ,*TBS HD
-http://f.ok2.se:8000/victor1/victor123/317
-#EXTINF:-1 ,*HALLMARK HD
-http://f.ok2.se:8000/victor1/victor123/321
-#EXTINF:-1 ,*HALLMARK MOVIES MYSTERY HD
-http://f.ok2.se:8000/victor1/victor123/4599
-#EXTINF:-1 ,HALLMARK DRAMA
-http://f.ok2.se:8000/victor1/victor123/83349
-#EXTINF:-1 ,====== US-TV ,#genre# ======
-http://6/6.m3u8
-#EXTINF:-1 ,*ID HD
-http://f.ok2.se:8000/victor1/victor123/324
-#EXTINF:-1 ,OXYGEN HD - NEW
-http://f.ok2.se:8000/victor1/victor123/59037
-#EXTINF:-1 ,COOKING CHANNEL HD
-http://f.ok2.se:8000/victor1/victor123/6108
-#EXTINF:-1 ,FOOD HD
-http://f.ok2.se:8000/victor1/victor123/333
-#EXTINF:-1 ,FOOD HD (USA)
-http://f.ok2.se:8000/victor1/victor123/80508
-#EXTINF:-1 ,FOX HD EAST
-http://f.ok2.se:8000/victor1/victor123/9
-#EXTINF:-1 ,SKY BBC 1
-http://f.ok2.se:8000/victor1/victor123/1783
-#EXTINF:-1 ,SKY BBC 2
-http://f.ok2.se:8000/victor1/victor123/1784
-#EXTINF:-1 ,SKY TLC
-http://f.ok2.se:8000/victor1/victor123/1790
-#EXTINF:-1 ,SKY HISTORY
-http://f.ok2.se:8000/victor1/victor123/1758
-#EXTINF:-1 ,SKY H2
-http://f.ok2.se:8000/victor1/victor123/1754
-#EXTINF:-1 ,SKY REALLY
-http://f.ok2.se:8000/victor1/victor123/1757
-#EXTINF:-1 ,SKY ARTS
-http://f.ok2.se:8000/victor1/victor123/2196
-#EXTINF:-1 ,SKY QUEST
-http://f.ok2.se:8000/victor1/victor123/1768
-#EXTINF:-1 ,SKY TRU TV
-http://f.ok2.se:8000/victor1/victor123/1723
-#EXTINF:-1 ,SKY FOOD NETWORK
-http://f.ok2.se:8000/victor1/victor123/1788
-#EXTINF:-1 ,SKY HOME
-http://f.ok2.se:8000/victor1/victor123/1718
-#EXTINF:-1 ,SKY DAVE
-http://f.ok2.se:8000/victor1/victor123/1775
-#EXTINF:-1 ,SKY ITV 1
-http://f.ok2.se:8000/victor1/victor123/4865
-#EXTINF:-1 ,SKY ITV 2
-http://f.ok2.se:8000/victor1/victor123/4864
-#EXTINF:-1 ,SKY ITV 3
-http://f.ok2.se:8000/victor1/victor123/4863
-#EXTINF:-1 ,SKY ITV 4
-http://f.ok2.se:8000/victor1/victor123/4862
-#EXTINF:-1 ,SKY ITV BE
-http://f.ok2.se:8000/victor1/victor123/4860
-#EXTINF:-1 ,SKY RTE 1
-http://f.ok2.se:8000/victor1/victor123/4859
-#EXTINF:-1 ,SKY RTE 2
-http://f.ok2.se:8000/victor1/victor123/4858
-#EXTINF:-1 ,SKY ATLANTIC
-http://f.ok2.se:8000/victor1/victor123/1740
-#EXTINF:-1 ,SKY ALIBI
-http://f.ok2.se:8000/victor1/victor123/1774
-#EXTINF:-1 ,SKY 2
-http://f.ok2.se:8000/victor1/victor123/1749
-#EXTINF:-1 ,CITY TV HD
-http://f.ok2.se:8000/victor1/victor123/14
-#EXTINF:-1 ,OLN - NEW
-http://f.ok2.se:8000/victor1/victor123/67103
-#EXTINF:-1 ,*GLOBAL EAST HD
-http://f.ok2.se:8000/victor1/victor123/15
-#EXTINF:-1 ,CTV
-http://f.ok2.se:8000/victor1/victor123/16
-#EXTINF:-1 ,CTV
-http://f.ok2.se:8000/victor1/victor123/17
-#EXTINF:-1 ,CTV
-http://f.ok2.se:8000/victor1/victor123/71277
-#EXTINF:-1 ,CBC EAST HD
-http://f.ok2.se:8000/victor1/victor123/18
-#EXTINF:-1 ,CBC WINDSOR - NEW
-http://f.ok2.se:8000/victor1/victor123/71279
-#EXTINF:-1 ,CBC ATLANTIC - NEW
-http://f.ok2.se:8000/victor1/victor123/71278
-#EXTINF:-1 ,CBC CHARLOTTETOWN HD
-http://f.ok2.se:8000/victor1/victor123/72691
-#EXTINF:-1 ,CTV MONCTON - NEW
-http://f.ok2.se:8000/victor1/victor123/71282
-#EXTINF:-1 ,CTV NB - NEW
-http://f.ok2.se:8000/victor1/victor123/71283
-#EXTINF:-1 ,CTV2 ATLANTIC
-http://f.ok2.se:8000/victor1/victor123/71425
-#EXTINF:-1 ,CTV2 LONDON
-http://f.ok2.se:8000/victor1/victor123/88493
-#EXTINF:-1 ,NTV (NEWFOUNDLAND) - NEW
-http://f.ok2.se:8000/victor1/victor123/68073
-#EXTINF:-1 ,CBC OTTAWA - NEW
-http://f.ok2.se:8000/victor1/victor123/45499
-#EXTINF:-1 ,CTV OTTAWA - NEW
-http://f.ok2.se:8000/victor1/victor123/65625
-#EXTINF:-1 ,CTV 2 OTTAWA - NEW
-http://f.ok2.se:8000/victor1/victor123/59130
-#EXTINF:-1 ,CBC WINNIPEG - NEW
-http://f.ok2.se:8000/victor1/victor123/46716
-#EXTINF:-1 ,CTV WINNIPEG
-http://f.ok2.se:8000/victor1/victor123/63327
-#EXTINF:-1 ,CITY WINNIPEG
-http://f.ok2.se:8000/victor1/victor123/71424
-#EXTINF:-1 ,CBC EDMONTON - NEW
-http://f.ok2.se:8000/victor1/victor123/46715
-#EXTINF:-1 ,CTV EDMONTON - NEW
-http://f.ok2.se:8000/victor1/victor123/65628
-#EXTINF:-1 ,GLOBAL EDMONTON - NEW
-http://f.ok2.se:8000/victor1/victor123/65627
-#EXTINF:-1 ,BC1 HD
-http://f.ok2.se:8000/victor1/victor123/307
-#EXTINF:-1 ,GLOBAL BC HD
-http://f.ok2.se:8000/victor1/victor123/308
-#EXTINF:-1 ,CBC CALGARY
-http://f.ok2.se:8000/victor1/victor123/7339
-#EXTINF:-1 ,CTV CALGARY
-http://f.ok2.se:8000/victor1/victor123/7338
-#EXTINF:-1 ,CITY CALGARY - NEW
-http://f.ok2.se:8000/victor1/victor123/71280
-#EXTINF:-1 ,GLOBAL LETHBRIDGE - NEW
-http://f.ok2.se:8000/victor1/victor123/71285
-#EXTINF:-1 ,OMNI CALGARY - NEW
-http://f.ok2.se:8000/victor1/victor123/71286
-#EXTINF:-1 ,OMNI PRAIRIES - NEW
-http://f.ok2.se:8000/victor1/victor123/71288
-#EXTINF:-1 ,CTV VANCOUVER HD
-http://f.ok2.se:8000/victor1/victor123/310
-#EXTINF:-1 ,CTV 2 VANCOUVER HD
-http://f.ok2.se:8000/victor1/victor123/2418
-#EXTINF:-1 ,CITY VANCOUVER HD
-http://f.ok2.se:8000/victor1/victor123/311
-#EXTINF:-1 ,CBC VANCOUVER HD
-http://f.ok2.se:8000/victor1/victor123/309
-#EXTINF:-1 ,OMNI BC - NEW
-http://f.ok2.se:8000/victor1/victor123/71287
-#EXTINF:-1 ,CHEK VANCOUVER HD
-http://f.ok2.se:8000/victor1/victor123/2419
-#EXTINF:-1 ,CBC HD (MTL)
-http://f.ok2.se:8000/victor1/victor123/15074
-#EXTINF:-1 ,CTV HD (MTL)
-http://f.ok2.se:8000/victor1/victor123/2398
-#EXTINF:-1 ,CITY HD (MTL)
-http://f.ok2.se:8000/victor1/victor123/15073
-#EXTINF:-1 ,GLOBAL HD (MTL)
-http://f.ok2.se:8000/victor1/victor123/2397
-#EXTINF:-1 ,GSN HD - NEW
-http://f.ok2.se:8000/victor1/victor123/12769
-#EXTINF:-1 ,BEACON TV - NEW
-http://f.ok2.se:8000/victor1/victor123/56247
-#EXTINF:-1 ,METV HD - NEW
-http://f.ok2.se:8000/victor1/victor123/15072
-#EXTINF:-1 ,YES TV
-http://f.ok2.se:8000/victor1/victor123/6962
-#EXTINF:-1 ,FX HD
-http://f.ok2.se:8000/victor1/victor123/314
-#EXTINF:-1 ,FXX HD
-http://f.ok2.se:8000/victor1/victor123/315
-#EXTINF:-1 ,TRU TV HD
-http://f.ok2.se:8000/victor1/victor123/340
-#EXTINF:-1 ,COMEDY NETWORK HD
-http://f.ok2.se:8000/victor1/victor123/316
-#EXTINF:-1 ,PARAMOUNT NETWORK HD
-http://f.ok2.se:8000/victor1/victor123/318
-#EXTINF:-1 ,ION HD - NEW
-http://f.ok2.se:8000/victor1/victor123/59033
-#EXTINF:-1 ,LIFE HD
-http://f.ok2.se:8000/victor1/victor123/325
-#EXTINF:-1 ,MAKEFUL - NEW
-http://f.ok2.se:8000/victor1/victor123/67102
-#EXTINF:-1 ,IFC HD
-http://f.ok2.se:8000/victor1/victor123/327
-#EXTINF:-1 ,POP HD
-http://f.ok2.se:8000/victor1/victor123/82603
-#EXTINF:-1 ,*TLC HD
-http://f.ok2.se:8000/victor1/victor123/328
-#EXTINF:-1 ,GUSTO - NEW
-http://f.ok2.se:8000/victor1/victor123/67101
-#EXTINF:-1 ,APTN - NEW
-http://f.ok2.se:8000/victor1/victor123/67104
-#EXTINF:-1 ,OUT TV - NEW
-http://f.ok2.se:8000/victor1/victor123/67116
-#EXTINF:-1 ,GINX (CDN) - NEW
-http://f.ok2.se:8000/victor1/victor123/67115
-#EXTINF:-1 ,MOTOR TREND HD
-http://f.ok2.se:8000/victor1/victor123/367
-#EXTINF:-1 ,VICELAND HD
-http://f.ok2.se:8000/victor1/victor123/323
-#EXTINF:-1 ,*HGTV HD
-http://f.ok2.se:8000/victor1/victor123/335
-#EXTINF:-1 ,HGTV HD (CDN)
-http://f.ok2.se:8000/victor1/victor123/42685
-#EXTINF:-1 ,PEACHTREE HD
-http://f.ok2.se:8000/victor1/victor123/337
-#EXTINF:-1 ,WGN HD - NEW
-http://f.ok2.se:8000/victor1/victor123/9163
-#EXTINF:-1 ,E! HD
-http://f.ok2.se:8000/victor1/victor123/338
-#EXTINF:-1 ,SLICE HD
-http://f.ok2.se:8000/victor1/victor123/343
-#EXTINF:-1 ,W NETWORK HD
-http://f.ok2.se:8000/victor1/victor123/344
-#EXTINF:-1 ,OWN HD
-http://f.ok2.se:8000/victor1/victor123/348
-#EXTINF:-1 ,QVC - NEW
-http://f.ok2.se:8000/victor1/victor123/67097
-#EXTINF:-1 ,TSC - NEW
-http://f.ok2.se:8000/victor1/victor123/67098
-#EXTINF:-1 ,TRAVEL HD
-http://f.ok2.se:8000/victor1/victor123/349
-#EXTINF:-1 ,DESTINATION AMERICA HD
-http://f.ok2.se:8000/victor1/victor123/7482
-#EXTINF:-1 ,MTV HD
-http://f.ok2.se:8000/victor1/victor123/350
-#EXTINF:-1 ,MTV 2 HD - NEW
-http://f.ok2.se:8000/victor1/victor123/69011
-#EXTINF:-1 ,REVOLT HD - NEW
-http://f.ok2.se:8000/victor1/victor123/10042
-#EXTINF:-1 ,MUCH MUSIC HD
-http://f.ok2.se:8000/victor1/victor123/4141
-#EXTINF:-1 ,BRAVO HD
-http://f.ok2.se:8000/victor1/victor123/353
-#EXTINF:-1 ,====== Discoveries ,#genre# ======
-http://7/7.m3u8
-#EXTINF:-1 ,*DISCOVERY HD (CDN)
-http://f.ok2.se:8000/victor1/victor123/319
-#EXTINF:-1 ,DISCOVERY HD (USA)
-http://f.ok2.se:8000/victor1/victor123/56250
-#EXTINF:-1 ,DISCOVERY SCIENCE HD
-http://f.ok2.se:8000/victor1/victor123/320
-#EXTINF:-1 ,DISCOVERY FAMILY HD - NEW
-http://f.ok2.se:8000/victor1/victor123/59034
-#EXTINF:-1 ,NAT GEO HD
-http://f.ok2.se:8000/victor1/victor123/330
-#EXTINF:-1 ,*NAT GEO WILD HD
-http://f.ok2.se:8000/victor1/victor123/331
-#EXTINF:-1 ,ANIMAL PLANET HD
-http://f.ok2.se:8000/victor1/victor123/332
-#EXTINF:-1 ,SKY NAT GEO
-http://f.ok2.se:8000/victor1/victor123/1755
-#EXTINF:-1 ,SKY NAT GEO WILD
-http://f.ok2.se:8000/victor1/victor123/1756
-#EXTINF:-1 ,SKY ANIMAL PLANET
-http://f.ok2.se:8000/victor1/victor123/1760
-#EXTINF:-1 ,SKY DISCOVERY
-http://f.ok2.se:8000/victor1/victor123/1764
-#EXTINF:-1 ,SKY DISCOVERY HISTORY
-http://f.ok2.se:8000/victor1/victor123/1765
-#EXTINF:-1 ,SKY DISCOVERY SCIENCE
-http://f.ok2.se:8000/victor1/victor123/1766
-#EXTINF:-1 ,SKY DISCOVERY SHED
-http://f.ok2.se:8000/victor1/victor123/1761
-#EXTINF:-1 ,LOVE NATURE HD
-http://f.ok2.se:8000/victor1/victor123/1258
-#EXTINF:-1 ,*HISTORY HD
-http://f.ok2.se:8000/victor1/victor123/322
-#EXTINF:-1 ,SMITHSONIAN HD
-http://f.ok2.se:8000/victor1/victor123/3951
-#EXTINF:-1 ,FYI HD
-http://f.ok2.se:8000/victor1/victor123/42684
-#EXTINF:-1 ,DIY HD
-http://f.ok2.se:8000/victor1/victor123/329
-#EXTINF:-1 ,====== sports,#genre# ======
-http://8/8.m3u8
-#EXTINF:-1 ,TNT HD
-http://f.ok2.se:8000/victor1/victor123/341
-#EXTINF:-1 ,*ESPN HD
-http://f.ok2.se:8000/victor1/victor123/143
-#EXTINF:-1 ,ESPN 2 HD
-http://f.ok2.se:8000/victor1/victor123/144
-#EXTINF:-1 ,*NBA HD
-http://f.ok2.se:8000/victor1/victor123/165
-#EXTINF:-1 ,ESPN ACC HD
-http://f.ok2.se:8000/victor1/victor123/86092
-#EXTINF:-1 ,ESPN NEWS HD - NEW
-http://f.ok2.se:8000/victor1/victor123/59038
-#EXTINF:-1 ,*NBC SPORTS
-http://f.ok2.se:8000/victor1/victor123/170
-#EXTINF:-1 ,*CBS SPORTS HD
-http://f.ok2.se:8000/victor1/victor123/169
-#EXTINF:-1 ,*TSN HD
-http://f.ok2.se:8000/victor1/victor123/138
-#EXTINF:-1 ,*TSN HD
-http://f.ok2.se:8000/victor1/victor123/140
-#EXTINF:-1 ,*TSN HD
-http://f.ok2.se:8000/victor1/victor123/141
-#EXTINF:-1 ,*TSN HD
-http://f.ok2.se:8000/victor1/victor123/142
-#EXTINF:-1 ,BIG 10 HD
-http://f.ok2.se:8000/victor1/victor123/3950
-#EXTINF:-1 ,FOX COLLEGE ATLANTIC
-http://f.ok2.se:8000/victor1/victor123/59885
-#EXTINF:-1 ,FOX COLLEGE PACIFIC
-http://f.ok2.se:8000/victor1/victor123/59886
-#EXTINF:-1 ,*FOX SPORTS 1 HD
-http://f.ok2.se:8000/victor1/victor123/145
-#EXTINF:-1 ,*FOX SPORTS 2 HD
-http://f.ok2.se:8000/victor1/victor123/146
-#EXTINF:-1 ,PAC 12 ARIZONA
-http://f.ok2.se:8000/victor1/victor123/9691
-#EXTINF:-1 ,PAC 12 BAY AREA
-http://f.ok2.se:8000/victor1/victor123/9690
-#EXTINF:-1 ,PAC 12 LOS ANGELES
-http://f.ok2.se:8000/victor1/victor123/9692
-#EXTINF:-1 ,PAC 12 MOUNTAIN
-http://f.ok2.se:8000/victor1/victor123/9689
-#EXTINF:-1 ,PAC 12 NETWORK
-http://f.ok2.se:8000/victor1/victor123/9687
-#EXTINF:-1 ,PAC 12 OREGON
-http://f.ok2.se:8000/victor1/victor123/9688
-#EXTINF:-1 ,*SPORTSNET ONT HD
-http://f.ok2.se:8000/victor1/victor123/148
-#EXTINF:-1 ,*SPORTSNET ONE HD
-http://f.ok2.se:8000/victor1/victor123/149
-#EXTINF:-1 ,SPORTSNET WEST HD
-http://f.ok2.se:8000/victor1/victor123/8890
-#EXTINF:-1 ,*SPORTSNET PACIFIC HD
-http://f.ok2.se:8000/victor1/victor123/2434
-#EXTINF:-1 ,*SPORTSNET 360 HD
-http://f.ok2.se:8000/victor1/victor123/147
-#EXTINF:-1 ,*SPORTSNET WORLD HD
-http://f.ok2.se:8000/victor1/victor123/150
-#EXTINF:-1 ,*NFL NETWORK HD
-http://f.ok2.se:8000/victor1/victor123/157
-#EXTINF:-1 ,*NHL NETWORK HD
-http://f.ok2.se:8000/victor1/victor123/156
-#EXTINF:-1 ,LEAFS TV
-http://f.ok2.se:8000/victor1/victor123/59039
-#EXTINF:-1 ,MSG HD - NEW
-http://f.ok2.se:8000/victor1/victor123/10052
-#EXTINF:-1 ,YES NETWORK HD
-http://f.ok2.se:8000/victor1/victor123/10034
-#EXTINF:-1 ,MLB NETWORK HD
-http://f.ok2.se:8000/victor1/victor123/2193
-#EXTINF:-1 ,GOLF HD
-http://f.ok2.se:8000/victor1/victor123/166
-#EXTINF:-1 ,WWE HD
-http://f.ok2.se:8000/victor1/victor123/168
-#EXTINF:-1 ,NESN HD
-http://f.ok2.se:8000/victor1/victor123/96372
-#EXTINF:-1 ,TENNIS HD
-http://f.ok2.se:8000/victor1/victor123/167
-#EXTINF:-1 ,MAVTV
-http://f.ok2.se:8000/victor1/victor123/68854
-#EXTINF:-1 ,WILLOW CRICKET HD
-http://f.ok2.se:8000/victor1/victor123/198
-#EXTINF:-1 ,WILLOW XTRA HD
-http://f.ok2.se:8000/victor1/victor123/9630
-#EXTINF:-1 ,FIGHT - NEW
-http://f.ok2.se:8000/victor1/victor123/71284
-#EXTINF:-1 ,*BEIN SPORTS HD
-http://f.ok2.se:8000/victor1/victor123/171
-#EXTINF:-1 ,TVG - NEW
-http://f.ok2.se:8000/victor1/victor123/59036
-#EXTINF:-1 ,TVG 2 - NEW
-http://f.ok2.se:8000/victor1/victor123/81931
-#EXTINF:-1 ,RACING.COM (AU)
-http://f.ok2.se:8000/victor1/victor123/80783
-#EXTINF:-1 ,WFN
-http://f.ok2.se:8000/victor1/victor123/26231
-#EXTINF:-1 ,OUTDOOR CHANNEL
-http://f.ok2.se:8000/victor1/victor123/9049
-#EXTINF:-1 ,SPORTSMAN NETWORK
-http://f.ok2.se:8000/victor1/victor123/9050
-#EXTINF:-1 ,BT SPORTS 1 HD
-http://f.ok2.se:8000/victor1/victor123/225
-#EXTINF:-1 ,BT SPORTS 2 HD
-http://f.ok2.se:8000/victor1/victor123/226
-#EXTINF:-1 ,BT SPORTS 3 HD
-http://f.ok2.se:8000/victor1/victor123/232
-#EXTINF:-1 ,BT SPORTS ESPN
-http://f.ok2.se:8000/victor1/victor123/233
-#EXTINF:-1 ,====== HKTV,#genre# ======
-http://9/9.m3u8
-#EXTINF:-1 ,凤凰中文
-http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
-#EXTINF:-1 ,凤凰中文
-http://220.158.149.26:8182/hls/TV00000000000000000067@HHZT.m3u8
-#EXTINF:-1 ,凤凰资讯
-http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
-#EXTINF:-1 ,凤凰资讯
-http://220.158.149.26:8182/hls/TV00000000000000000066@HHZT.m3u8
-#EXTINF:-1 ,凤凰香港
-http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
-#EXTINF:-1 ,凤凰香港
-http://220.158.149.26:8182/hls/TV00000000000000000068@HHZT.m3u8
-#EXTINF:-1 ,HKS香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 ,HKS香港卫视
-http://cctvalih5ca.v.myalicdn.com/cstv/xianggangweishi_2/index.m3u8
-#EXTINF:-1 ,环球电視
-http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
-#EXTINF:-1 ,亞美衛視
-http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-#EXTINF:-1 ,翡翠台
-https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGFeiCui.m3u8
-#EXTINF:-1 ,翡翠台
-http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
-#EXTINF:-1 ,无线新闻
-http://45.93.217.106/jiuban/hg.php?id=1
-#EXTINF:-1 ,无线新闻
-http://kean-hoe.ga/dl/tvb/tvb.php?id=wxxwsd
-#EXTINF:-1 ,无线新闻
-http://danielwu.gz01.bdysite.com/iptv/?id=wxxw2
-#EXTINF:-1 ,无线新闻
-http://45.93.217.106/jiuban/hg.php?id=1
-#EXTINF:-1 ,无线新闻
-https://www.ootori.xyz/tv/tvb.php?id=inews
-#EXTINF:-1 ,无线新闻
-http://96.45.185.192/tv.php?vid=wxxw
-#EXTINF:-1 ,无线新闻
-http://tv.sason.xyz/proxy/tvb.php?id=xw
-#EXTINF:-1 ,无线新闻
-http://tv.sason.xyz/proxy/tvb.php?id=xw
-#EXTINF:-1 ,无线新闻
-http://xggj04450269.gfzyw.cn/tvb.php?id=1
-#EXTINF:-1 ,无线财经
-http://45.93.217.106/jiuban/hg.php?id=2
-#EXTINF:-1 ,无线财经
-http://96.45.185.192/tv.php?vid=wxcjzx
-#EXTINF:-1 ,无线财经
-https://www.ootori.xyz/tv/tvb.php?id=finance
-#EXTINF:-1 ,无线财经
-http://tv.sason.xyz/proxy/tvb.php?id=cj
-#EXTINF:-1 ,无线财经
-http://tv.sason.xyz/proxy/tvb.php?id=cj
-#EXTINF:-1 ,耀才財經台1
-http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 ,耀才財經台1
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
-#EXTINF:-1 ,耀才財經台1
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 ,耀才財經台1
-http://202.69.69.180:443/webcast/bshdlive-mobile/playlist.m3u8
-#EXTINF:-1 ,亚视本港
-https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
-#EXTINF:-1 ,RHK32
-https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
-#EXTINF:-1 ,有线新闻2
-http://danielwu.gz01.bdysite.com/iptv/?id=yxxw2
-#EXTINF:-1 ,NOW新闻台
-http://a.315600.xyz/dl/gt.php?id=nowtvlive
-#EXTINF:-1 ,C+
-http://liveima.utvlive.top/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:-1 ,VIUTV
-http://61.238.6.49:8000/bysid/99
-#EXTINF:-1 ,VIUTV
-http://61.238.6.49:8000/bysid/96
-#EXTINF:-1 ,凤凰电影
-https://www.fanmingming.cn/hls/fhdy.m3u8
-#EXTINF:-1 ,天映娱乐thrll
-http://210.210.155.35/qwr9ew/s/s34/02.m3u8
-#EXTINF:-1 ,kk金马影院
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 ,kk开心影院
-http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
-#EXTINF:-1 ,歐美影院
-http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSEAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
-#EXTINF:-1 ,亞洲影院
-http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSEAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
-#EXTINF:-1 ,天映频道Celestial Movies
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 ,卡式台
-http://live.vpnyun.tk:8080/demo/456321/23
-#EXTINF:-1 ,好消息台
-http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
-#EXTINF:-1 ,澳视澳门
-https://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 ,澳视电影
-https://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1 ,澳视体育
-https://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 ,澳视资讯
-https://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
-#EXTINF:-1 ,澳视综艺
-https://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 ,澳视立法院
-https://live4.tdm.com.mo/tv/_definst_/ch21.live/playlist.m3u8
-#EXTINF:-1 ,澳視澳門
-http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 ,澳視澳門
-http://61.244.22.4/ch1/ch1.live/index.m3u8
-#EXTINF:-1 ,澳視澳門
-http://61.244.22.5/ch1/ch1.live/playelist.m3u8
-#EXTINF:-1 ,澳視衛星
-http://live4.tdm.com.mo/ch3/_definst_//ch3.live/playlist.m3u8
-#EXTINF:-1 ,澳視衛星
-http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8
-#EXTINF:-1 ,澳視衛星
-http://live4.tdm.com.mo/ch3/definst//ch3.live/playlist.m3u8
-#EXTINF:-1 ,澳視衛星
-http://61.244.22.4/ch3/ch3.live/index.m3u8
-#EXTINF:-1 ,澳视综艺
-http://61.244.22.5/ch6/_definst_/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 ,澳视葡文
-http://61.244.22.4/ch2/ch2.live/index.m3u8
-#EXTINF:-1 ,澳视葡文
-http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
-#EXTINF:-1 ,澳视葡文
-http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
-#EXTINF:-1 ,澳视资讯
-http://61.244.22.5/ch5/info_ch5.live/master.m3u8
-#EXTINF:-1 ,澳视资讯
-http://61.244.22.4/ch5/info_ch5.live/index.m3u8
-#EXTINF:-1 ,澳門微电影
-http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
-#EXTINF:-1 ,====== TWTV,#genre# ======
-http://10/10.m3u8
-#EXTINF:-1 ,TVBS新闻 FHD ★
-http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-#EXTINF:-1 ,TVBS新闻 FHD ★
-http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
-#EXTINF:-1 ,东森财经新闻 FHD ★
-http://seb.sason.top/sc/dscjxw_fhd.m3u8
-#EXTINF:-1 ,东森新闻 FHD ★
-http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 ,华视新闻 FHD ★
-http://seb.sason.top/sc/hsxw_fhd.m3u8
-#EXTINF:-1 ,民视新闻 FHD ★
-http://seb.sason.top/sc/msxw_fhd.m3u8
-#EXTINF:-1 ,三立iNews FHD ★
-http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:-1 ,三立Live FHD ★
-http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 ,台视新闻 FHD ★
-http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1 ,中视新闻 FHD ★
-http://seb.sason.top/sc/zsxw_fhd.m3u8
-#EXTINF:-1 ,中天新闻 FHD ★
-http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 ,壹新闻 FHD ★
-http://stream.nexttv.com.tw/n001/hd/live.m3u8
-#EXTINF:-1 ,三立新闻
-http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
-#EXTINF:-1 ,三立新闻
-http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
-#EXTINF:-1 ,民视 ★
-http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:-1 ,民视 ★
-http://seb.sason.top/ptv/ftv.php?id=ms
-#EXTINF:-1 ,民视第一 ★
-http://seb.sason.top/ptv/ftv.php?id=dy
-#EXTINF:-1 ,民视台湾 ★
-http://seb.sason.top/ptv/ftv.php?id=tw
-#EXTINF:-1 ,民视影剧 ★
-http://seb.sason.top/ptv/ftv.php?id=yj
-#EXTINF:-1 ,民视综艺 ★
-http://seb.sason.top/ptv/ftv.php?id=zy
-#EXTINF:-1 ,民视旅游 ★
-http://seb.sason.top/ptv/ftv.php?id=ly
-#EXTINF:-1 ,好消息
-http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
-#EXTINF:-1 ,大爱1台
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 ,TVBS新聞台
-http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
-#EXTINF:-1 ,TVBS歡樂台
-http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE
-#EXTINF:-1 ,CNEX Taiwan
-http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE
-#EXTINF:-1 ,HBO Asia
-http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
-#EXTINF:-1 ,博斯魅力
-https://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:-1 ,番薯衛星電視台
-http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
-#EXTINF:-1 ,空中英語教室
-http://220.158.149.14:9999/live/TV00000000000000000077@HHZT;LIVE
-#EXTINF:-1 ,緯來體育台
-http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
