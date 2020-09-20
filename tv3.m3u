@@ -1,366 +1,366 @@
 #EXTM3U
-#EXTINF:-1 ,group-title"au",Sky News Extra 1
+#EXTINF:-1 group-title="au",Sky News Extra 1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8?checkedby:hlscat.com
-#EXTINF:-1 ,group-title"au",Sky News Extra 2
+#EXTINF:-1 group-title="au",Sky News Extra 2
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8?checkedby:hlscat.com
-#EXTINF:-1 ,group-title"au",Sky News Extra 3
+#EXTINF:-1 group-title="au",Sky News Extra 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8?checkedby:hlscat.com
-#EXTINF:-1 ,group-title"au",SBS
+#EXTINF:-1 group-title="au",SBS
 https://sbs-live.akamaized.net/hls/live/2002827/channel1/geo/master_2500K.m3u8
-#EXTINF:-1 ,group-title"au",SBS
+#EXTINF:-1 group-title="au",SBS
 https://i.mjh.nz/au/Sydney/tv.320203000301.m3u8
-#EXTINF:-1 ,group-title"au",SBS Food
+#EXTINF:-1 group-title="au",SBS Food
 https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8
-#EXTINF:-1 ,group-title"au",SBS Food
+#EXTINF:-1 group-title="au",SBS Food
 https://i.mjh.nz/au/Sydney/tv.320203000304.m3u8
-#EXTINF:-1 ,group-title"au",SBS World Movies
+#EXTINF:-1 group-title="au",SBS World Movies
 https://sbs-live.akamaized.net/hls/live/2005470/channel5/geo/master_2500K.m3u8
-#EXTINF:-1 ,group-title"au",SBS World Movies
+#EXTINF:-1 group-title="au",SBS World Movies
 https://i.mjh.nz/au/Sydney/tv.320203000307.m3u8
-#EXTINF:-1 ,group-title"au",SBS VICELAND
+#EXTINF:-1 group-title="au",SBS VICELAND
 https://sbs-live.akamaized.net/hls/live/2002828/channel2/geo/master_2500K.m3u8
-#EXTINF:-1 ,group-title"au",SBS VICELAND
+#EXTINF:-1 group-title="au",SBS VICELAND
 https://i.mjh.nz/au/Sydney/tv.320203000303.m3u8
-#EXTINF:-1 ,group-title"au",SBS NITV
+#EXTINF:-1 group-title="au",SBS NITV
 https://sbs-live.akamaized.net/hls/live/2002826/channel4/geo/master_1800K.m3u8
-#EXTINF:-1 ,group-title"au",SBS NITV
+#EXTINF:-1 group-title="au",SBS NITV
 https://i.mjh.nz/au/Sydney/tv.320203000305.m3u8
-#EXTINF:-1 ,group-title"au",ABC NEWS
+#EXTINF:-1 group-title="au",ABC NEWS
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 ,group-title"au",ABC NEWS
+#EXTINF:-1 group-title="au",ABC NEWS
 https://c.mjh.nz/101002210220/
-#EXTINF:-1 ,group-title"au",ABC
+#EXTINF:-1 group-title="au",ABC
 https://c.mjh.nz/101002210221/
-#EXTINF:-1 ,group-title"au",ABC Comedy
+#EXTINF:-1 group-title="au",ABC Comedy
 https://c.mjh.nz/abc2/
-#EXTINF:-1 ,group-title"au",ABC Me
+#EXTINF:-1 group-title="au",ABC Me
 https://c.mjh.nz/101002210224/
-#EXTINF:-1 ,group-title"au",ABC KIDS
+#EXTINF:-1 group-title="au",ABC KIDS
 https://c.mjh.nz/101002210222/
-#EXTINF:-1 ,group-title"au",7ONE
+#EXTINF:-1 group-title="au",7ONE
 https://npc.cdn.7livecloud.io/hls/live/CNS1/masterSD.m3u8
-#EXTINF:-1 ,group-title"au",7ONE
+#EXTINF:-1 group-title="au",7ONE
 https://npc.cdn.7livecloud.io/hls/live/MKY1/masterSD.m3u8
-#EXTINF:-1 ,group-title"au",7ONE
+#EXTINF:-1 group-title="au",7ONE
 https://npc.cdn.7livecloud.io/hls/live/RKY1/masterSD.m3u8
-#EXTINF:-1 ,group-title"au",7ONE
+#EXTINF:-1 group-title="au",7ONE
 https://npc.cdn.7livecloud.io/hls/live/TWB1/masterSD.m3u8
-#EXTINF:-1 ,group-title"au",7ONE
+#EXTINF:-1 group-title="au",7ONE
 https://npc.cdn.7livecloud.io/hls/live/TSV1/masterSD.m3u8
-#EXTINF:-1 ,group-title"au",7ONE
+#EXTINF:-1 group-title="au",7ONE
 https://npc.cdn.7livecloud.io/hls/live/WBY1/masterSD.m3u8
-#EXTINF:-1 ,group-title"au",7ONE
+#EXTINF:-1 group-title="au",7ONE
 https://i.mjh.nz/au/Sydney/tv.101305020520.m3u8
-#EXTINF:-1 ,group-title"au",7TWO Brisbane
+#EXTINF:-1 group-title="au",7TWO Brisbane
 https://npc.cdn.7livecloud.io/hls/live/BRI2/masterSD.m3u8
-#EXTINF:-1 ,group-title"au",7TWO Adelaide
+#EXTINF:-1 group-title="au",7TWO Adelaide
 https://npc.cdn.7livecloud.io/hls/live/ADE2/masterSD.m3u8
-#EXTINF:-1 ,group-title"au",7TWO Perth
+#EXTINF:-1 group-title="au",7TWO Perth
 https://npc.cdn.7livecloud.io/hls/live/PER2/masterSD.m3u8
-#EXTINF:-1 ,group-title"au",7TWO Regional QLD
+#EXTINF:-1 group-title="au",7TWO Regional QLD
 https://npc.cdn.7livecloud.io/hls/live/QLD2/masterSD.m3u8
-#EXTINF:-1 ,group-title"au",7TWO
+#EXTINF:-1 group-title="au",7TWO
 https://i.mjh.nz/au/Sydney/tv.101305020522.m3u8
-#EXTINF:-1 ,group-title"au",7mate Sydney
+#EXTINF:-1 group-title="au",7mate Sydney
 https://npc.cdn.7livecloud.io/hls/live/SYD3/masterSD.m3u8
-#EXTINF:-1 ,group-title"au",7mate Brisbane
+#EXTINF:-1 group-title="au",7mate Brisbane
 https://npc.cdn.7livecloud.io/hls/live/BRI3/masterSD.m3u8
-#EXTINF:-1 ,group-title"au",7mate Adelaide
+#EXTINF:-1 group-title="au",7mate Adelaide
 https://npc.cdn.7livecloud.io/hls/live/ADE3/masterSD.m3u8
-#EXTINF:-1 ,group-title"au",7mate Regional QLD
+#EXTINF:-1 group-title="au",7mate Regional QLD
 https://npc.cdn.7livecloud.io/hls/live/QLD3/masterSD.m3u8
-#EXTINF:-1 ,group-title"au",7mate
+#EXTINF:-1 group-title="au",7mate
 https://i.mjh.nz/au/Sydney/tv.101305020523.m3u8
-#EXTINF:-1 ,group-title"au",7flix Sydney
+#EXTINF:-1 group-title="au",7flix Sydney
 https://npc.cdn.7livecloud.io/hls/live/SYD6/masterSD.m3u8
-#EXTINF:-1 ,group-title"au",7flix Melbourne
+#EXTINF:-1 group-title="au",7flix Melbourne
 https://npc.cdn.7livecloud.io/hls/live/MEL6/masterSD.m3u8
-#EXTINF:-1 ,group-title"au",7flix Brisbane
+#EXTINF:-1 group-title="au",7flix Brisbane
 https://npc.cdn.7livecloud.io/hls/live/BRI6/masterSD.m3u8
-#EXTINF:-1 ,group-title"au",7flix Adelaide
+#EXTINF:-1 group-title="au",7flix Adelaide
 https://npc.cdn.7livecloud.io/hls/live/ADE6/masterSD.m3u8
-#EXTINF:-1 ,group-title"au",7flix Perth
+#EXTINF:-1 group-title="au",7flix Perth
 https://npc.cdn.7livecloud.io/hls/live/PER6/masterSD.m3u8
-#EXTINF:-1 ,group-title"au",7flix Regional QLD
+#EXTINF:-1 group-title="au",7flix Regional QLD
 https://npc.cdn.7livecloud.io/hls/live/QLD6/masterSD.m3u8
-#EXTINF:-1 ,group-title"au",7flix
+#EXTINF:-1 group-title="au",7flix
 https://i.mjh.nz/au/Sydney/tv.101305020525.m3u8
-#EXTINF:-1 ,group-title"au",Fuel TV
+#EXTINF:-1 group-title="au",Fuel TV
 https://i.mjh.nz/au/Sydney/tv.7fueltv.m3u8
-#EXTINF:-1 ,group-title"au",PAC-12
+#EXTINF:-1 group-title="au",PAC-12
 https://pac12b.cdn.7livecloud.io/index.m3u8
-#EXTINF:-1 ,group-title"au",PAC-12
+#EXTINF:-1 group-title="au",PAC-12
 https://i.mjh.nz/au/Sydney/tv.7pac12.m3u8
-#EXTINF:-1 ,group-title"au",openshop
+#EXTINF:-1 group-title="au",openshop
 https://npc.cdn.7livecloud.io/hls/live/ASN/masterSD.m3u8
-#EXTINF:-1 ,group-title"au",openshop
+#EXTINF:-1 group-title="au",openshop
 https://i.mjh.nz/au/Sydney/tv.7openshop.m3u8
-#EXTINF:-1 ,group-title"au",RACING
+#EXTINF:-1 group-title="au",RACING
 https://npc.cdn.7livecloud.io/hls/live/RAC/masterSD.m3u8
-#EXTINF:-1 ,group-title"au",RACING
+#EXTINF:-1 group-title="au",RACING
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF:-1 ,group-title"au",RACING
+#EXTINF:-1 group-title="au",RACING
 https://i.mjh.nz/au/Sydney/tv.101305020528.m3u8
-#EXTINF:-1 ,group-title"au",RACING
+#EXTINF:-1 group-title="au",RACING
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?checkedby:hlscat.com
-#EXTINF:-1 ,group-title"au",RACING
+#EXTINF:-1 group-title="au",RACING
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?checkedby:hlscat.com
-#EXTINF:-1 ,group-title"au",RACING
+#EXTINF:-1 group-title="au",RACING
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8?checkedby:hlscat.com
-#EXTINF:-1 ,group-title"au",outdoor food
+#EXTINF:-1 group-title="au",outdoor food
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w996888467_b1006700.m3u8
-#EXTINF:-1 ,group-title"au",Outdoor Channel
+#EXTINF:-1 group-title="au",Outdoor Channel
 https://i.mjh.nz/au/Sydney/tv.7outdoor.m3u8
-#EXTINF:-1 ,group-title"au",Channel 9
+#EXTINF:-1 group-title="au",Channel 9
 https://i.mjh.nz/au/Sydney/tv.101204200421.m3u8
-#EXTINF:-1 ,group-title"au",Channel 9
+#EXTINF:-1 group-title="au",Channel 9
 https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8
-#EXTINF:-1 ,group-title"au",Channel 9
+#EXTINF:-1 group-title="au",Channel 9
 https://9now-livestreams.akamaized.net/hls/live/2008322/ch9-mel/master.m3u8
-#EXTINF:-1 ,group-title"au",Channel 9
+#EXTINF:-1 group-title="au",Channel 9
 https://9now-livestreams.akamaized.net/hls/live/2008324/ch9-bne/master.m3u8
-#EXTINF:-1 ,group-title"au",Channel 9 Adelaide
+#EXTINF:-1 group-title="au",Channel 9 Adelaide
 https://9now-livestreams.akamaized.net/hls/live/2008323/ch9-adl/master.m3u8
-#EXTINF:-1 ,group-title"au",Channel 9 Perth
+#EXTINF:-1 group-title="au",Channel 9 Perth
 https://9now-livestreams.akamaized.net/hls/live/2008325/ch9-per/master.m3u8
-#EXTINF:-1 ,group-title"au",9Gem
+#EXTINF:-1 group-title="au",9Gem
 https://i.mjh.nz/au/Sydney/tv.101204200427.m3u8
-#EXTINF:-1 ,group-title"au",9Gem
+#EXTINF:-1 group-title="au",9Gem
 https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
-#EXTINF:-1 ,group-title"au",9Gem
+#EXTINF:-1 group-title="au",9Gem
 https://9now-livestreams.akamaized.net/hls/live/2008316/gem-mel/master.m3u8
-#EXTINF:-1 ,group-title"au",9Gem
+#EXTINF:-1 group-title="au",9Gem
 https://9now-livestreams.akamaized.net/hls/live/2008315/gem-bne/master.m3u8
-#EXTINF:-1 ,group-title"au",9Gem Adelaide
+#EXTINF:-1 group-title="au",9Gem Adelaide
 https://9now-livestreams.akamaized.net/hls/live/2008314/gem-adl/master.m3u8
-#EXTINF:-1 ,group-title"au",9Gem Perth
+#EXTINF:-1 group-title="au",9Gem Perth
 https://9now-livestreams.akamaized.net/hls/live/2008317/gem-per/master.m3u8
-#EXTINF:-1 ,group-title"au",9Go!
+#EXTINF:-1 group-title="au",9Go!
 https://i.mjh.nz/au/Sydney/tv.101204200428.m3u8
-#EXTINF:-1 ,group-title"au",9Go!
+#EXTINF:-1 group-title="au",9Go!
 https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
-#EXTINF:-1 ,group-title"au",9Go!
+#EXTINF:-1 group-title="au",9Go!
 https://9now-livestreams.akamaized.net/hls/live/2008318/go-mel/master.m3u8
-#EXTINF:-1 ,group-title"au",9Go!
+#EXTINF:-1 group-title="au",9Go!
 https://9now-livestreams.akamaized.net/hls/live/2008320/go-bne/master.m3u8
-#EXTINF:-1 ,group-title"au",9Go! Adelaide
+#EXTINF:-1 group-title="au",9Go! Adelaide
 https://9now-livestreams.akamaized.net/hls/live/2008319/go-adl/master.m3u8
-#EXTINF:-1 ,group-title"au",9Go! Perth
+#EXTINF:-1 group-title="au",9Go! Perth
 https://9now-livestreams.akamaized.net/hls/live/2008321/go-per/master.m3u8
-#EXTINF:-1 ,group-title"au",9Life
+#EXTINF:-1 group-title="au",9Life
 https://i.mjh.nz/au/Sydney/tv.101204200424.m3u8
-#EXTINF:-1 ,group-title"au",9Life
+#EXTINF:-1 group-title="au",9Life
 https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
-#EXTINF:-1 ,group-title"au",9Life
+#EXTINF:-1 group-title="au",9Life
 https://9now-livestreams.akamaized.net/hls/live/2008328/life-bne/master.m3u8
-#EXTINF:-1 ,group-title"au",9Life
+#EXTINF:-1 group-title="au",9Life
 https://9now-livestreams.akamaized.net/hls/live/2008326/life-adl/master.m3u8
-#EXTINF:-1 ,group-title"au",9Life Adelaide
+#EXTINF:-1 group-title="au",9Life Adelaide
 https://9now-livestreams.akamaized.net/hls/live/2008327/life-per/master.m3u8
-#EXTINF:-1 ,group-title"au",9Life Perth
+#EXTINF:-1 group-title="au",9Life Perth
 https://9now-livestreams.akamaized.net/hls/live/2008329/life-mel/master.m3u8
-#EXTINF:-1 ,group-title"au",9Rush Sydney
+#EXTINF:-1 group-title="au",9Rush Sydney
 https://i.mjh.nz/au/Sydney/tv.101204200429.m3u8
-#EXTINF:-1 ,group-title"au",9Rush
+#EXTINF:-1 group-title="au",9Rush
 https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8
-#EXTINF:-1 ,group-title"au",9Rush
+#EXTINF:-1 group-title="au",9Rush
 https://9now-livestreams.akamaized.net/hls/live/2010628/rush-mel/master.m3u8
-#EXTINF:-1 ,group-title"au",9Rush
+#EXTINF:-1 group-title="au",9Rush
 https://9now-livestreams.akamaized.net/hls/live/2010629/rush-bne/master.m3u8
-#EXTINF:-1 ,group-title"au",9Rush Adelaide
+#EXTINF:-1 group-title="au",9Rush Adelaide
 https://9now-livestreams.akamaized.net/hls/live/2010627/rush-adl/master.m3u8
-#EXTINF:-1 ,group-title"au",9Rush Perth
+#EXTINF:-1 group-title="au",9Rush Perth
 https://9now-livestreams.akamaized.net/hls/live/2010630/rush-per/master.m3u8
-#EXTINF:-1 ,group-title"au",TEN
+#EXTINF:-1 group-title="au",TEN
 https://i.mjh.nz/au/Sydney/tv.101406020625.m3u8
-#EXTINF:-1 ,group-title"au",10 HD Sydney
+#EXTINF:-1 group-title="au",10 HD Sydney
 https://i.mjh.nz/au/Sydney/tv.101406020621.m3u8
-#EXTINF:-1 ,group-title"au",Channel 10 Brisbane
+#EXTINF:-1 group-title="au",Channel 10 Brisbane
 https://d2wbjmkh2b1mgc.cloudfront.net/10QLD/stream.m3u8
-#EXTINF:-1 ,group-title"au",Channel 10 Adelaide
+#EXTINF:-1 group-title="au",Channel 10 Adelaide
 https://dpsniydtnu329.cloudfront.net/10SA/stream.m3u8
-#EXTINF:-1 ,group-title"au",Channel 10 Perth
+#EXTINF:-1 group-title="au",Channel 10 Perth
 https://d29g8ymgvbt28s.cloudfront.net/10WA/stream.m3u8
-#EXTINF:-1 ,group-title"au",10 Peach
+#EXTINF:-1 group-title="au",10 Peach
 https://i.mjh.nz/au/Sydney/tv.101406020628.m3u8
-#EXTINF:-1 ,group-title"au",Peach Sydney
+#EXTINF:-1 group-title="au",Peach Sydney
 https://dwd941bx75no0.cloudfront.net/10PeachNSW/stream.m3u8
-#EXTINF:-1 ,group-title"au",Peach Melbourne
+#EXTINF:-1 group-title="au",Peach Melbourne
 https://dmuw1xxfx0a6j.cloudfront.net/10PeachVIC/stream.m3u8
-#EXTINF:-1 ,group-title"au",Peach Brisbane
+#EXTINF:-1 group-title="au",Peach Brisbane
 https://d3pjedib5dxuav.cloudfront.net/10PeachQLD/stream.m3u8
-#EXTINF:-1 ,group-title"au",Peach Adelaide
+#EXTINF:-1 group-title="au",Peach Adelaide
 https://d2zyd2uok7s5cf.cloudfront.net/10PeachSA/stream.m3u8
-#EXTINF:-1 ,group-title"au",Peach Perth
+#EXTINF:-1 group-title="au",Peach Perth
 https://dsww6yr2v4zuj.cloudfront.net/10PeachWA/stream.m3u8
-#EXTINF:-1 ,group-title"au",Bold Sydney
+#EXTINF:-1 group-title="au",Bold Sydney
 https://d3dilkfpueg8q1.cloudfront.net/10BoldNSW/stream.m3u8
-#EXTINF:-1 ,group-title"au",Bold Melbourne
+#EXTINF:-1 group-title="au",Bold Melbourne
 https://dcn7wi3dww9ud.cloudfront.net/10BoldVIC/stream.m3u8
-#EXTINF:-1 ,group-title"au",Bold Brisbane
+#EXTINF:-1 group-title="au",Bold Brisbane
 https://d4plfdwdh1jq0.cloudfront.net/10BoldQLD/stream.m3u8
-#EXTINF:-1 ,group-title"au",Bold Adelaide
+#EXTINF:-1 group-title="au",Bold Adelaide
 https://d24uqfiq1bub1m.cloudfront.net/10BoldSA/stream.m3u8
-#EXTINF:-1 ,group-title"au",Bold Perth
+#EXTINF:-1 group-title="au",Bold Perth
 https://d1t642zarr4e0r.cloudfront.net/10BoldWA/stream.m3u8
-#EXTINF:-1 ,group-title"au",Al Jazeera
+#EXTINF:-1 group-title="au",Al Jazeera
 https://i.mjh.nz/au/Sydney/tv.46.m3u8
-#EXTINF:-1 ,group-title"au",Bloomberg
+#EXTINF:-1 group-title="au",Bloomberg
 https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8?checkedby:hlscat.com
-#EXTINF:-1 ,group-title"au",Bloomberg
+#EXTINF:-1 group-title="au",Bloomberg
 https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8?checkedby:hlscat.com
-#EXTINF:-1 ,group-title"au",ausbiz TV
+#EXTINF:-1 group-title="au",ausbiz TV
 https://i.mjh.nz/au/Sydney/tv.7ausbiz.m3u8
-#EXTINF:-1 ,group-title"au",Olympics Channel
+#EXTINF:-1 group-title="au",Olympics Channel
 https://i.mjh.nz/au/Sydney/tv.7olympics.m3u8
-#EXTINF:-1 ,group-title"au",Snowy Mountains Television
+#EXTINF:-1 group-title="au",Snowy Mountains Television
 https://c.mjh.nz/snowy-mountains/
-#EXTINF:-1 ,group-title"au",Redbull TV
+#EXTINF:-1 group-title="au",Redbull TV
 https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8
-#EXTINF:-1 ,group-title"au",Fox Sports News
+#EXTINF:-1 group-title="au",Fox Sports News
 https://i.mjh.nz/au/Sydney/tv.fox.sports.news.m3u8
-#EXTINF:-1 ,group-title"au",ACCTV
+#EXTINF:-1 group-title="au",ACCTV
 https://i.mjh.nz/au/Sydney/tv.acctv.m3u8
-#EXTINF:-1 ,group-title"au",NRL TV 24/7 (NATIONAL RUGBY LEAGUE)
+#EXTINF:-1 group-title="au",NRL TV 24/7 (NATIONAL RUGBY LEAGUE)
 http://randomserver.site:2086/live/crystal/12345/12616.m3u8?checkedby:hlscat.com
-#EXTINF:-1 ,group-title"au",NRL TV 24/7 (NATIONAL RUGBY LEAGUE)
+#EXTINF:-1 group-title="au",NRL TV 24/7 (NATIONAL RUGBY LEAGUE)
 http://randomserver.site:2086/live/Bria/Bria/12616.m3u8?checkedby:hlscat.com
-#EXTINF:-1 ,group-title"au",AFL TV 24/7 (AUSTRALIAN FOOTBALL LEAGUE)
+#EXTINF:-1 group-title="au",AFL TV 24/7 (AUSTRALIAN FOOTBALL LEAGUE)
 http://randomserver.site:2086/live/crystal/12345/18431.m3u8?checkedby:hlscat.com
-#EXTINF:-1 ,group-title"au",C31 Melbourne
+#EXTINF:-1 group-title="au",C31 Melbourne
 https://dcunilive47-lh.akamaihd.net/i/dclive_1@739220/master.m3u8?checkedby:hlscat.com
-#EXTINF:-1 ,group-title"au",澳大利亚天和电视台
+#EXTINF:-1 group-title="au",澳大利亚天和电视台
 http://rtvcdn.com.au:8082/TV_GG.m3u8?checkedby:hlscat.com
 
-#EXTINF:-1 ,group-title"hk",凤凰中文
+#EXTINF:0  group-title="hk",凤凰中文
 http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
-#EXTINF:-1 ,group-title"hk",凤凰中文
+#EXTINF:0  group-title="hk",凤凰中文
 http://220.158.149.26:8182/hls/TV00000000000000000067@HHZT.m3u8
-#EXTINF:-1 ,group-title"hk",凤凰资讯
+#EXTINF:0  group-title="hk",凤凰资讯
 http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
-#EXTINF:-1 ,group-title"hk",凤凰资讯
+#EXTINF:0  group-title="hk",凤凰资讯
 http://220.158.149.26:8182/hls/TV00000000000000000066@HHZT.m3u8
-#EXTINF:-1 ,group-title"hk",凤凰香港
+#EXTINF:0  group-title="hk",凤凰香港
 http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
-#EXTINF:-1 ,group-title"hk",凤凰香港
+#EXTINF:0  group-title="hk",凤凰香港
 http://220.158.149.26:8182/hls/TV00000000000000000068@HHZT.m3u8
-#EXTINF:-1 ,group-title"hk",HKS香港卫视
+#EXTINF:0  group-title="hk",HKS香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 ,group-title"hk",HKS香港卫视
+#EXTINF:0  group-title="hk",HKS香港卫视
 http://cctvalih5ca.v.myalicdn.com/cstv/xianggangweishi_2/index.m3u8
-#EXTINF:-1 ,group-title"hk",环球电視
+#EXTINF:0  group-title="hk",环球电視
 http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
-#EXTINF:-1 ,group-title"hk",亞美衛視
+#EXTINF:0  group-title="hk",亞美衛視
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-#EXTINF:-1 ,group-title"hk",翡翠台
+#EXTINF:0  group-title="hk",翡翠台
 https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGFeiCui.m3u8
-#EXTINF:-1 ,group-title"hk",翡翠台
+#EXTINF:0  group-title="hk",翡翠台
 http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
-#EXTINF:-1 ,group-title"hk",无线新闻
+#EXTINF:0  group-title="hk",无线新闻
 http://45.93.217.106/jiuban/hg.php?id=1
-#EXTINF:-1 ,group-title"hk",无线新闻
+#EXTINF:0  group-title="hk",无线新闻
 http://kean-hoe.ga/dl/tvb/tvb.php?id=wxxwsd
-#EXTINF:-1 ,group-title"hk",无线新闻
+#EXTINF:0  group-title="hk",无线新闻
 http://danielwu.gz01.bdysite.com/iptv/?id=wxxw2
-#EXTINF:-1 ,group-title"hk",无线新闻
+#EXTINF:0  group-title="hk",无线新闻
 http://45.93.217.106/jiuban/hg.php?id=1
-#EXTINF:-1 ,group-title"hk",无线新闻
+#EXTINF:0  group-title="hk",无线新闻
 https://www.ootori.xyz/tv/tvb.php?id=inews
-#EXTINF:-1 ,group-title"hk",无线新闻
+#EXTINF:0  group-title="hk",无线新闻
 http://96.45.185.192/tv.php?vid=wxxw
-#EXTINF:-1 ,group-title"hk",无线新闻
+#EXTINF:0  group-title="hk",无线新闻
 http://tv.sason.xyz/proxy/tvb.php?id=xw
-#EXTINF:-1 ,group-title"hk",无线新闻
+#EXTINF:0  group-title="hk",无线新闻
 http://tv.sason.xyz/proxy/tvb.php?id=xw
-#EXTINF:-1 ,group-title"hk",无线新闻
+#EXTINF:0  group-title="hk",无线新闻
 http://xggj04450269.gfzyw.cn/tvb.php?id=1
-#EXTINF:-1 ,group-title"hk",无线财经
+#EXTINF:0  group-title="hk",无线财经
 http://45.93.217.106/jiuban/hg.php?id=2
-#EXTINF:-1 ,group-title"hk",无线财经
+#EXTINF:0  group-title="hk",无线财经
 http://96.45.185.192/tv.php?vid=wxcjzx
-#EXTINF:-1 ,group-title"hk",无线财经
+#EXTINF:0  group-title="hk",无线财经
 https://www.ootori.xyz/tv/tvb.php?id=finance
-#EXTINF:-1 ,group-title"hk",无线财经
+#EXTINF:0  group-title="hk",无线财经
 http://tv.sason.xyz/proxy/tvb.php?id=cj
-#EXTINF:-1 ,group-title"hk",无线财经
+#EXTINF:0  group-title="hk",无线财经
 http://tv.sason.xyz/proxy/tvb.php?id=cj
-#EXTINF:-1 ,group-title"hk",耀才財經台1
+#EXTINF:0  group-title="hk",耀才財經台1
 http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 ,group-title"hk",耀才財經台1
+#EXTINF:0  group-title="hk",耀才財經台1
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
-#EXTINF:-1 ,group-title"hk",耀才財經台1
+#EXTINF:0  group-title="hk",耀才財經台1
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 ,group-title"hk",耀才財經台1
+#EXTINF:0  group-title="hk",耀才財經台1
 http://202.69.69.180:443/webcast/bshdlive-mobile/playlist.m3u8
-#EXTINF:-1 ,group-title"hk",亚视本港
+#EXTINF:0  group-title="hk",亚视本港
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
-#EXTINF:-1 ,group-title"hk",RHK32
+#EXTINF:0  group-title="hk",RHK32
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
-#EXTINF:-1 ,group-title"hk",有线新闻2
+#EXTINF:0  group-title="hk",有线新闻2
 http://danielwu.gz01.bdysite.com/iptv/?id=yxxw2
-#EXTINF:-1 ,group-title"hk",NOW新闻台
+#EXTINF:0  group-title="hk",NOW新闻台
 http://a.315600.xyz/dl/gt.php?id=nowtvlive
-#EXTINF:-1 ,group-title"hk",C+
+#EXTINF:0  group-title="hk",C+
 http://liveima.utvlive.top/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:-1 ,group-title"hk",VIUTV
+#EXTINF:0  group-title="hk",VIUTV
 http://61.238.6.49:8000/bysid/99
-#EXTINF:-1 ,group-title"hk",VIUTV
+#EXTINF:0  group-title="hk",VIUTV
 http://61.238.6.49:8000/bysid/96
-#EXTINF:-1 ,group-title"hk",凤凰电影
+#EXTINF:0  group-title="hk",凤凰电影
 https://www.fanmingming.cn/hls/fhdy.m3u8
-#EXTINF:-1 ,group-title"hk",天映娱乐thrll
+#EXTINF:0  group-title="hk",天映娱乐thrll
 http://210.210.155.35/qwr9ew/s/s34/02.m3u8
-#EXTINF:-1 ,group-title"hk",kk金马影院
+#EXTINF:0  group-title="hk",kk金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 ,group-title"hk",kk开心影院
+#EXTINF:0  group-title="hk",kk开心影院
 http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
-#EXTINF:-1 ,group-title"hk",歐美影院
+#EXTINF:0  group-title="hk",歐美影院
 http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSEAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
-#EXTINF:-1 ,group-title"hk",亞洲影院
+#EXTINF:0  group-title="hk",亞洲影院
 http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSEAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
-#EXTINF:-1 ,group-title"hk",天映频道Celestial Movies
+#EXTINF:0  group-title="hk",天映频道Celestial Movies
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 ,group-title"hk",卡式台
+#EXTINF:0  group-title="hk",卡式台
 http://live.vpnyun.tk:8080/demo/456321/23
-#EXTINF:-1 ,group-title"hk",好消息台
+#EXTINF:0  group-title="hk",好消息台
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
-#EXTINF:-1 ,group-title"hk",澳视澳门
+#EXTINF:0  group-title="hk",澳视澳门
 https://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 ,group-title"hk",澳视电影
+#EXTINF:0  group-title="hk",澳视电影
 https://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1 ,group-title"hk",澳视体育
+#EXTINF:0  group-title="hk",澳视体育
 https://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 ,group-title"hk",澳视资讯
+#EXTINF:0  group-title="hk",澳视资讯
 https://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
-#EXTINF:-1 ,group-title"hk",澳视综艺
+#EXTINF:0  group-title="hk",澳视综艺
 https://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 ,group-title"hk",澳视立法院
+#EXTINF:0  group-title="hk",澳视立法院
 https://live4.tdm.com.mo/tv/_definst_/ch21.live/playlist.m3u8
-#EXTINF:-1 ,group-title"hk",澳視澳門
+#EXTINF:0  group-title="hk",澳視澳門
 http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 ,group-title"hk",澳視澳門
+#EXTINF:0  group-title="hk",澳視澳門
 http://61.244.22.4/ch1/ch1.live/index.m3u8
-#EXTINF:-1 ,group-title"hk",澳視澳門
+#EXTINF:0  group-title="hk",澳視澳門
 http://61.244.22.5/ch1/ch1.live/playelist.m3u8
-#EXTINF:-1 ,group-title"hk",澳視衛星
+#EXTINF:0  group-title="hk",澳視衛星
 http://live4.tdm.com.mo/ch3/_definst_//ch3.live/playlist.m3u8
-#EXTINF:-1 ,group-title"hk",澳視衛星
+#EXTINF:0  group-title="hk",澳視衛星
 http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8
-#EXTINF:-1 ,group-title"hk",澳視衛星
+#EXTINF:0  group-title="hk",澳視衛星
 http://live4.tdm.com.mo/ch3/definst//ch3.live/playlist.m3u8
-#EXTINF:-1 ,group-title"hk",澳視衛星
+#EXTINF:0  group-title="hk",澳視衛星
 http://61.244.22.4/ch3/ch3.live/index.m3u8
-#EXTINF:-1 ,group-title"hk",澳视综艺
+#EXTINF:0  group-title="hk",澳视综艺
 http://61.244.22.5/ch6/_definst_/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 ,group-title"hk",澳视葡文
+#EXTINF:0  group-title="hk",澳视葡文
 http://61.244.22.4/ch2/ch2.live/index.m3u8
-#EXTINF:-1 ,group-title"hk",澳视葡文
+#EXTINF:0  group-title="hk",澳视葡文
 http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
-#EXTINF:-1 ,group-title"hk",澳视葡文
+#EXTINF:0  group-title="hk",澳视葡文
 http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
-#EXTINF:-1 ,group-title"hk",澳视资讯
+#EXTINF:0  group-title="hk",澳视资讯
 http://61.244.22.5/ch5/info_ch5.live/master.m3u8
-#EXTINF:-1 ,group-title"hk",澳视资讯
+#EXTINF:0  group-title="hk",澳视资讯
 http://61.244.22.4/ch5/info_ch5.live/index.m3u8
-#EXTINF:-1 ,group-title"hk",澳門微电影
+#EXTINF:0  group-title="hk",澳門微电影
 http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
