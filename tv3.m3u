@@ -3,8 +3,6 @@
 http://f.ok2.se:8000/victor1/victor123/26321
 #EXTINF:-1  group-title="MOVICES",HBO 2 HD
 http://f.ok2.se:8000/victor1/victor123/26322
-#EXTINF:-1  group-title="MOVICES",HBO EAST HD
-http://f.ok2.se:8000/victor1/victor123/371
 #EXTINF:-1  group-title="MOVICES",HBO COMEDY HD
 http://f.ok2.se:8000/victor1/victor123/373
 #EXTINF:-1  group-title="MOVICES",HBO FAMILY HD
@@ -13,20 +11,16 @@ http://f.ok2.se:8000/victor1/victor123/4829
 http://f.ok2.se:8000/victor1/victor123/372
 #EXTINF:-1  group-title="MOVICES",HBO ZONE HD
 http://f.ok2.se:8000/victor1/victor123/4828
+#EXTINF:-1  group-title="MOVICES",HBO EAST HD
+http://f.ok2.se:8000/victor1/victor123/371
 #EXTINF:-1  group-title="MOVICES",ACTION MAX HD
 http://f.ok2.se:8000/victor1/victor123/383
-#EXTINF:-1  group-title="MOVICES",MOREMAX HD
-http://f.ok2.se:8000/victor1/victor123/381
 #EXTINF:-1  group-title="MOVICES",THRILLER MAX HD
 http://f.ok2.se:8000/victor1/victor123/80332
+#EXTINF:-1  group-title="MOVICES",MORE MAX HD
+http://f.ok2.se:8000/victor1/victor123/381
 #EXTINF:-1  group-title="MOVICES",5STAR MAX HD
 http://f.ok2.se:8000/victor1/victor123/382
-#EXTINF:-1  group-title="MOVICES",AMC HD
-http://f.ok2.se:8000/victor1/victor123/334
-#EXTINF:-1  group-title="MOVICES",SHOWCASE HD
-http://f.ok2.se:8000/victor1/victor123/346
-#EXTINF:-1  group-title="MOVICES",SHOWTIME EAST HD
-http://f.ok2.se:8000/victor1/victor123/11361
 #EXTINF:-1  group-title="MOVICES",SHOWTIME 2 HD
 http://f.ok2.se:8000/victor1/victor123/11362
 #EXTINF:-1  group-title="MOVICES",SHOWTIME BEYOND HD
@@ -35,16 +29,10 @@ http://f.ok2.se:8000/victor1/victor123/11363
 http://f.ok2.se:8000/victor1/victor123/11359
 #EXTINF:-1  group-title="MOVICES",SHOWTIME NEXT HD (NEW)
 http://f.ok2.se:8000/victor1/victor123/11360
-#EXTINF:-1  group-title="MOVICES",SUPER CHANNEL FUSE - NEW
-http://f.ok2.se:8000/victor1/victor123/71289
-#EXTINF:-1  group-title="MOVICES",VAULT (CDN) - NEW
-http://f.ok2.se:8000/victor1/victor123/67114
-#EXTINF:-1  group-title="MOVICES",MOVIE TIME HD
-http://f.ok2.se:8000/victor1/victor123/369
-#EXTINF:-1  group-title="MOVICES",PPV MOVIES
-http://f.ok2.se:8000/victor1/victor123/8784
-#EXTINF:-1  group-title="MOVICES",SCIENCE FICTION NEW
-http://f.ok2.se:8000/victor1/victor123/8887
+#EXTINF:-1  group-title="MOVICES",SHOWTIME EAST HD
+http://f.ok2.se:8000/victor1/victor123/11361
+#EXTINF:-1  group-title="MOVICES",SHOWCASE HD
+http://f.ok2.se:8000/victor1/victor123/346
 #EXTINF:-1  group-title="MOVICES",STARZ HD
 http://f.ok2.se:8000/victor1/victor123/374
 #EXTINF:-1  group-title="MOVICES",STARZ EDGE HD
@@ -53,6 +41,34 @@ http://f.ok2.se:8000/victor1/victor123/377
 http://f.ok2.se:8000/victor1/victor123/376
 #EXTINF:-1  group-title="MOVICES",STARZ BLACK HD
 http://f.ok2.se:8000/victor1/victor123/378
+#EXTINF:-1  group-title="MOVICES",SKY SYFY
+http://f.ok2.se:8000/victor1/victor123/7174
+#EXTINF:-1  group-title="MOVICES",SKY MOVIES COMEDY
+http://f.ok2.se:8000/victor1/victor123/1737
+#EXTINF:-1  group-title="MOVICES",SKY MOVIES THRILLER
+http://f.ok2.se:8000/victor1/victor123/1742
+#EXTINF:-1  group-title="MOVICES",SKY CRIME AND INVESTIGATION
+http://f.ok2.se:8000/victor1/victor123/7190
+#EXTINF:-1  group-title="MOVICES",SKY 5 STAR
+http://f.ok2.se:8000/victor1/victor123/7181
+#EXTINF:-1  group-title="MOVICES",SKY SONY MOVIES
+http://f.ok2.se:8000/victor1/victor123/1771
+#EXTINF:-1  group-title="MOVICES",*LIFETIME MOVIES HD
+http://f.ok2.se:8000/victor1/victor123/326
+#EXTINF:-1  group-title="MOVICES",TRUE MOVIES
+http://f.ok2.se:8000/victor1/victor123/1786
+#EXTINF:-1  group-title="MOVICES",MOVIE TIME HD
+http://f.ok2.se:8000/victor1/victor123/369
+#EXTINF:-1  group-title="MOVICES",PPV MOVIES
+http://f.ok2.se:8000/victor1/victor123/8784
+#EXTINF:-1  group-title="MOVICES",SCIENCE FICTION
+http://f.ok2.se:8000/victor1/victor123/8887
+#EXTINF:-1  group-title="MOVICES",SYFY HD
+http://f.ok2.se:8000/victor1/victor123/339
+#EXTINF:-1  group-title="MOVICES",AMC HD
+http://f.ok2.se:8000/victor1/victor123/334
+#EXTINF:-1  group-title="MOVICES",VAULT (CDN)
+http://f.ok2.se:8000/victor1/victor123/67114
 #EXTINF:-1  group-title="MOVICES",ENCORE WESTERN HD
 http://f.ok2.se:8000/victor1/victor123/379
 #EXTINF:-1  group-title="MOVICES",EPIX EAST HD - NEW
@@ -63,38 +79,27 @@ http://f.ok2.se:8000/victor1/victor123/69014
 http://f.ok2.se:8000/victor1/victor123/69012
 #EXTINF:-1  group-title="MOVICES",EPIX HITS HD - NEW
 http://f.ok2.se:8000/victor1/victor123/69013
-#EXTINF:-1  group-title="MOVICES",TRUE MOVIES
-http://f.ok2.se:8000/victor1/victor123/1786
-#EXTINF:-1  group-title="MOVICES",SKY MOVIES COMEDY
-http://f.ok2.se:8000/victor1/victor123/1737
-#EXTINF:-1  group-title="MOVICES",SKY MOVIES THRILLER
-http://f.ok2.se:8000/victor1/victor123/1742
+
+
 #EXTINF:-1  group-title="MOVICES",CBS ACTION
 http://f.ok2.se:8000/victor1/victor123/7184
 #EXTINF:-1  group-title="MOVICES",CBS DRAMA
 http://f.ok2.se:8000/victor1/victor123/7186
-#EXTINF:-1  group-title="MOVICES",SKY 5 STAR
-http://f.ok2.se:8000/victor1/victor123/7181
-#EXTINF:-1  group-title="MOVICES",SKY CRIME AND INVESTIGATION
-http://f.ok2.se:8000/victor1/victor123/7190
+
 #EXTINF:-1  group-title="MOVICES",SKY E4
 http://f.ok2.se:8000/victor1/victor123/7178
 #EXTINF:-1  group-title="MOVICES",SKY MORE4
 http://f.ok2.se:8000/victor1/victor123/7177
 #EXTINF:-1  group-title="MOVICES",SKY FILM4
 http://f.ok2.se:8000/victor1/victor123/7189
-#EXTINF:-1  group-title="MOVICES",SKY SYFY
-http://f.ok2.se:8000/victor1/victor123/7174
-#EXTINF:-1  group-title="MOVICES",SKY SONY MOVIES
-http://f.ok2.se:8000/victor1/victor123/1771
+
+
 #EXTINF:-1  group-title="MOVICES",TVO HD (NA)
 http://f.ok2.se:8000/victor1/victor123/391
-#EXTINF:-1  group-title="MOVICES",*LIFETIME MOVIES HD
-http://f.ok2.se:8000/victor1/victor123/326
+
 #EXTINF:-1  group-title="MOVICES",SUNDANCE HD - NEW
 http://f.ok2.se:8000/victor1/victor123/10039
-#EXTINF:-1  group-title="MOVICES",SYFY HD
-http://f.ok2.se:8000/victor1/victor123/339
+
 
 #EXTINF:-1  group-title="MOVICES",YTV HD
 http://f.ok2.se:8000/victor1/victor123/390
