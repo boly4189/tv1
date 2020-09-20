@@ -234,19 +234,12 @@ http://rtvcdn.com.au:8082/TV_GG.m3u8?checkedby:hlscat.com
 
 #EXTINF:0  group-title="hk",凤凰中文
 http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
-#EXTINF:0  group-title="hk",凤凰中文
-http://220.158.149.26:8182/hls/TV00000000000000000067@HHZT.m3u8
 #EXTINF:0  group-title="hk",凤凰资讯
 http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
-#EXTINF:0  group-title="hk",凤凰资讯
-http://220.158.149.26:8182/hls/TV00000000000000000066@HHZT.m3u8
 #EXTINF:0  group-title="hk",凤凰香港
 http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
-#EXTINF:0  group-title="hk",凤凰香港
-http://220.158.149.26:8182/hls/TV00000000000000000068@HHZT.m3u8
 #EXTINF:0  group-title="hk",HKS香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:0  group-title="hk",HKS香港卫视
 http://cctvalih5ca.v.myalicdn.com/cstv/xianggangweishi_2/index.m3u8
 #EXTINF:0  group-title="hk",环球电視
 http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
@@ -254,43 +247,24 @@ http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 #EXTINF:0  group-title="hk",翡翠台
 https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGFeiCui.m3u8
-#EXTINF:0  group-title="hk",翡翠台
-http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
 #EXTINF:0  group-title="hk",无线新闻
 http://45.93.217.106/jiuban/hg.php?id=1
-#EXTINF:0  group-title="hk",无线新闻
 http://kean-hoe.ga/dl/tvb/tvb.php?id=wxxwsd
-#EXTINF:0  group-title="hk",无线新闻
 http://danielwu.gz01.bdysite.com/iptv/?id=wxxw2
-#EXTINF:0  group-title="hk",无线新闻
 http://45.93.217.106/jiuban/hg.php?id=1
-#EXTINF:0  group-title="hk",无线新闻
 https://www.ootori.xyz/tv/tvb.php?id=inews
-#EXTINF:0  group-title="hk",无线新闻
 http://96.45.185.192/tv.php?vid=wxxw
-#EXTINF:0  group-title="hk",无线新闻
 http://tv.sason.xyz/proxy/tvb.php?id=xw
-#EXTINF:0  group-title="hk",无线新闻
 http://tv.sason.xyz/proxy/tvb.php?id=xw
-#EXTINF:0  group-title="hk",无线新闻
 http://xggj04450269.gfzyw.cn/tvb.php?id=1
 #EXTINF:0  group-title="hk",无线财经
-http://45.93.217.106/jiuban/hg.php?id=2
-#EXTINF:0  group-title="hk",无线财经
 http://96.45.185.192/tv.php?vid=wxcjzx
-#EXTINF:0  group-title="hk",无线财经
 https://www.ootori.xyz/tv/tvb.php?id=finance
-#EXTINF:0  group-title="hk",无线财经
-http://tv.sason.xyz/proxy/tvb.php?id=cj
-#EXTINF:0  group-title="hk",无线财经
 http://tv.sason.xyz/proxy/tvb.php?id=cj
 #EXTINF:0  group-title="hk",耀才財經台1
 http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:0  group-title="hk",耀才財經台1
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
-#EXTINF:0  group-title="hk",耀才財經台1
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:0  group-title="hk",耀才財經台1
 http://202.69.69.180:443/webcast/bshdlive-mobile/playlist.m3u8
 #EXTINF:0  group-title="hk",亚视本港
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
