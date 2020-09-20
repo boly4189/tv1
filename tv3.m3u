@@ -147,10 +147,14 @@ http://f.ok2.se:8000/victor1/victor123/143
 http://f.ok2.se:8000/victor1/victor123/144
 #EXTINF:-1 group-title="SPORTS" ,*NBA HD
 http://f.ok2.se:8000/victor1/victor123/165
-#EXTINF:-1 group-title="SPORTS" ,ESPN ACC HD
-http://f.ok2.se:8000/victor1/victor123/86092
 #EXTINF:-1 group-title="SPORTS" ,ESPN NEWS HD - NEW
 http://f.ok2.se:8000/victor1/victor123/59038
+#EXTINF:-1 group-title="SPORTS" ,*FOX SPORTS 1 HD
+http://f.ok2.se:8000/victor1/victor123/145
+#EXTINF:-1 group-title="SPORTS" ,*FOX SPORTS 2 HD
+http://f.ok2.se:8000/victor1/victor123/146
+#EXTINF:-1 group-title="SPORTS" ,ESPN ACC HD
+http://f.ok2.se:8000/victor1/victor123/86092
 #EXTINF:-1 group-title="SPORTS" ,*NBC SPORTS
 http://f.ok2.se:8000/victor1/victor123/170
 #EXTINF:-1 group-title="SPORTS" ,*CBS SPORTS HD
@@ -169,10 +173,6 @@ http://f.ok2.se:8000/victor1/victor123/3950
 http://f.ok2.se:8000/victor1/victor123/59885
 #EXTINF:-1 group-title="SPORTS" ,FOX COLLEGE PACIFIC
 http://f.ok2.se:8000/victor1/victor123/59886
-#EXTINF:-1 group-title="SPORTS" ,*FOX SPORTS 1 HD
-http://f.ok2.se:8000/victor1/victor123/145
-#EXTINF:-1 group-title="SPORTS" ,*FOX SPORTS 2 HD
-http://f.ok2.se:8000/victor1/victor123/146
 #EXTINF:-1 group-title="SPORTS" ,PAC 12 ARIZONA
 http://f.ok2.se:8000/victor1/victor123/9691
 #EXTINF:-1 group-title="SPORTS" ,PAC 12 BAY AREA
@@ -199,10 +199,6 @@ http://f.ok2.se:8000/victor1/victor123/147
 http://f.ok2.se:8000/victor1/victor123/150
 #EXTINF:-1 group-title="SPORTS" ,*NFL NETWORK HD
 http://f.ok2.se:8000/victor1/victor123/157
-#EXTINF:-1 group-title="SPORTS" ,*NHL NETWORK HD
-http://f.ok2.se:8000/victor1/victor123/156
-#EXTINF:-1 group-title="SPORTS" ,LEAFS TV
-http://f.ok2.se:8000/victor1/victor123/59039
 #EXTINF:-1 group-title="SPORTS" ,MSG HD - NEW
 http://f.ok2.se:8000/victor1/victor123/10052
 #EXTINF:-1 group-title="SPORTS" ,YES NETWORK HD
@@ -213,8 +209,6 @@ http://f.ok2.se:8000/victor1/victor123/2193
 http://f.ok2.se:8000/victor1/victor123/166
 #EXTINF:-1 group-title="SPORTS" ,WWE HD
 http://f.ok2.se:8000/victor1/victor123/168
-#EXTINF:-1 group-title="SPORTS" ,NESN HD
-http://f.ok2.se:8000/victor1/victor123/96372
 #EXTINF:-1 group-title="SPORTS" ,TENNIS HD
 http://f.ok2.se:8000/victor1/victor123/167
 #EXTINF:-1 group-title="SPORTS" ,MAVTV
@@ -233,12 +227,6 @@ http://f.ok2.se:8000/victor1/victor123/59036
 http://f.ok2.se:8000/victor1/victor123/81931
 #EXTINF:-1 group-title="SPORTS" ,RACING.COM (AU)
 http://f.ok2.se:8000/victor1/victor123/80783
-#EXTINF:-1 group-title="SPORTS" ,WFN
-http://f.ok2.se:8000/victor1/victor123/26231
-#EXTINF:-1 group-title="SPORTS" ,OUTDOOR CHANNEL
-http://f.ok2.se:8000/victor1/victor123/9049
-#EXTINF:-1 group-title="SPORTS" ,SPORTSMAN NETWORK
-http://f.ok2.se:8000/victor1/victor123/9050
 #EXTINF:-1 group-title="SPORTS" ,BT SPORTS 1 HD
 http://f.ok2.se:8000/victor1/victor123/225
 #EXTINF:-1 group-title="SPORTS" ,BT SPORTS 2 HD
@@ -247,6 +235,12 @@ http://f.ok2.se:8000/victor1/victor123/226
 http://f.ok2.se:8000/victor1/victor123/232
 #EXTINF:-1 group-title="SPORTS" ,BT SPORTS ESPN
 http://f.ok2.se:8000/victor1/victor123/233
+#EXTINF:-1 group-title="SPORTS" ,WFN
+http://f.ok2.se:8000/victor1/victor123/26231
+#EXTINF:-1 group-title="SPORTS" ,OUTDOOR CHANNEL
+http://f.ok2.se:8000/victor1/victor123/9049
+#EXTINF:-1 group-title="SPORTS" ,SPORTSMAN NETWORK
+http://f.ok2.se:8000/victor1/victor123/9050
 
 #EXTINF:-1 group-title="NAY GEO" ,*DISCOVERY HD (CDN)
 http://f.ok2.se:8000/victor1/victor123/319
@@ -286,6 +280,12 @@ http://f.ok2.se:8000/victor1/victor123/3951
 http://f.ok2.se:8000/victor1/victor123/42684
 #EXTINF:-1 group-title="NAY GEO" ,DIY HD
 http://f.ok2.se:8000/victor1/victor123/329
+#EXTINF:-1 group-title="NAY GEO" ,SKY HISTORY
+http://f.ok2.se:8000/victor1/victor123/1758
+#EXTINF:-1 group-title="NAY GEO" ,SKY H2
+http://f.ok2.se:8000/victor1/victor123/1754
+#EXTINF:-1 group-title="NAY GEO"" ,TRAVEL HD
+http://f.ok2.se:8000/victor1/victor123/349
 
 #EXTINF:-1 group-title="AU",SBS
 https://sbs-live.akamaized.net/hls/live/2002827/channel1/geo/master_2500K.m3u8
@@ -525,6 +525,51 @@ http://f.ok2.se:8000/victor1/victor123/46724
 #EXTINF:-1 group-title="CA TV" ,BBC AMERICA HD
 http://f.ok2.se:8000/victor1/victor123/357
 
+#EXTINF:-1  group-title="US TV",ABC SPARK HD
+http://f.ok2.se:8000/victor1/victor123/4063
+#EXTINF:-1  group-title="US TV",CTV-SCIFI HD (SPACE)
+http://f.ok2.se:8000/victor1/victor123/8110
+#EXTINF:-1  group-title="US TV",*A&E HD
+http://f.ok2.se:8000/victor1/victor123/347
+#EXTINF:-1  group-title="US TV",007 4 LIFE HD
+http://f.ok2.se:8000/victor1/victor123/7493
+#EXTINF:-1  group-title="US TV",CRAVE 1 HD
+http://f.ok2.se:8000/victor1/victor123/9505
+#EXTINF:-1  group-title="US TV",CRAVE 2 HD
+http://f.ok2.se:8000/victor1/victor123/9506
+#EXTINF:-1  group-title="US TV",CRAVE 3 HD
+http://f.ok2.se:8000/victor1/victor123/9507
+#EXTINF:-1  group-title="US TV",80'S ACTION HITZ HD
+http://f.ok2.se:8000/victor1/victor123/7497
+#EXTINF:-1  group-title="US TV",80'S COMEDY HITZ HD
+http://f.ok2.se:8000/victor1/victor123/7496
+#EXTINF:-1  group-title="US TV",80'S DRAMA HITZ HD
+http://f.ok2.se:8000/victor1/victor123/7495
+#EXTINF:-1  group-title="US TV",80'S HORROR HITZ HD
+http://f.ok2.se:8000/victor1/victor123/7494
+#EXTINF:-1  group-title="US TV",*HALLMARK HD
+http://f.ok2.se:8000/victor1/victor123/321
+#EXTINF:-1  group-title="US TV",*HALLMARK MOVIES MYSTERY HD
+http://f.ok2.se:8000/victor1/victor123/4599
+#EXTINF:-1  group-title="US TV",HALLMARK DRAMA
+http://f.ok2.se:8000/victor1/victor123/83349
+#EXTINF:-1 group-title="US TV" ,OXYGEN HD - NEW
+http://f.ok2.se:8000/victor1/victor123/59037
+#EXTINF:-1 group-title="US TV" ,YES TV
+http://f.ok2.se:8000/victor1/victor123/6962
+#EXTINF:-1 group-title="US TV" ,FX HD
+http://f.ok2.se:8000/victor1/victor123/314
+#EXTINF:-1 group-title="US TV" ,FXX HD
+http://f.ok2.se:8000/victor1/victor123/315
+#EXTINF:-1 group-title="US TV" ,TRU TV HD
+http://f.ok2.se:8000/victor1/victor123/340
+#EXTINF:-1 group-title="US TV" ,COMEDY NETWORK HD
+http://f.ok2.se:8000/victor1/victor123/316
+
+#EXTINF:-1 group-title="US TV" ,SKY BBC 1
+http://f.ok2.se:8000/victor1/victor123/1783
+#EXTINF:-1 group-title="US TV" ,SKY BBC 2
+http://f.ok2.se:8000/victor1/victor123/1784
 #EXTINF:-1  group-title="US TV",CBS ACTION
 http://f.ok2.se:8000/victor1/victor123/7184
 #EXTINF:-1  group-title="US TV",CBS DRAMA
@@ -543,16 +588,10 @@ http://f.ok2.se:8000/victor1/victor123/10039
 http://f.ok2.se:8000/victor1/victor123/390
 #EXTINF:-1  group-title="US TV",DISNEY HD EAST
 http://f.ok2.se:8000/victor1/victor123/392
-#EXTINF:-1  group-title="US TV",ABC SPARK HD
-http://f.ok2.se:8000/victor1/victor123/4063
 #EXTINF:-1  group-title="US TV",TREEHOUSE HD
 http://f.ok2.se:8000/victor1/victor123/393
-#EXTINF:-1  group-title="US TV",CTV-SCIFI HD (SPACE)
-http://f.ok2.se:8000/victor1/victor123/8110
 #EXTINF:-1  group-title="US TV",WE TV HD
 http://f.ok2.se:8000/victor1/victor123/342
-#EXTINF:-1  group-title="US TV",*A&E HD
-http://f.ok2.se:8000/victor1/victor123/347
 #EXTINF:-1  group-title="US TV",BET HD
 http://f.ok2.se:8000/victor1/victor123/351
 #EXTINF:-1  group-title="US TV",BET HER HD - NEW
@@ -577,32 +616,10 @@ http://f.ok2.se:8000/victor1/victor123/368
 http://f.ok2.se:8000/victor1/victor123/370
 #EXTINF:-1  group-title="US TV",FXM HD
 http://f.ok2.se:8000/victor1/victor123/56246
-#EXTINF:-1  group-title="US TV",007 4 LIFE HD
-http://f.ok2.se:8000/victor1/victor123/7493
-#EXTINF:-1  group-title="US TV",80'S ACTION HITZ HD
-http://f.ok2.se:8000/victor1/victor123/7497
-#EXTINF:-1  group-title="US TV",80'S COMEDY HITZ HD
-http://f.ok2.se:8000/victor1/victor123/7496
-#EXTINF:-1  group-title="US TV",80'S DRAMA HITZ HD
-http://f.ok2.se:8000/victor1/victor123/7495
-#EXTINF:-1  group-title="US TV",80'S HORROR HITZ HD
-http://f.ok2.se:8000/victor1/victor123/7494
-#EXTINF:-1  group-title="US TV",CRAVE 1 HD
-http://f.ok2.se:8000/victor1/victor123/9505
-#EXTINF:-1  group-title="US TV",CRAVE 2 HD
-http://f.ok2.se:8000/victor1/victor123/9506
-#EXTINF:-1  group-title="US TV",CRAVE 3 HD
-http://f.ok2.se:8000/victor1/victor123/9507
 #EXTINF:-1  group-title="US TV",TV LAND HD
 http://f.ok2.se:8000/victor1/victor123/313
 #EXTINF:-1  group-title="US TV",*TBS HD
 http://f.ok2.se:8000/victor1/victor123/317
-#EXTINF:-1  group-title="US TV",*HALLMARK HD
-http://f.ok2.se:8000/victor1/victor123/321
-#EXTINF:-1  group-title="US TV",*HALLMARK MOVIES MYSTERY HD
-http://f.ok2.se:8000/victor1/victor123/4599
-#EXTINF:-1  group-title="US TV",HALLMARK DRAMA
-http://f.ok2.se:8000/victor1/victor123/83349
 #EXTINF:-1  group-title="US TV",SKY CHANNEL 4
 http://f.ok2.se:8000/victor1/victor123/7175
 #EXTINF:-1  group-title="US TV",SKY CHANNEL 5
@@ -613,29 +630,12 @@ http://f.ok2.se:8000/victor1/victor123/15071
 http://f.ok2.se:8000/victor1/victor123/67100
 #EXTINF:-1  group-title="US TV",SHOWTIME EXTREME HD
 http://f.ok2.se:8000/victor1/victor123/11358
-
 #EXTINF:-1 group-title="US TV" ,*ID HD
 http://f.ok2.se:8000/victor1/victor123/324
-#EXTINF:-1 group-title="US TV" ,OXYGEN HD - NEW
-http://f.ok2.se:8000/victor1/victor123/59037
-#EXTINF:-1 group-title="US TV" ,COOKING CHANNEL HD
-http://f.ok2.se:8000/victor1/victor123/6108
-#EXTINF:-1 group-title="US TV" ,FOOD HD
-http://f.ok2.se:8000/victor1/victor123/333
-#EXTINF:-1 group-title="US TV" ,FOOD HD (USA)
-http://f.ok2.se:8000/victor1/victor123/80508
 #EXTINF:-1 group-title="US TV" ,FOX HD EAST
 http://f.ok2.se:8000/victor1/victor123/9
-#EXTINF:-1 group-title="US TV" ,SKY BBC 1
-http://f.ok2.se:8000/victor1/victor123/1783
-#EXTINF:-1 group-title="US TV" ,SKY BBC 2
-http://f.ok2.se:8000/victor1/victor123/1784
 #EXTINF:-1 group-title="US TV" ,SKY TLC
 http://f.ok2.se:8000/victor1/victor123/1790
-#EXTINF:-1 group-title="US TV" ,SKY HISTORY
-http://f.ok2.se:8000/victor1/victor123/1758
-#EXTINF:-1 group-title="US TV" ,SKY H2
-http://f.ok2.se:8000/victor1/victor123/1754
 #EXTINF:-1 group-title="US TV" ,SKY REALLY
 http://f.ok2.se:8000/victor1/victor123/1757
 #EXTINF:-1 group-title="US TV" ,SKY ARTS
@@ -644,8 +644,6 @@ http://f.ok2.se:8000/victor1/victor123/2196
 http://f.ok2.se:8000/victor1/victor123/1768
 #EXTINF:-1 group-title="US TV" ,SKY TRU TV
 http://f.ok2.se:8000/victor1/victor123/1723
-#EXTINF:-1 group-title="US TV" ,SKY FOOD NETWORK
-http://f.ok2.se:8000/victor1/victor123/1788
 #EXTINF:-1 group-title="US TV" ,SKY HOME
 http://f.ok2.se:8000/victor1/victor123/1718
 #EXTINF:-1 group-title="US TV" ,SKY DAVE
@@ -677,23 +675,17 @@ http://f.ok2.se:8000/victor1/victor123/67103
 #EXTINF:-1 group-title="US TV" ,*GLOBAL EAST HD
 http://f.ok2.se:8000/victor1/victor123/15
 #EXTINF:-1 group-title="US TV" ,CTV
-http://f.ok2.se:8000/victor1/victor123/16
-#EXTINF:-1 group-title="US TV" ,CTV
 http://f.ok2.se:8000/victor1/victor123/17
-#EXTINF:-1 group-title="US TV" ,CTV
-http://f.ok2.se:8000/victor1/victor123/71277
 #EXTINF:-1 group-title="US TV" ,CBC EAST HD
 http://f.ok2.se:8000/victor1/victor123/18
-#EXTINF:-1 group-title="US TV" ,CBC WINDSOR - NEW
+#EXTINF:-1 group-title="US TV" ,CBC WINDSOR
 http://f.ok2.se:8000/victor1/victor123/71279
-#EXTINF:-1 group-title="US TV" ,CBC ATLANTIC - NEW
+#EXTINF:-1 group-title="US TV" ,CBC ATLANTIC
 http://f.ok2.se:8000/victor1/victor123/71278
 #EXTINF:-1 group-title="US TV" ,CBC CHARLOTTETOWN HD
 http://f.ok2.se:8000/victor1/victor123/72691
-#EXTINF:-1 group-title="US TV" ,CTV MONCTON - NEW
+#EXTINF:-1 group-title="US TV" ,CTV MONCTON
 http://f.ok2.se:8000/victor1/victor123/71282
-#EXTINF:-1 group-title="US TV" ,CTV NB - NEW
-http://f.ok2.se:8000/victor1/victor123/71283
 #EXTINF:-1 group-title="US TV" ,CTV2 ATLANTIC
 http://f.ok2.se:8000/victor1/victor123/71425
 #EXTINF:-1 group-title="US TV" ,CTV2 LONDON
@@ -760,18 +752,6 @@ http://f.ok2.se:8000/victor1/victor123/12769
 http://f.ok2.se:8000/victor1/victor123/56247
 #EXTINF:-1 group-title="US TV" ,METV HD - NEW
 http://f.ok2.se:8000/victor1/victor123/15072
-#EXTINF:-1 group-title="US TV" ,YES TV
-http://f.ok2.se:8000/victor1/victor123/6962
-#EXTINF:-1 group-title="US TV" ,FX HD
-http://f.ok2.se:8000/victor1/victor123/314
-#EXTINF:-1 group-title="US TV" ,FXX HD
-http://f.ok2.se:8000/victor1/victor123/315
-#EXTINF:-1 group-title="US TV" ,TRU TV HD
-http://f.ok2.se:8000/victor1/victor123/340
-#EXTINF:-1 group-title="US TV" ,COMEDY NETWORK HD
-http://f.ok2.se:8000/victor1/victor123/316
-#EXTINF:-1 group-title="US TV" ,PARAMOUNT NETWORK HD
-http://f.ok2.se:8000/victor1/victor123/318
 #EXTINF:-1 group-title="US TV" ,ION HD - NEW
 http://f.ok2.se:8000/victor1/victor123/59033
 #EXTINF:-1 group-title="US TV" ,LIFE HD
@@ -816,8 +796,6 @@ http://f.ok2.se:8000/victor1/victor123/348
 http://f.ok2.se:8000/victor1/victor123/67097
 #EXTINF:-1 group-title="US TV" ,TSC - NEW
 http://f.ok2.se:8000/victor1/victor123/67098
-#EXTINF:-1 group-title="US TV" ,TRAVEL HD
-http://f.ok2.se:8000/victor1/victor123/349
 #EXTINF:-1 group-title="US TV" ,DESTINATION AMERICA HD
 http://f.ok2.se:8000/victor1/victor123/7482
 #EXTINF:-1 group-title="US TV" ,MTV HD
@@ -830,5 +808,15 @@ http://f.ok2.se:8000/victor1/victor123/10042
 http://f.ok2.se:8000/victor1/victor123/4141
 #EXTINF:-1 group-title="US TV" ,BRAVO HD
 http://f.ok2.se:8000/victor1/victor123/353
+#EXTINF:-1 group-title="US TV" ,PARAMOUNT NETWORK HD
+http://f.ok2.se:8000/victor1/victor123/318
 
+#EXTINF:-1 group-title="FOODS" ,COOKING CHANNEL HD
+http://f.ok2.se:8000/victor1/victor123/6108
+#EXTINF:-1 group-title="FOODS" ,FOOD HD
+http://f.ok2.se:8000/victor1/victor123/333
+#EXTINF:-1 group-title="FOODS" ,FOOD HD (USA)
+http://f.ok2.se:8000/victor1/victor123/80508
+#EXTINF:-1 group-title="FOODS" ,SKY FOOD NETWORK
+http://f.ok2.se:8000/victor1/victor123/1788
 
