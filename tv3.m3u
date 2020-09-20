@@ -274,205 +274,201 @@ http://f.ok2.se:8000/victor1/victor123/46724
 http://f.ok2.se:8000/victor1/victor123/357
 
 
-#EXTINF:-1 group-title="au",SBS
+#EXTINF:-1 group-title="AU",SBS
 https://sbs-live.akamaized.net/hls/live/2002827/channel1/geo/master_2500K.m3u8
-#EXTINF:-1 group-title="au",SBS Food
+#EXTINF:-1 group-title="AU",SBS Food
 https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8
-#EXTINF:-1 group-title="au",SBS World Movies
+#EXTINF:-1 group-title="AU",SBS World Movies
 https://sbs-live.akamaized.net/hls/live/2005470/channel5/geo/master_2500K.m3u8
-#EXTINF:-1 group-title="au",SBS VICELAND
+#EXTINF:-1 group-title="AU",SBS VICELAND
 https://sbs-live.akamaized.net/hls/live/2002828/channel2/geo/master_2500K.m3u8
-#EXTINF:-1 group-title="au",SBS NITV
+#EXTINF:-1 group-title="AU",SBS NITV
 https://sbs-live.akamaized.net/hls/live/2002826/channel4/geo/master_1800K.m3u8
-
-#EXTINF:-1 group-title="au",ABC NEWS
+#EXTINF:-1 group-title="AU",ABC NEWS
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 group-title="au",ABC
+#EXTINF:-1 group-title="AU",ABC
 https://c.mjh.nz/101002210221/
-#EXTINF:-1 group-title="au",ABC Comedy
+#EXTINF:-1 group-title="AU",ABC Comedy
 https://c.mjh.nz/abc2/
-#EXTINF:-1 group-title="au",ABC Me
+#EXTINF:-1 group-title="AU",ABC Me
 https://c.mjh.nz/101002210224/
-#EXTINF:-1 group-title="au",ABC KIDS
+#EXTINF:-1 group-title="AU",ABC KIDS
 https://c.mjh.nz/101002210222/
-
-#EXTINF:-1 group-title="au",7ONE
+#EXTINF:-1 group-title="AU",7ONE
 https://npc.cdn.7livecloud.io/hls/live/CNS1/masterSD.m3u8
-#EXTINF:-1 group-title="au",7TWO
+#EXTINF:-1 group-title="AU",7TWO
 https://npc.cdn.7livecloud.io/hls/live/BRI2/masterSD.m3u8
-#EXTINF:-1 group-title="au",7mate Sydney
+#EXTINF:-1 group-title="AU",7mate Sydney
 https://npc.cdn.7livecloud.io/hls/live/SYD3/masterSD.m3u8
-#EXTINF:-1 group-title="au",7flix Sydney
+#EXTINF:-1 group-title="AU",7flix Sydney
 https://npc.cdn.7livecloud.io/hls/live/SYD6/masterSD.m3u8
-#EXTINF:-1 group-title="au",Fuel TV
+#EXTINF:-1 group-title="AU",Fuel TV
 https://i.mjh.nz/au/Sydney/tv.7fueltv.m3u8
-#EXTINF:-1 group-title="au",PAC-12
+#EXTINF:-1 group-title="AU",PAC-12
 https://pac12b.cdn.7livecloud.io/index.m3u8
-#EXTINF:-1 group-title="au",openshop
+#EXTINF:-1 group-title="AU",openshop
 https://npc.cdn.7livecloud.io/hls/live/ASN/masterSD.m3u8
-#EXTINF:-1 group-title="au",RACING
+#EXTINF:-1 group-title="AU",RACING
 https://npc.cdn.7livecloud.io/hls/live/RAC/masterSD.m3u8
-#EXTINF:-1 group-title="au",outdoor food
+#EXTINF:-1 group-title="AU",outdoor food
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w996888467_b1006700.m3u8
-#EXTINF:-1 group-title="au",Outdoor Channel
+#EXTINF:-1 group-title="AU",Outdoor Channel
 https://i.mjh.nz/au/Sydney/tv.7outdoor.m3u8
-#EXTINF:-1 group-title="au",Channel 9
+#EXTINF:-1 group-title="AU",Channel 9
 https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8
-#EXTINF:-1 group-title="au",9Gem
+#EXTINF:-1 group-title="AU",9Gem
 https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
-#EXTINF:-1 group-title="au",9Go!
+#EXTINF:-1 group-title="AU",9Go!
 https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
-#EXTINF:-1 group-title="au",9Life
+#EXTINF:-1 group-title="AU",9Life
 https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
-#EXTINF:-1 group-title="au",9Rush
+#EXTINF:-1 group-title="AU",9Rush
 https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8
-
-#EXTINF:-1 group-title="au",Channel 10
+#EXTINF:-1 group-title="AU",Channel 10
 https://d2wbjmkh2b1mgc.cloudfront.net/10QLD/stream.m3u8
-
-#EXTINF:-1 group-title="au",Al Jazeera
+#EXTINF:-1 group-title="AU",Al Jazeera
 https://i.mjh.nz/au/Sydney/tv.46.m3u8
-#EXTINF:-1 group-title="au",Bloomberg
+#EXTINF:-1 group-title="AU",Bloomberg
 https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="au",ausbiz TV
+#EXTINF:-1 group-title="AU",ausbiz TV
 https://i.mjh.nz/au/Sydney/tv.7ausbiz.m3u8
-#EXTINF:-1 group-title="au",Olympics Channel
+#EXTINF:-1 group-title="AU",Olympics Channel
 https://i.mjh.nz/au/Sydney/tv.7olympics.m3u8
-#EXTINF:-1 group-title="au",Snowy Mountains Television
+#EXTINF:-1 group-title="AU",Snowy Mountains Television
 https://c.mjh.nz/snowy-mountains/
-#EXTINF:-1 group-title="au",Redbull TV
+#EXTINF:-1 group-title="AU",Redbull TV
 https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8
-#EXTINF:-1 group-title="au",C31 Melbourne
+#EXTINF:-1 group-title="AU",C31 Melbourne
 https://dcunilive47-lh.akamaihd.net/i/dclive_1@739220/master.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="au",Fox Sports News
+#EXTINF:-1 group-title="AU",Fox Sports News
 https://i.mjh.nz/au/Sydney/tv.fox.sports.news.m3u8
-#EXTINF:-1 group-title="au",Sky News Extra 1
+#EXTINF:-1 group-title="AU",Sky News Extra 1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="au",Sky News Extra 2
+#EXTINF:-1 group-title="AU",Sky News Extra 2
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="au",Sky News Extra 3
+#EXTINF:-1 group-title="AU",Sky News Extra 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8?checkedby:hlscat.com
 
-#EXTINF:0  group-title="hk",凤凰中文
+#EXTINF:0  group-title="HK",凤凰中文
 http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
-#EXTINF:0  group-title="hk",凤凰资讯
+#EXTINF:0  group-title="HK",凤凰资讯
 http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
-#EXTINF:0  group-title="hk",凤凰香港
+#EXTINF:0  group-title="HK",凤凰香港
 http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
-#EXTINF:0  group-title="hk",HKS香港卫视
+#EXTINF:0  group-title="HK",HKS香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:0  group-title="hk",翡翠台
+#EXTINF:0  group-title="HK",翡翠台
 https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGFeiCui.m3u8
-#EXTINF:0  group-title="hk",无线新闻
+#EXTINF:0  group-title="HK",无线新闻
 http://45.93.217.106/jiuban/hg.php?id=1
-#EXTINF:0  group-title="hk",有线新闻2
+#EXTINF:0  group-title="HK",有线新闻2
 http://danielwu.gz01.bdysite.com/iptv/?id=yxxw2
-#EXTINF:0  group-title="hk",NOW新闻台
+#EXTINF:0  group-title="HK",NOW新闻台
 http://a.315600.xyz/dl/gt.php?id=nowtvlive
-#EXTINF:0  group-title="hk",无线财经
+#EXTINF:0  group-title="HK",无线财经
 http://96.45.185.192/tv.php?vid=wxcjzx
-#EXTINF:0  group-title="hk",耀才財經台1
+#EXTINF:0  group-title="HK",耀才財經台1
 http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:0  group-title="hk",环球电視
+#EXTINF:0  group-title="HK",环球电視
 http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
-#EXTINF:0  group-title="hk",亞美衛視
+#EXTINF:0  group-title="HK",亞美衛視
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-#EXTINF:0  group-title="hk",亚视本港
+#EXTINF:0  group-title="HK",亚视本港
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
-#EXTINF:0  group-title="hk",RHK32
+#EXTINF:0  group-title="HK",RHK32
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
-#EXTINF:0  group-title="hk",C+
+#EXTINF:0  group-title="HK",C+
 http://liveima.utvlive.top/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:0  group-title="hk",VIUTV
+#EXTINF:0  group-title="HK",VIUTV
 http://61.238.6.49:8000/bysid/99
-#EXTINF:0  group-title="hk",VIUTV
+#EXTINF:0  group-title="HK",VIUTV
 http://61.238.6.49:8000/bysid/96
-#EXTINF:0  group-title="hk",凤凰电影
+#EXTINF:0  group-title="HK",凤凰电影
 https://www.fanmingming.cn/hls/fhdy.m3u8
-#EXTINF:0  group-title="hk",天映娱乐thrll
+#EXTINF:0  group-title="HK",天映娱乐thrll
 http://210.210.155.35/qwr9ew/s/s34/02.m3u8
-#EXTINF:0  group-title="hk",kk金马影院
+#EXTINF:0  group-title="HK",kk金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:0  group-title="hk",kk开心影院
+#EXTINF:0  group-title="HK",kk开心影院
 http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
-#EXTINF:0  group-title="hk",歐美影院
+#EXTINF:0  group-title="HK",歐美影院
 http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSEAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
-#EXTINF:0  group-title="hk",亞洲影院
+#EXTINF:0  group-title="HK",亞洲影院
 http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSEAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
-#EXTINF:0  group-title="hk",天映频道Celestial Movies
+#EXTINF:0  group-title="HK",天映频道Celestial Movies
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:0  group-title="hk",卡式台
+#EXTINF:0  group-title="HK",卡式台
 http://live.vpnyun.tk:8080/demo/456321/23
-#EXTINF:0  group-title="hk",澳视澳门
+#EXTINF:0  group-title="HK",澳视澳门
 https://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:0  group-title="hk",澳视电影
+#EXTINF:0  group-title="HK",澳视电影
 https://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:0  group-title="hk",澳视体育
+#EXTINF:0  group-title="HK",澳视体育
 https://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
-#EXTINF:0  group-title="hk",澳视资讯
+#EXTINF:0  group-title="HK",澳视资讯
 https://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
-#EXTINF:0  group-title="hk",澳視澳門
+#EXTINF:0  group-title="HK",澳視澳門
 http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:0  group-title="hk",澳視衛星
+#EXTINF:0  group-title="HK",澳視衛星
 http://live4.tdm.com.mo/ch3/_definst_//ch3.live/playlist.m3u8
-#EXTINF:0  group-title="hk",澳视综艺
+#EXTINF:0  group-title="HK",澳视综艺
 http://61.244.22.5/ch6/_definst_/hd_ch6.live/playlist.m3u8
-#EXTINF:0  group-title="hk",澳视葡文
+#EXTINF:0  group-title="HK",澳视葡文
 http://61.244.22.4/ch2/ch2.live/index.m3u8
-#EXTINF:0  group-title="hk",澳門微电影
+#EXTINF:0  group-title="HK",澳門微电影
 http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
 
-#EXTINF:1  group-title="tw",TVBS新闻 FHD ★
+#EXTINF:1  group-title="TW",TVBS新闻 FHD ★
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-#EXTINF:1  group-title="tw",东森财经新闻 FHD ★
+#EXTINF:1  group-title="TW",东森财经新闻 FHD ★
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
-#EXTINF:1  group-title="tw",东森新闻 FHD ★
+#EXTINF:1  group-title="TW",东森新闻 FHD ★
 http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:1  group-title="tw",华视新闻 FHD ★
+#EXTINF:1  group-title="TW",华视新闻 FHD ★
 http://seb.sason.top/sc/hsxw_fhd.m3u8
-#EXTINF:1  group-title="tw",民视新闻 FHD ★
+#EXTINF:1  group-title="TW",民视新闻 FHD ★
 http://seb.sason.top/sc/msxw_fhd.m3u8
-#EXTINF:1  group-title="tw",三立iNews FHD ★
+#EXTINF:1  group-title="TW",三立iNews FHD ★
 http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:1  group-title="tw",三立Live FHD ★
+#EXTINF:1  group-title="TW",三立Live FHD ★
 http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:1  group-title="tw",台视新闻 FHD ★
+#EXTINF:1  group-title="TW",台视新闻 FHD ★
 http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:1  group-title="tw",中视新闻 FHD ★
+#EXTINF:1  group-title="TW",中视新闻 FHD ★
 http://seb.sason.top/sc/zsxw_fhd.m3u8
-#EXTINF:1  group-title="tw",中天新闻 FHD ★
+#EXTINF:1  group-title="TW",中天新闻 FHD ★
 http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:1  group-title="tw",壹新闻 FHD ★
+#EXTINF:1  group-title="TW",壹新闻 FHD ★
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
-#EXTINF:1  group-title="tw",三立新闻
+#EXTINF:1  group-title="TW",三立新闻
 http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
-#EXTINF:1  group-title="tw",民视 ★
+#EXTINF:1  group-title="TW",民视 ★
 http://seb.sason.top/ptv/ftv.php?id=ms
-#EXTINF:1  group-title="tw",民视第一 ★
+#EXTINF:1  group-title="TW",民视第一 ★
 http://seb.sason.top/ptv/ftv.php?id=dy
-#EXTINF:1  group-title="tw",民视台湾 ★
+#EXTINF:1  group-title="TW",民视台湾 ★
 http://seb.sason.top/ptv/ftv.php?id=tw
-#EXTINF:1  group-title="tw",民视影剧 ★
+#EXTINF:1  group-title="TW",民视影剧 ★
 http://seb.sason.top/ptv/ftv.php?id=yj
-#EXTINF:1  group-title="tw",民视综艺 ★
+#EXTINF:1  group-title="TW",民视综艺 ★
 http://seb.sason.top/ptv/ftv.php?id=zy
-#EXTINF:1  group-title="tw",民视旅游 ★
+#EXTINF:1  group-title="TW",民视旅游 ★
 http://seb.sason.top/ptv/ftv.php?id=ly
-#EXTINF:1  group-title="tw",大爱1台
+#EXTINF:1  group-title="TW",大爱1台
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:1  group-title="tw",TVBS新聞台
+#EXTINF:1  group-title="TW",TVBS新聞台
 http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
-#EXTINF:1  group-title="tw",TVBS歡樂台
+#EXTINF:1  group-title="TW",TVBS歡樂台
 http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE
-#EXTINF:1  group-title="tw",CNEX Taiwan
+#EXTINF:1  group-title="TW",CNEX Taiwan
 http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE
-#EXTINF:1  group-title="tw",HBO Asia
+#EXTINF:1  group-title="TW",HBO Asia
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
-#EXTINF:1  group-title="tw",博斯魅力
+#EXTINF:1  group-title="TW",博斯魅力
 https://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:1  group-title="tw",空中英語教室
+#EXTINF:1  group-title="TW",空中英語教室
 http://220.158.149.14:9999/live/TV00000000000000000077@HHZT;LIVE
-#EXTINF:1  group-title="tw",緯來體育台
+#EXTINF:1  group-title="TW",緯來體育台
 http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
 
 
