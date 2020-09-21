@@ -131,12 +131,6 @@ FIGHT - NEW,http://f.ok2.se:8000/victor1/victor123/71284
 *BEIN SPORTS HD,http://f.ok2.se:8000/victor1/victor123/171
 TVG - NEW,http://f.ok2.se:8000/victor1/victor123/59036
 TVG 2 - NEW,http://f.ok2.se:8000/victor1/victor123/81931
-KANAL 75 INT,http://f.ok2.se:8000/victor1/victor123/80388
-SIS ONE,http://f.ok2.se:8000/victor1/victor123/80387
-SIS TWO,http://f.ok2.se:8000/victor1/victor123/80386
-SIS RACING,http://f.ok2.se:8000/victor1/victor123/80385
-ATG LIVE,http://f.ok2.se:8000/victor1/victor123/80384
-RACING.COM (AU),http://f.ok2.se:8000/victor1/victor123/80783
 WFN,http://f.ok2.se:8000/victor1/victor123/26231
 OUTDOOR CHANNEL,http://f.ok2.se:8000/victor1/victor123/9049
 SPORTSMAN NETWORK,http://f.ok2.se:8000/victor1/victor123/9050
@@ -419,141 +413,10 @@ DISCOVERY FAMILY HD - NEW,http://f.ok2.se:8000/victor1/victor123/59034
 DISNEY HD EAST,http://f.ok2.se:8000/victor1/victor123/392
 ABC SPARK HD,http://f.ok2.se:8000/victor1/victor123/4063
 TREEHOUSE HD,http://f.ok2.se:8000/victor1/victor123/393
-MAGIC SCHOOL BUS 24x7,http://f.ok2.se:8000/victor1/victor123/8092
-BABY EINSTEIN 24X7,http://f.ok2.se:8000/victor1/victor123/8089
-PEPPA PIG 24x7,http://f.ok2.se:8000/victor1/victor123/9737
-PAW PATROL 24x7,http://f.ok2.se:8000/victor1/victor123/9736
-SONIC BOOM 24x7 (NEW),http://f.ok2.se:8000/victor1/victor123/42215
-PJ MASK 24x7 (NEW),http://f.ok2.se:8000/victor1/victor123/42216
-SUPER WINGS 24x7 (NEW),http://f.ok2.se:8000/victor1/victor123/38759
-TROLLHUNTERS 24x7 (NEW),http://f.ok2.se:8000/victor1/victor123/43224
-TRANSFORMER - RETRO 24x7 (NEW),http://f.ok2.se:8000/victor1/victor123/65803
 NICKELODEON HD,http://f.ok2.se:8000/victor1/victor123/394
 CARTOON NETWORK HD,http://f.ok2.se:8000/victor1/victor123/395
 FAMILY HD,http://f.ok2.se:8000/victor1/victor123/396
 DISNEY XD HD,http://f.ok2.se:8000/victor1/victor123/397
-DISNEY ALL DAY 24X7,http://f.ok2.se:8000/victor1/victor123/7804
-DUCK TALES 24X7,http://f.ok2.se:8000/victor1/victor123/7498
-SPIDERMAN 24x7 (NEW),http://f.ok2.se:8000/victor1/victor123/9976
-BATMAN THE ANIMATED SERIES 24x7,http://f.ok2.se:8000/victor1/victor123/7499
-STAR WARS CLONE WARS 24X7,http://f.ok2.se:8000/victor1/victor123/7835
-STAR WARS REBELS 24x7,http://f.ok2.se:8000/victor1/victor123/8090
-TELETOON HD,http://f.ok2.se:8000/victor1/victor123/2422
-NFL FILMS PRESENT (24X7),http://f.ok2.se:8000/victor1/victor123/82794
-NFL MIC'D UP (24X7),http://f.ok2.se:8000/victor1/victor123/82793
-NFL SUPERBOWL (24X7),http://f.ok2.se:8000/victor1/victor123/82792
-NFL THROWBACK (24X7),http://f.ok2.se:8000/victor1/victor123/82791
-NFL TOP 10 (24X7),http://f.ok2.se:8000/victor1/victor123/82790
-NFL TOP 100 GOAT (24X7),http://f.ok2.se:8000/victor1/victor123/82789
-
-PALMARES ADISQ (RADIO),http://f.ok2.se:8000/victor1/victor123/96147
-CLASSICA (RADIO),http://f.ok2.se:8000/victor1/victor123/96148
-HITS! (RADIO),http://f.ok2.se:8000/victor1/victor123/96149
-PLAYBOY TV (NA),http://f.ok2.se:8000/victor1/victor123/300
-HUSTLER HD,http://f.ok2.se:8000/victor1/victor123/302
-X ART,http://f.ok2.se:8000/victor1/victor123/10658
-NAUGHTY AMERICA,http://f.ok2.se:8000/victor1/victor123/10657
-BRAZZERS,http://f.ok2.se:8000/victor1/victor123/10656
-BRAZZERS LIVE,http://f.ok2.se:8000/victor1/victor123/10660
-TEN - NEW,http://f.ok2.se:8000/victor1/victor123/9165
-XTSY - (NEW),http://f.ok2.se:8000/victor1/victor123/9164
-TINY4K,http://f.ok2.se:8000/victor1/victor123/8889
-CANDY - NEW,http://f.ok2.se:8000/victor1/victor123/90820
-O-LA-LA - NEW,http://f.ok2.se:8000/victor1/victor123/90821
-FAP TV TEENS - NEW,http://f.ok2.se:8000/victor1/victor123/90822
-OH-AH - NEW,http://f.ok2.se:8000/victor1/victor123/90823
-SESTO SENSO - NEW,http://f.ok2.se:8000/victor1/victor123/90824
-EVIL ANGEL 1,http://f.ok2.se:8000/victor1/victor123/10659
-BANG BROS,http://f.ok2.se:8000/victor1/victor123/8783
-IPZ,http://f.ok2.se:8000/victor1/victor123/6610
-JAV 1 UNCENSORED,http://f.ok2.se:8000/victor1/victor123/6612
-JAV 2 UNCENSORED,http://f.ok2.se:8000/victor1/victor123/6613
-JAV 3 UNCENSORED,http://f.ok2.se:8000/victor1/victor123/6614
-TOKYO HOT,http://f.ok2.se:8000/victor1/victor123/6572
-WANZ,http://f.ok2.se:8000/victor1/victor123/6611
-TUSHY,http://f.ok2.se:8000/victor1/victor123/6615
-LEGAL PORNO,http://f.ok2.se:8000/victor1/victor123/6573
-PENTHOUSE,http://f.ok2.se:8000/victor1/victor123/71118
-1 HD XXX,http://f.ok2.se:8000/victor1/victor123/6697
-2 HD XXX,http://f.ok2.se:8000/victor1/victor123/6696
-3 HD XXX,http://f.ok2.se:8000/victor1/victor123/6695
-4 HD XXX,http://f.ok2.se:8000/victor1/victor123/6694
-5 HD XXX,http://f.ok2.se:8000/victor1/victor123/6693
-6 HD XXX,http://f.ok2.se:8000/victor1/victor123/6692
-7 HD XXX,http://f.ok2.se:8000/victor1/victor123/6687
-8 HD XXX,http://f.ok2.se:8000/victor1/victor123/6686
-
-*UNIVISION EAST HD,http://f.ok2.se:8000/victor1/victor123/8253
-*UNIVISION WEST (LA),http://f.ok2.se:8000/victor1/victor123/413
-UNIVISION (CDN) - NEW,http://f.ok2.se:8000/victor1/victor123/66070
-GALAVISION,http://f.ok2.se:8000/victor1/victor123/414
-GALAVISION WEST,http://f.ok2.se:8000/victor1/victor123/42673
-*TELEMUNDO EAST,http://f.ok2.se:8000/victor1/victor123/415
-*TELEMUNDO WEST,http://f.ok2.se:8000/victor1/victor123/416
-NBC UNIVERSO HD,http://f.ok2.se:8000/victor1/victor123/417
-HITN (ES) - NEW,http://f.ok2.se:8000/victor1/victor123/31461
-HITN  - NEW,http://f.ok2.se:8000/victor1/victor123/65731
-CANAL DE LAS ESTRELLAS (SP),http://f.ok2.se:8000/victor1/victor123/428
-MEGA HD (NEW),http://f.ok2.se:8000/victor1/victor123/418
-CINE LATINO (ES),http://f.ok2.se:8000/victor1/victor123/30862
-CINEMAX HD ES - NEW,http://f.ok2.se:8000/victor1/victor123/419
-HBO EAST HD (ES),http://f.ok2.se:8000/victor1/victor123/420
-UNIMAS HD,http://f.ok2.se:8000/victor1/victor123/425
-TLNOVELAS HD,http://f.ok2.se:8000/victor1/victor123/427
-PASIONES,http://f.ok2.se:8000/victor1/victor123/426
-AZTECA,http://f.ok2.se:8000/victor1/victor123/451
-CNN (ES),http://f.ok2.se:8000/victor1/victor123/429
-CENTRO AMERICA TV,http://f.ok2.se:8000/victor1/victor123/444
-HISTORY (ES),http://f.ok2.se:8000/victor1/victor123/431
-DISCOVERY HD ES,http://f.ok2.se:8000/victor1/victor123/430
-CINE SONY (ES),http://f.ok2.se:8000/victor1/victor123/435
-MUSICA 1 (REGGAETON),http://f.ok2.se:8000/victor1/victor123/6583
-MUSICA 2 (REGGAETON) (2017),http://f.ok2.se:8000/victor1/victor123/6584
-MUSICA 3 (REGGAETON) (VEVO),http://f.ok2.se:8000/victor1/victor123/6585
-MUSICA 4 (2017),http://f.ok2.se:8000/victor1/victor123/6586
-BEIN DEPORTES HD (ES),http://f.ok2.se:8000/victor1/victor123/236
-BEIN DEPORTES HD (H264),http://f.ok2.se:8000/victor1/victor123/38491
-BEIN DEPORTES HD (H265) - NEW,http://f.ok2.se:8000/victor1/victor123/65724
-ESPN HD DEPORTES,http://f.ok2.se:8000/victor1/victor123/8505
-*UNIVISION DEPORTES,http://f.ok2.se:8000/victor1/victor123/423
-*FOX DEPORTES HD (ES),http://f.ok2.se:8000/victor1/victor123/436
-FOX DEPORTES (ES),http://f.ok2.se:8000/victor1/victor123/237
-FOX SPORTS HD (LATIN AMERICA) (ES),http://f.ok2.se:8000/victor1/victor123/39679
-FOX SPORTS 2 HD (LATIN AMERICA) (ES),http://f.ok2.se:8000/victor1/victor123/39680
-FOX SPORTS 3 HD (LATIN AMERICA) (ES),http://f.ok2.se:8000/victor1/victor123/39681
-ESPN DEPORTES HD (ES),http://f.ok2.se:8000/victor1/victor123/238
-GOL TV (ES),http://f.ok2.se:8000/victor1/victor123/235
-GOL TV (ES) - NEW,http://f.ok2.se:8000/victor1/victor123/424
-DIRECTV SPORTS 1 HD (SP),http://f.ok2.se:8000/victor1/victor123/64391
-DIRECTV SPORTS 2 HD (SP),http://f.ok2.se:8000/victor1/victor123/64390
-DIRECTV SPORTS+ HD (SP),http://f.ok2.se:8000/victor1/victor123/64389
-WIN SPORTS (COL),http://f.ok2.se:8000/victor1/victor123/15130
-TYC SPORTS HD (ES),http://f.ok2.se:8000/victor1/victor123/27629
-TYC SPORTS INT (ES),http://f.ok2.se:8000/victor1/victor123/240
-TYC SPORTS INT (ARGENTINA),http://f.ok2.se:8000/victor1/victor123/437
-SUR PERU,http://f.ok2.se:8000/victor1/victor123/8653
-PERU MAGICO,http://f.ok2.se:8000/victor1/victor123/439
-ECUA TV,http://f.ok2.se:8000/victor1/victor123/440
-EC TV,http://f.ok2.se:8000/victor1/victor123/441
-TV VENEZUELA - NEW,http://f.ok2.se:8000/victor1/victor123/443
-TV ESPANA,http://f.ok2.se:8000/victor1/victor123/445
-TVE 24 (ES),http://f.ok2.se:8000/victor1/victor123/4786
-TVE INT (PT),http://f.ok2.se:8000/victor1/victor123/557
-TELEFE,http://f.ok2.se:8000/victor1/victor123/446
-ANTENA3 INTERNACIONAL (ES) - NEW,http://f.ok2.se:8000/victor1/victor123/65726
-TV CHILE,http://f.ok2.se:8000/victor1/victor123/442
-CARACOL (COLOMBIA),http://f.ok2.se:8000/victor1/victor123/15325
-CARACOL INT,http://f.ok2.se:8000/victor1/victor123/449
-RCN (COLOMBIA),http://f.ok2.se:8000/victor1/victor123/15321
-RCN INT,http://f.ok2.se:8000/victor1/victor123/448
-NUESTRATELE NOTICIAS 24 - NEW,http://f.ok2.se:8000/victor1/victor123/450
-ATV NOTICIAS HD,http://f.ok2.se:8000/victor1/victor123/63003
-
-*FAIRCHILD EAST,http://f.ok2.se:8000/victor1/victor123/402
-FAIRCHILD WEST,http://f.ok2.se:8000/victor1/victor123/403
-FAIRCHILD 2 HD,http://f.ok2.se:8000/victor1/victor123/404
-TALENT TV,http://f.ok2.se:8000/victor1/victor123/62363
-
 TORONTO 1 LIVE (1),http://f.ok2.se:8000/victor1/victor123/88838
 TORONTO 1 LIVE (2),http://f.ok2.se:8000/victor1/victor123/88839
 TORONTO 1 LIVE (3),http://f.ok2.se:8000/victor1/victor123/88840
@@ -614,7 +477,6 @@ FRIENDS 24x7,http://f.ok2.se:8000/victor1/victor123/8782
 FSP RUSSIA 24X7,http://f.ok2.se:8000/victor1/victor123/6588
 JACKIE CHAN 24X7,http://f.ok2.se:8000/victor1/victor123/5873
 JUST FOR LAUGHS 24X7,http://f.ok2.se:8000/victor1/victor123/6130
-
 WBBH-TV FORT MYERS (NBC),http://f.ok2.se:8000/victor1/victor123/82649
 WMFP BOSTON (NBC),http://f.ok2.se:8000/victor1/victor123/82626
 WCVB-TV BOSTON (ABC),http://f.ok2.se:8000/victor1/victor123/64894
@@ -997,8 +859,6 @@ MLB 2 (ESPN 2),http://f.ok2.se:8000/victor1/victor123/96569
 MLB 3 (FOX EAST),http://f.ok2.se:8000/victor1/victor123/96570
 MLB 4 (FOX SPORTS 1),http://f.ok2.se:8000/victor1/victor123/96571
 MLB 5 (TBS),http://f.ok2.se:8000/victor1/victor123/96572
-
-
 
 MOVICES,#genre#
 HBO 1 HD,http://f.ok2.se:8000/victor1/victor123/26321
@@ -1425,7 +1285,24 @@ XTINY 4K,http://randomserver.site:2086/wickeduk/etqyhww45e/72539
 BRAZIL TUBE - 03,http://randomserver.site:2086/wickeduk/etqyhww45e/91366
 HOT,http://185.236.229.4:8000/play/a13h
 MILF HD,http://live.redtraffic.xyz/milf.m3u8
+PLAYBOY TV (NA),http://f.ok2.se:8000/victor1/victor123/300
 Exxxotica HD,http://born-tv.ga/id0390/index.m3u8?token=brighid
+TEN - NEW,http://f.ok2.se:8000/victor1/victor123/9165
+XTSY - (NEW),http://f.ok2.se:8000/victor1/victor123/9164
+CANDY - NEW,http://f.ok2.se:8000/victor1/victor123/90820
+O-LA-LA - NEW,http://f.ok2.se:8000/victor1/victor123/90821
+FAP TV TEENS - NEW,http://f.ok2.se:8000/victor1/victor123/90822
+OH-AH - NEW,http://f.ok2.se:8000/victor1/victor123/90823
+SESTO SENSO - NEW,http://f.ok2.se:8000/victor1/victor123/90824
+PENTHOUSE,http://f.ok2.se:8000/victor1/victor123/71118
+1 HD XXX,http://f.ok2.se:8000/victor1/victor123/6697
+2 HD XXX,http://f.ok2.se:8000/victor1/victor123/6696
+3 HD XXX,http://f.ok2.se:8000/victor1/victor123/6695
+4 HD XXX,http://f.ok2.se:8000/victor1/victor123/6694
+5 HD XXX,http://f.ok2.se:8000/victor1/victor123/6693
+6 HD XXX,http://f.ok2.se:8000/victor1/victor123/6692
+7 HD XXX,http://f.ok2.se:8000/victor1/victor123/6687
+8 HD XXX,http://f.ok2.se:8000/victor1/victor123/6686
 Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
 Blonde,http://cdn.adultiptv.net/blonde.m3u8
 Blowjob,http://cdn.adultiptv.net/blowjob.m3u8
