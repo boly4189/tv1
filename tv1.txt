@@ -1,531 +1,2294 @@
 tv1,#genre#
-US : A&E,http://randomserver.site:2086/wickeduk/etqyhww45e/13558
-US : A&E FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64160
-US : ACC NETWORK,http://randomserver.site:2086/wickeduk/etqyhww45e/58373
-US : ACCU WEATHER,http://randomserver.site:2086/wickeduk/etqyhww45e/63468
-US : ACTION SPORTS 4U,http://randomserver.site:2086/wickeduk/etqyhww45e/15533
-US : ADULT SWIM,http://randomserver.site:2086/wickeduk/etqyhww45e/15517
-US : ADVENTURE SPORTS NETWORK,http://randomserver.site:2086/wickeduk/etqyhww45e/56018
-US : AKC TV,http://randomserver.site:2086/wickeduk/etqyhww45e/29211
-US : AMC,http://randomserver.site:2086/wickeduk/etqyhww45e/562
-US : AMC FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64158
-US : AMERICAN HEROES FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64155
-US : ANIMAL PLANET FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64154
-US : ATLANTA CHANNEL,http://randomserver.site:2086/wickeduk/etqyhww45e/13825
-US : AWE,http://randomserver.site:2086/wickeduk/etqyhww45e/21792
-US : AWE FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64157
-US : AXS TV,http://randomserver.site:2086/wickeduk/etqyhww45e/18677
-US : AXS TV FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64156
-US : BABY TV FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64150
-US : BBC AMERICA,http://randomserver.site:2086/wickeduk/etqyhww45e/1277
-US : BBC AMERICA FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64153
-US : BEACH TV  PAWLEYS ISLAND,http://randomserver.site:2086/wickeduk/etqyhww45e/52921
-US : BEACH TV - 30A,http://randomserver.site:2086/wickeduk/etqyhww45e/52923
-US : BEACH TV PANAMA CITY,http://randomserver.site:2086/wickeduk/etqyhww45e/52922
-US : BEIN SPORTS,http://randomserver.site:2086/wickeduk/etqyhww45e/352
-US : BET,http://randomserver.site:2086/wickeduk/etqyhww45e/13559
-US : BET FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64152
-US : BET HER,http://randomserver.site:2086/wickeduk/etqyhww45e/14069
-US : BET HER FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64151
-US : BET JAMS,http://randomserver.site:2086/wickeduk/etqyhww45e/56110
-US : BET SOUL,http://randomserver.site:2086/wickeduk/etqyhww45e/56109
-US : BIG TEN NETWORK,http://randomserver.site:2086/wickeduk/etqyhww45e/428
-US : BLEACHER REPORT 1,http://randomserver.site:2086/wickeduk/etqyhww45e/37364
-US : BLEACHER REPORT 10,http://randomserver.site:2086/wickeduk/etqyhww45e/37355
-US : BLEACHER REPORT 11,http://randomserver.site:2086/wickeduk/etqyhww45e/37354
-US : BLEACHER REPORT 12,http://randomserver.site:2086/wickeduk/etqyhww45e/37353
-US : BLEACHER REPORT 13,http://randomserver.site:2086/wickeduk/etqyhww45e/37352
-US : BLEACHER REPORT 14,http://randomserver.site:2086/wickeduk/etqyhww45e/37351
-US : BLEACHER REPORT 15,http://randomserver.site:2086/wickeduk/etqyhww45e/37350
-US : BLEACHER REPORT 16,http://randomserver.site:2086/wickeduk/etqyhww45e/37349
-US : BLEACHER REPORT 17,http://randomserver.site:2086/wickeduk/etqyhww45e/37348
-US : BLEACHER REPORT 18,http://randomserver.site:2086/wickeduk/etqyhww45e/37347
-US : BLEACHER REPORT 19,http://randomserver.site:2086/wickeduk/etqyhww45e/37346
-US : BLEACHER REPORT 2,http://randomserver.site:2086/wickeduk/etqyhww45e/37363
-US : BLEACHER REPORT 20,http://randomserver.site:2086/wickeduk/etqyhww45e/37345
-US : BLEACHER REPORT 3,http://randomserver.site:2086/wickeduk/etqyhww45e/37362
-US : BLEACHER REPORT 4,http://randomserver.site:2086/wickeduk/etqyhww45e/37361
-US : BLEACHER REPORT 5,http://randomserver.site:2086/wickeduk/etqyhww45e/37360
-US : BLEACHER REPORT 6,http://randomserver.site:2086/wickeduk/etqyhww45e/37359
-US : BLEACHER REPORT 7,http://randomserver.site:2086/wickeduk/etqyhww45e/37358
-US : BLEACHER REPORT 8,http://randomserver.site:2086/wickeduk/etqyhww45e/37357
-US : BLEACHER REPORT 9,http://randomserver.site:2086/wickeduk/etqyhww45e/37356
-US : BLOOMBERG TV,http://randomserver.site:2086/wickeduk/etqyhww45e/4680
-US : BLOOMBERG TV FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64149
-US : BOUNCE TV,http://randomserver.site:2086/wickeduk/etqyhww45e/14059
-US : BRAVO,http://randomserver.site:2086/wickeduk/etqyhww45e/315
-US : BRAVO FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64147
-US : BUZZR,http://randomserver.site:2086/wickeduk/etqyhww45e/15511
-US : BYU TV,http://randomserver.site:2086/wickeduk/etqyhww45e/14068
-US : CARTOON NETWORK FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64139
-US : CBS SPORTS HQ,http://randomserver.site:2086/wickeduk/etqyhww45e/6730
-US : CBS SPORTS NETWORK,http://randomserver.site:2086/wickeduk/etqyhww45e/220
-US : CBS SPORTS NETWORK FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64144
-US : CHARGE,http://randomserver.site:2086/wickeduk/etqyhww45e/46415
-US : CHEDDAR,http://randomserver.site:2086/wickeduk/etqyhww45e/17588
-US : CHEDDAR BUSINESS,http://randomserver.site:2086/wickeduk/etqyhww45e/47642
-US : CHEDDAR BUSINESS FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64138
-US : CHEDDAR NEWS,http://randomserver.site:2086/wickeduk/etqyhww45e/15571
-US : CHEDDAR NEWS FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64137
-US : CINEMAX,http://randomserver.site:2086/wickeduk/etqyhww45e/13560
-US : CINEMAX EAST FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64136
-US : CLASSIC ARTS SHOWCASE,http://randomserver.site:2086/wickeduk/etqyhww45e/8834
-US : CLASSIC TV 4U,https://nimble.dashstreams.net/onestudio/classictv/playlist.m3u8
-US : CMT,http://randomserver.site:2086/wickeduk/etqyhww45e/13745
-US : CMT FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64143
-US : CNBC FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64142
-US : CNBC WORLD,http://randomserver.site:2086/wickeduk/etqyhww45e/14878
-US : CNBC WORLD FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64141
-US : CNN FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64140
-US : COMEDY CENTRAL FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64135
-US : COMEDY TV,http://randomserver.site:2086/wickeduk/etqyhww45e/63643
-US : COMET FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64163
-US : CONTV,http://randomserver.site:2086/wickeduk/etqyhww45e/56019
-US : COOKING 4U,https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8
-US : COOKING CHANNEL,http://randomserver.site:2086/wickeduk/etqyhww45e/211
-US : COOKING CHANNEL FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64134
-US : COZI TV,http://randomserver.site:2086/wickeduk/etqyhww45e/14900
-US : CSPAN 1,http://randomserver.site:2086/wickeduk/etqyhww45e/388
-US : CSPAN 1 FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64146
-US : CSPAN 2,http://randomserver.site:2086/wickeduk/etqyhww45e/387
-US : CSPAN 2 FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64145
-US : CTS AMERICA,http://randomserver.site:2086/wickeduk/etqyhww45e/56144
-US : CW,http://randomserver.site:2086/wickeduk/etqyhww45e/319
-US : CW 11,http://randomserver.site:2086/wickeduk/etqyhww45e/15345
-US : DANCESTAR TV,http://randomserver.site:2086/wickeduk/etqyhww45e/36330
-US : DC COUNCIL CHANNEL,http://randomserver.site:2086/wickeduk/etqyhww45e/36332
-US : DESTINATION AMERICA,http://randomserver.site:2086/wickeduk/etqyhww45e/14946
-US : DESTINATION AMERICA FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64164
-US : DISCOVERY FAMILY,http://randomserver.site:2086/wickeduk/etqyhww45e/14879
-US : DISCOVERY FAMILY FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64132
-US : DISCOVERY LIFE,http://randomserver.site:2086/wickeduk/etqyhww45e/14880
-US : DISCOVERY SCIENCE FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64044
-US : DISNEY CHANNEL FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64131
-US : DISNEY JUNIOR FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64130
-US : DISNEY XD FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64129
-US : DISTRICT KNOWLEDGE NETWORK,http://randomserver.site:2086/wickeduk/etqyhww45e/15475
-US : DIY NETWORK,http://randomserver.site:2086/wickeduk/etqyhww45e/13568
-US : DIY NETWORK FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64133
-US : DOCUMENTARIES 4U,https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
-US : DOCURAMA,http://randomserver.site:2086/wickeduk/etqyhww45e/25779
-US : DOG TV,http://randomserver.site:2086/wickeduk/etqyhww45e/480
-US : E  WEST,http://randomserver.site:2086/wickeduk/etqyhww45e/15414
-US : E!  FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64128
-US : E!,http://randomserver.site:2086/wickeduk/etqyhww45e/14942
-US : EL REY,http://randomserver.site:2086/wickeduk/etqyhww45e/1272
-US : EL REY FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64123
-US : ELEVEN SPORTS NETWORK,http://randomserver.site:2086/wickeduk/etqyhww45e/14899
-US : EPIX,http://randomserver.site:2086/wickeduk/etqyhww45e/13606
-US : EPIX 2,http://randomserver.site:2086/wickeduk/etqyhww45e/42473
-US : EPIX 2 FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64121
-US : EPIX DRIVE IN,http://randomserver.site:2086/wickeduk/etqyhww45e/56132
-US : EPIX DRIVE IN FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64120
-US : EPIX FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64122
-US : EPIX HITS,http://randomserver.site:2086/wickeduk/etqyhww45e/14941
-US : EPIX HITS FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64119
-US : ESPN,http://randomserver.site:2086/wickeduk/etqyhww45e/13604
-US : ESPN 2,http://randomserver.site:2086/wickeduk/etqyhww45e/343
-US : ESPN 2 FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64126
-US : ESPN FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64127
-US : ESPN NEWS,http://randomserver.site:2086/wickeduk/etqyhww45e/1702
-US : ESPN NEWS FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64125
-US : ESPN U,http://randomserver.site:2086/wickeduk/etqyhww45e/475
-US : ESPN U FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64124
-US : EVINE TV,http://randomserver.site:2086/wickeduk/etqyhww45e/18264
-US : EWTN,http://randomserver.site:2086/wickeduk/etqyhww45e/2897
-US : EXERCISE TV,https://nimble.dashstreams.net/onestudio/exercise_4u_tv/playlist.m3u8
-US : EZWAY NETWORK,http://randomserver.site:2086/wickeduk/etqyhww45e/52918
-US : FISHING TV,http://randomserver.site:2086/wickeduk/etqyhww45e/52917
-US : FM FUSE MUSIC,http://randomserver.site:2086/wickeduk/etqyhww45e/63650
-US : FOOD NETWORK,http://randomserver.site:2086/wickeduk/etqyhww45e/195
-US : FOOD NETWORK FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64114
-US : FOX BUSINESS,http://randomserver.site:2086/wickeduk/etqyhww45e/472
-US : FOX BUSINESS NETWORK FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64113
-US : FOX DEPORTES,http://randomserver.site:2086/wickeduk/etqyhww45e/15370
-US : FOX NEWS CHANNEL,http://randomserver.site:2086/wickeduk/etqyhww45e/252
-US : FOX NEWS CHANNEL FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64112
-US : FOX SOCCER PLUS,http://randomserver.site:2086/wickeduk/etqyhww45e/11926
-US : FOX SPORTS 1 FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64111
-US : FOX SPORTS 2,http://randomserver.site:2086/wickeduk/etqyhww45e/187
-US : FOX SPORTS 2 FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64110
-US : FOX SPORTS ARIZONA,http://randomserver.site:2086/wickeduk/etqyhww45e/13403
-US : FOX SPORTS DETROIT,http://randomserver.site:2086/wickeduk/etqyhww45e/15064
-US : FOX SPORTS FLORIDA,http://randomserver.site:2086/wickeduk/etqyhww45e/15119
-US : FOX SPORTS MIDWEST,http://randomserver.site:2086/wickeduk/etqyhww45e/15123
-US : FOX SPORTS NORTH,http://randomserver.site:2086/wickeduk/etqyhww45e/3072
-US : FOX SPORTS OHIO,http://randomserver.site:2086/wickeduk/etqyhww45e/8674
-US : FOX SPORTS OKLAHOMA,http://randomserver.site:2086/wickeduk/etqyhww45e/45587
-US : FOX SPORTS PRIME TICKET,http://randomserver.site:2086/wickeduk/etqyhww45e/15421
-US : FOX SPORTS SAN DIEGO,http://randomserver.site:2086/wickeduk/etqyhww45e/15121
-US : FOX SPORTS SAN DIEGO PLUS,http://randomserver.site:2086/wickeduk/etqyhww45e/44696
-US : FOX SPORTS SOUTH,http://randomserver.site:2086/wickeduk/etqyhww45e/15124
-US : FOX SPORTS SOUTHEAST,http://randomserver.site:2086/wickeduk/etqyhww45e/14897
-US : FOX SPORTS SOUTHWEST,http://randomserver.site:2086/wickeduk/etqyhww45e/15422
-US : FOX SPORTS SUN,http://randomserver.site:2086/wickeduk/etqyhww45e/15120
-US : FOX SPORTS WEST,http://randomserver.site:2086/wickeduk/etqyhww45e/18659
-US : FRANCE 24,http://randomserver.site:2086/wickeduk/etqyhww45e/21833
-US : FREE SPEECH TV,http://randomserver.site:2086/wickeduk/etqyhww45e/4411
-US : FREEFORM,http://randomserver.site:2086/wickeduk/etqyhww45e/320
-US : FUSE,http://randomserver.site:2086/wickeduk/etqyhww45e/15464
-US : FUSE FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64109
-US : FX,http://randomserver.site:2086/wickeduk/etqyhww45e/324
-US : FX MOVIE CHANNEL FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64117
-US : FXM,http://randomserver.site:2086/wickeduk/etqyhww45e/1271
-US : FXX,http://randomserver.site:2086/wickeduk/etqyhww45e/323
-US : FXX FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64116
-US : FYI FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64115
-US : FYI NETWORK,http://randomserver.site:2086/wickeduk/etqyhww45e/342
-US : GAME SHOW NETWORK (GSN),http://randomserver.site:2086/wickeduk/etqyhww45e/13607
-US : GEM SHOPPING NETWORK,http://randomserver.site:2086/wickeduk/etqyhww45e/63464
-US : GET TV,http://randomserver.site:2086/wickeduk/etqyhww45e/62322
-US : GOL TV,http://randomserver.site:2086/wickeduk/etqyhww45e/21905
-US : GOL TV FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64107
-US : GOLF CHANNEL,http://randomserver.site:2086/wickeduk/etqyhww45e/390
-US : GOLF CHANNEL FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64105
-US : GRIT,http://randomserver.site:2086/wickeduk/etqyhww45e/15371
-US : GSN FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64106
-US : H2,http://randomserver.site:2086/wickeduk/etqyhww45e/309
-US : HALLMARK CHANNEL FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64099
-US : HALLMARK DRAMA,http://randomserver.site:2086/wickeduk/etqyhww45e/14869
-US : HALLMARK DRAMA FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64097
-US : HALLMARK MOVIES,http://randomserver.site:2086/wickeduk/etqyhww45e/14947
-US : HALLMARK MOVIES & MYSTERIES FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64098
-US : HARDCORE HUNTING TV,https://edge1.dashmedia.tv/onestudio/hunting/playlist.m3u8
-US : HBO EAST,http://randomserver.site:2086/wickeduk/etqyhww45e/14948
-US : HBO EAST FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64104
-US : HBO FAMILY EAST FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64103
-US : HBO LATINO FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64102
-US : HBO SIGNATURE EAST,http://randomserver.site:2086/wickeduk/etqyhww45e/2492
-US : HDNET MOVIES,http://randomserver.site:2086/wickeduk/etqyhww45e/56133
-US : HGTV,http://randomserver.site:2086/wickeduk/etqyhww45e/4212
-US : HGTV FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64101
-US : HISTORY,http://randomserver.site:2086/wickeduk/etqyhww45e/251
-US : HISTORY CHANNEL FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64096
-US : HLN,http://randomserver.site:2086/wickeduk/etqyhww45e/14896
-US : HLN FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64100
-US : HSN,http://randomserver.site:2086/wickeduk/etqyhww45e/15487
-US : HSN 2,http://randomserver.site:2086/wickeduk/etqyhww45e/57571
-US : IFC,http://randomserver.site:2086/wickeduk/etqyhww45e/611
-US : IFC FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64095
-US : INFO WARS,http://randomserver.site:2086/wickeduk/etqyhww45e/13824
-US : INVESTIGATION DISCOVERY,http://randomserver.site:2086/wickeduk/etqyhww45e/13608
-US : INVESTIGATION DISCOVERY FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64094
-US : JUSTICE CENTRAL,http://randomserver.site:2086/wickeduk/etqyhww45e/63642
-US : KARTOON FUN TIME,https://edge1.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8
-US : LIFETIME,http://randomserver.site:2086/wickeduk/etqyhww45e/15491
-US : LIFETIME FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64093
-US : LIFETIME MOVIE NETWORK,http://randomserver.site:2086/wickeduk/etqyhww45e/338
-US : LIFETIME MOVIE NETWORK FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64092
-US : LOGO TV,http://randomserver.site:2086/wickeduk/etqyhww45e/56134
-US : MAV TV,http://randomserver.site:2086/wickeduk/etqyhww45e/1073
-US : MELLO,http://randomserver.site:2086/wickeduk/etqyhww45e/1662
-US : MLB NETWORK,http://randomserver.site:2086/wickeduk/etqyhww45e/160
-US : MLB NETWORK FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64091
-US : MOTOR TREND,http://randomserver.site:2086/wickeduk/etqyhww45e/13585
-US : MOTOR TREND FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64087
-US : MOVEE 4U,http://randomserver.site:2086/wickeduk/etqyhww45e/23613
-US : MSG,http://randomserver.site:2086/wickeduk/etqyhww45e/3113
-US : MSG +,http://randomserver.site:2086/wickeduk/etqyhww45e/86841
-US : MSG 2,http://randomserver.site:2086/wickeduk/etqyhww45e/18667
-US : MSNBC,http://randomserver.site:2086/wickeduk/etqyhww45e/337
-US : MSNBC FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64090
-US : MTV,http://randomserver.site:2086/wickeduk/etqyhww45e/158
-US : MTV 2,http://randomserver.site:2086/wickeduk/etqyhww45e/15488
-US : MTV 2 FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64088
-US : MTV FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64089
-US : MTV LIVE,http://randomserver.site:2086/wickeduk/etqyhww45e/8848
-US : MTV U,http://randomserver.site:2086/wickeduk/etqyhww45e/56360
-US : MY LIFE TV,https://edge1.dashmedia.tv/onestudio/my_life_4u/playlist.m3u8
-US : MY9,http://randomserver.site:2086/wickeduk/etqyhww45e/1613
-US : NATIONAL GEO WILD FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64083
-US : NATIONAL GEOGRAPHIC CHANNEL,http://randomserver.site:2086/wickeduk/etqyhww45e/247
-US : NATIONAL GEOGRAPHIC FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64082
-US : NATIONAL GEOGRAPHIC WILD,http://randomserver.site:2086/wickeduk/etqyhww45e/157
-US : NBA ATLANTA HAWKS,http://randomserver.site:2086/wickeduk/etqyhww45e/375
-US : NBA BOSTON CELTICS,http://randomserver.site:2086/wickeduk/etqyhww45e/380
-US : NBA CHARLOTTE HORNETS,http://randomserver.site:2086/wickeduk/etqyhww45e/374
-US : NBA CHICAGO BULLS,http://randomserver.site:2086/wickeduk/etqyhww45e/369
-US : NBA CLEVELAND CAVALIERS,http://randomserver.site:2086/wickeduk/etqyhww45e/379
-US : NBA DALLAS MAVERICKS,http://randomserver.site:2086/wickeduk/etqyhww45e/55035
-US : NBA DENVER NUGGETS,http://randomserver.site:2086/wickeduk/etqyhww45e/2893
-US : NBA DETROIT PISTONS,http://randomserver.site:2086/wickeduk/etqyhww45e/378
-US : NBA GOLDEN STATE WARRIORS,http://randomserver.site:2086/wickeduk/etqyhww45e/55030
-US : NBA HOUSTON ROCKETS,http://randomserver.site:2086/wickeduk/etqyhww45e/55036
-US : NBA INDIANA PACERS,http://randomserver.site:2086/wickeduk/etqyhww45e/377
-US : NBA LOS ANGELES CLIPPERS,http://randomserver.site:2086/wickeduk/etqyhww45e/55031
-US : NBA LOS ANGELES LAKERS,http://randomserver.site:2086/wickeduk/etqyhww45e/55032
-US : NBA MEMPHIS GRIZZLIES,http://randomserver.site:2086/wickeduk/etqyhww45e/55037
-US : NBA MIAMI HEAT,http://randomserver.site:2086/wickeduk/etqyhww45e/2896
-US : NBA MILWAUKEE BUCKS,http://randomserver.site:2086/wickeduk/etqyhww45e/376
-US : NBA MINNESOTA TIMBERWOLVES,http://randomserver.site:2086/wickeduk/etqyhww45e/2892
-US : NBA NEW ORLEANS PELICANS,http://randomserver.site:2086/wickeduk/etqyhww45e/55038
-US : NBA NEW YORK KNICKS,http://randomserver.site:2086/wickeduk/etqyhww45e/372
-US : NBA OKLAHOMA CITY THUNDER,http://randomserver.site:2086/wickeduk/etqyhww45e/2891
-US : NBA ORLANDO MAGIC,http://randomserver.site:2086/wickeduk/etqyhww45e/2895
-US : NBA PHILADELPHIA 76ERS,http://randomserver.site:2086/wickeduk/etqyhww45e/371
-US : NBA PHOENIX SUNS,http://randomserver.site:2086/wickeduk/etqyhww45e/55033
-US : NBA PORTLAND TRAIL BLAZERS,http://randomserver.site:2086/wickeduk/etqyhww45e/2890
-US : NBA SACRAMENTO KINGS,http://randomserver.site:2086/wickeduk/etqyhww45e/55034
-US : NBA SAN ANTONIO SPURS,http://randomserver.site:2086/wickeduk/etqyhww45e/55039
-US : NBA TORONTO RAPTORS,http://randomserver.site:2086/wickeduk/etqyhww45e/370
-US : NBA TV,http://randomserver.site:2086/wickeduk/etqyhww45e/336
-US : NBA TV FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64086
-US : NBA UTAH JAZZ,http://randomserver.site:2086/wickeduk/etqyhww45e/55019
-US : NBA WASHINGTON WIZARDS,http://randomserver.site:2086/wickeduk/etqyhww45e/2894
-US : NBC SPORTS BAY AREA,http://randomserver.site:2086/wickeduk/etqyhww45e/13529
-US : NBC SPORTS BOSTON,http://randomserver.site:2086/wickeduk/etqyhww45e/13528
-US : NBC SPORTS NETWORK FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64085
-US : NBC SPORTS NORTHWEST,http://randomserver.site:2086/wickeduk/etqyhww45e/13522
-US : NBC SPORTS PHILADELPHIA,http://randomserver.site:2086/wickeduk/etqyhww45e/13526
-US : NBCSN (NBC SPORTS NETWORK),http://randomserver.site:2086/wickeduk/etqyhww45e/149
-US : NESN BOSTON,http://randomserver.site:2086/wickeduk/etqyhww45e/18671
-US : NESN PLUS,http://randomserver.site:2086/wickeduk/etqyhww45e/18668
-US : NEW ORLEANS TELEVISION,http://randomserver.site:2086/wickeduk/etqyhww45e/15486
-US : NEWS12 CONNECTICUT,http://randomserver.site:2086/wickeduk/etqyhww45e/90509
-US : NEWS12 HUDSON VALLEY,http://randomserver.site:2086/wickeduk/etqyhww45e/90510
-US : NEWS12 LONG ISLAND,http://randomserver.site:2086/wickeduk/etqyhww45e/90511
-US : NEWS12 NEW JERSEY,http://randomserver.site:2086/wickeduk/etqyhww45e/90512
-US : NEWS12 THE BRONX,http://randomserver.site:2086/wickeduk/etqyhww45e/90506
-US : NEWS12 WESTCHESTER,http://randomserver.site:2086/wickeduk/etqyhww45e/90508
-US : NEWSMAX TV,http://randomserver.site:2086/wickeduk/etqyhww45e/21942
-US : NEWSNET,http://randomserver.site:2086/wickeduk/etqyhww45e/48028
-US : NEWSY,http://randomserver.site:2086/wickeduk/etqyhww45e/62320
-US : NFL DETROIT LIONS,http://randomserver.site:2086/wickeduk/etqyhww45e/358
-US : NFL ARIZONA CARDINALS,http://randomserver.site:2086/wickeduk/etqyhww45e/28515
-US : NFL ATLANTA FALCONS,http://randomserver.site:2086/wickeduk/etqyhww45e/367
-US : NFL BALTIMORE RAVENS,http://randomserver.site:2086/wickeduk/etqyhww45e/55086
-US : NFL BUFFALO BILLS,http://randomserver.site:2086/wickeduk/etqyhww45e/55090
-US : NFL CAROLINA PANTHERS,http://randomserver.site:2086/wickeduk/etqyhww45e/365
-US : NFL CHICAGO BEARS,http://randomserver.site:2086/wickeduk/etqyhww45e/359
-US : NFL CINCINNATI BENGALS,http://randomserver.site:2086/wickeduk/etqyhww45e/55089
-US : NFL CLEVELAND BROWNS,http://randomserver.site:2086/wickeduk/etqyhww45e/55078
-US : NFL DALLAS COWBOYS,http://randomserver.site:2086/wickeduk/etqyhww45e/363
-US : NFL DENVER BRONCOS,http://randomserver.site:2086/wickeduk/etqyhww45e/55084
-US : NFL GREEN BAY PACKERS,http://randomserver.site:2086/wickeduk/etqyhww45e/360
-US : NFL HOUSTON TEXANS,http://randomserver.site:2086/wickeduk/etqyhww45e/55091
-US : NFL INDIANAPOLIS COLTS,http://randomserver.site:2086/wickeduk/etqyhww45e/55076
-US : NFL JACKSONVILLE JAGUARS,http://randomserver.site:2086/wickeduk/etqyhww45e/55093
-US : NFL KANSAS CITY CHIEFS,http://randomserver.site:2086/wickeduk/etqyhww45e/55087
-US : NFL LOS ANGELES CHARGERS,http://randomserver.site:2086/wickeduk/etqyhww45e/55094
-US : NFL LOS ANGELES RAMS,http://randomserver.site:2086/wickeduk/etqyhww45e/4754
-US : NFL MIAMI DOLPHINS,http://randomserver.site:2086/wickeduk/etqyhww45e/55085
-US : NFL MINNESOTA VIKINGS,http://randomserver.site:2086/wickeduk/etqyhww45e/357
-US : NFL NETWORK,http://randomserver.site:2086/wickeduk/etqyhww45e/308
-US : NFL NETWORK FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64168
-US : NFL NEW ENGLAND PATRIOTS,http://randomserver.site:2086/wickeduk/etqyhww45e/55080
-US : NFL NEW ORLEANS SAINTS,http://randomserver.site:2086/wickeduk/etqyhww45e/366
-US : NFL NEW YORK GIANTS,http://randomserver.site:2086/wickeduk/etqyhww45e/17395
-US : NFL NEW YORK JETS,http://randomserver.site:2086/wickeduk/etqyhww45e/55088
-US : NFL LAS VEGAS RAIDERS,http://randomserver.site:2086/wickeduk/etqyhww45e/55083
-US : NFL PHILADELPHIA EAGLES,http://randomserver.site:2086/wickeduk/etqyhww45e/361
-US : NFL PITTSBURGH STEELERS,http://randomserver.site:2086/wickeduk/etqyhww45e/55075
-US : NFL REDZONE,http://randomserver.site:2086/wickeduk/etqyhww45e/2913
-US : NFL SAN FRANCISCO 49ERS,http://randomserver.site:2086/wickeduk/etqyhww45e/364
-US : NFL SEATTLE SEAHAWKS,http://randomserver.site:2086/wickeduk/etqyhww45e/55077
-US : NFL TAMPA BAY BUCCANEERS,http://randomserver.site:2086/wickeduk/etqyhww45e/356
-US : NFL TENNESSEE TITANS,http://randomserver.site:2086/wickeduk/etqyhww45e/55092
-US : NFL WASHINGTON FOOTBALL TEAM,http://randomserver.site:2086/wickeduk/etqyhww45e/362
-US : NHL ANAHEIM DUCKS,http://randomserver.site:2086/wickeduk/etqyhww45e/55055
-US : NHL ARIZONA COYOTES,http://randomserver.site:2086/wickeduk/etqyhww45e/55054
-US : NHL BOSTON BRUINS,http://randomserver.site:2086/wickeduk/etqyhww45e/415
-US : NHL BUFFALO SABRES,http://randomserver.site:2086/wickeduk/etqyhww45e/414
-US : NHL CALGARY FLAMES,http://randomserver.site:2086/wickeduk/etqyhww45e/55053
-US : NHL CAROLINA HURRICANES,http://randomserver.site:2086/wickeduk/etqyhww45e/416
-US : NHL CHICAGO BLACKHAWKS,http://randomserver.site:2086/wickeduk/etqyhww45e/3441
-US : NHL COLORADO AVALANCHE,http://randomserver.site:2086/wickeduk/etqyhww45e/3994
-US : NHL COLUMBUS BLUE JACKETS,http://randomserver.site:2086/wickeduk/etqyhww45e/411
-US : NHL DALLAS STARS,http://randomserver.site:2086/wickeduk/etqyhww45e/3995
-US : NHL DETROIT RED WINGS,http://randomserver.site:2086/wickeduk/etqyhww45e/413
-US : NHL EDMONTON OILERS,http://randomserver.site:2086/wickeduk/etqyhww45e/55052
-US : NHL FLORIDA PANTHERS,http://randomserver.site:2086/wickeduk/etqyhww45e/13792
-US : NHL LOS ANGELES KINGS,http://randomserver.site:2086/wickeduk/etqyhww45e/55051
-US : NHL MINNESOTA WILD,http://randomserver.site:2086/wickeduk/etqyhww45e/3996
-US : NHL MONTREAL CANADIENS,http://randomserver.site:2086/wickeduk/etqyhww45e/3118
-US : NHL NASHVILLE PREDATORS,http://randomserver.site:2086/wickeduk/etqyhww45e/36451
-US : NHL NETWORK,http://randomserver.site:2086/wickeduk/etqyhww45e/147
-US : NHL NETWORK FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64084
-US : NHL NEW JERSEY DEVILS,http://randomserver.site:2086/wickeduk/etqyhww45e/410
-US : NHL NEW YORK ISLANDERS,http://randomserver.site:2086/wickeduk/etqyhww45e/409
-US : NHL NEW YORK RANGERS,http://randomserver.site:2086/wickeduk/etqyhww45e/408
-US : NHL OTTAWA SENATORS,http://randomserver.site:2086/wickeduk/etqyhww45e/3439
-US : NHL PHILADELPHIA FLYERS,http://randomserver.site:2086/wickeduk/etqyhww45e/406
-US : NHL PITTSBURGH PENGUINS,http://randomserver.site:2086/wickeduk/etqyhww45e/405
-US : NHL SAN JOSE SHARKS,http://randomserver.site:2086/wickeduk/etqyhww45e/55050
-US : NHL ST LOUIS BLUES,http://randomserver.site:2086/wickeduk/etqyhww45e/55057
-US : NHL TAMPA BAY LIGHTNING,http://randomserver.site:2086/wickeduk/etqyhww45e/3431
-US : NHL TORONTO MAPLE LEAFS,http://randomserver.site:2086/wickeduk/etqyhww45e/3440
-US : NHL VANCOUVER CANUCKS,http://randomserver.site:2086/wickeduk/etqyhww45e/55049
-US : NHL VEGAS GOLDEN KNIGHTS,http://randomserver.site:2086/wickeduk/etqyhww45e/55048
-US : NHL WASHINGTON CAPITALS,http://randomserver.site:2086/wickeduk/etqyhww45e/404
-US : NHL WINNIPEG JETS,http://randomserver.site:2086/wickeduk/etqyhww45e/55056
-US : NICK JUNIOR FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64081
-US : NICK TOONS FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64079
-US : NICKELODEON EAST FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64080
-US : NRB NETWORK,http://randomserver.site:2086/wickeduk/etqyhww45e/4419
-US : OLYMPIC CHANNEL,http://randomserver.site:2086/wickeduk/etqyhww45e/14975
-US : ONE AMERICA NEWS ENCORE,http://randomserver.site:2086/wickeduk/etqyhww45e/21945
-US : ONE AMERICA NEWS NETWORK,http://randomserver.site:2086/wickeduk/etqyhww45e/21943
-US : OUTDOOR CHANNEL,http://randomserver.site:2086/wickeduk/etqyhww45e/15360
-US : OUTSIDE TV,http://randomserver.site:2086/wickeduk/etqyhww45e/14872
-US : OVATION,http://randomserver.site:2086/wickeduk/etqyhww45e/15485
-US : OVATION FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64077
-US : OWN,http://randomserver.site:2086/wickeduk/etqyhww45e/311
-US : OWN FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64078
-US : OXYGEN,http://randomserver.site:2086/wickeduk/etqyhww45e/1229
-US : OXYGEN FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64076
-US : PAC 12 ARIZONA,http://randomserver.site:2086/wickeduk/etqyhww45e/399
-US : PAC 12 ARIZONA FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64074
-US : PAC 12 BAY AREA,http://randomserver.site:2086/wickeduk/etqyhww45e/398
-US : PAC 12 BAY AREA FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64073
-US : PAC 12 LA,http://randomserver.site:2086/wickeduk/etqyhww45e/397
-US : PAC 12 LOS ANGELES FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64072
-US : PAC 12 MOUNTAIN,http://randomserver.site:2086/wickeduk/etqyhww45e/396
-US : PAC 12 MOUNTAIN FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64071
-US : PAC 12 NATIONAL,http://randomserver.site:2086/wickeduk/etqyhww45e/395
-US : PAC 12 OREGON,http://randomserver.site:2086/wickeduk/etqyhww45e/394
-US : PAC 12 OREGON FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64070
-US : PAC 12 WASHINGTON,http://randomserver.site:2086/wickeduk/etqyhww45e/393
-US : PAC 12 WASHINGTON FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64069
-US : PAC NETWORK,http://randomserver.site:2086/wickeduk/etqyhww45e/55612
-US : PARAMOUNT NETWORK,http://randomserver.site:2086/wickeduk/etqyhww45e/246
-US : PARAMOUNT NETWORK FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64068
-US : PBS,http://randomserver.site:2086/wickeduk/etqyhww45e/1739
-US : PIXL,http://randomserver.site:2086/wickeduk/etqyhww45e/55946
-US : PLUTO TV HEADLINES,http://randomserver.site:2086/wickeduk/etqyhww45e/4414
-US : POP,http://randomserver.site:2086/wickeduk/etqyhww45e/15308
-US : POP FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64075
-US : PRIME TICKET FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64067
-US : PURSUIT CHANNEL,http://randomserver.site:2086/wickeduk/etqyhww45e/21948
-US : QVC,http://randomserver.site:2086/wickeduk/etqyhww45e/1206
-US : QVC 2,http://randomserver.site:2086/wickeduk/etqyhww45e/1207
-US : REDBULL TV,http://randomserver.site:2086/wickeduk/etqyhww45e/8450
-US : REELZ,http://randomserver.site:2086/wickeduk/etqyhww45e/15466
-US : REELZ FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64064
-US : REGALIA TV,http://randomserver.site:2086/wickeduk/etqyhww45e/56026
-US : RETRO PLEX,http://randomserver.site:2086/wickeduk/etqyhww45e/57852
-US : REVOLT,http://randomserver.site:2086/wickeduk/etqyhww45e/15467
-US : REVOLT FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64063
-US : RIDE TV,http://randomserver.site:2086/wickeduk/etqyhww45e/55614
-US : RT AMERICA,http://randomserver.site:2086/wickeduk/etqyhww45e/4408
-US : RT DOCUMENTARY,http://randomserver.site:2086/wickeduk/etqyhww45e/21952
-US : RT ENGLISH,http://randomserver.site:2086/wickeduk/etqyhww45e/21951
-US : SAFE TV,http://randomserver.site:2086/wickeduk/etqyhww45e/46381
-US : SCIFI 4U,https://nimble.dashstreams.net/onestudio/SciFiTV/playlist.m3u8
-US : SEC NETWORK,http://randomserver.site:2086/wickeduk/etqyhww45e/1135
-US : SEC NETWORK FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64062
-US : SHOWTIME  NEXT,http://randomserver.site:2086/wickeduk/etqyhww45e/56137
-US : SHOWTIME 2,http://randomserver.site:2086/wickeduk/etqyhww45e/331
-US : SHOWTIME 2 FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64040
-US : SHO X BET,http://randomserver.site:2086/wickeduk/etqyhww45e/1603
-US : SHOWTIME EAST,http://randomserver.site:2086/wickeduk/etqyhww45e/332
-US : SHOWTIME EAST FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64043
-US : SHOWTIME EXTREME,http://randomserver.site:2086/wickeduk/etqyhww45e/8843
-US : SHOWTIME FAMILY ZONE,http://randomserver.site:2086/wickeduk/etqyhww45e/56136
-US : SHOWTIME FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64041
-US : SHOWTIME SHOWCASE,http://randomserver.site:2086/wickeduk/etqyhww45e/1604
-US : SHOWTIME SHOWCASE FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64171
-US : SHOWTIME WEST,http://randomserver.site:2086/wickeduk/etqyhww45e/8842
-US : SHOWTIME WEST FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64042
-US : SHOWTIME WOMEN,http://randomserver.site:2086/wickeduk/etqyhww45e/55613
-US : SIDEWALKS TV,http://randomserver.site:2086/wickeduk/etqyhww45e/48027
-US : SNY (SPORTSNET NEW YORK),http://randomserver.site:2086/wickeduk/etqyhww45e/8850
-US : SOUTH EASTERN CHANNEL,http://randomserver.site:2086/wickeduk/etqyhww45e/15520
-US : SPECTRUM SPORTSNET,http://randomserver.site:2086/wickeduk/etqyhww45e/52331
-US : SPORTSMAN CHANNEL,http://randomserver.site:2086/wickeduk/etqyhww45e/15468
-US : SPORTSMAN CHANNEL FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64039
-US : STADIUM 1,http://randomserver.site:2086/wickeduk/etqyhww45e/18816
-US : STADIUM 2,http://randomserver.site:2086/wickeduk/etqyhww45e/18817
-US : STARZ  ENCORE BLACK,http://randomserver.site:2086/wickeduk/etqyhww45e/56139
-US : STARZ CINEMA,http://randomserver.site:2086/wickeduk/etqyhww45e/328
-US : STARZ CINEMA FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64060
-US : STARZ COMEDY,http://randomserver.site:2086/wickeduk/etqyhww45e/8844
-US : STARZ COMEDY FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64059
-US : STARZ EAST,http://randomserver.site:2086/wickeduk/etqyhww45e/329
-US : STARZ EAST FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64049
-US : STARZ EDGE,http://randomserver.site:2086/wickeduk/etqyhww45e/558
-US : STARZ EDGE FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64058
-US : STARZ ENCORE,http://randomserver.site:2086/wickeduk/etqyhww45e/344
-US : STARZ ENCORE ACTION,http://randomserver.site:2086/wickeduk/etqyhww45e/8849
-US : STARZ ENCORE ACTION FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64046
-US : STARZ ENCORE BLACK FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64054
-US : STARZ ENCORE CLASSIC,http://randomserver.site:2086/wickeduk/etqyhww45e/56140
-US : STARZ ENCORE CLASSIC FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64053
-US : STARZ ENCORE ESPANOL FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64056
-US : STARZ ENCORE FAMILY,http://randomserver.site:2086/wickeduk/etqyhww45e/56009
-US : STARZ ENCORE FAMILY FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64052
-US : STARZ ENCORE FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64057
-US : STARZ ENCORE SUSPENSE,http://randomserver.site:2086/wickeduk/etqyhww45e/55999
-US : STARZ ENCORE SUSPENSE FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64051
-US : STARZ ENCORE WEST,http://randomserver.site:2086/wickeduk/etqyhww45e/56007
-US : STARZ ENCORE WESTERNS,http://randomserver.site:2086/wickeduk/etqyhww45e/1601
-US : STARZ ENCORE WESTERNS FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64055
-US : STARZ FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64061
-US : STARZ IN BLACK FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64047
-US : STARZ KIDS & FAMILY,http://randomserver.site:2086/wickeduk/etqyhww45e/1132
-US : STARZ KIDS & FAMILY FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64045
-US : STARZ WEST,http://randomserver.site:2086/wickeduk/etqyhww45e/2490
-US : STARZ WEST FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64048
-US : SUNBURN TV,http://randomserver.site:2086/wickeduk/etqyhww45e/36349
-US : SUNDANCE TV,http://randomserver.site:2086/wickeduk/etqyhww45e/1284
-US : SUNDANCE TV FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64038
-US : SYFY,http://randomserver.site:2086/wickeduk/etqyhww45e/245
-US : SYFY FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64037
-US : TBD,http://randomserver.site:2086/wickeduk/etqyhww45e/14052
-US : TBS,http://randomserver.site:2086/wickeduk/etqyhww45e/301
-US : TBS FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64036
-KIDS : TEEN NICK,http://randomserver.site:2086/wickeduk/etqyhww45e/47762
-US : TEEN NICK FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64030
-US : TENNIS CHANNEL,http://randomserver.site:2086/wickeduk/etqyhww45e/327
-US : TENNIS CHANNEL FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64029
-US : THE COWBOY CHANNEL,http://randomserver.site:2086/wickeduk/etqyhww45e/55998
-US : THE OUTDOOR COOKING CHANNEL,http://randomserver.site:2086/wickeduk/etqyhww45e/13859
-US : THE SHOPPING CHANNEL,http://randomserver.site:2086/wickeduk/etqyhww45e/14854
-US : THE WEATHER CHANNEL,http://randomserver.site:2086/wickeduk/etqyhww45e/400
-US : THE WEATHER CHANNEL FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64028
-US : TLC,http://randomserver.site:2086/wickeduk/etqyhww45e/119
-US : TLC FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64034
-US : TNT EAST,http://randomserver.site:2086/wickeduk/etqyhww45e/298
-US : TNT FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64033
-US : TRAVEL 4U,https://edge1.dashmedia.tv/onestudio/my_life_4u/playlist.m3u8
-US : TRAVEL CHANNEL,http://randomserver.site:2086/wickeduk/etqyhww45e/326
-US : TRAVEL CHANNEL FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64027
-US : TRU TV,http://randomserver.site:2086/wickeduk/etqyhww45e/312
-US : TRU TV FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64026
-US : TURNER CLASSIC MOVIES,http://randomserver.site:2086/wickeduk/etqyhww45e/128
-US : TURNER CLASSIC MOVIES FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64035
-US : TV LAND,http://randomserver.site:2086/wickeduk/etqyhww45e/325
-US : TV LAND FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64032
-US : TV ONE FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64031
-US : TVG,http://randomserver.site:2086/wickeduk/etqyhww45e/15049
-US : TVG2,http://randomserver.site:2086/wickeduk/etqyhww45e/15050
-US : UFC FIGHT PASS,http://randomserver.site:2086/wickeduk/etqyhww45e/14019
-US : UNIVERSAL KIDS FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64024
-US : UNIVERSITY OF CALIFORNIA TELEVISION,http://randomserver.site:2086/wickeduk/etqyhww45e/15040
-US : UP,http://randomserver.site:2086/wickeduk/etqyhww45e/59383
-US : USA NETWORK,http://randomserver.site:2086/wickeduk/etqyhww45e/242
-US : USA NETWORK FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64025
-US : VH1,http://randomserver.site:2086/wickeduk/etqyhww45e/402
-US : VH1 FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64023
-US : VICELAND,http://randomserver.site:2086/wickeduk/etqyhww45e/477
-US : VICELAND FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64022
-US : VOICE OF AMERICA (EST),http://randomserver.site:2086/wickeduk/etqyhww45e/48026
-US : VOICE OF AMERICA (PST),http://randomserver.site:2086/wickeduk/etqyhww45e/48025
-US : WAPA AMERICA,http://randomserver.site:2086/wickeduk/etqyhww45e/56142
-US : WE TV,http://randomserver.site:2086/wickeduk/etqyhww45e/470
-US : WE TV FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64021
-US : WEATHER NATION,http://randomserver.site:2086/wickeduk/etqyhww45e/14047
-US : WGN,http://randomserver.site:2086/wickeduk/etqyhww45e/3194
-US : WILLOWXTRA CRICKET,http://randomserver.site:2086/wickeduk/etqyhww45e/55997
-US : WORLD FISHING NETWORK,http://randomserver.site:2086/wickeduk/etqyhww45e/53214
-US : WORLD FISHING NETWORK FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64020
-US : XCORPS TV,http://randomserver.site:2086/wickeduk/etqyhww45e/36340
-US : YES NETWORK,http://randomserver.site:2086/wickeduk/etqyhww45e/1673
-US : Z LIVING,http://randomserver.site:2086/wickeduk/etqyhww45e/58109
-XXX: TINY 4K,http://randomserver.site:2086/wickeduk/etqyhww45e/72539
-HURRICANE LAURA LIVE CAM GALVESTON TEXAS,http://randomserver.site:2086/wickeduk/etqyhww45e/93701
-JM: TVJSN,http://randomserver.site:2086/wickeduk/etqyhww45e/98286
-US : DISCOVERY CHANNEL,http://randomserver.site:2086/wickeduk/etqyhww45e/255
-US : DISCOVERY CHANNEL FHD 1080,http://randomserver.site:2086/wickeduk/etqyhww45e/64162
+*NBC SPORTS,http://f.ok2.se:8000/victor1/victor123/170
+*CBS SPORTS HD,http://f.ok2.se:8000/victor1/victor123/169
+*TSN 1 HD,http://f.ok2.se:8000/victor1/victor123/138
+*TSN 2 HD,http://f.ok2.se:8000/victor1/victor123/139
+*TSN 3 HD,http://f.ok2.se:8000/victor1/victor123/140
+*TSN 4 HD,http://f.ok2.se:8000/victor1/victor123/141
+*TSN 5 HD,http://f.ok2.se:8000/victor1/victor123/142
+*ESPN HD,http://f.ok2.se:8000/victor1/victor123/143
+ESPN 2 HD,http://f.ok2.se:8000/victor1/victor123/144
+ESPN ACC HD,http://f.ok2.se:8000/victor1/victor123/86092
+ESPN NEWS HD - NEW,http://f.ok2.se:8000/victor1/victor123/59038
+BIG 10 HD,http://f.ok2.se:8000/victor1/victor123/3950
+FOX COLLEGE ATLANTIC,http://f.ok2.se:8000/victor1/victor123/59885
+FOX COLLEGE PACIFIC,http://f.ok2.se:8000/victor1/victor123/59886
+*FOX SPORTS 1 HD,http://f.ok2.se:8000/victor1/victor123/145
+*FOX SPORTS 2 HD,http://f.ok2.se:8000/victor1/victor123/146
+PAC 12 ARIZONA,http://f.ok2.se:8000/victor1/victor123/9691
+PAC 12 BAY AREA,http://f.ok2.se:8000/victor1/victor123/9690
+PAC 12 LOS ANGELES,http://f.ok2.se:8000/victor1/victor123/9692
+PAC 12 MOUNTAIN,http://f.ok2.se:8000/victor1/victor123/9689
+PAC 12 NETWORK,http://f.ok2.se:8000/victor1/victor123/9687
+PAC 12 OREGON,http://f.ok2.se:8000/victor1/victor123/9688
+*SPORTSNET ONT HD,http://f.ok2.se:8000/victor1/victor123/148
+*SPORTSNET ONE HD,http://f.ok2.se:8000/victor1/victor123/149
+SPORTSNET WEST HD,http://f.ok2.se:8000/victor1/victor123/8890
+*SPORTSNET PACIFIC HD,http://f.ok2.se:8000/victor1/victor123/2434
+*SPORTSNET 360 HD,http://f.ok2.se:8000/victor1/victor123/147
+*SPORTSNET WORLD HD,http://f.ok2.se:8000/victor1/victor123/150
+*NFL NETWORK HD,http://f.ok2.se:8000/victor1/victor123/157
+*NHL NETWORK HD,http://f.ok2.se:8000/victor1/victor123/156
+LEAFS TV,http://f.ok2.se:8000/victor1/victor123/59039
+*NBA HD,http://f.ok2.se:8000/victor1/victor123/165
+MSG HD - NEW,http://f.ok2.se:8000/victor1/victor123/10052
+YES NETWORK HD,http://f.ok2.se:8000/victor1/victor123/10034
+MLB NETWORK HD,http://f.ok2.se:8000/victor1/victor123/2193
+GOLF HD,http://f.ok2.se:8000/victor1/victor123/166
+WWE HD,http://f.ok2.se:8000/victor1/victor123/168
+NESN HD,http://f.ok2.se:8000/victor1/victor123/96372
+TENNIS HD,http://f.ok2.se:8000/victor1/victor123/167
+MAVTV,http://f.ok2.se:8000/victor1/victor123/68854
+WILLOW CRICKET HD,http://f.ok2.se:8000/victor1/victor123/198
+WILLOW XTRA HD,http://f.ok2.se:8000/victor1/victor123/9630
+FIGHT - NEW,http://f.ok2.se:8000/victor1/victor123/71284
+*BEIN SPORTS HD,http://f.ok2.se:8000/victor1/victor123/171
+TVG - NEW,http://f.ok2.se:8000/victor1/victor123/59036
+TVG 2 - NEW,http://f.ok2.se:8000/victor1/victor123/81931
+KANAL 75 INT,http://f.ok2.se:8000/victor1/victor123/80388
+SIS ONE,http://f.ok2.se:8000/victor1/victor123/80387
+SIS TWO,http://f.ok2.se:8000/victor1/victor123/80386
+SIS RACING,http://f.ok2.se:8000/victor1/victor123/80385
+ATG LIVE,http://f.ok2.se:8000/victor1/victor123/80384
+RACING.COM (AU),http://f.ok2.se:8000/victor1/victor123/80783
+WFN,http://f.ok2.se:8000/victor1/victor123/26231
+OUTDOOR CHANNEL,http://f.ok2.se:8000/victor1/victor123/9049
+SPORTSMAN NETWORK,http://f.ok2.se:8000/victor1/victor123/9050
+BT SPORTS 1 HD,http://f.ok2.se:8000/victor1/victor123/225
+BT SPORTS 2 HD,http://f.ok2.se:8000/victor1/victor123/226
+BT SPORTS 3 HD,http://f.ok2.se:8000/victor1/victor123/232
+BT SPORTS ESPN,http://f.ok2.se:8000/victor1/victor123/233
+NBC HD EAST,http://f.ok2.se:8000/victor1/victor123/7
+CBS HD EAST,http://f.ok2.se:8000/victor1/victor123/8
+ABC HD EAST,http://f.ok2.se:8000/victor1/victor123/10
+FOX HD EAST,http://f.ok2.se:8000/victor1/victor123/9
+*CP24 HD,http://f.ok2.se:8000/victor1/victor123/11
+CP24 (H264),http://f.ok2.se:8000/victor1/victor123/71459
+OMNI 1 HD,http://f.ok2.se:8000/victor1/victor123/12
+OMNI 2 HD,http://f.ok2.se:8000/victor1/victor123/13
+CITY TV HD,http://f.ok2.se:8000/victor1/victor123/14
+*GLOBAL EAST HD,http://f.ok2.se:8000/victor1/victor123/15
+*CTV EAST HD,http://f.ok2.se:8000/victor1/victor123/16
+CTV NORTH,http://f.ok2.se:8000/victor1/victor123/17
+CTV KITCHNER - NEW,http://f.ok2.se:8000/victor1/victor123/71277
+CBC EAST HD,http://f.ok2.se:8000/victor1/victor123/18
+CBC WINDSOR - NEW,http://f.ok2.se:8000/victor1/victor123/71279
+CBC HALIFAX,http://f.ok2.se:8000/victor1/victor123/4075
+CTV HALIFAX,http://f.ok2.se:8000/victor1/victor123/4074
+CBC ATLANTIC - NEW,http://f.ok2.se:8000/victor1/victor123/71278
+CBC CHARLOTTETOWN HD,http://f.ok2.se:8000/victor1/victor123/72691
+CTV MONCTON - NEW,http://f.ok2.se:8000/victor1/victor123/71282
+CTV NB - NEW,http://f.ok2.se:8000/victor1/victor123/71283
+CTV2 ATLANTIC,http://f.ok2.se:8000/victor1/victor123/71425
+CTV2 LONDON,http://f.ok2.se:8000/victor1/victor123/88493
+NTV (NEWFOUNDLAND) - NEW,http://f.ok2.se:8000/victor1/victor123/68073
+CBC OTTAWA - NEW,http://f.ok2.se:8000/victor1/victor123/45499
+CTV OTTAWA - NEW,http://f.ok2.se:8000/victor1/victor123/65625
+CTV 2 OTTAWA - NEW,http://f.ok2.se:8000/victor1/victor123/59130
+CBC WINNIPEG - NEW,http://f.ok2.se:8000/victor1/victor123/46716
+CTV WINNIPEG,http://f.ok2.se:8000/victor1/victor123/63327
+CITY WINNIPEG,http://f.ok2.se:8000/victor1/victor123/71424
+CBC EDMONTON - NEW,http://f.ok2.se:8000/victor1/victor123/46715
+CTV EDMONTON - NEW,http://f.ok2.se:8000/victor1/victor123/65628
+GLOBAL EDMONTON - NEW,http://f.ok2.se:8000/victor1/victor123/65627
+NBC HD WEST,http://f.ok2.se:8000/victor1/victor123/303
+ABC HD WEST,http://f.ok2.se:8000/victor1/victor123/306
+CBS HD WEST,http://f.ok2.se:8000/victor1/victor123/304
+FOX HD WEST,http://f.ok2.se:8000/victor1/victor123/305
+CBC CALGARY,http://f.ok2.se:8000/victor1/victor123/7339
+CTV CALGARY,http://f.ok2.se:8000/victor1/victor123/7338
+CITY CALGARY - NEW,http://f.ok2.se:8000/victor1/victor123/71280
+GLOBAL LETHBRIDGE - NEW,http://f.ok2.se:8000/victor1/victor123/71285
+OMNI CALGARY - NEW,http://f.ok2.se:8000/victor1/victor123/71286
+OMNI PRAIRIES - NEW,http://f.ok2.se:8000/victor1/victor123/71288
+BC1 HD,http://f.ok2.se:8000/victor1/victor123/307
+GLOBAL BC HD,http://f.ok2.se:8000/victor1/victor123/308
+CTV VANCOUVER HD,http://f.ok2.se:8000/victor1/victor123/310
+CTV 2 VANCOUVER HD,http://f.ok2.se:8000/victor1/victor123/2418
+CITY VANCOUVER HD,http://f.ok2.se:8000/victor1/victor123/311
+CBC VANCOUVER HD,http://f.ok2.se:8000/victor1/victor123/309
+OMNI BC - NEW,http://f.ok2.se:8000/victor1/victor123/71287
+CHEK VANCOUVER HD,http://f.ok2.se:8000/victor1/victor123/2419
+CBC HD (MTL),http://f.ok2.se:8000/victor1/victor123/15074
+CTV HD (MTL),http://f.ok2.se:8000/victor1/victor123/2398
+CITY HD (MTL),http://f.ok2.se:8000/victor1/victor123/15073
+GLOBAL HD (MTL),http://f.ok2.se:8000/victor1/victor123/2397
+*USA NETWORK HD,http://f.ok2.se:8000/victor1/victor123/312
+GSN HD - NEW,http://f.ok2.se:8000/victor1/victor123/12769
+TV LAND HD,http://f.ok2.se:8000/victor1/victor123/313
+DEJAVIEW  - NEW,http://f.ok2.se:8000/victor1/victor123/48517
+BEACON TV - NEW,http://f.ok2.se:8000/victor1/victor123/56247
+METV HD - NEW,http://f.ok2.se:8000/victor1/victor123/15072
+YES TV,http://f.ok2.se:8000/victor1/victor123/6962
+FX HD,http://f.ok2.se:8000/victor1/victor123/314
+FXX HD,http://f.ok2.se:8000/victor1/victor123/315
+TRU TV HD,http://f.ok2.se:8000/victor1/victor123/340
+COMEDY NETWORK HD,http://f.ok2.se:8000/victor1/victor123/316
+*TBS HD,http://f.ok2.se:8000/victor1/victor123/317
+PARAMOUNT NETWORK HD,http://f.ok2.se:8000/victor1/victor123/318
+*DISCOVERY HD (CDN),http://f.ok2.se:8000/victor1/victor123/319
+DISCOVERY HD (USA),http://f.ok2.se:8000/victor1/victor123/56250
+DISCOVERY SCIENCE HD,http://f.ok2.se:8000/victor1/victor123/320
+SMITHSONIAN HD,http://f.ok2.se:8000/victor1/victor123/3951
+*HALLMARK HD,http://f.ok2.se:8000/victor1/victor123/321
+*HALLMARK MOVIES MYSTERY HD,http://f.ok2.se:8000/victor1/victor123/4599
+HALLMARK DRAMA,http://f.ok2.se:8000/victor1/victor123/83349
+OXYGEN HD - NEW,http://f.ok2.se:8000/victor1/victor123/59037
+ION HD - NEW,http://f.ok2.se:8000/victor1/victor123/59033
+*HISTORY HD,http://f.ok2.se:8000/victor1/victor123/322
+*ID HD,http://f.ok2.se:8000/victor1/victor123/324
+LIFE HD,http://f.ok2.se:8000/victor1/victor123/325
+*LIFETIME MOVIES HD,http://f.ok2.se:8000/victor1/victor123/326
+IFC HD,http://f.ok2.se:8000/victor1/victor123/327
+POP HD,http://f.ok2.se:8000/victor1/victor123/82603
+*TLC HD,http://f.ok2.se:8000/victor1/victor123/328
+DIY HD,http://f.ok2.se:8000/victor1/victor123/329
+FYI HD,http://f.ok2.se:8000/victor1/victor123/42684
+OLN - NEW,http://f.ok2.se:8000/victor1/victor123/67103
+LOVE NATURE HD,http://f.ok2.se:8000/victor1/victor123/1258
+MAKEFUL - NEW,http://f.ok2.se:8000/victor1/victor123/67102
+NAT GEO HD,http://f.ok2.se:8000/victor1/victor123/330
+*NAT GEO WILD HD,http://f.ok2.se:8000/victor1/victor123/331
+ANIMAL PLANET HD,http://f.ok2.se:8000/victor1/victor123/332
+COOKING CHANNEL HD,http://f.ok2.se:8000/victor1/victor123/6108
+FOOD HD,http://f.ok2.se:8000/victor1/victor123/333
+FOOD HD (USA),http://f.ok2.se:8000/victor1/victor123/80508
+GUSTO - NEW,http://f.ok2.se:8000/victor1/victor123/67101
+APTN - NEW,http://f.ok2.se:8000/victor1/victor123/67104
+OUT TV - NEW,http://f.ok2.se:8000/victor1/victor123/67116
+GINX (CDN) - NEW,http://f.ok2.se:8000/victor1/victor123/67115
+MOTOR TREND HD,http://f.ok2.se:8000/victor1/victor123/367
+VICELAND HD,http://f.ok2.se:8000/victor1/victor123/323
+AMC HD,http://f.ok2.se:8000/victor1/victor123/334
+ELREY HD - NEW,http://f.ok2.se:8000/victor1/victor123/10046
+SUNDANCE HD - NEW,http://f.ok2.se:8000/victor1/victor123/10039
+*HGTV HD,http://f.ok2.se:8000/victor1/victor123/335
+HGTV HD (CDN),http://f.ok2.se:8000/victor1/victor123/42685
+COTTAGE TV HD,http://f.ok2.se:8000/victor1/victor123/42394
+PEACHTREE HD,http://f.ok2.se:8000/victor1/victor123/337
+WGN HD - NEW,http://f.ok2.se:8000/victor1/victor123/9163
+E! HD,http://f.ok2.se:8000/victor1/victor123/338
+BOOK - NEW,http://f.ok2.se:8000/victor1/victor123/67100
+SYFY HD,http://f.ok2.se:8000/victor1/victor123/339
+CTV-SCIFI HD (SPACE),http://f.ok2.se:8000/victor1/victor123/8110
+TNT HD,http://f.ok2.se:8000/victor1/victor123/341
+WE TV HD,http://f.ok2.se:8000/victor1/victor123/342
+SLICE HD,http://f.ok2.se:8000/victor1/victor123/343
+W NETWORK HD,http://f.ok2.se:8000/victor1/victor123/344
+SHOWCASE HD,http://f.ok2.se:8000/victor1/victor123/346
+*A&E HD,http://f.ok2.se:8000/victor1/victor123/347
+OWN HD,http://f.ok2.se:8000/victor1/victor123/348
+QVC - NEW,http://f.ok2.se:8000/victor1/victor123/67097
+TSC - NEW,http://f.ok2.se:8000/victor1/victor123/67098
+TRAVEL HD,http://f.ok2.se:8000/victor1/victor123/349
+DESTINATION AMERICA HD,http://f.ok2.se:8000/victor1/victor123/7482
+MTV HD,http://f.ok2.se:8000/victor1/victor123/350
+MTV 2 HD - NEW,http://f.ok2.se:8000/victor1/victor123/69011
+BET HD,http://f.ok2.se:8000/victor1/victor123/351
+BET HER HD - NEW,http://f.ok2.se:8000/victor1/victor123/69008
+REVOLT HD - NEW,http://f.ok2.se:8000/victor1/victor123/10042
+CMT HD  - NEW,http://f.ok2.se:8000/victor1/victor123/12266
+MUCH MUSIC HD,http://f.ok2.se:8000/victor1/victor123/4141
+BRAVO HD,http://f.ok2.se:8000/victor1/victor123/353
+*VH1 HD,http://f.ok2.se:8000/victor1/victor123/354
+VH1 (US) - NEW,http://f.ok2.se:8000/victor1/victor123/70262
+VISION HD,http://f.ok2.se:8000/victor1/victor123/355
+PBS HD,http://f.ok2.se:8000/victor1/victor123/356
+CHCH HD,http://f.ok2.se:8000/victor1/victor123/358
+CW11 HD,http://f.ok2.se:8000/victor1/victor123/359
+CW11 HD WEST,http://f.ok2.se:8000/victor1/victor123/2421
+BBC CANADA - NEW,http://f.ok2.se:8000/victor1/victor123/46724
+BBC AMERICA HD,http://f.ok2.se:8000/victor1/victor123/357
+*CNN HD,http://f.ok2.se:8000/victor1/victor123/360
+CBC NEWS HD,http://f.ok2.se:8000/victor1/victor123/361
+CTV NEWS NETWORK HD,http://f.ok2.se:8000/victor1/victor123/2423
+HLN HD,http://f.ok2.se:8000/victor1/victor123/362
+*FOX NEWS HD,http://f.ok2.se:8000/victor1/victor123/363
+CBS NEWS HD,http://f.ok2.se:8000/victor1/victor123/3078
+ABC NEWS HD,http://f.ok2.se:8000/victor1/victor123/3077
+CNBC HD,http://f.ok2.se:8000/victor1/victor123/364
+TRT WORLD HD (TR),http://f.ok2.se:8000/victor1/victor123/27136
+FOX NEWS BUSINESS,http://f.ok2.se:8000/victor1/victor123/4600
+BLOOMBERG HD (NA),http://f.ok2.se:8000/victor1/victor123/1662
+BNN HD,http://f.ok2.se:8000/victor1/victor123/366
+MSNBC HD,http://f.ok2.se:8000/victor1/victor123/365
+DW NEWS,http://f.ok2.se:8000/victor1/victor123/67410
+EURONEWS,http://f.ok2.se:8000/victor1/victor123/67409
+WEATHER CANADA,http://f.ok2.se:8000/victor1/victor123/3079
+WEATHER USA HD,http://f.ok2.se:8000/victor1/victor123/3080
+ALJAZEERA ENGLISH,http://f.ok2.se:8000/victor1/victor123/1661
+FRANCE 24,http://f.ok2.se:8000/victor1/victor123/4796
+CCTV NEWS,http://f.ok2.se:8000/victor1/victor123/3965
+BBC WORLD NEWS,http://f.ok2.se:8000/victor1/victor123/9546
+RTE NEWS NOW,http://f.ok2.se:8000/victor1/victor123/7191
+RT NEWS ENGLISH,http://f.ok2.se:8000/victor1/victor123/512
+RT DOCUMENTARY,http://f.ok2.se:8000/victor1/victor123/3075
+COVID-19 UPDATE 1,http://f.ok2.se:8000/victor1/victor123/90825
+COVID-19 UPDATE 2,http://f.ok2.se:8000/victor1/victor123/90826
+TCM HD,http://f.ok2.se:8000/victor1/victor123/368
+MOVIE TIME HD,http://f.ok2.se:8000/victor1/victor123/369
+ADULT SWIM HD,http://f.ok2.se:8000/victor1/victor123/370
+FXM HD,http://f.ok2.se:8000/victor1/victor123/56246
+PPV MOVIES,http://f.ok2.se:8000/victor1/victor123/8784
+SCIENCE FICTION NEW,http://f.ok2.se:8000/victor1/victor123/8887
+007 4 LIFE HD,http://f.ok2.se:8000/victor1/victor123/7493
+80'S ACTION HITZ HD,http://f.ok2.se:8000/victor1/victor123/7497
+80'S COMEDY HITZ HD,http://f.ok2.se:8000/victor1/victor123/7496
+80'S DRAMA HITZ HD,http://f.ok2.se:8000/victor1/victor123/7495
+80'S HORROR HITZ HD,http://f.ok2.se:8000/victor1/victor123/7494
+CRAVE 1 HD,http://f.ok2.se:8000/victor1/victor123/9505
+CRAVE 2 HD,http://f.ok2.se:8000/victor1/victor123/9506
+CRAVE 3 HD,http://f.ok2.se:8000/victor1/victor123/9507
+HBO 1 HD,http://f.ok2.se:8000/victor1/victor123/26321
+HBO 2 HD,http://f.ok2.se:8000/victor1/victor123/26322
+HBO EAST HD - NEW,http://f.ok2.se:8000/victor1/victor123/371
+HBO COMEDY HD - NEW,http://f.ok2.se:8000/victor1/victor123/373
+HBO FAMILY HD - NEW,http://f.ok2.se:8000/victor1/victor123/4829
+HBO SIGNATURE HD - NEW,http://f.ok2.se:8000/victor1/victor123/372
+HBO ZONE HD - NEW,http://f.ok2.se:8000/victor1/victor123/4828
+CINEMAX EAST HD - NEW,http://f.ok2.se:8000/victor1/victor123/380
+ACTION MAX HD - NEW,http://f.ok2.se:8000/victor1/victor123/383
+MOREMAX HD - NEW,http://f.ok2.se:8000/victor1/victor123/381
+THRILLER MAX HD,http://f.ok2.se:8000/victor1/victor123/80332
+5STAR MAX HD - NEW,http://f.ok2.se:8000/victor1/victor123/382
+SHOWTIME EAST HD,http://f.ok2.se:8000/victor1/victor123/11361
+SHOWTIME 2 HD,http://f.ok2.se:8000/victor1/victor123/11362
+SHOWTIME BEYOND HD,http://f.ok2.se:8000/victor1/victor123/11363
+SHOWTIME WOMEN HD (NEW),http://f.ok2.se:8000/victor1/victor123/11359
+SHOWTIME EXTREME HD,http://f.ok2.se:8000/victor1/victor123/11358
+SHOWTIME NEXT HD (NEW),http://f.ok2.se:8000/victor1/victor123/11360
+SUPER CHANNEL FUSE - NEW,http://f.ok2.se:8000/victor1/victor123/71289
+VAULT (CDN) - NEW,http://f.ok2.se:8000/victor1/victor123/67114
+STARZ HD,http://f.ok2.se:8000/victor1/victor123/374
+STARZ EDGE HD,http://f.ok2.se:8000/victor1/victor123/377
+STARZ COMEDY HD,http://f.ok2.se:8000/victor1/victor123/376
+STARZ BLACK HD,http://f.ok2.se:8000/victor1/victor123/378
+ENCORE WESTERN HD,http://f.ok2.se:8000/victor1/victor123/379
+EPIX EAST HD - NEW,http://f.ok2.se:8000/victor1/victor123/69016
+EPIX 2 HD - NEW,http://f.ok2.se:8000/victor1/victor123/69014
+EPIX DRIVE IN'S HD - NEW,http://f.ok2.se:8000/victor1/victor123/69012
+EPIX HITS HD - NEW,http://f.ok2.se:8000/victor1/victor123/69013
+TRUE MOVIES,http://f.ok2.se:8000/victor1/victor123/1786
+SKY MOVIES ACTION & ADVENTURE,http://f.ok2.se:8000/victor1/victor123/1738
+SKY MOVIES COMEDY,http://f.ok2.se:8000/victor1/victor123/1737
+SKY MOVIES DRAMA & ROMANCE,http://f.ok2.se:8000/victor1/victor123/1779
+SKY MOVIES PREMIERE,http://f.ok2.se:8000/victor1/victor123/1733
+SKY MOVIES THRILLER,http://f.ok2.se:8000/victor1/victor123/1742
+SKY NAT GEO,http://f.ok2.se:8000/victor1/victor123/1755
+SKY NAT GEO WILD,http://f.ok2.se:8000/victor1/victor123/1756
+SKY ANIMAL PLANET,http://f.ok2.se:8000/victor1/victor123/1760
+SKY TCM,http://f.ok2.se:8000/victor1/victor123/1785
+SKY TLC,http://f.ok2.se:8000/victor1/victor123/1790
+SKY HISTORY,http://f.ok2.se:8000/victor1/victor123/1758
+SKY H2,http://f.ok2.se:8000/victor1/victor123/1754
+SKY REALLY,http://f.ok2.se:8000/victor1/victor123/1757
+SKY ARTS,http://f.ok2.se:8000/victor1/victor123/2196
+SKY QUEST,http://f.ok2.se:8000/victor1/victor123/1768
+SKY TRU TV,http://f.ok2.se:8000/victor1/victor123/1723
+SKY TBN,http://f.ok2.se:8000/victor1/victor123/1722
+SKY FOOD NETWORK,http://f.ok2.se:8000/victor1/victor123/1788
+SKY LIVING,http://f.ok2.se:8000/victor1/victor123/1739
+SKY HOME,http://f.ok2.se:8000/victor1/victor123/1718
+SKY FOX,http://f.ok2.se:8000/victor1/victor123/1741
+SKY EDEN,http://f.ok2.se:8000/victor1/victor123/1789
+SKY DISCOVERY,http://f.ok2.se:8000/victor1/victor123/1764
+SKY DISCOVERY HISTORY,http://f.ok2.se:8000/victor1/victor123/1765
+SKY DISCOVERY SCIENCE,http://f.ok2.se:8000/victor1/victor123/1766
+SKY DISCOVERY SHED,http://f.ok2.se:8000/victor1/victor123/1761
+SKY DISCOVERY TURBO,http://f.ok2.se:8000/victor1/victor123/1767
+SKY DAVE,http://f.ok2.se:8000/victor1/victor123/1775
+SKY COMEDY CENTRAL,http://f.ok2.se:8000/victor1/victor123/1748
+SKY BBC 1,http://f.ok2.se:8000/victor1/victor123/1783
+SKY BBC 2,http://f.ok2.se:8000/victor1/victor123/1784
+SKY BBC 4,http://f.ok2.se:8000/victor1/victor123/4848
+SKY ITV 1,http://f.ok2.se:8000/victor1/victor123/4865
+SKY ITV 2,http://f.ok2.se:8000/victor1/victor123/4864
+SKY ITV 3,http://f.ok2.se:8000/victor1/victor123/4863
+SKY ITV 4,http://f.ok2.se:8000/victor1/victor123/4862
+SKY ITV BE,http://f.ok2.se:8000/victor1/victor123/4860
+SKY RTE 1,http://f.ok2.se:8000/victor1/victor123/4859
+SKY RTE 2,http://f.ok2.se:8000/victor1/victor123/4858
+SKY ATLANTIC,http://f.ok2.se:8000/victor1/victor123/1740
+SKY ALIBI,http://f.ok2.se:8000/victor1/victor123/1774
+SKY 2,http://f.ok2.se:8000/victor1/victor123/1749
+CBS ACTION,http://f.ok2.se:8000/victor1/victor123/7184
+CBS DRAMA,http://f.ok2.se:8000/victor1/victor123/7186
+CBS REALITY,http://f.ok2.se:8000/victor1/victor123/7187
+SKY 5 STAR,http://f.ok2.se:8000/victor1/victor123/7181
+SKY CRIME AND INVESTIGATION,http://f.ok2.se:8000/victor1/victor123/7190
+SKY E4,http://f.ok2.se:8000/victor1/victor123/7178
+SKY FILM4,http://f.ok2.se:8000/victor1/victor123/7189
+SKY HORROR,http://f.ok2.se:8000/victor1/victor123/7179
+SKY E!,http://f.ok2.se:8000/victor1/victor123/7192
+SKY SYFY,http://f.ok2.se:8000/victor1/victor123/7174
+SKY NEWS,http://f.ok2.se:8000/victor1/victor123/7173
+SKY CHANNEL 4,http://f.ok2.se:8000/victor1/victor123/7175
+SKY CHANNEL 5,http://f.ok2.se:8000/victor1/victor123/7176
+SKY MORE4,http://f.ok2.se:8000/victor1/victor123/7177
+SKY SONY MOVIES,http://f.ok2.se:8000/victor1/victor123/1771
+TVO HD (NA),http://f.ok2.se:8000/victor1/victor123/391
+PBS KIDS - NEW,http://f.ok2.se:8000/victor1/victor123/15071
+YTV HD (NA),http://f.ok2.se:8000/victor1/victor123/390
+DISCOVERY FAMILY HD - NEW,http://f.ok2.se:8000/victor1/victor123/59034
+DISNEY HD EAST,http://f.ok2.se:8000/victor1/victor123/392
+ABC SPARK HD,http://f.ok2.se:8000/victor1/victor123/4063
+TREEHOUSE HD,http://f.ok2.se:8000/victor1/victor123/393
+MAGIC SCHOOL BUS 24x7,http://f.ok2.se:8000/victor1/victor123/8092
+BABY EINSTEIN 24X7,http://f.ok2.se:8000/victor1/victor123/8089
+PEPPA PIG 24x7,http://f.ok2.se:8000/victor1/victor123/9737
+PAW PATROL 24x7,http://f.ok2.se:8000/victor1/victor123/9736
+SONIC BOOM 24x7 (NEW),http://f.ok2.se:8000/victor1/victor123/42215
+PJ MASK 24x7 (NEW),http://f.ok2.se:8000/victor1/victor123/42216
+SUPER WINGS 24x7 (NEW),http://f.ok2.se:8000/victor1/victor123/38759
+TROLLHUNTERS 24x7 (NEW),http://f.ok2.se:8000/victor1/victor123/43224
+TRANSFORMER - RETRO 24x7 (NEW),http://f.ok2.se:8000/victor1/victor123/65803
+NICKELODEON HD,http://f.ok2.se:8000/victor1/victor123/394
+CARTOON NETWORK HD,http://f.ok2.se:8000/victor1/victor123/395
+FAMILY HD,http://f.ok2.se:8000/victor1/victor123/396
+DISNEY XD HD,http://f.ok2.se:8000/victor1/victor123/397
+DISNEY ALL DAY 24X7,http://f.ok2.se:8000/victor1/victor123/7804
+DUCK TALES 24X7,http://f.ok2.se:8000/victor1/victor123/7498
+SPIDERMAN 24x7 (NEW),http://f.ok2.se:8000/victor1/victor123/9976
+BATMAN THE ANIMATED SERIES 24x7,http://f.ok2.se:8000/victor1/victor123/7499
+STAR WARS CLONE WARS 24X7,http://f.ok2.se:8000/victor1/victor123/7835
+STAR WARS REBELS 24x7,http://f.ok2.se:8000/victor1/victor123/8090
+TELETOON HD,http://f.ok2.se:8000/victor1/victor123/2422
+NFL FILMS PRESENT (24X7),http://f.ok2.se:8000/victor1/victor123/82794
+NFL MIC'D UP (24X7),http://f.ok2.se:8000/victor1/victor123/82793
+NFL SUPERBOWL (24X7),http://f.ok2.se:8000/victor1/victor123/82792
+NFL THROWBACK (24X7),http://f.ok2.se:8000/victor1/victor123/82791
+NFL TOP 10 (24X7),http://f.ok2.se:8000/victor1/victor123/82790
+NFL TOP 100 GOAT (24X7),http://f.ok2.se:8000/victor1/victor123/82789
+CANAL D (FR) - NOUVEAU,http://f.ok2.se:8000/victor1/victor123/9633
+CANAL V (FR) - NOUVEAU,http://f.ok2.se:8000/victor1/victor123/9634
+CANAL VIE (FR) - NOUVEAU,http://f.ok2.se:8000/victor1/victor123/59086
+CASA HD (FR) - NOUVEAU,http://f.ok2.se:8000/victor1/victor123/46738
+CINEPOP HD (FR) - NOUVEAU,http://f.ok2.se:8000/victor1/victor123/46739
+EVASION HD (FR) - NOUVEAU,http://f.ok2.se:8000/victor1/victor123/46740
+EXPLORA HD (FR) - NOUVEAU,http://f.ok2.se:8000/victor1/victor123/46741
+METEOMEDIA HD (FR) - NOUVEAU,http://f.ok2.se:8000/victor1/victor123/46742
+MOI & CIE (FR) - NOUVEAU,http://f.ok2.se:8000/victor1/victor123/60034
+TELETOON HD (FR) - NOUVEAU,http://f.ok2.se:8000/victor1/victor123/46743
+DISNEY (CA) (FR),http://f.ok2.se:8000/victor1/victor123/64054
+TF0 HD (FR) - NOUVEAU,http://f.ok2.se:8000/victor1/victor123/46744
+UNIS HD (FR) - NOUVEAU,http://f.ok2.se:8000/victor1/victor123/46745
+ZTELE (FR),http://f.ok2.se:8000/victor1/victor123/2411
+LCN (FR) - NOUVEAU,http://f.ok2.se:8000/victor1/victor123/9635
+TVA (FR),http://f.ok2.se:8000/victor1/victor123/2395
+CANAL SAVOIR (FR),http://f.ok2.se:8000/victor1/victor123/15075
+ICI (FR),http://f.ok2.se:8000/victor1/victor123/5919
+ICI MULTICULTURE (FR),http://f.ok2.se:8000/victor1/victor123/15076
+RDS (FR),http://f.ok2.se:8000/victor1/victor123/2404
+RDS 2 (FR),http://f.ok2.se:8000/victor1/victor123/2405
+TVA 1 (FR),http://f.ok2.se:8000/victor1/victor123/2406
+TVA 2 (FR),http://f.ok2.se:8000/victor1/victor123/2407
+RDI (FR),http://f.ok2.se:8000/victor1/victor123/2396
+SRC (FR),http://f.ok2.se:8000/victor1/victor123/2399
+CBC (FR),http://f.ok2.se:8000/victor1/victor123/2402
+ARTV (FR),http://f.ok2.se:8000/victor1/victor123/2403
+CGTN (FR),http://f.ok2.se:8000/victor1/victor123/96141
+ADDIK (FR),http://f.ok2.se:8000/victor1/victor123/2412
+SERIES  (FR),http://f.ok2.se:8000/victor1/victor123/2409
+ELLE FICTIONS (FR),http://f.ok2.se:8000/victor1/victor123/96143
+MAX TV (FR),http://f.ok2.se:8000/victor1/victor123/96145
+NATYF HD (FR),http://f.ok2.se:8000/victor1/victor123/96146
+ZESTE HD (FR) - NOUVEAU,http://f.ok2.se:8000/victor1/victor123/46746
+YOOPA (FR),http://f.ok2.se:8000/victor1/victor123/2394
+TV5 (FR),http://f.ok2.se:8000/victor1/victor123/2417
+TV5 MONDE HD (FR),http://f.ok2.se:8000/victor1/victor123/2420
+TELE QUEBEC (FR),http://f.ok2.se:8000/victor1/victor123/2400
+SUPER ECRAN 1 (FR),http://f.ok2.se:8000/victor1/victor123/2414
+SUPER ECRAN 2 (FR),http://f.ok2.se:8000/victor1/victor123/2415
+SUPER ECRAN 3 (FR),http://f.ok2.se:8000/victor1/victor123/2416
+SUPER ECRAN 4 (FR),http://f.ok2.se:8000/victor1/victor123/25196
+FRISSONTS TV (FR),http://f.ok2.se:8000/victor1/victor123/96144
+PRISE2 (FR),http://f.ok2.se:8000/victor1/victor123/2413
+MUSIQUE  (FR),http://f.ok2.se:8000/victor1/victor123/2401
+HISTORIA (FR),http://f.ok2.se:8000/victor1/victor123/2410
+PPV1 (FR),http://f.ok2.se:8000/victor1/victor123/96150
+PPV2 (FR),http://f.ok2.se:8000/victor1/victor123/96151
+PPV3 (FR),http://f.ok2.se:8000/victor1/victor123/96152
+PPV4 (FR),http://f.ok2.se:8000/victor1/victor123/96153
+PPV5 (FR),http://f.ok2.se:8000/victor1/victor123/96154
+PALMARES ADISQ (RADIO),http://f.ok2.se:8000/victor1/victor123/96147
+CLASSICA (RADIO),http://f.ok2.se:8000/victor1/victor123/96148
+HITS! (RADIO),http://f.ok2.se:8000/victor1/victor123/96149
+PLAYBOY TV (NA),http://f.ok2.se:8000/victor1/victor123/300
+HUSTLER HD,http://f.ok2.se:8000/victor1/victor123/302
+X ART,http://f.ok2.se:8000/victor1/victor123/10658
+NAUGHTY AMERICA,http://f.ok2.se:8000/victor1/victor123/10657
+BRAZZERS,http://f.ok2.se:8000/victor1/victor123/10656
+BRAZZERS LIVE,http://f.ok2.se:8000/victor1/victor123/10660
+TEN - NEW,http://f.ok2.se:8000/victor1/victor123/9165
+XTSY - (NEW),http://f.ok2.se:8000/victor1/victor123/9164
+TINY4K,http://f.ok2.se:8000/victor1/victor123/8889
+CANDY - NEW,http://f.ok2.se:8000/victor1/victor123/90820
+O-LA-LA - NEW,http://f.ok2.se:8000/victor1/victor123/90821
+FAP TV TEENS - NEW,http://f.ok2.se:8000/victor1/victor123/90822
+OH-AH - NEW,http://f.ok2.se:8000/victor1/victor123/90823
+SESTO SENSO - NEW,http://f.ok2.se:8000/victor1/victor123/90824
+EVIL ANGEL 1,http://f.ok2.se:8000/victor1/victor123/10659
+BANG BROS,http://f.ok2.se:8000/victor1/victor123/8783
+IPZ,http://f.ok2.se:8000/victor1/victor123/6610
+JAV 1 UNCENSORED,http://f.ok2.se:8000/victor1/victor123/6612
+JAV 2 UNCENSORED,http://f.ok2.se:8000/victor1/victor123/6613
+JAV 3 UNCENSORED,http://f.ok2.se:8000/victor1/victor123/6614
+TOKYO HOT,http://f.ok2.se:8000/victor1/victor123/6572
+WANZ,http://f.ok2.se:8000/victor1/victor123/6611
+TUSHY,http://f.ok2.se:8000/victor1/victor123/6615
+LEGAL PORNO,http://f.ok2.se:8000/victor1/victor123/6573
+PENTHOUSE,http://f.ok2.se:8000/victor1/victor123/71118
+1 HD XXX,http://f.ok2.se:8000/victor1/victor123/6697
+2 HD XXX,http://f.ok2.se:8000/victor1/victor123/6696
+3 HD XXX,http://f.ok2.se:8000/victor1/victor123/6695
+4 HD XXX,http://f.ok2.se:8000/victor1/victor123/6694
+5 HD XXX,http://f.ok2.se:8000/victor1/victor123/6693
+6 HD XXX,http://f.ok2.se:8000/victor1/victor123/6692
+7 HD XXX,http://f.ok2.se:8000/victor1/victor123/6687
+8 HD XXX,http://f.ok2.se:8000/victor1/victor123/6686
+SBTN (VN),http://f.ok2.se:8000/victor1/victor123/2433
+VTV-4 (VN),http://f.ok2.se:8000/victor1/victor123/2424
+VTV-6 (VN),http://f.ok2.se:8000/victor1/victor123/55398
+VBS (VN),http://f.ok2.se:8000/victor1/victor123/2429
+SAIGON (VN),http://f.ok2.se:8000/victor1/victor123/2566
+VIET SKY (VN),http://f.ok2.se:8000/victor1/victor123/59209
+VIETV (VN),http://f.ok2.se:8000/victor1/victor123/4841
+VIET FACE (VN),http://f.ok2.se:8000/victor1/victor123/2427
+VIET THAO (VN),http://f.ok2.se:8000/victor1/victor123/2428
+CAO BANG (VN),http://f.ok2.se:8000/victor1/victor123/55393
+DONG NAI TV (VN),http://f.ok2.se:8000/victor1/victor123/55399
+VGN (VN),http://f.ok2.se:8000/victor1/victor123/2426
+VIET NETWORK (VN),http://f.ok2.se:8000/victor1/victor123/45271
+S CHANNEL (VN),http://f.ok2.se:8000/victor1/victor123/45272
+HON VIET (VN),http://f.ok2.se:8000/victor1/victor123/55400
+FILM 24 VIET (VN),http://f.ok2.se:8000/victor1/victor123/55401
+THAI NGUYEN (VN),http://f.ok2.se:8000/victor1/victor123/45273
+*UNIVISION EAST HD,http://f.ok2.se:8000/victor1/victor123/8253
+*UNIVISION WEST (LA),http://f.ok2.se:8000/victor1/victor123/413
+UNIVISION (CDN) - NEW,http://f.ok2.se:8000/victor1/victor123/66070
+GALAVISION,http://f.ok2.se:8000/victor1/victor123/414
+GALAVISION WEST,http://f.ok2.se:8000/victor1/victor123/42673
+*TELEMUNDO EAST,http://f.ok2.se:8000/victor1/victor123/415
+*TELEMUNDO WEST,http://f.ok2.se:8000/victor1/victor123/416
+NBC UNIVERSO HD,http://f.ok2.se:8000/victor1/victor123/417
+HITN (ES) - NEW,http://f.ok2.se:8000/victor1/victor123/31461
+HITN  - NEW,http://f.ok2.se:8000/victor1/victor123/65731
+CANAL DE LAS ESTRELLAS (SP),http://f.ok2.se:8000/victor1/victor123/428
+MEGA HD (NEW),http://f.ok2.se:8000/victor1/victor123/418
+CINE LATINO (ES),http://f.ok2.se:8000/victor1/victor123/30862
+CINEMAX HD ES - NEW,http://f.ok2.se:8000/victor1/victor123/419
+HBO EAST HD (ES),http://f.ok2.se:8000/victor1/victor123/420
+UNIMAS HD,http://f.ok2.se:8000/victor1/victor123/425
+TLNOVELAS HD,http://f.ok2.se:8000/victor1/victor123/427
+PASIONES,http://f.ok2.se:8000/victor1/victor123/426
+AZTECA,http://f.ok2.se:8000/victor1/victor123/451
+CNN (ES),http://f.ok2.se:8000/victor1/victor123/429
+CENTRO AMERICA TV,http://f.ok2.se:8000/victor1/victor123/444
+HISTORY (ES),http://f.ok2.se:8000/victor1/victor123/431
+DISCOVERY HD ES,http://f.ok2.se:8000/victor1/victor123/430
+CINE SONY (ES),http://f.ok2.se:8000/victor1/victor123/435
+MUSICA 1 (REGGAETON),http://f.ok2.se:8000/victor1/victor123/6583
+MUSICA 2 (REGGAETON) (2017),http://f.ok2.se:8000/victor1/victor123/6584
+MUSICA 3 (REGGAETON) (VEVO),http://f.ok2.se:8000/victor1/victor123/6585
+MUSICA 4 (2017),http://f.ok2.se:8000/victor1/victor123/6586
+BEIN DEPORTES HD (ES),http://f.ok2.se:8000/victor1/victor123/236
+BEIN DEPORTES HD (H264),http://f.ok2.se:8000/victor1/victor123/38491
+BEIN DEPORTES HD (H265) - NEW,http://f.ok2.se:8000/victor1/victor123/65724
+ESPN HD DEPORTES,http://f.ok2.se:8000/victor1/victor123/8505
+*UNIVISION DEPORTES,http://f.ok2.se:8000/victor1/victor123/423
+*FOX DEPORTES HD (ES),http://f.ok2.se:8000/victor1/victor123/436
+FOX DEPORTES (ES),http://f.ok2.se:8000/victor1/victor123/237
+FOX SPORTS HD (LATIN AMERICA) (ES),http://f.ok2.se:8000/victor1/victor123/39679
+FOX SPORTS 2 HD (LATIN AMERICA) (ES),http://f.ok2.se:8000/victor1/victor123/39680
+FOX SPORTS 3 HD (LATIN AMERICA) (ES),http://f.ok2.se:8000/victor1/victor123/39681
+ESPN DEPORTES HD (ES),http://f.ok2.se:8000/victor1/victor123/238
+GOL TV (ES),http://f.ok2.se:8000/victor1/victor123/235
+GOL TV (ES) - NEW,http://f.ok2.se:8000/victor1/victor123/424
+DIRECTV SPORTS 1 HD (SP),http://f.ok2.se:8000/victor1/victor123/64391
+DIRECTV SPORTS 2 HD (SP),http://f.ok2.se:8000/victor1/victor123/64390
+DIRECTV SPORTS+ HD (SP),http://f.ok2.se:8000/victor1/victor123/64389
+WIN SPORTS (COL),http://f.ok2.se:8000/victor1/victor123/15130
+TYC SPORTS HD (ES),http://f.ok2.se:8000/victor1/victor123/27629
+TYC SPORTS INT (ES),http://f.ok2.se:8000/victor1/victor123/240
+TYC SPORTS INT (ARGENTINA),http://f.ok2.se:8000/victor1/victor123/437
+SUR PERU,http://f.ok2.se:8000/victor1/victor123/8653
+PERU MAGICO,http://f.ok2.se:8000/victor1/victor123/439
+ECUA TV,http://f.ok2.se:8000/victor1/victor123/440
+EC TV,http://f.ok2.se:8000/victor1/victor123/441
+TV VENEZUELA - NEW,http://f.ok2.se:8000/victor1/victor123/443
+TV ESPANA,http://f.ok2.se:8000/victor1/victor123/445
+TVE 24 (ES),http://f.ok2.se:8000/victor1/victor123/4786
+TVE INT (PT),http://f.ok2.se:8000/victor1/victor123/557
+TELEFE,http://f.ok2.se:8000/victor1/victor123/446
+ANTENA3 INTERNACIONAL (ES) - NEW,http://f.ok2.se:8000/victor1/victor123/65726
+TV CHILE,http://f.ok2.se:8000/victor1/victor123/442
+CARACOL (COLOMBIA),http://f.ok2.se:8000/victor1/victor123/15325
+CARACOL INT,http://f.ok2.se:8000/victor1/victor123/449
+RCN (COLOMBIA),http://f.ok2.se:8000/victor1/victor123/15321
+RCN INT,http://f.ok2.se:8000/victor1/victor123/448
+NUESTRATELE NOTICIAS 24 - NEW,http://f.ok2.se:8000/victor1/victor123/450
+ATV NOTICIAS HD,http://f.ok2.se:8000/victor1/victor123/63003
+=== ARGENTINA === (24),http://f.ok2.se:8000/victor1/victor123/64058
+AMERICA 24 (ARG),http://f.ok2.se:8000/victor1/victor123/64065
+CANAL 26 (ARG),http://f.ok2.se:8000/victor1/victor123/64072
+EUROPA (ARG),http://f.ok2.se:8000/victor1/victor123/64363
+GOURMET (ARG),http://f.ok2.se:8000/victor1/victor123/64365
+TLX (ARG),http://f.ok2.se:8000/victor1/victor123/64360
+=== CHILE ===,http://f.ok2.se:8000/victor1/victor123/64039
+CHILEVISION (CHILE),http://f.ok2.se:8000/victor1/victor123/90478
+24HORAS TVN (CHILE),http://f.ok2.se:8000/victor1/victor123/15302
+CANAL 13 (CHILE),http://f.ok2.se:8000/victor1/victor123/15345
+CDF (CHILE),http://f.ok2.se:8000/victor1/victor123/15344
+CDF PREMIUM (CHILE),http://f.ok2.se:8000/victor1/victor123/79004
+CDO (CHILE),http://f.ok2.se:8000/victor1/victor123/15343
+LA MEGA (CHILE),http://f.ok2.se:8000/victor1/victor123/15339
+LA RED (CHILE),http://f.ok2.se:8000/victor1/victor123/15338
+TV CHILE (CHILE),http://f.ok2.se:8000/victor1/victor123/79008
+TVN (CHILE),http://f.ok2.se:8000/victor1/victor123/15337
+=== COLOMBIA ===,http://f.ok2.se:8000/victor1/victor123/64035
+CABLE NOTICIAS (COLOMBIA),http://f.ok2.se:8000/victor1/victor123/15327
+CANAL CAPITAL (COLOMBIA) - NEW,http://f.ok2.se:8000/victor1/victor123/59398
+LAKALLE (COLOMBIA),http://f.ok2.se:8000/victor1/victor123/15318
+TELE CAFE (COLOMBIA),http://f.ok2.se:8000/victor1/victor123/15319
+TELEAMAZONAS (COLOMBIA),http://f.ok2.se:8000/victor1/victor123/15316
+=== COSTA RICA === (4),http://f.ok2.se:8000/victor1/victor123/65600
+TELERED (CR),http://f.ok2.se:8000/victor1/victor123/65597
+TELETICA (CR),http://f.ok2.se:8000/victor1/victor123/65596
+=== CUBA === (10),http://f.ok2.se:8000/victor1/victor123/64057
+CUBAMAX (NA) - NEW,http://f.ok2.se:8000/victor1/victor123/69023
+CUBAVISION,http://f.ok2.se:8000/victor1/victor123/15335
+CUBAVISION INT,http://f.ok2.se:8000/victor1/victor123/9051
+CLAVE (CUBA),http://f.ok2.se:8000/victor1/victor123/64795
+MULTIVISION (CUBA),http://f.ok2.se:8000/victor1/victor123/15334
+TELEMARTI (CUBA),http://f.ok2.se:8000/victor1/victor123/15333
+TELEREBELDE (CUBA),http://f.ok2.se:8000/victor1/victor123/15332
+=== DOM REP  ===,http://f.ok2.se:8000/victor1/victor123/64040
+CDN 2 (DR),http://f.ok2.se:8000/victor1/victor123/8953
+CDN 37 (DR),http://f.ok2.se:8000/victor1/victor123/8952
+DIGITAL 15 (DR),http://f.ok2.se:8000/victor1/victor123/8951
+TELE CENTRO (DR),http://f.ok2.se:8000/victor1/victor123/8948
+TELE FUTURO (DR),http://f.ok2.se:8000/victor1/victor123/8944
+TELE MICRO (DR),http://f.ok2.se:8000/victor1/victor123/8939
+TELE NORD10 (DR),http://f.ok2.se:8000/victor1/victor123/8935
+TELE UNIVERSO (DR),http://f.ok2.se:8000/victor1/victor123/8943
+=== ECUADOR ===,http://f.ok2.se:8000/victor1/victor123/64174
+CANAL UNO (ECU),http://f.ok2.se:8000/victor1/victor123/64388
+ECUADOR TV (ECU),http://f.ok2.se:8000/victor1/victor123/64386
+ECUAVISA (ECU),http://f.ok2.se:8000/victor1/victor123/64385
+GOLTV HD (ECUADOR),http://f.ok2.se:8000/victor1/victor123/69512
+RTS (ECU),http://f.ok2.se:8000/victor1/victor123/64381
+TC (ECU),http://f.ok2.se:8000/victor1/victor123/64380
+TELEAMAZONAS (ECU),http://f.ok2.se:8000/victor1/victor123/64379
+=== PERU === (18),http://f.ok2.se:8000/victor1/victor123/15315
+ATV HD (PERU),http://f.ok2.se:8000/victor1/victor123/15314
+CANAL N (PERU),http://f.ok2.se:8000/victor1/victor123/15313
+CAPITAL TV (PERU),http://f.ok2.se:8000/victor1/victor123/15312
+EXITOSA HD (PERU),http://f.ok2.se:8000/victor1/victor123/15310
+IPE HD (PERU),http://f.ok2.se:8000/victor1/victor123/15305
+LA TELE HD (PERU),http://f.ok2.se:8000/victor1/victor123/63002
+LATINA (PERU),http://f.ok2.se:8000/victor1/victor123/15309
+NEXTV HD (PERU),http://f.ok2.se:8000/victor1/victor123/63001
+PANAMERICANA (PERU),http://f.ok2.se:8000/victor1/victor123/15308
+WILLAX (PERU),http://f.ok2.se:8000/victor1/victor123/15304
+=== URUGUAY ===,http://f.ok2.se:8000/victor1/victor123/86901
+CANAL U (URU),http://f.ok2.se:8000/victor1/victor123/86886
+CANAL M (URU),http://f.ok2.se:8000/victor1/victor123/86887
+CARDINAL TV (URU),http://f.ok2.se:8000/victor1/victor123/86888
+CHARRUA TV (URU),http://f.ok2.se:8000/victor1/victor123/86889
+DURAZNO TV (URU),http://f.ok2.se:8000/victor1/victor123/86890
+LATINA TV PAYSANDU (URU),http://f.ok2.se:8000/victor1/victor123/86891
+RTV (URU),http://f.ok2.se:8000/victor1/victor123/86892
+TV CIUDAD (URU),http://f.ok2.se:8000/victor1/victor123/86893
+URUGUAY NATURAL TV (URU),http://f.ok2.se:8000/victor1/victor123/86894
+CANAL 10 HD (URU),http://f.ok2.se:8000/victor1/victor123/86895
+TELEVISION NACIONAL URUGUAY (URU),http://f.ok2.se:8000/victor1/victor123/86896
+A+V (URU),http://f.ok2.se:8000/victor1/victor123/86878
+ARTIGAS TELEVISION (URU),http://f.ok2.se:8000/victor1/victor123/86879
+CANAL 12 MELO (URU),http://f.ok2.se:8000/victor1/victor123/86881
+CANAL 2 LASCANO (URU),http://f.ok2.se:8000/victor1/victor123/86882
+CANAL 2 SAN CARLOS (URU),http://f.ok2.se:8000/victor1/victor123/86883
+CANAL 4 PAYSANDU (URU),http://f.ok2.se:8000/victor1/victor123/86884
+CANAL 7 PUNTA (URU),http://f.ok2.se:8000/victor1/victor123/86885
+=== VENEZUELA === (13),http://f.ok2.se:8000/victor1/victor123/48022
+VENEVISION (NA) - NEW,http://f.ok2.se:8000/victor1/victor123/69022
+VENEVISION (VEN),http://f.ok2.se:8000/victor1/victor123/15329
+VENEVISION PLUS (VEN),http://f.ok2.se:8000/victor1/victor123/64759
+TEN HD (HONDURAS),http://f.ok2.se:8000/victor1/victor123/65589
+WAPA TV (PUERTO RICO),http://f.ok2.se:8000/victor1/victor123/65593
+TCT HD (XTIAN),http://f.ok2.se:8000/victor1/victor123/62434
+TCT KIDS (XTIAN),http://f.ok2.se:8000/victor1/victor123/62432
+DAYSTAR (XTIAN),http://f.ok2.se:8000/victor1/victor123/62454
+GOD TV USA (XTIAN),http://f.ok2.se:8000/victor1/victor123/62452
+LLBN HIS WORD (XTIAN),http://f.ok2.se:8000/victor1/victor123/62429
+CBN TV (XTIAN),http://f.ok2.se:8000/victor1/victor123/62412
+CTN (XTIAN),http://f.ok2.se:8000/victor1/victor123/62413
+INSPIRATION TV (XTIAN),http://f.ok2.se:8000/victor1/victor123/62394
+KINGDOM IMPACT NETWORK (XTIAN),http://f.ok2.se:8000/victor1/victor123/62401
+LOVEWORLD USA (XTIAN),http://f.ok2.se:8000/victor1/victor123/62404
+MIRACLE CHANNEL (XTIAN),http://f.ok2.se:8000/victor1/victor123/62396
+SBN DOMESTIC HD (XTIAN),http://f.ok2.se:8000/victor1/victor123/62431
+3ABN (XTIAN),http://f.ok2.se:8000/victor1/victor123/62421
+3ABN KIDS (XTIAN),http://f.ok2.se:8000/victor1/victor123/62414
+LIVING FAITH TV (XTIAN),http://f.ok2.se:8000/victor1/victor123/62406
+AMAZING DISCOVERIES (XTIAN),http://f.ok2.se:8000/victor1/victor123/62393
+BELIEVER'S VOICE (XTIAN),http://f.ok2.se:8000/victor1/victor123/62453
+CBN NEWS (XTIAN),http://f.ok2.se:8000/victor1/victor123/62411
+RTPI (NA) - NEW,http://f.ok2.se:8000/victor1/victor123/8224
+GLOBO PREMIUM (PT),http://f.ok2.se:8000/victor1/victor123/556
+SIC (NA) - NEW,http://f.ok2.se:8000/victor1/victor123/8222
+TVI (NA) - NEW,http://f.ok2.se:8000/victor1/victor123/8221
+BAND NEWS - NEW,http://f.ok2.se:8000/victor1/victor123/8223
+SPORT TV 1 HD (PT),http://f.ok2.se:8000/victor1/victor123/4643
+SPORT TV 2 HD (PT),http://f.ok2.se:8000/victor1/victor123/4647
+SPORT TV 3 HD (PT),http://f.ok2.se:8000/victor1/victor123/4646
+SPORT TV 4 HD (PT),http://f.ok2.se:8000/victor1/victor123/4645
+SPORT TV 5 HD (PT),http://f.ok2.se:8000/victor1/victor123/4644
+ABOLA TV (PT),http://f.ok2.se:8000/victor1/victor123/606
+EURO SPORT 1 HD (PT),http://f.ok2.se:8000/victor1/victor123/4707
+EURO SPORT 2 XTRA HD (PT),http://f.ok2.se:8000/victor1/victor123/4708
+TV RECORD (PT),http://f.ok2.se:8000/victor1/victor123/4788
+PFC SPORTS HD (PT),http://f.ok2.se:8000/victor1/victor123/530
+BENFICA TV HD (PT),http://f.ok2.se:8000/victor1/victor123/545
+SPORT TV+ (PT),http://f.ok2.se:8000/victor1/victor123/553
+SPORTING TV HD (PT),http://f.ok2.se:8000/victor1/victor123/547
+MOTOR VISION HD (PT),http://f.ok2.se:8000/victor1/victor123/605
+MOTORS TV (PT),http://f.ok2.se:8000/victor1/victor123/610
+FUEL TV (PT),http://f.ok2.se:8000/victor1/victor123/609
+RTP ACORES 24 (PT),http://f.ok2.se:8000/victor1/victor123/80473
+RTP 1 (PT),http://f.ok2.se:8000/victor1/victor123/42672
+RTP 2 (PT),http://f.ok2.se:8000/victor1/victor123/525
+RTP 3 (PT),http://f.ok2.se:8000/victor1/victor123/527
+RTP AFRICA (PT),http://f.ok2.se:8000/victor1/victor123/4794
+RTP MADEIRA (PT),http://f.ok2.se:8000/victor1/victor123/81597
+RTP MEMORIA (PT),http://f.ok2.se:8000/victor1/victor123/528
+TPA INTERNACIONAL (PT),http://f.ok2.se:8000/victor1/victor123/89602
+TVI (PT),http://f.ok2.se:8000/victor1/victor123/531
+TVI FICCAO (PT),http://f.ok2.se:8000/victor1/victor123/533
+TVI REALITY (PT),http://f.ok2.se:8000/victor1/victor123/534
+TVI REALITY MOSAICO (PT),http://f.ok2.se:8000/victor1/victor123/65828
+TVI 24 (PT),http://f.ok2.se:8000/victor1/victor123/532
+SIC HD (PT),http://f.ok2.se:8000/victor1/victor123/535
+SIC NOTICIAS (PT),http://f.ok2.se:8000/victor1/victor123/536
+SIC MULHER (PT),http://f.ok2.se:8000/victor1/victor123/538
+SIC RADICAL (PT),http://f.ok2.se:8000/victor1/victor123/539
+SIC KIDS (PT),http://f.ok2.se:8000/victor1/victor123/540
+SIC CARAS (PT),http://f.ok2.se:8000/victor1/victor123/537
+24 KITCHEN (PT),http://f.ok2.se:8000/victor1/victor123/62384
+TV SERIES (PT),http://f.ok2.se:8000/victor1/victor123/598
+TVC1 HD (PT),http://f.ok2.se:8000/victor1/victor123/602
+TVC2 HD (PT),http://f.ok2.se:8000/victor1/victor123/601
+TVC3 HD (PT),http://f.ok2.se:8000/victor1/victor123/600
+TVC4 HD (PT),http://f.ok2.se:8000/victor1/victor123/599
+EURO NEWS (PT),http://f.ok2.se:8000/victor1/victor123/612
+FOX HD (PT),http://f.ok2.se:8000/victor1/victor123/593
+FOX MOVIES (PT),http://f.ok2.se:8000/victor1/victor123/590
+FOX LIFE HD (PT),http://f.ok2.se:8000/victor1/victor123/592
+FOX CRIME HD (PT),http://f.ok2.se:8000/victor1/victor123/591
+FOX COMEDY (PT),http://f.ok2.se:8000/victor1/victor123/589
+FOX NEWS (PT),http://f.ok2.se:8000/victor1/victor123/4791
+AMC (PT),http://f.ok2.se:8000/victor1/victor123/542
+PORTO CANAL (PT),http://f.ok2.se:8000/victor1/victor123/616
+ODISSEIA (PT),http://f.ok2.se:8000/victor1/victor123/573
+CINEMUNDO (PT),http://f.ok2.se:8000/victor1/victor123/596
+HOLLYWOOD (PT),http://f.ok2.se:8000/victor1/victor123/81598
+AXN BLACK HD (PT),http://f.ok2.se:8000/victor1/victor123/586
+AXN HD (PT),http://f.ok2.se:8000/victor1/victor123/588
+AXN WHITE HD (PT),http://f.ok2.se:8000/victor1/victor123/587
+HISTORIA (PT),http://f.ok2.se:8000/victor1/victor123/574
+CBS REALITY (PT),http://f.ok2.se:8000/victor1/victor123/576
+TLC (PT),http://f.ok2.se:8000/victor1/victor123/579
+VH1 (PT),http://f.ok2.se:8000/victor1/victor123/570
+E! (PT),http://f.ok2.se:8000/victor1/victor123/584
+CM TV (PT),http://f.ok2.se:8000/victor1/victor123/614
+NOVA (PT),http://f.ok2.se:8000/victor1/victor123/4709
+CANAL Q (PT),http://f.ok2.se:8000/victor1/victor123/4710
+NAT GEO HD (PT),http://f.ok2.se:8000/victor1/victor123/582
+NAT GEO WILD (PT),http://f.ok2.se:8000/victor1/victor123/581
+DISCOVERY (PT),http://f.ok2.se:8000/victor1/victor123/583
+DISCOVERY SHOWCASE HD (PT),http://f.ok2.se:8000/victor1/victor123/580
+AFRO MUSIC (PT),http://f.ok2.se:8000/victor1/victor123/565
+MTV (PT),http://f.ok2.se:8000/victor1/victor123/567
+CACA EPESCA (PT),http://f.ok2.se:8000/victor1/victor123/604
+FTV (PT),http://f.ok2.se:8000/victor1/victor123/4792
+GALICIA TV (PT),http://f.ok2.se:8000/victor1/victor123/558
+MCM POP (PT),http://f.ok2.se:8000/victor1/victor123/4793
+MEZZO (PT),http://f.ok2.se:8000/victor1/victor123/4787
+TRACE TV (PT),http://f.ok2.se:8000/victor1/victor123/4795
+TRAVEL CHANNEL HD (PT),http://f.ok2.se:8000/victor1/victor123/577
+BABY FIRST (PT),http://f.ok2.se:8000/victor1/victor123/4789
+CARTOON NETWORK (PT),http://f.ok2.se:8000/victor1/victor123/560
+DISNEY (PT),http://f.ok2.se:8000/victor1/victor123/563
+NICKELODEON (PT),http://f.ok2.se:8000/victor1/victor123/561
+*FAIRCHILD EAST,http://f.ok2.se:8000/victor1/victor123/402
+FAIRCHILD WEST,http://f.ok2.se:8000/victor1/victor123/403
+FAIRCHILD 2 HD,http://f.ok2.se:8000/victor1/victor123/404
+TALENT TV,http://f.ok2.se:8000/victor1/victor123/62363
+PHOENIX (NA),http://f.ok2.se:8000/victor1/victor123/8109
+PHOENIX HONG KONG HD,http://f.ok2.se:8000/victor1/victor123/10377
+PHOENIX INFO NEWS HD,http://f.ok2.se:8000/victor1/victor123/10376
+翡翠台 (TVB),http://f.ok2.se:8000/victor1/victor123/773
+TVB CLASSIC,http://f.ok2.se:8000/victor1/victor123/774
+無綫新聞 (TVBNEWS),http://f.ok2.se:8000/victor1/victor123/772
+翡翠明珠 (TVB PEARL),http://f.ok2.se:8000/victor1/victor123/776
+香港開電視 (HK OPEN TV),http://f.ok2.se:8000/victor1/victor123/72391
+600 NEWS,http://f.ok2.se:8000/victor1/victor123/86263
+CCTV1,http://f.ok2.se:8000/victor1/victor123/793
+CCTV2,http://f.ok2.se:8000/victor1/victor123/794
+CCTV3,http://f.ok2.se:8000/victor1/victor123/795
+CCTV4,http://f.ok2.se:8000/victor1/victor123/796
+CCTV5+,http://f.ok2.se:8000/victor1/victor123/797
+CCTV 6,http://f.ok2.se:8000/victor1/victor123/3952
+CCTV7,http://f.ok2.se:8000/victor1/victor123/799
+CCTV 8,http://f.ok2.se:8000/victor1/victor123/801
+CCTV 9,http://f.ok2.se:8000/victor1/victor123/805
+CCTV10,http://f.ok2.se:8000/victor1/victor123/802
+CCTV11,http://f.ok2.se:8000/victor1/victor123/803
+CHC动作电影,http://f.ok2.se:8000/victor1/victor123/18082
+CHC家庭影院,http://f.ok2.se:8000/victor1/victor123/18081
+东方卫视 (DONGFANG),http://f.ok2.se:8000/victor1/victor123/792
+云南卫视 (YUNNAN),http://f.ok2.se:8000/victor1/victor123/3956
+北京卫视 (BEIJING),http://f.ok2.se:8000/victor1/victor123/790
+四川卫视 (SICHUANG),http://f.ok2.se:8000/victor1/victor123/3963
+天津卫视 (TIANJIN),http://f.ok2.se:8000/victor1/victor123/3964
+安徽卫视 (AN HUI TV),http://f.ok2.se:8000/victor1/victor123/55402
+广东卫视 (GUANGDONG),http://f.ok2.se:8000/victor1/victor123/788
+广西电视台 (GUANGXI TV),http://f.ok2.se:8000/victor1/victor123/3953
+江苏卫视 (JIANGSU TV),http://f.ok2.se:8000/victor1/victor123/807
+河北卫视 (HEBEI TV),http://f.ok2.se:8000/victor1/victor123/3960
+河南电视台 (HENAN TV),http://f.ok2.se:8000/victor1/victor123/3957
+浙江卫视 (ZHE JIANG),http://f.ok2.se:8000/victor1/victor123/789
+深圳卫视 (SHENZHEN),http://f.ok2.se:8000/victor1/victor123/787
+湖南卫视 (HUNAN),http://f.ok2.se:8000/victor1/victor123/791
+TFC (PH),http://f.ok2.se:8000/victor1/victor123/2
+TFC WEST (PH),http://f.ok2.se:8000/victor1/victor123/8524
+GMA PINOY (PH),http://f.ok2.se:8000/victor1/victor123/5
+GMA NEWS (PH),http://f.ok2.se:8000/victor1/victor123/4
+GMA NEWS (-12) (PH),http://f.ok2.se:8000/victor1/victor123/82747
+GMA LIFE TV (PH),http://f.ok2.se:8000/victor1/victor123/6
+CNN (PH),http://f.ok2.se:8000/victor1/victor123/4398
+CNN (-12) (PH),http://f.ok2.se:8000/victor1/victor123/82752
+GMA7 (PH),http://f.ok2.se:8000/victor1/victor123/82746
+GMA7 (-12) (PH),http://f.ok2.se:8000/victor1/victor123/82745
+ABS-CBN NEWS,http://f.ok2.se:8000/victor1/victor123/8104
+ABS-CBN (PH),http://f.ok2.se:8000/victor1/victor123/82754
+ABS-CBN (-12) (PH),http://f.ok2.se:8000/victor1/victor123/82753
+DZRH NEWS (PH),http://f.ok2.se:8000/victor1/victor123/82729
+DZRH NEWS (-12) (PH),http://f.ok2.se:8000/victor1/victor123/82728
+GLOBAL SPORTS 1 (PH),http://f.ok2.se:8000/victor1/victor123/82735
+GLOBAL SPORTS 1 (-12) (PH),http://f.ok2.se:8000/victor1/victor123/82734
+GLOBAL SPORTS 2 (PH),http://f.ok2.se:8000/victor1/victor123/82733
+GLOBAL SPORTS 2 (-12) (PH),http://f.ok2.se:8000/victor1/victor123/82732
+GLOBAL SPORTS 3 (PH),http://f.ok2.se:8000/victor1/victor123/82731
+GLOBAL SPORTS 3 (-12) (PH),http://f.ok2.se:8000/victor1/victor123/82730
+GLOBAL THEATRE 1 (PH),http://f.ok2.se:8000/victor1/victor123/82739
+GLOBAL THEATRE 1 (-12) (PH),http://f.ok2.se:8000/victor1/victor123/82738
+GLOBAL THEATRE 2 (PH),http://f.ok2.se:8000/victor1/victor123/82737
+GLOBAL THEATRE 2 (-12) (PH),http://f.ok2.se:8000/victor1/victor123/82736
+NET25 (PH),http://f.ok2.se:8000/victor1/victor123/82743
+NET25 (-12) (PH),http://f.ok2.se:8000/victor1/victor123/82742
+ONE MEDIA (PH),http://f.ok2.se:8000/victor1/victor123/82756
+ONE MEDIA (-12) (PH),http://f.ok2.se:8000/victor1/victor123/82755
+PTV4 (PH),http://f.ok2.se:8000/victor1/victor123/82751
+PTV4 (-12) (PH),http://f.ok2.se:8000/victor1/victor123/82750
+SPORTS ACTION (PH),http://f.ok2.se:8000/victor1/victor123/82772
+SPORTS ACTION (-12) (PH),http://f.ok2.se:8000/victor1/victor123/82744
+TV5 (PH),http://f.ok2.se:8000/victor1/victor123/82749
+TV5 (-12) (PH),http://f.ok2.se:8000/victor1/victor123/82748
+HAITI NEWS,http://f.ok2.se:8000/victor1/victor123/55571
+NAGO TV,http://f.ok2.se:8000/victor1/victor123/3232
+SHALLOM TV,http://f.ok2.se:8000/victor1/victor123/3228
+TELE BOSTON,http://f.ok2.se:8000/victor1/victor123/69592
+TELE CARAIBES,http://f.ok2.se:8000/victor1/victor123/3227
+TELE GINEN,http://f.ok2.se:8000/victor1/victor123/3236
+TELE HIRONDELLE (LES CAYES),http://f.ok2.se:8000/victor1/victor123/64084
+TELE LOUNGE,http://f.ok2.se:8000/victor1/victor123/3235
+TELE METROPOLOE,http://f.ok2.se:8000/victor1/victor123/3234
+TELE SOLEIL,http://f.ok2.se:8000/victor1/victor123/8970
+TELE SUPERSTAR,http://f.ok2.se:8000/victor1/victor123/3233
+THM TV,http://f.ok2.se:8000/victor1/victor123/8336
+TNH,http://f.ok2.se:8000/victor1/victor123/3231
+TV1000 (RO),http://f.ok2.se:8000/victor1/victor123/6807
+HAPPY CHANNEL (RO),http://f.ok2.se:8000/victor1/victor123/10237
+MINIMAX (RO),http://f.ok2.se:8000/victor1/victor123/10238
+MEGAMAX (RO),http://f.ok2.se:8000/victor1/victor123/6668
+TVR 1 (RO),http://f.ok2.se:8000/victor1/victor123/10232
+TVR 2 (RO),http://f.ok2.se:8000/victor1/victor123/6678
+TVR 3 (RO),http://f.ok2.se:8000/victor1/victor123/6667
+TVR INT (RO),http://f.ok2.se:8000/victor1/victor123/10223
+ROMANIA TV (RO),http://f.ok2.se:8000/victor1/victor123/10241
+B1 TV (RO),http://f.ok2.se:8000/victor1/victor123/10239
+ANTENA STARS (RO),http://f.ok2.se:8000/victor1/victor123/10236
+ANTENA 1 (RO),http://f.ok2.se:8000/victor1/victor123/10228
+ANTENA 3 (RO),http://f.ok2.se:8000/victor1/victor123/10233
+PRO TV (RO),http://f.ok2.se:8000/victor1/victor123/6677
+PRO 2 (RO),http://f.ok2.se:8000/victor1/victor123/10225
+PRO INT (RO),http://f.ok2.se:8000/victor1/victor123/10227
+PRO CINEMA (RO),http://f.ok2.se:8000/victor1/victor123/6674
+PRO GOLD (RO),http://f.ok2.se:8000/victor1/victor123/6673
+PRIMA TV (RO),http://f.ok2.se:8000/victor1/victor123/6662
+PRIMA LOVE (RO),http://f.ok2.se:8000/victor1/victor123/6661
+PRIMA COOL (RO),http://f.ok2.se:8000/victor1/victor123/6775
+REALITATEA TV (RO),http://f.ok2.se:8000/victor1/victor123/77332
+DIGI SPORT 1 (RO),http://f.ok2.se:8000/victor1/victor123/6771
+DIGI SPORT 2 (RO),http://f.ok2.se:8000/victor1/victor123/6770
+DIGI SPORT 3 (RO),http://f.ok2.se:8000/victor1/victor123/77335
+DIGI SPORT 4 (RO),http://f.ok2.se:8000/victor1/victor123/77340
+TELEKOM SPORT 1 (RO),http://f.ok2.se:8000/victor1/victor123/77366
+TELEKOM SPORT 2 (RO),http://f.ok2.se:8000/victor1/victor123/77365
+TELEKOM SPORT 3 (RO),http://f.ok2.se:8000/victor1/victor123/77334
+TELEKOM SPORT 4 (RO),http://f.ok2.se:8000/victor1/victor123/77333
+TVP 1 (PL),http://f.ok2.se:8000/victor1/victor123/10883
+TVP 2 (PL),http://f.ok2.se:8000/victor1/victor123/10884
+TVP ABC (PL),http://f.ok2.se:8000/victor1/victor123/10862
+TVP INFO (PL),http://f.ok2.se:8000/victor1/victor123/10886
+TVP ROZRYWKA (PL),http://f.ok2.se:8000/victor1/victor123/10859
+TVP SERIALE (PL),http://f.ok2.se:8000/victor1/victor123/10888
+DISCOVERY HISTORIA (PL),http://f.ok2.se:8000/victor1/victor123/10885
+POLSAT (PL),http://f.ok2.se:8000/victor1/victor123/10870
+POLSAT 2 (PL),http://f.ok2.se:8000/victor1/victor123/10871
+POLSAT CAFE (PL),http://f.ok2.se:8000/victor1/victor123/10872
+POLSAT NEWS (PL),http://f.ok2.se:8000/victor1/victor123/10873
+POLSAT PLAY (PL),http://f.ok2.se:8000/victor1/victor123/10874
+POLSAT SPORT (PL),http://f.ok2.se:8000/victor1/victor123/10876
+POLSAT SPORT EXTRA (PL),http://f.ok2.se:8000/victor1/victor123/10875
+TVN (PL),http://f.ok2.se:8000/victor1/victor123/10878
+TVN 24 (PL),http://f.ok2.se:8000/victor1/victor123/10882
+TVN 7 (PL),http://f.ok2.se:8000/victor1/victor123/10879
+TVN FABULA (PL),http://f.ok2.se:8000/victor1/victor123/10860
+TVN STYLE (PL),http://f.ok2.se:8000/victor1/victor123/10880
+TVN TURBO (PL),http://f.ok2.se:8000/victor1/victor123/10881
+CANAL+ (PL),http://f.ok2.se:8000/victor1/victor123/20687
+CANAL+ FAMILY (PL),http://f.ok2.se:8000/victor1/victor123/20718
+CANAL+ FILM (PL),http://f.ok2.se:8000/victor1/victor123/10864
+CANAL+ SERIALE (PL),http://f.ok2.se:8000/victor1/victor123/20701
+CANAL+ SPORT (PL),http://f.ok2.se:8000/victor1/victor123/10866
+CINEMAX 2 (PL),http://f.ok2.se:8000/victor1/victor123/20693
+FOOD NETWORK (PL),http://f.ok2.se:8000/victor1/victor123/20692
+KUCHNIA (PL),http://f.ok2.se:8000/victor1/victor123/10869
+TV REPUBLIKA (PL),http://f.ok2.se:8000/victor1/victor123/10877
+ALPHASAT (GR),http://f.ok2.se:8000/victor1/victor123/86831
+MEGA COSMOS (NA) (GR) - NEW,http://f.ok2.se:8000/victor1/victor123/67105
+ERT (NA) (GR) - NEW,http://f.ok2.se:8000/victor1/victor123/66060
+ODYSSEY 1 (NA) (GR) - NEW,http://f.ok2.se:8000/victor1/victor123/67099
+GREEK MUSIC CHANNEL (NA) (GR),http://f.ok2.se:8000/victor1/victor123/95959
+NEW GREEK TELEVISION (NA) (GR),http://f.ok2.se:8000/victor1/victor123/95960
+NOVA CINEMA 1 (GR),http://f.ok2.se:8000/victor1/victor123/77730
+NOVA CINEMA 4 (GR),http://f.ok2.se:8000/victor1/victor123/77729
+OTE CINEMA 1 (GR),http://f.ok2.se:8000/victor1/victor123/4748
+OTE CINEMA 2 (GR),http://f.ok2.se:8000/victor1/victor123/4747
+OTE CINEMA 3 (GR),http://f.ok2.se:8000/victor1/victor123/4746
+CINEMEEK 1 (GR),http://f.ok2.se:8000/victor1/victor123/77743
+GREEK CINEMA (GR),http://f.ok2.se:8000/victor1/victor123/77713
+ACTION24 (GR),http://f.ok2.se:8000/victor1/victor123/77777
+OTE SPORT 1 (GR),http://f.ok2.se:8000/victor1/victor123/4743
+OTE SPORT 2 (GR),http://f.ok2.se:8000/victor1/victor123/4742
+OTE SPORT 3 (GR),http://f.ok2.se:8000/victor1/victor123/4741
+OTE SPORT 4 (GR),http://f.ok2.se:8000/victor1/victor123/4740
+OTE SPORT 5 (GR),http://f.ok2.se:8000/victor1/victor123/4739
+OTE SPORT 6 (GR),http://f.ok2.se:8000/victor1/victor123/4738
+OTE SPORT 7 (GR),http://f.ok2.se:8000/victor1/victor123/4737
+OTE SPORT 8 (GR),http://f.ok2.se:8000/victor1/victor123/4736
+OTE SPORT 9 (GR),http://f.ok2.se:8000/victor1/victor123/4119
+OTE SPORTS HIGHLIGHTS (GR),http://f.ok2.se:8000/victor1/victor123/4117
+EUROSPORT 1 (GR),http://f.ok2.se:8000/victor1/victor123/84092
+EUROSPORT 2 (GR),http://f.ok2.se:8000/victor1/victor123/84093
+TILESPORT (GR),http://f.ok2.se:8000/victor1/victor123/77672
+4E (GR),http://f.ok2.se:8000/victor1/victor123/77781
+ABC CHANNEL (GR),http://f.ok2.se:8000/victor1/victor123/84088
+ALPHA CY (GR),http://f.ok2.se:8000/victor1/victor123/77776
+ANT1 CY (GR),http://f.ok2.se:8000/victor1/victor123/77780
+ART TV (GR),http://f.ok2.se:8000/victor1/victor123/77778
+BEST TV (GR),http://f.ok2.se:8000/victor1/victor123/77724
+BLUE SKY (GR),http://f.ok2.se:8000/victor1/victor123/84089
+CHANNEL 9 TV (GR),http://f.ok2.se:8000/victor1/victor123/77720
+DELTA TV (GR),http://f.ok2.se:8000/victor1/victor123/77719
+EOE TV (GR),http://f.ok2.se:8000/victor1/victor123/77715
+EPIRUS TV1 (GR),http://f.ok2.se:8000/victor1/victor123/77771
+ERT (GR),http://f.ok2.se:8000/victor1/victor123/84090
+ERT 1 (GR),http://f.ok2.se:8000/victor1/victor123/4105
+ERT 2 (GR),http://f.ok2.se:8000/victor1/victor123/4104
+ERT 3 (GR),http://f.ok2.se:8000/victor1/victor123/4103
+ERT WORLD (GR),http://f.ok2.se:8000/victor1/victor123/84091
+EXTRA (GR),http://f.ok2.se:8000/victor1/victor123/77768
+HIGH TV (GR),http://f.ok2.se:8000/victor1/victor123/77711
+IONIAN TV (GR),http://f.ok2.se:8000/victor1/victor123/84094
+KPHTI TV (GR),http://f.ok2.se:8000/victor1/victor123/77708
+MAD (GR),http://f.ok2.se:8000/victor1/victor123/4129
+MAKEDONIA (GR),http://f.ok2.se:8000/victor1/victor123/4097
+MEGA (GR),http://f.ok2.se:8000/victor1/victor123/77782
+OPEN BEYOND (GR),http://f.ok2.se:8000/victor1/victor123/84095
+RIK 1 CY (GR),http://f.ok2.se:8000/victor1/victor123/77760
+RIKSAT CY (GR),http://f.ok2.se:8000/victor1/victor123/77759
+RISE (GR),http://f.ok2.se:8000/victor1/victor123/77654
+SIGMA (GR),http://f.ok2.se:8000/victor1/victor123/77756
+SKAI (GR),http://f.ok2.se:8000/victor1/victor123/78186
+SMILE TV (GR),http://f.ok2.se:8000/victor1/victor123/84096
+STAR TV (GR),http://f.ok2.se:8000/victor1/victor123/77675
+TILE MUSIKI (GR),http://f.ok2.se:8000/victor1/victor123/77673
+TV 100 (GR),http://f.ok2.se:8000/victor1/victor123/77731
+VOULI (GR),http://f.ok2.se:8000/victor1/victor123/77650
+LIG TV 1 (TR),http://f.ok2.se:8000/victor1/victor123/27119
+LIG TV 2 (TR),http://f.ok2.se:8000/victor1/victor123/27120
+LIG TV 3 (TR),http://f.ok2.se:8000/victor1/victor123/27121
+ANIMAL PLANET (TR),http://f.ok2.se:8000/victor1/victor123/27126
+ATV (TR),http://f.ok2.se:8000/victor1/victor123/10125
+DREAM TV (TR),http://f.ok2.se:8000/victor1/victor123/27116
+HALK TV (TR),http://f.ok2.se:8000/victor1/victor123/27111
+ISTANBUL 1 (TR),http://f.ok2.se:8000/victor1/victor123/27133
+ISTANBUL 2 (TR),http://f.ok2.se:8000/victor1/victor123/27132
+KANAL D (TR),http://f.ok2.se:8000/victor1/victor123/27140
+POWER TURK HD (TR),http://f.ok2.se:8000/victor1/victor123/27112
+SHOW TV (TR),http://f.ok2.se:8000/victor1/victor123/10133
+SPORTS TV (TR),http://f.ok2.se:8000/victor1/victor123/27113
+GLOBO HD (NA),http://f.ok2.se:8000/victor1/victor123/42674
+GLOBO RJ (BR),http://f.ok2.se:8000/victor1/victor123/8296
+GLOBO SP (BR),http://f.ok2.se:8000/victor1/victor123/26278
+RECORD (NA),http://f.ok2.se:8000/victor1/victor123/455
+RECORD AMAZONAS (BR),http://f.ok2.se:8000/victor1/victor123/81732
+RECORD NEWS (BR),http://f.ok2.se:8000/victor1/victor123/81720
+BAND NEWS (BR),http://f.ok2.se:8000/victor1/victor123/8011
+SPORTV 1 (BR),http://f.ok2.se:8000/victor1/victor123/7978
+SPORTV 2 (BR),http://f.ok2.se:8000/victor1/victor123/7977
+SPORTV 3 (BR),http://f.ok2.se:8000/victor1/victor123/7976
+ESPN (BR),http://f.ok2.se:8000/victor1/victor123/7972
+ESPN 2 (BR),http://f.ok2.se:8000/victor1/victor123/72804
+ESPN BRASIL (BR),http://f.ok2.se:8000/victor1/victor123/7973
+CANAL BRASIL (BR),http://f.ok2.se:8000/victor1/victor123/8052
+MULTISHOW (BR),http://f.ok2.se:8000/victor1/victor123/94680
+HRT 1 (HR),http://f.ok2.se:8000/victor1/victor123/8758
+HRT 2 (HR),http://f.ok2.se:8000/victor1/victor123/8745
+HRT 3 (HR),http://f.ok2.se:8000/victor1/victor123/8744
+HRT 4 (HR),http://f.ok2.se:8000/victor1/victor123/8754
+HRT 5 (HR),http://f.ok2.se:8000/victor1/victor123/8756
+CMC TV (HR),http://f.ok2.se:8000/victor1/victor123/8759
+RTL 1 (HR),http://f.ok2.se:8000/victor1/victor123/81384
+RTL 2 (HR),http://f.ok2.se:8000/victor1/victor123/81385
+ARENA SPORTS 1 (HR),http://f.ok2.se:8000/victor1/victor123/81386
+ARENA SPORTS 2 (HR),http://f.ok2.se:8000/victor1/victor123/81387
+ARENA SPORTS 3 (HR),http://f.ok2.se:8000/victor1/victor123/81388
+ARENA SPORTS 4 (HR),http://f.ok2.se:8000/victor1/victor123/40958
+ARENA SPORTS 5 (HR),http://f.ok2.se:8000/victor1/victor123/40957
+PINK (RS),http://f.ok2.se:8000/victor1/victor123/40956
+PINK 2 (RS),http://f.ok2.se:8000/victor1/victor123/40955
+PINK 3 (RS),http://f.ok2.se:8000/victor1/victor123/40954
+PINK ACTION (RS),http://f.ok2.se:8000/victor1/victor123/6120
+PINK CLASSIC (RS),http://f.ok2.se:8000/victor1/victor123/77474
+PINK COMEDY (RS),http://f.ok2.se:8000/victor1/victor123/6119
+PINK CRIME & MYSTERY (RS),http://f.ok2.se:8000/victor1/victor123/6180
+PINK EXTRA (RS),http://f.ok2.se:8000/victor1/victor123/6179
+PINK FAMILY (RS),http://f.ok2.se:8000/victor1/victor123/6221
+PINK FILM (RS),http://f.ok2.se:8000/victor1/victor123/6172
+PINK FOLK 1 (RS),http://f.ok2.se:8000/victor1/victor123/6177
+PINK FOLK 2 (RS),http://f.ok2.se:8000/victor1/victor123/6173
+PINK HAHA (RS),http://f.ok2.se:8000/victor1/victor123/6226
+PINK HITS (RS),http://f.ok2.se:8000/victor1/victor123/6167
+PINK HORROR (RS),http://f.ok2.se:8000/victor1/victor123/6174
+PINK KIDS (RS),http://f.ok2.se:8000/victor1/victor123/6211
+PINK KUVAR (RS),http://f.ok2.se:8000/victor1/victor123/6183
+PINK M (RS),http://f.ok2.se:8000/victor1/victor123/77314
+PINK MOVIES (RS),http://f.ok2.se:8000/victor1/victor123/6220
+PINK MUSIC (RS),http://f.ok2.se:8000/victor1/victor123/6225
+PINK MUSIC 2 (RS),http://f.ok2.se:8000/victor1/victor123/6210
+PINK PANTHER (RS),http://f.ok2.se:8000/victor1/victor123/77472
+PINK PEDIA (RS),http://f.ok2.se:8000/victor1/victor123/6251
+PINK PLUS (RS),http://f.ok2.se:8000/victor1/victor123/6235
+PINK PREMIUM (RS),http://f.ok2.se:8000/victor1/victor123/6234
+PINK REALITY (RS),http://f.ok2.se:8000/victor1/victor123/6233
+PINK ROMANCE (RS),http://f.ok2.se:8000/victor1/victor123/6232
+PINK SCI-FI & FANTASY (RS),http://f.ok2.se:8000/victor1/victor123/6219
+PINK SERIJE (RS),http://f.ok2.se:8000/victor1/victor123/6213
+PINK SHOW (RS),http://f.ok2.se:8000/victor1/victor123/6223
+PINK SOAP (RS),http://f.ok2.se:8000/victor1/victor123/77478
+PINK STYLE (RS),http://f.ok2.se:8000/victor1/victor123/6222
+PINK THRILLER (RS),http://f.ok2.se:8000/victor1/victor123/6191
+PINK WESTERN (RS),http://f.ok2.se:8000/victor1/victor123/6217
+PINK WORLD (RS),http://f.ok2.se:8000/victor1/victor123/77469
+PINK WORLD CINEMA (RS),http://f.ok2.se:8000/victor1/victor123/77477
+PINK ZABAVA (RS),http://f.ok2.se:8000/victor1/victor123/77475
+24 VESTI (MK),http://f.ok2.se:8000/victor1/victor123/6814
+KANAL 5 (MK),http://f.ok2.se:8000/victor1/victor123/6227
+KANAL 5 PLUS (MK),http://f.ok2.se:8000/victor1/victor123/6228
+KANAL 21 (MK),http://f.ok2.se:8000/victor1/victor123/10124
+MRT 1 (MK),http://f.ok2.se:8000/victor1/victor123/77479
+MRT 2 (MK),http://f.ok2.se:8000/victor1/victor123/77473
+SITEL 1 (MK),http://f.ok2.se:8000/victor1/victor123/77476
+SITEL 2 (MK),http://f.ok2.se:8000/victor1/victor123/77470
+SITEL 3 (MK),http://f.ok2.se:8000/victor1/victor123/77471
+ALPHA (MK),http://f.ok2.se:8000/victor1/victor123/6229
+NOVA TV (MK),http://f.ok2.se:8000/victor1/victor123/6209
+ERA TV (MK),http://f.ok2.se:8000/victor1/victor123/6214
+FOLK TV (MK),http://f.ok2.se:8000/victor1/victor123/6215
+PINK LOL (MK),http://f.ok2.se:8000/victor1/victor123/77318
+SKY FOLK (MK),http://f.ok2.se:8000/victor1/victor123/6216
+TELMA (MK),http://f.ok2.se:8000/victor1/victor123/6230
+TOP HD (AL),http://f.ok2.se:8000/victor1/victor123/6266
+KTV (AL),http://f.ok2.se:8000/victor1/victor123/84181
+KLAN (AL),http://f.ok2.se:8000/victor1/victor123/6264
+VIZION PLUS (AL),http://f.ok2.se:8000/victor1/victor123/6267
+NEWS 24 (AL),http://f.ok2.se:8000/victor1/victor123/10231
+TRING SHAQIP (AL),http://f.ok2.se:8000/victor1/victor123/6804
+TRING JULLY (AL),http://f.ok2.se:8000/victor1/victor123/6739
+TRING FANTASY (AL),http://f.ok2.se:8000/victor1/victor123/8753
+TRING SUPER (AL),http://f.ok2.se:8000/victor1/victor123/8755
+TRING COMEDY (AL),http://f.ok2.se:8000/victor1/victor123/6265
+TRING LIFE (AL),http://f.ok2.se:8000/victor1/victor123/6806
+TRING SMILE (AL),http://f.ok2.se:8000/victor1/victor123/8738
+TRING TRING (AL),http://f.ok2.se:8000/victor1/victor123/6212
+TRING SPORT 1 (AL),http://f.ok2.se:8000/victor1/victor123/6218
+TRING SPORT 2 (AL),http://f.ok2.se:8000/victor1/victor123/8737
+TRING SPORT 3 (AL),http://f.ok2.se:8000/victor1/victor123/84179
+TRING SPORT 4 (AL),http://f.ok2.se:8000/victor1/victor123/84180
+TORONTO 1 LIVE (1),http://f.ok2.se:8000/victor1/victor123/88838
+TORONTO 1 LIVE (2),http://f.ok2.se:8000/victor1/victor123/88839
+TORONTO 1 LIVE (3),http://f.ok2.se:8000/victor1/victor123/88840
+TORONTO 1 LIVE (4),http://f.ok2.se:8000/victor1/victor123/88841
+TORONTO 1 LIVE (5),http://f.ok2.se:8000/victor1/victor123/88842
+WIN TV HD,http://f.ok2.se:8000/victor1/victor123/88919
+CEEN TV HD,http://f.ok2.se:8000/victor1/victor123/88918
+FEVA TV HD,http://f.ok2.se:8000/victor1/victor123/88920
+ONE CARIBBEAN TV,http://f.ok2.se:8000/victor1/victor123/84201
+CARIB WEATHER HEADLINES,http://f.ok2.se:8000/victor1/victor123/84202
+THM CANADA,http://f.ok2.se:8000/victor1/victor123/84204
+CABLE 12 BAHAMAS,http://f.ok2.se:8000/victor1/victor123/86273
+CARIBVISION BARBADOS,http://f.ok2.se:8000/victor1/victor123/84230
+CVM,http://f.ok2.se:8000/victor1/victor123/84210
+HOPE TV,http://f.ok2.se:8000/victor1/victor123/84211
+TV CARIB,http://f.ok2.se:8000/victor1/victor123/84216
+TELE MIX,http://f.ok2.se:8000/victor1/victor123/4800
+TELE ARUBA,http://f.ok2.se:8000/victor1/victor123/84225
+PARLIAMENT BAHAMAS,http://f.ok2.se:8000/victor1/victor123/84228
+ZNS BAHAMAS,http://f.ok2.se:8000/victor1/victor123/84229
+CBC TV8 BARBADOS,http://f.ok2.se:8000/victor1/victor123/84231
+NOS PAIS,http://f.ok2.se:8000/victor1/victor123/84214
+SUPER TV 55 DOM REP,http://f.ok2.se:8000/victor1/victor123/84235
+MAIMON TV DOM REP,http://f.ok2.se:8000/victor1/victor123/84238
+RNN DOM REP,http://f.ok2.se:8000/victor1/victor123/84240
+GBN GRENADA,http://f.ok2.se:8000/victor1/victor123/84241
+FAMILY NETWORK GRENADA,http://f.ok2.se:8000/victor1/victor123/84242
+CNS6 GUYANA,http://f.ok2.se:8000/victor1/victor123/84243
+TVG28 GUYANA,http://f.ok2.se:8000/victor1/victor123/84245
+OPA TV HAITI,http://f.ok2.se:8000/victor1/victor123/84247
+CANAL 11 HONDURAS,http://f.ok2.se:8000/victor1/victor123/84248
+BASHMENT 2 JAMAICA,http://f.ok2.se:8000/victor1/victor123/84249
+CVM JAMAICA,http://f.ok2.se:8000/victor1/victor123/84250
+HYPE TV JAMAICA,http://f.ok2.se:8000/victor1/victor123/84252
+JAM VISION JAMAICA,http://f.ok2.se:8000/victor1/victor123/84264
+MELLO TV JAMAICA,http://f.ok2.se:8000/victor1/victor123/84255
+MTM JAMAICA,http://f.ok2.se:8000/victor1/victor123/84254
+RE TV JAMAICA,http://f.ok2.se:8000/victor1/victor123/84256
+SPORTSMAX 1 JAMAICA,http://f.ok2.se:8000/victor1/victor123/84257
+SPORTSMAX 2 JAMAICA,http://f.ok2.se:8000/victor1/victor123/84258
+SPORTSMAX CRICKET JAMAICA,http://f.ok2.se:8000/victor1/victor123/84259
+SPORTSMAX PLUS JAMAICA,http://f.ok2.se:8000/victor1/victor123/84260
+TVJ JAMAICA,http://f.ok2.se:8000/victor1/victor123/84261
+TVJ SPORTS JAMAICA,http://f.ok2.se:8000/victor1/victor123/84262
+NEVIS TV NEVIS,http://f.ok2.se:8000/victor1/victor123/84266
+WSVI TV ST CROIX,http://f.ok2.se:8000/victor1/victor123/84267
+WSVI TV WEATHER ST CROIX,http://f.ok2.se:8000/victor1/victor123/84269
+TIN TV TRINIDAD,http://f.ok2.se:8000/victor1/victor123/84272
+TRINITY TV TRINIDAD,http://f.ok2.se:8000/victor1/victor123/84273
+TTEN TV TRINIDAD,http://f.ok2.se:8000/victor1/victor123/84274
+POWER 106 RADIO,http://f.ok2.se:8000/victor1/victor123/84276
+RJR 94 RADIO,http://f.ok2.se:8000/victor1/victor123/84278
+FAME 95 RADIO,http://f.ok2.se:8000/victor1/victor123/84279
+HITZ 92 RADIO,http://f.ok2.se:8000/victor1/victor123/84280
+99 MUSIC RADIO,http://f.ok2.se:8000/victor1/victor123/84277
+MEDIASET (NA),http://f.ok2.se:8000/victor1/victor123/452
+TLN HD (NA) - NEW,http://f.ok2.se:8000/victor1/victor123/453
+RAI (CDN) - NEW,http://f.ok2.se:8000/victor1/victor123/66071
+RAI NEWS 24 (IT),http://f.ok2.se:8000/victor1/victor123/8587
+RAI 1 HD (IT),http://f.ok2.se:8000/victor1/victor123/6040
+RAI 2 HD (IT),http://f.ok2.se:8000/victor1/victor123/6039
+RAI 3 HD (IT),http://f.ok2.se:8000/victor1/victor123/6038
+RAI 4 HD (IT),http://f.ok2.se:8000/victor1/victor123/6037
+RAI 5 (IT),http://f.ok2.se:8000/victor1/victor123/6036
+RAI MOVIE 1 (IT),http://f.ok2.se:8000/victor1/victor123/6024
+RAI SPORT 1 (IT),http://f.ok2.se:8000/victor1/victor123/5966
+RAI SCUOLA (IT),http://f.ok2.se:8000/victor1/victor123/6034
+RAI YOYO (IT),http://f.ok2.se:8000/victor1/victor123/5971
+RETE 4 (IT),http://f.ok2.se:8000/victor1/victor123/79802
+SKY CINEMA 1 (IT),http://f.ok2.se:8000/victor1/victor123/5969
+SKY CINEMA COMEDY (IT),http://f.ok2.se:8000/victor1/victor123/5970
+SKY CINEMA FAMILY (IT),http://f.ok2.se:8000/victor1/victor123/5965
+SKY SPORT 1 (IT),http://f.ok2.se:8000/victor1/victor123/6013
+SKY SPORT 2 (IT),http://f.ok2.se:8000/victor1/victor123/6033
+SKY SPORT 24 (IT),http://f.ok2.se:8000/victor1/victor123/79804
+SKY SPORT 3 (IT),http://f.ok2.se:8000/victor1/victor123/5990
+SKY TG24 (IT),http://f.ok2.se:8000/victor1/victor123/79805
+TGCOM 24 (IT),http://f.ok2.se:8000/victor1/victor123/79803
+NAT GEO (IT),http://f.ok2.se:8000/victor1/victor123/6006
+MEDIASET 20 (IT),http://f.ok2.se:8000/victor1/victor123/6003
+MEDIASET EXTRA (IT),http://f.ok2.se:8000/victor1/victor123/6035
+LA5 (IT),http://f.ok2.se:8000/victor1/victor123/6028
+LA7D (IT),http://f.ok2.se:8000/victor1/victor123/6029
+ITALIA 1 (IT),http://f.ok2.se:8000/victor1/victor123/6031
+ITALIA 2 (IT),http://f.ok2.se:8000/victor1/victor123/79809
+IRIS 1 (IT),http://f.ok2.se:8000/victor1/victor123/77199
+EMOTION (IT),http://f.ok2.se:8000/victor1/victor123/77196
+FOX LIFE (IT),http://f.ok2.se:8000/victor1/victor123/77195
+PREMIUM ACTION (IT),http://f.ok2.se:8000/victor1/victor123/84084
+PREMIUM CINEMA (IT),http://f.ok2.se:8000/victor1/victor123/78379
+PREMIUM COMEDY (IT),http://f.ok2.se:8000/victor1/victor123/77194
+PREMIUM STORIES (IT),http://f.ok2.se:8000/victor1/victor123/77201
+SPORTITALIA (IT),http://f.ok2.se:8000/victor1/victor123/6020
+SUPERTENNIS (IT),http://f.ok2.se:8000/victor1/victor123/6009
+CARTOONITO (IT),http://f.ok2.se:8000/victor1/victor123/84085
+CANALE 5 (IT),http://f.ok2.se:8000/victor1/victor123/84086
+BOING (IT),http://f.ok2.se:8000/victor1/victor123/84087
+RTN (NA) (RU),http://f.ok2.se:8000/victor1/victor123/68749
+C1R (NA) (RU),http://f.ok2.se:8000/victor1/victor123/27153
+NTV (RU),http://f.ok2.se:8000/victor1/victor123/27152
+24техно (RU),http://f.ok2.se:8000/victor1/victor123/64019
+RTVI (RU),http://f.ok2.se:8000/victor1/victor123/64016
+ROSSIYA 1 (RU),http://f.ok2.se:8000/victor1/victor123/64015
+360 (RU),http://f.ok2.se:8000/victor1/victor123/64014
+8 KANAL (RU),http://f.ok2.se:8000/victor1/victor123/67987
+CINEMA (RU),http://f.ok2.se:8000/victor1/victor123/67982
+INVESTIGATION DISC (RU),http://f.ok2.se:8000/victor1/victor123/67981
+EXTREAM SPORTS (RU),http://f.ok2.se:8000/victor1/victor123/68001
+MATCH (RU),http://f.ok2.se:8000/victor1/victor123/67973
+MATCH ARENA (RU),http://f.ok2.se:8000/victor1/victor123/67958
+MATCH IGRA (RU),http://f.ok2.se:8000/victor1/victor123/67947
+MATH NASH (RU),http://f.ok2.se:8000/victor1/victor123/75791
+MIR (RU),http://f.ok2.se:8000/victor1/victor123/75790
+MIR 24 (RU),http://f.ok2.se:8000/victor1/victor123/75734
+A MEDIA HIT (RU),http://f.ok2.se:8000/victor1/victor123/75732
+A MEDIA PREMIUM (RU),http://f.ok2.se:8000/victor1/victor123/75830
+MOSKVA 24 (RU),http://f.ok2.se:8000/victor1/victor123/75733
+Авто24 (RU),http://f.ok2.se:8000/victor1/victor123/75824
+TV1000 (RU),http://f.ok2.se:8000/victor1/victor123/75827
+TV1000 ACTION (RU),http://f.ok2.se:8000/victor1/victor123/75826
+TV1000 Русскоекино (RU),http://f.ok2.se:8000/victor1/victor123/75825
+NBC SPORTS HD,http://f.ok2.se:8000/victor1/victor123/81965
+*NOTICE* THIS CATEGORY IS BEING REMOVED OCT. 1,http://f.ok2.se:8000/victor1/victor123/104158
+*&TV (NA),http://f.ok2.se:8000/victor1/victor123/3885
+*SET MAX (NA),http://f.ok2.se:8000/victor1/victor123/9631
+*AAPKA COLORS HD (NA),http://f.ok2.se:8000/victor1/victor123/410
+*RISHTEY (NA),http://f.ok2.se:8000/victor1/victor123/3849
+*ZEE TV HD (NA),http://f.ok2.se:8000/victor1/victor123/406
+ZEE NEWS (NA) (IN),http://f.ok2.se:8000/victor1/victor123/59809
+*SONY HD (NA),http://f.ok2.se:8000/victor1/victor123/407
+&TV HD (IN),http://f.ok2.se:8000/victor1/victor123/7314
+AAJTAK (IN),http://f.ok2.se:8000/victor1/victor123/7321
+AAJTAK (NA) (IN),http://f.ok2.se:8000/victor1/victor123/3879
+AAPKA COLORS (IN),http://f.ok2.se:8000/victor1/victor123/6902
+B4U MOVIES (IN),http://f.ok2.se:8000/victor1/victor123/3841
+B4U MOVIES (NA) (IN),http://f.ok2.se:8000/victor1/victor123/7319
+B4U MUSIC (IN),http://f.ok2.se:8000/victor1/victor123/4363
+B4U MUSIC (NA) (IN),http://f.ok2.se:8000/victor1/victor123/4364
+COLORS CINEPLEX (IN),http://f.ok2.se:8000/victor1/victor123/3891
+FOOD FOOD (IN),http://f.ok2.se:8000/victor1/victor123/1193
+FOOD FOOD (NA) (IN),http://f.ok2.se:8000/victor1/victor123/1184
+INDIA TODAY (IN),http://f.ok2.se:8000/victor1/victor123/6903
+INDIA TODAY (NA) (IN),http://f.ok2.se:8000/victor1/victor123/3873
+ISHWAR (IN),http://f.ok2.se:8000/victor1/victor123/4371
+ISHWAR (NA) (IN),http://f.ok2.se:8000/victor1/victor123/1191
+KATHYANI TV (IN),http://f.ok2.se:8000/victor1/victor123/3892
+KATHYANI TV (NA)  (IN),http://f.ok2.se:8000/victor1/victor123/4365
+MTV (IN),http://f.ok2.se:8000/victor1/victor123/3840
+MTV (NA) (IN),http://f.ok2.se:8000/victor1/victor123/3811
+NDTV 24X7 (IN),http://f.ok2.se:8000/victor1/victor123/3870
+NDTV 24X7 (NA) (IN),http://f.ok2.se:8000/victor1/victor123/1192
+NDTV GOODTIMES (IN),http://f.ok2.se:8000/victor1/victor123/7315
+NDTV GOODTIMES (NA) (IN),http://f.ok2.se:8000/victor1/victor123/3883
+RISHTEY (IN),http://f.ok2.se:8000/victor1/victor123/1186
+RISHTEY (UK) (IN),http://f.ok2.se:8000/victor1/victor123/1179
+SAB (IN),http://f.ok2.se:8000/victor1/victor123/4368
+SAB (NA) (IN),http://f.ok2.se:8000/victor1/victor123/1199
+SADHNA TV (IN),http://f.ok2.se:8000/victor1/victor123/6907
+SADHNA TV (NA) (IN),http://f.ok2.se:8000/victor1/victor123/6919
+SANSKAR (IN),http://f.ok2.se:8000/victor1/victor123/3887
+SANSKAR (NA) (IN),http://f.ok2.se:8000/victor1/victor123/74918
+SATSANG TV (IN),http://f.ok2.se:8000/victor1/victor123/74898
+SATSANG TV (NA) (IN),http://f.ok2.se:8000/victor1/victor123/74896
+SET MAX (IN),http://f.ok2.se:8000/victor1/victor123/7325
+SET MAX (NA) (IN),http://f.ok2.se:8000/victor1/victor123/3815
+SHUBH TV (IN),http://f.ok2.se:8000/victor1/victor123/74825
+SHUBH TV (NA) (IN),http://f.ok2.se:8000/victor1/victor123/74791
+SOHAM (IN),http://f.ok2.se:8000/victor1/victor123/74783
+SOHAM (NA) (IN),http://f.ok2.se:8000/victor1/victor123/74778
+SONY MAX 2 (IN),http://f.ok2.se:8000/victor1/victor123/4241
+SONY PAL (IN),http://f.ok2.se:8000/victor1/victor123/59819
+SONY PAL (NA) (IN),http://f.ok2.se:8000/victor1/victor123/59817
+SONY YAY (IN),http://f.ok2.se:8000/victor1/victor123/59816
+SONY YAY (NA) (IN),http://f.ok2.se:8000/victor1/victor123/59815
+TIMES NOW INDIA (IN),http://f.ok2.se:8000/victor1/victor123/2178
+ZEE CINEMA (IN),http://f.ok2.se:8000/victor1/victor123/1197
+ZEE CINEMA (NA),http://f.ok2.se:8000/victor1/victor123/6895
+ZEE CINEMA (UK) (IN),http://f.ok2.se:8000/victor1/victor123/6933
+ZEE NEWS (IN),http://f.ok2.se:8000/victor1/victor123/59812
+ZEE TV (UK) (IN),http://f.ok2.se:8000/victor1/victor123/2176
+ZEE TV HD (IN),http://f.ok2.se:8000/victor1/victor123/8706
+CHANNEL 20 (IL),http://f.ok2.se:8000/victor1/victor123/6061
+HOT 3 (IL),http://f.ok2.se:8000/victor1/victor123/6076
+BABY TV (IL),http://f.ok2.se:8000/victor1/victor123/65912
+FOOD NETWORK (IL),http://f.ok2.se:8000/victor1/victor123/65907
+FOODY (IL),http://f.ok2.se:8000/victor1/victor123/65888
+HERO! (IL),http://f.ok2.se:8000/victor1/victor123/65886
+HIDABROOT (IL),http://f.ok2.se:8000/victor1/victor123/6057
+HOME PLUS (IL),http://f.ok2.se:8000/victor1/victor123/65940
+HOP YALDUT (IL),http://f.ok2.se:8000/victor1/victor123/55376
+HOT ACTION (IL),http://f.ok2.se:8000/victor1/victor123/55377
+HOT DRAMA (IL),http://f.ok2.se:8000/victor1/victor123/65922
+HOT ENTERTAINMENT (IL),http://f.ok2.se:8000/victor1/victor123/65905
+HOT FUN (IL),http://f.ok2.se:8000/victor1/victor123/65911
+HOT GOLD (IL),http://f.ok2.se:8000/victor1/victor123/65921
+HOT HBO (IL),http://f.ok2.se:8000/victor1/victor123/65924
+HOT ZONE (IL),http://f.ok2.se:8000/victor1/victor123/65919
+KAN 11 (IL),http://f.ok2.se:8000/victor1/victor123/65943
+LOGI (IL),http://f.ok2.se:8000/victor1/victor123/65890
+NICK JR (IL),http://f.ok2.se:8000/victor1/victor123/65941
+RESHET 13 (IL),http://f.ok2.se:8000/victor1/victor123/65944
+SPORT 1 (IL),http://f.ok2.se:8000/victor1/victor123/65927
+SPORT 2 (IL),http://f.ok2.se:8000/victor1/victor123/65928
+SPORT 4 (IL),http://f.ok2.se:8000/victor1/victor123/65926
+SPORT 4 (IL),http://f.ok2.se:8000/victor1/victor123/81632
+SPORT 5 GOLD (IL),http://f.ok2.se:8000/victor1/victor123/65896
+SPORT 5 LIVE (IL),http://f.ok2.se:8000/victor1/victor123/6082
+SPORT 5 PLUS (IL),http://f.ok2.se:8000/victor1/victor123/65897
+SPORT 5 STARS (IL),http://f.ok2.se:8000/victor1/victor123/65939
+TRAVEL CHANNEL (IL),http://f.ok2.se:8000/victor1/victor123/6084
+VIVA (IL),http://f.ok2.se:8000/victor1/victor123/65900
+VIVA+ (IL),http://f.ok2.se:8000/victor1/victor123/65904
+YAM TICHONI (IL),http://f.ok2.se:8000/victor1/victor123/65898
+YELADIM (IL),http://f.ok2.se:8000/victor1/victor123/65893
+YES 3 (IL),http://f.ok2.se:8000/victor1/victor123/81633
+YES ACTION (IL),http://f.ok2.se:8000/victor1/victor123/65934
+YES HOP  (IL),http://f.ok2.se:8000/victor1/victor123/6067
+***NOTICE* THIS CATEGORY IS BEING REMOVED OCT. 1,http://f.ok2.se:8000/victor1/victor123/104160
+PTC NEWS (NA),http://f.ok2.se:8000/victor1/victor123/9632
+ALPHA PUNJAB (NA) - NEW,http://f.ok2.se:8000/victor1/victor123/398
+PTC PUNJABI (NA) - NEW,http://f.ok2.se:8000/victor1/victor123/399
+JUS PUNJABI (NA),http://f.ok2.se:8000/victor1/victor123/400
+JUS 1 (NA),http://f.ok2.se:8000/victor1/victor123/9508
+HAMDARD (PNJ),http://f.ok2.se:8000/victor1/victor123/1171
+THE SIKH CHANNEL (PNJ),http://f.ok2.se:8000/victor1/victor123/3366
+AAHO!! MUSIC (PNJ),http://f.ok2.se:8000/victor1/victor123/86770
+AONE PUNJABI (PNJ),http://f.ok2.se:8000/victor1/victor123/6894
+DD PUNJABI (PNJ),http://f.ok2.se:8000/victor1/victor123/59550
+PTC CHAKDE (PNJ),http://f.ok2.se:8000/victor1/victor123/26324
+PTC NEWS (PNJ),http://f.ok2.se:8000/victor1/victor123/3368
+PTC PUNJABI (UK) (PNJ),http://f.ok2.se:8000/victor1/victor123/3369
+ZEE PUNJABI (PNJ),http://f.ok2.se:8000/victor1/victor123/59542
+CHARDIKLA TV (PNJ),http://f.ok2.se:8000/victor1/victor123/26329
+1TV AFGHAN (AFG),http://f.ok2.se:8000/victor1/victor123/26343
+AFGHANISTAN (AFG),http://f.ok2.se:8000/victor1/victor123/26345
+AMC TV (AFG),http://f.ok2.se:8000/victor1/victor123/26344
+AREZO TV (AFG),http://f.ok2.se:8000/victor1/victor123/26346
+ATN AFGHAN (AFG),http://f.ok2.se:8000/victor1/victor123/48869
+ATN NEWS (AFG),http://f.ok2.se:8000/victor1/victor123/48868
+ATV AYNA (AFG),http://f.ok2.se:8000/victor1/victor123/4261
+BATUR (AFG),http://f.ok2.se:8000/victor1/victor123/4246
+HEWAD TV (AFG),http://f.ok2.se:8000/victor1/victor123/4258
+JAHAN NUMA (AFG),http://f.ok2.se:8000/victor1/victor123/26363
+LEMAR (AFG),http://f.ok2.se:8000/victor1/victor123/26357
+KHURSHID (AFG),http://f.ok2.se:8000/victor1/victor123/4252
+MAIWAND TV (AFG),http://f.ok2.se:8000/victor1/victor123/4263
+NOOR TV (AFG),http://f.ok2.se:8000/victor1/victor123/26349
+RAHE FARDA (AFG),http://f.ok2.se:8000/victor1/victor123/26351
+SHAMSHAD TV (AFG),http://f.ok2.se:8000/victor1/victor123/4253
+TAMADON (AFG),http://f.ok2.se:8000/victor1/victor123/4250
+TOLO NEWS (AFG),http://f.ok2.se:8000/victor1/victor123/4245
+TOLO TV (AFG),http://f.ok2.se:8000/victor1/victor123/4244
+ZHWANDOON TV (AFG),http://f.ok2.se:8000/victor1/victor123/26352
+**NOTICE* THIS CATEGORY IS BEING REMOVED OCT. 1,http://f.ok2.se:8000/victor1/victor123/104159
+HUM TV (PK),http://f.ok2.se:8000/victor1/victor123/1217
+HUM SITARY (PK),http://f.ok2.se:8000/victor1/victor123/1218
+92 NEWS HD (PK),http://f.ok2.se:8000/victor1/victor123/1216
+ARY MUZIK (PK),http://f.ok2.se:8000/victor1/victor123/1205
+ARY NEWS WORLD (PK),http://f.ok2.se:8000/victor1/victor123/27970
+ARY ZINDAGI (PK),http://f.ok2.se:8000/victor1/victor123/1212
+CAPITAL TV (PK),http://f.ok2.se:8000/victor1/victor123/6948
+CITY 42 (PK),http://f.ok2.se:8000/victor1/victor123/6955
+DAWN NEWS (PK),http://f.ok2.se:8000/victor1/victor123/1227
+DUNYA NEWS (PK),http://f.ok2.se:8000/victor1/victor123/1215
+EXPRESS ENT (PK),http://f.ok2.se:8000/victor1/victor123/1229
+EXPRESS NEWS  (PK),http://f.ok2.se:8000/victor1/victor123/1228
+GEO KAHANI (PK),http://f.ok2.se:8000/victor1/victor123/6961
+PTV GLOBAL (PK),http://f.ok2.se:8000/victor1/victor123/6938
+PTV HOME (PK),http://f.ok2.se:8000/victor1/victor123/1223
+QTV (PK),http://f.ok2.se:8000/victor1/victor123/1214
+TV ONE (PK),http://f.ok2.se:8000/victor1/victor123/28005
+Zindgai TV (PK),http://f.ok2.se:8000/victor1/victor123/74481
+*****CARTOONS*****,http://f.ok2.se:8000/victor1/victor123/67850
+247-ANIMANIACS,http://f.ok2.se:8000/victor1/victor123/67832
+247-BATMAN,http://f.ok2.se:8000/victor1/victor123/67835
+247-BEAVIS AND BUTTHEAD,http://f.ok2.se:8000/victor1/victor123/67831
+247-DARK WING DUCK,http://f.ok2.se:8000/victor1/victor123/67830
+247-DEXTERS LABORATORY,http://f.ok2.se:8000/victor1/victor123/67828
+247-DISNEY SHORTS,http://f.ok2.se:8000/victor1/victor123/67841
+247-DRAGON BALL Z (1),http://f.ok2.se:8000/victor1/victor123/67843
+247-DRAGON BALL Z (2),http://f.ok2.se:8000/victor1/victor123/67834
+247-DUCK TALES,http://f.ok2.se:8000/victor1/victor123/67829
+247-FLINTSTONES,http://f.ok2.se:8000/victor1/victor123/67844
+247-HE MAN,http://f.ok2.se:8000/victor1/victor123/67845
+247-JEFFERSONS,http://f.ok2.se:8000/victor1/victor123/67822
+247-LOONEY TUNES,http://f.ok2.se:8000/victor1/victor123/67846
+247-PAW PATROL,http://f.ok2.se:8000/victor1/victor123/67849
+247-PEPPA PIG,http://f.ok2.se:8000/victor1/victor123/67848
+247-POKEMON,http://f.ok2.se:8000/victor1/victor123/67840
+247-POPEYE,http://f.ok2.se:8000/victor1/victor123/67838
+247-ROCKY AND BULLWINKLE,http://f.ok2.se:8000/victor1/victor123/68270
+247-RUGRATS,http://f.ok2.se:8000/victor1/victor123/67836
+247-SCOOBY DOO,http://f.ok2.se:8000/victor1/victor123/67847
+247-SPIDERMAN,http://f.ok2.se:8000/victor1/victor123/67839
+247-TMNT,http://f.ok2.se:8000/victor1/victor123/72959
+*****RETRO TV SHOWS*****,http://f.ok2.se:8000/victor1/victor123/67827
+247-21 JUMP STREET,http://f.ok2.se:8000/victor1/victor123/67801
+247-70'S SHOW,http://f.ok2.se:8000/victor1/victor123/67794
+247-ALL IN THE FAMILY,http://f.ok2.se:8000/victor1/victor123/67799
+247-BEVERLY HILLBILLIES,http://f.ok2.se:8000/victor1/victor123/67820
+247-BEVERLY HILLS 90210,http://f.ok2.se:8000/victor1/victor123/67821
+247-BEWITCHED,http://f.ok2.se:8000/victor1/victor123/67810
+247-CHEERS,http://f.ok2.se:8000/victor1/victor123/67819
+247-DEADLIEST CATCH,http://f.ok2.se:8000/victor1/victor123/67798
+247-DUKES OF HAZARD,http://f.ok2.se:8000/victor1/victor123/67826
+247-FAMILY MATTERS,http://f.ok2.se:8000/victor1/victor123/67808
+247-FAMILY TIES,http://f.ok2.se:8000/victor1/victor123/67809
+247-FRASIER,http://f.ok2.se:8000/victor1/victor123/67796
+247-FRESH PRINCE,http://f.ok2.se:8000/victor1/victor123/68271
+247-FRIENDS,http://f.ok2.se:8000/victor1/victor123/67818
+247-GET SMART,http://f.ok2.se:8000/victor1/victor123/67805
+247-GILLIGAN'S ISLAND,http://f.ok2.se:8000/victor1/victor123/67793
+247-GOLDEN GIRLS,http://f.ok2.se:8000/victor1/victor123/67804
+247-HAPPY DAYS,http://f.ok2.se:8000/victor1/victor123/67813
+247-HOME IMPROVEMENT,http://f.ok2.se:8000/victor1/victor123/67823
+247-I DREAM OF JEANNIE,http://f.ok2.se:8000/victor1/victor123/67817
+247-I LOVE LUCY,http://f.ok2.se:8000/victor1/victor123/67824
+247-KNIGHTRIDER,http://f.ok2.se:8000/victor1/victor123/67814
+247-MASH,http://f.ok2.se:8000/victor1/victor123/67811
+247-MELROSE PLACE,http://f.ok2.se:8000/victor1/victor123/67803
+247-MORK AND MINDY,http://f.ok2.se:8000/victor1/victor123/67807
+247-MURPHY BROWN,http://f.ok2.se:8000/victor1/victor123/67812
+247-NIGHT COURT,http://f.ok2.se:8000/victor1/victor123/67825
+247-SCRUBS,http://f.ok2.se:8000/victor1/victor123/67795
+247-SEINFELD,http://f.ok2.se:8000/victor1/victor123/67816
+247-SPONGEBOB,http://f.ok2.se:8000/victor1/victor123/67842
+247-STAND UP COMEDY,http://f.ok2.se:8000/victor1/victor123/67797
+247-THE JETSONS,http://f.ok2.se:8000/victor1/victor123/67833
+247-THE SIX MILLION DOLLAR MAN,http://f.ok2.se:8000/victor1/victor123/72961
+247-WKRP,http://f.ok2.se:8000/victor1/victor123/72962
+247-WONDER WOMAN,http://f.ok2.se:8000/victor1/victor123/72960
+2m (ARB),http://f.ok2.se:8000/victor1/victor123/5485
+5AAB TV (NA),http://f.ok2.se:8000/victor1/victor123/1166
+7BESHA (ARB),http://f.ok2.se:8000/victor1/victor123/5607
+99 MUSIC (RADIO),http://f.ok2.se:8000/victor1/victor123/71344
+=== BOLIVIA ===,http://f.ok2.se:8000/victor1/victor123/64392
+Abudhabidrama (ARB),http://f.ok2.se:8000/victor1/victor123/5349
+AbuDhabitv (ARB),http://f.ok2.se:8000/victor1/victor123/5374
+ADNatGeo (ARB),http://f.ok2.se:8000/victor1/victor123/5565
+ADSPORT1 (ARB),http://f.ok2.se:8000/victor1/victor123/5367
+ADSPORT2 (ARB),http://f.ok2.se:8000/victor1/victor123/5366
+Afak (ARB),http://f.ok2.se:8000/victor1/victor123/5641
+AghaniAghani (ARB),http://f.ok2.se:8000/victor1/victor123/5568
+AGHAPYTV (ARB),http://f.ok2.se:8000/victor1/victor123/5472
+AhelAlQuran (ARB),http://f.ok2.se:8000/victor1/victor123/5586
+AHWAZNATV (ARB),http://f.ok2.se:8000/victor1/victor123/72676
+AJMANTV (ARB),http://f.ok2.se:8000/victor1/victor123/72663
+Al-AqilaT (ARB),http://f.ok2.se:8000/victor1/victor123/5643
+Al-EKhbaria (ARB),http://f.ok2.se:8000/victor1/victor123/69311
+Al-KhabarTV (ARB),http://f.ok2.se:8000/victor1/victor123/5675
+Al-Majd3 (ARB),http://f.ok2.se:8000/victor1/victor123/5602
+ALAANTV (ARB),http://f.ok2.se:8000/victor1/victor123/5575
+AlAhd (ARB),http://f.ok2.se:8000/victor1/victor123/5640
+AlAhlyTV (ARB),http://f.ok2.se:8000/victor1/victor123/5396
+ALALAM (ARB),http://f.ok2.se:8000/victor1/victor123/72716
+ALAnbar (ARB),http://f.ok2.se:8000/victor1/victor123/5377
+ALAnwar (ARB),http://f.ok2.se:8000/victor1/victor123/5615
+AlAOULA (ARB),http://f.ok2.se:8000/victor1/victor123/5484
+AlArabiya (ARB),http://f.ok2.se:8000/victor1/victor123/5470
+AlArabyTV (ARB),http://f.ok2.se:8000/victor1/victor123/5608
+ALASRARTV (ARB),http://f.ok2.se:8000/victor1/victor123/5624
+ALAWHADTV (ARB),http://f.ok2.se:8000/victor1/victor123/72699
+AlBasira (ARB),http://f.ok2.se:8000/victor1/victor123/5785
+AlBasira2 (ARB),http://f.ok2.se:8000/victor1/victor123/5784
+ALEKHBARIYAALSORIYA (ARB),http://f.ok2.se:8000/victor1/victor123/5527
+ALEMARATTV (ARB),http://f.ok2.se:8000/victor1/victor123/5526
+ALESHRAQTV (ARB),http://f.ok2.se:8000/victor1/victor123/72682
+AlFady (ARB),http://f.ok2.se:8000/victor1/victor123/5450
+ALFATHQURAN (ARB),http://f.ok2.se:8000/victor1/victor123/72718
+AlforatR (ARB),http://f.ok2.se:8000/victor1/victor123/5320
+ALGERIE4 (ARB),http://f.ok2.se:8000/victor1/victor123/72647
+ALGERIE5 (ARB),http://f.ok2.se:8000/victor1/victor123/72648
+AlGhadeer (ARB),http://f.ok2.se:8000/victor1/victor123/5644
+ALHadath (ARB),http://f.ok2.se:8000/victor1/victor123/5368
+ALHADATHALYOUM (ARB),http://f.ok2.se:8000/victor1/victor123/72733
+ALHadathIraq (ARB),http://f.ok2.se:8000/victor1/victor123/5672
+AlHayat (ARB),http://f.ok2.se:8000/victor1/victor123/5360
+ALhayat-EGYPT (ARB),http://f.ok2.se:8000/victor1/victor123/5385
+AlHayat2 (ARB),http://f.ok2.se:8000/victor1/victor123/5504
+AlhayatMuslsalat (ARB),http://f.ok2.se:8000/victor1/victor123/5410
+ALHAYATWEALNAS (ARB),http://f.ok2.se:8000/victor1/victor123/72643
+AlHekayat2 (ARB),http://f.ok2.se:8000/victor1/victor123/5494
+ALHILALTV (ARB),http://f.ok2.se:8000/victor1/victor123/72658
+ALHIWARTV (ARB),http://f.ok2.se:8000/victor1/victor123/72680
+AlHorreya (ARB),http://f.ok2.se:8000/victor1/victor123/5451
+ALHurraIraq (ARB),http://f.ok2.se:8000/victor1/victor123/5634
+ALIMANTV (ARB),http://f.ok2.se:8000/victor1/victor123/5574
+AlInsenTV (ARB),http://f.ok2.se:8000/victor1/victor123/5620
+ALJADEED,http://f.ok2.se:8000/victor1/victor123/72814
+ALjanoubia (ARB),http://f.ok2.se:8000/victor1/victor123/5619
+AlJazeera (ARB),http://f.ok2.se:8000/victor1/victor123/5363
+AlJazeeraDocumentary (ARB),http://f.ok2.se:8000/victor1/victor123/5364
+AlJazeeraMubasher (ARB),http://f.ok2.se:8000/victor1/victor123/5362
+AlKaheraWalNas (ARB),http://f.ok2.se:8000/victor1/victor123/5633
+AlKaheraWalNas2 (ARB),http://f.ok2.se:8000/victor1/victor123/5475
+AlKarama (ARB),http://f.ok2.se:8000/victor1/victor123/5474
+ALKAWTHAR (ARB),http://f.ok2.se:8000/victor1/victor123/5567
+ALKOFIYA (ARB),http://f.ok2.se:8000/victor1/victor123/5430
+AlMagharibiaTwo (ARB),http://f.ok2.se:8000/victor1/victor123/5519
+AlMaghribia (ARB),http://f.ok2.se:8000/victor1/victor123/5483
+ALMAJLIS (ARB),http://f.ok2.se:8000/victor1/victor123/5696
+AlMalakoot (ARB),http://f.ok2.se:8000/victor1/victor123/5467
+ALMAMLAKATV (ARB),http://f.ok2.se:8000/victor1/victor123/72713
+ALmasriya (ARB),http://f.ok2.se:8000/victor1/victor123/5635
+ALMASSARALOULA (ARB),http://f.ok2.se:8000/victor1/victor123/5435
+AlMawsleya (ARB),http://f.ok2.se:8000/victor1/victor123/5673
+ALMAYADEENTV (ARB),http://f.ok2.se:8000/victor1/victor123/5577
+ALMEEDAN (ARB),http://f.ok2.se:8000/victor1/victor123/5525
+ALNabaaTV (ARB),http://f.ok2.se:8000/victor1/victor123/69297
+ALNADATV (ARB),http://f.ok2.se:8000/victor1/victor123/5370
+AlNaeemTV (ARB),http://f.ok2.se:8000/victor1/victor123/5387
+AlNahar (ARB),http://f.ok2.se:8000/victor1/victor123/5627
+AlNahardrama (ARB),http://f.ok2.se:8000/victor1/victor123/5432
+AlNas (ARB),http://f.ok2.se:8000/victor1/victor123/5540
+ALOULA (ARB),http://f.ok2.se:8000/victor1/victor123/72675
+ALQURAIN (ARB),http://f.ok2.se:8000/victor1/victor123/72667
+AlRafiden (ARB),http://f.ok2.se:8000/victor1/victor123/5376
+ALRAHMA (ARB),http://f.ok2.se:8000/victor1/victor123/5596
+AlRasheed (ARB),http://f.ok2.se:8000/victor1/victor123/5379
+ALResala (ARB),http://f.ok2.se:8000/victor1/victor123/5375
+AlSaeedah (ARB),http://f.ok2.se:8000/victor1/victor123/5791
+ALSaha (ARB),http://f.ok2.se:8000/victor1/victor123/5564
+ALSAHRAA (ARB),http://f.ok2.se:8000/victor1/victor123/72709
+ALSALAM (ARB),http://f.ok2.se:8000/victor1/victor123/72726
+ALSehaWaljamal (ARB),http://f.ok2.se:8000/victor1/victor123/5657
+ALSHARQIYANEWS (ARB),http://f.ok2.se:8000/victor1/victor123/5553
+ALSIRAT (ARB),http://f.ok2.se:8000/victor1/victor123/5576
+AlSumariaTV (ARB),http://f.ok2.se:8000/victor1/victor123/5378
+Altaghier (ARB),http://f.ok2.se:8000/victor1/victor123/5637
+Althanya (ARB),http://f.ok2.se:8000/victor1/victor123/5418
+ALTHAQALAYNTV (ARB),http://f.ok2.se:8000/victor1/victor123/72727
+ANB (ARB) - NEW,http://f.ok2.se:8000/victor1/victor123/60132
+AND1 24X7,http://f.ok2.se:8000/victor1/victor123/7833
+ANNA AKANA 24X7,http://f.ok2.se:8000/victor1/victor123/6133
+AnwarTV2 (ARB),http://f.ok2.se:8000/victor1/victor123/5449
+Arrabiaa (ARB),http://f.ok2.se:8000/victor1/victor123/5482
+Arriadia (ARB),http://f.ok2.se:8000/victor1/victor123/5481
+ART (NA) (ARB) - NEW,http://f.ok2.se:8000/victor1/victor123/43335
+ARTAflam1 (ARB),http://f.ok2.se:8000/victor1/victor123/5493
+ARTAflam2 (ARB),http://f.ok2.se:8000/victor1/victor123/5492
+ARTCinema (ARB),http://f.ok2.se:8000/victor1/victor123/5491
+ARTHekayatZaman (ARB),http://f.ok2.se:8000/victor1/victor123/5495
+AshrooqTv (ARB),http://f.ok2.se:8000/victor1/victor123/5676
+Assadissa (ARB),http://f.ok2.se:8000/victor1/victor123/5629
+ATV (AYNA) (IRN),http://f.ok2.se:8000/victor1/victor123/10290
+Azhari (ARB),http://f.ok2.se:8000/victor1/victor123/5372
+B4UAflam (ARB),http://f.ok2.se:8000/victor1/victor123/5599
+B4UPLUS (ARB),http://f.ok2.se:8000/victor1/victor123/5413
+BahrainInternational (ARB),http://f.ok2.se:8000/victor1/victor123/5741
+BahrainQuran (ARB),http://f.ok2.se:8000/victor1/victor123/5740
+BahrainTV (ARB),http://f.ok2.se:8000/victor1/victor123/5737
+BASHMENT 2 (JAMAICA),http://f.ok2.se:8000/victor1/victor123/71119
+BBC PERSIAN (IRN),http://f.ok2.se:8000/victor1/victor123/10273
+BBCArabic (ARB),http://f.ok2.se:8000/victor1/victor123/5383
+BEIN SPORTS 1 (AU),http://f.ok2.se:8000/victor1/victor123/80782
+BEIN SPORTS 2 (AU),http://f.ok2.se:8000/victor1/victor123/80781
+BEIN SPORTS 3 (AU),http://f.ok2.se:8000/victor1/victor123/80780
+BEIN SPORTS 1 HD,http://f.ok2.se:8000/victor1/victor123/4814
+BEIN SPORTS 2 HD,http://f.ok2.se:8000/victor1/victor123/4813
+BEIN SPORTS 3 HD,http://f.ok2.se:8000/victor1/victor123/4812
+BEIN SPORTS 4 HD,http://f.ok2.se:8000/victor1/victor123/4811
+BEIN SPORTS 5 HD,http://f.ok2.se:8000/victor1/victor123/4810
+BEIN SPORTS 6 HD,http://f.ok2.se:8000/victor1/victor123/4809
+BEIN SPORTS 7 HD,http://f.ok2.se:8000/victor1/victor123/4808
+BEIN SPORTS 8 HD,http://f.ok2.se:8000/victor1/victor123/4807
+BEIN SPORTS 9 HD,http://f.ok2.se:8000/victor1/victor123/4806
+BEIN SPORTS 10 HD,http://f.ok2.se:8000/victor1/victor123/4805
+BEIN SPORTS 11 HD,http://f.ok2.se:8000/victor1/victor123/74480
+BEIN SPORTS 12 HD,http://f.ok2.se:8000/victor1/victor123/74479
+BEIN SPORTS 13 HD,http://f.ok2.se:8000/victor1/victor123/74478
+Beladi (ARB),http://f.ok2.se:8000/victor1/victor123/5670
+BELODYAFLAM (ARB),http://f.ok2.se:8000/victor1/victor123/5429
+BELQEES (ARB),http://f.ok2.se:8000/victor1/victor123/5659
+BERBERETV (ARB),http://f.ok2.se:8000/victor1/victor123/72653
+Beur (ARB),http://f.ok2.se:8000/victor1/victor123/69307
+blueniletv (ARB),http://f.ok2.se:8000/victor1/victor123/5788
+BOLLYWOOD MUSIC HITZ OLDIES 24x7 (NEW),http://f.ok2.se:8000/victor1/victor123/45191
+BOLLYWOOD MUSIC HITZ SONGS 24x7 (NEW),http://f.ok2.se:8000/victor1/victor123/45230
+BRO SCIENCE 24X7 (SPORT),http://f.ok2.se:8000/victor1/victor123/6587
+BRUCE LEE 24x7 (NEW),http://f.ok2.se:8000/victor1/victor123/9748
+Cairocinema (ARB),http://f.ok2.se:8000/victor1/victor123/5309
+CairoDrama (ARB),http://f.ok2.se:8000/victor1/victor123/5308
+CANAL PANDA HD,http://f.ok2.se:8000/victor1/victor123/543
+CANALALGERIE (ARB),http://f.ok2.se:8000/victor1/victor123/5547
+CARTHAGEPLUS (ARB),http://f.ok2.se:8000/victor1/victor123/72664
+cartoonnetarabic (ARB),http://f.ok2.se:8000/victor1/victor123/5557
+CBC (ARB),http://f.ok2.se:8000/victor1/victor123/5480
+CBCDrama (ARB),http://f.ok2.se:8000/victor1/victor123/5488
+CBCExtra (ARB),http://f.ok2.se:8000/victor1/victor123/5489
+CBCSofra (ARB),http://f.ok2.se:8000/victor1/victor123/5490
+CHADATV (ARB),http://f.ok2.se:8000/victor1/victor123/72669
+CHARITYTV (ARB),http://f.ok2.se:8000/victor1/victor123/72688
+CIMAALIBABA (ARB),http://f.ok2.se:8000/victor1/victor123/5606
+CIMAFARATAKA (ARB),http://f.ok2.se:8000/victor1/victor123/69308
+CIMATUBE (ARB),http://f.ok2.se:8000/victor1/victor123/5542
+CimaTV (ARB),http://f.ok2.se:8000/victor1/victor123/5532
+CINEMA1 (ARB),http://f.ok2.se:8000/victor1/victor123/5427
+CINEMA2 (ARB),http://f.ok2.se:8000/victor1/victor123/5426
+CinemaPro (ARB),http://f.ok2.se:8000/victor1/victor123/5478
+CINEMATUBE (ARB),http://f.ok2.se:8000/victor1/victor123/5541
+CIRATV (ARB),http://f.ok2.se:8000/victor1/victor123/72661
+CITRUSSTV (ARB),http://f.ok2.se:8000/victor1/victor123/5721
+CLINT EASTWOOD 24x7 (NEW),http://f.ok2.se:8000/victor1/victor123/9782
+CNBCARABIYA (ARB),http://f.ok2.se:8000/victor1/victor123/5652
+CNN (ARB),http://f.ok2.se:8000/victor1/victor123/5506
+CopticTV (ARB),http://f.ok2.se:8000/victor1/victor123/5473
+CRAZY RUSSIAN 24X7,http://f.ok2.se:8000/victor1/victor123/5870
+CT FLETCHER 24X7 (SPORTS),http://f.ok2.se:8000/victor1/victor123/6132
+CVM (JAMAICA),http://f.ok2.se:8000/victor1/victor123/82914
+DAAWAHTV (ARB),http://f.ok2.se:8000/victor1/victor123/69305
+Dewan (ARB),http://f.ok2.se:8000/victor1/victor123/5639
+DijlahTV (ARB),http://f.ok2.se:8000/victor1/victor123/5556
+DJIBOUTI (ARB),http://f.ok2.se:8000/victor1/victor123/72655
+dmc (ARB),http://f.ok2.se:8000/victor1/victor123/5690
+dmcdrama (ARB),http://f.ok2.se:8000/victor1/victor123/5689
+dmcNews (ARB),http://f.ok2.se:8000/victor1/victor123/5692
+dmcSports (ARB),http://f.ok2.se:8000/victor1/victor123/5314
+DUBAIONE (ARB),http://f.ok2.se:8000/victor1/victor123/5417
+DUBAIRACING (ARB),http://f.ok2.se:8000/victor1/victor123/5416
+DubaiTV (ARB),http://f.ok2.se:8000/victor1/victor123/5730
+DubaiZaman (ARB),http://f.ok2.se:8000/victor1/victor123/5537
+DUDE PERFECT 24x7 (SPORTS),http://f.ok2.se:8000/victor1/victor123/5871
+DUSK,http://f.ok2.se:8000/victor1/victor123/80375
+DW-TVARABIA (ARB),http://f.ok2.se:8000/victor1/victor123/72456
+Dzair24 (ARB),http://f.ok2.se:8000/victor1/victor123/5603
+Dzair3 (ARB),http://f.ok2.se:8000/victor1/victor123/69299
+EchoroukTV (ARB),http://f.ok2.se:8000/victor1/victor123/5626
+EIR SPORTS 1 HD,http://f.ok2.se:8000/victor1/victor123/234
+ELBILADTV (ARB),http://f.ok2.se:8000/victor1/victor123/5625
+ELDJAZAIRIAONE (ARB),http://f.ok2.se:8000/victor1/victor123/72652
+ELECTROBOOM 24X7,http://f.ok2.se:8000/victor1/victor123/5872
+ELFADJRTVDZ (ARB),http://f.ok2.se:8000/victor1/victor123/69315
+ELHAYATTVALGERIE (ARB),http://f.ok2.se:8000/victor1/victor123/69314
+ElHeddafTV (ARB),http://f.ok2.se:8000/victor1/victor123/69306
+ElhiwarEttounsiTV (ARB),http://f.ok2.se:8000/victor1/victor123/5612
+ELMOLED (ARB),http://f.ok2.se:8000/victor1/victor123/5592
+ELMOURITANIA (ARB),http://f.ok2.se:8000/victor1/victor123/72659
+ELMOURITANIA2 (ARB),http://f.ok2.se:8000/victor1/victor123/72660
+ELSHARQ (ARB),http://f.ok2.se:8000/victor1/victor123/72654
+EPIC MEAL TIME 24X7,http://f.ok2.se:8000/victor1/victor123/6129
+EriteriaTV (ARB),http://f.ok2.se:8000/victor1/victor123/5667
+ESPN U HD,http://f.ok2.se:8000/victor1/victor123/4064
+ESTV (ARB),http://f.ok2.se:8000/victor1/victor123/72645
+EURO D (IRN),http://f.ok2.se:8000/victor1/victor123/10271
+EURO SPORT 1 HD,http://f.ok2.se:8000/victor1/victor123/211
+EURO SPORT 2 HD,http://f.ok2.se:8000/victor1/victor123/212
+FAIL ARMY 24X7 (SPORT),http://f.ok2.se:8000/victor1/victor123/7836
+FAME (JAMAICA),http://f.ok2.se:8000/victor1/victor123/82913
+FAME 95 (RADIO),http://f.ok2.se:8000/victor1/victor123/71342
+FLOW 1 HD,http://f.ok2.se:8000/victor1/victor123/71116
+FLOW 1 SD,http://f.ok2.se:8000/victor1/victor123/71115
+France24 (ARB),http://f.ok2.se:8000/victor1/victor123/5471
+FreeTV (ARB),http://f.ok2.se:8000/victor1/victor123/5669
+FRESH PRINCE 24X7,http://f.ok2.se:8000/victor1/victor123/7834
+FRIENDS 24x7,http://f.ok2.se:8000/victor1/victor123/8782
+FSP RUSSIA 24X7,http://f.ok2.se:8000/victor1/victor123/6588
+FUTURE (ARB),http://f.ok2.se:8000/victor1/victor123/5799
+FutureTV (ARB),http://f.ok2.se:8000/victor1/victor123/5317
+Gali_Kurdistan (ARB),http://f.ok2.se:8000/victor1/victor123/5406
+GANJE HOZOUR TV (IRN),http://f.ok2.se:8000/victor1/victor123/10275
+GEM BOLLYWOOD (IRN),http://f.ok2.se:8000/victor1/victor123/10302
+GEM JR (IRN),http://f.ok2.se:8000/victor1/victor123/10298
+GEM KIDS (IRN),http://f.ok2.se:8000/victor1/victor123/10301
+GEM SERIES (IRN),http://f.ok2.se:8000/victor1/victor123/10300
+GOLESATN TV (IRN),http://f.ok2.se:8000/victor1/victor123/43411
+HalabaTV (ARB),http://f.ok2.se:8000/victor1/victor123/5609
+HalaTV (ARB),http://f.ok2.se:8000/victor1/victor123/5353
+Hawacom (ARB),http://f.ok2.se:8000/victor1/victor123/5679
+HCTV (ARB),http://f.ok2.se:8000/victor1/victor123/72328
+HeyaTV (ARB),http://f.ok2.se:8000/victor1/victor123/5359
+HITZ 92 (RADIO),http://f.ok2.se:8000/victor1/victor123/71341
+HODHODTV (ARB),http://f.ok2.se:8000/victor1/victor123/72679
+HOLA SOY GERMAN 24X7 (SPANISH),http://f.ok2.se:8000/victor1/victor123/6589
+HonaBaghdad (ARB),http://f.ok2.se:8000/victor1/victor123/5671
+HOT - NEW,http://f.ok2.se:8000/victor1/victor123/10415
+HYPE TV (JAMAICA),http://f.ok2.se:8000/victor1/victor123/82911
+IFILM TV (IRN),http://f.ok2.se:8000/victor1/victor123/10284
+IFilmArabic (ARB),http://f.ok2.se:8000/victor1/victor123/5587
+ILLAM TV (IRN),http://f.ok2.se:8000/victor1/victor123/43406
+Iqraa (ARB),http://f.ok2.se:8000/victor1/victor123/5464
+IraqFutureTV (ARB),http://f.ok2.se:8000/victor1/victor123/5462
+Iraqia (ARB),http://f.ok2.se:8000/victor1/victor123/5534
+IraqiaSport (ARB),http://f.ok2.se:8000/victor1/victor123/5566
+IraqiaTVnews (ARB),http://f.ok2.se:8000/victor1/victor123/5380
+IraqNow (ARB),http://f.ok2.se:8000/victor1/victor123/5465
+IRIB 1 (IRN),http://f.ok2.se:8000/victor1/victor123/10306
+IRIB 2 (IRN),http://f.ok2.se:8000/victor1/victor123/10305
+IRIB 3 (IRN),http://f.ok2.se:8000/victor1/victor123/10304
+IRIB 4 (IRN),http://f.ok2.se:8000/victor1/victor123/10303
+IRIB AMOOZESH (IRN),http://f.ok2.se:8000/victor1/victor123/43417
+IRIB MOSTANAD HD (IRN),http://f.ok2.se:8000/victor1/victor123/43416
+IRIB NAMAYESH (IRN),http://f.ok2.se:8000/victor1/victor123/43415
+IRIB NASIM (IRN),http://f.ok2.se:8000/victor1/victor123/10283
+IRIB QURAN (IRN),http://f.ok2.se:8000/victor1/victor123/10286
+IRIB SALAMAT (IRN),http://f.ok2.se:8000/victor1/victor123/43413
+IRIB SHOMA (IRN),http://f.ok2.se:8000/victor1/victor123/10293
+IUC (ARB),http://f.ok2.se:8000/victor1/victor123/72459
+JACKIE CHAN 24X7,http://f.ok2.se:8000/victor1/victor123/5873
+JAI MAA DURGA 24x7 (NEW),http://f.ok2.se:8000/victor1/victor123/49487
+JCVD 24x7,http://f.ok2.se:8000/victor1/victor123/5838
+JET LI 24X7,http://f.ok2.se:8000/victor1/victor123/6131
+JNN 1 (JAMAICA),http://f.ok2.se:8000/victor1/victor123/82910
+Jordan (ARB),http://f.ok2.se:8000/victor1/victor123/5681
+JordanSport (ARB),http://f.ok2.se:8000/victor1/victor123/5386
+JUS REIGN 24X7,http://f.ok2.se:8000/victor1/victor123/6591
+JUST FOR LAUGHS 24X7,http://f.ok2.se:8000/victor1/victor123/6130
+KARAMEESH (ARB),http://f.ok2.se:8000/victor1/victor123/5749
+KARBALATV (ARB),http://f.ok2.se:8000/victor1/victor123/5631
+KERMANSHAH TV (IRN),http://f.ok2.se:8000/victor1/victor123/43408
+KHORASAN RAZAVI TV (IRN),http://f.ok2.se:8000/victor1/victor123/43404
+KHORASAN SHOMALI (IRN),http://f.ok2.se:8000/victor1/victor123/43403
+KHOZESTAN TV (IRN),http://f.ok2.se:8000/victor1/victor123/43410
+KOKKYTV (ARB),http://f.ok2.se:8000/victor1/victor123/5632
+KORDESTAN TV (IRN),http://f.ok2.se:8000/victor1/victor123/43407
+ktv1 (ARB),http://f.ok2.se:8000/victor1/victor123/69292
+KTVALARABI (ARB),http://f.ok2.se:8000/victor1/victor123/5697
+KTVEthraa (ARB),http://f.ok2.se:8000/victor1/victor123/5699
+KTVKIDS (ARB),http://f.ok2.se:8000/victor1/victor123/72721
+KURDSATS (ARB),http://f.ok2.se:8000/victor1/victor123/72730
+Kuwait-TV2 (ARB),http://f.ok2.se:8000/victor1/victor123/5310
+KuwaitSport (ARB),http://f.ok2.se:8000/victor1/victor123/5700
+KuwaitSportPlus (ARB),http://f.ok2.se:8000/victor1/victor123/5698
+Kuwait_Radio_1 (ARB),http://f.ok2.se:8000/victor1/victor123/5695
+WBBH-TV FORT MYERS (NBC),http://f.ok2.se:8000/victor1/victor123/82649
+WMFP BOSTON (NBC),http://f.ok2.se:8000/victor1/victor123/82626
+WCVB-TV BOSTON (ABC),http://f.ok2.se:8000/victor1/victor123/64894
+WBZ-TV BOSTON (CBS),http://f.ok2.se:8000/victor1/victor123/64849
+WFXT BOSTON (FOX),http://f.ok2.se:8000/victor1/victor123/64824
+WMAQ-TV CHICAGO (NBC),http://f.ok2.se:8000/victor1/victor123/82628
+WLS-TV CHICAGO (ABC),http://f.ok2.se:8000/victor1/victor123/64887
+WBBM-TV CHICAGO (CBS),http://f.ok2.se:8000/victor1/victor123/82550
+WNBC NEW YORK (NBC),http://f.ok2.se:8000/victor1/victor123/82624
+WABC-TV NEW YORK (ABC),http://f.ok2.se:8000/victor1/victor123/82699
+WNBC NEW YORK CITY (NBC),http://f.ok2.se:8000/victor1/victor123/65030
+WCBS-TV NEW YORK CITY (CBS),http://f.ok2.se:8000/victor1/victor123/65029
+WNYW NEW YORK CITY (FOX),http://f.ok2.se:8000/victor1/victor123/65027
+WCAU PHILADELPHIA (NBC),http://f.ok2.se:8000/victor1/victor123/82646
+WPVI-TV PHILADELPHIA (ABC),http://f.ok2.se:8000/victor1/victor123/64884
+KYW-TV PHILADELPHIA (CBS),http://f.ok2.se:8000/victor1/victor123/82554
+WTXF-TV PHILADELPHIA (FOX),http://f.ok2.se:8000/victor1/victor123/64815
+KDKA-TV PITTSBURGH (CBS),http://f.ok2.se:8000/victor1/victor123/65048
+WPGH-TV PITTSBURGH (FOX),http://f.ok2.se:8000/victor1/victor123/65047
+WPXI PITTSBURGH (NBC),http://f.ok2.se:8000/victor1/victor123/64910
+WTAE-TV PITTSBURGH (ABC),http://f.ok2.se:8000/victor1/victor123/65049
+WRC-TV WASHINGTON D.C. (NBC),http://f.ok2.se:8000/victor1/victor123/64908
+WTTG WASHINGTON D.C. (FOX),http://f.ok2.se:8000/victor1/victor123/64817
+WUSA WASHINGTON D.C. (CBS),http://f.ok2.se:8000/victor1/victor123/64837
+WAGA-TV ATLANTA (FOX),http://f.ok2.se:8000/victor1/victor123/64826
+WGCL-TV ATLANTA (CBS),http://f.ok2.se:8000/victor1/victor123/64843
+WSB-TV ATLANTA (ABC),http://f.ok2.se:8000/victor1/victor123/82702
+WXIA-TV ATLANTA (NBC),http://f.ok2.se:8000/victor1/victor123/65007
+WESH ORLANDO (NBC),http://f.ok2.se:8000/victor1/victor123/64916
+WFTV ORLANDO (ABC),http://f.ok2.se:8000/victor1/victor123/64890
+WKMG-TV ORLANDO (CBS),http://f.ok2.se:8000/victor1/victor123/64841
+WOFL ORLANDO (FOX),http://f.ok2.se:8000/victor1/victor123/64821
+WBFS-TV MIAMI (CBS),http://f.ok2.se:8000/victor1/victor123/82549
+WFOR-TV MIAMI (CBS),http://f.ok2.se:8000/victor1/victor123/64845
+WPLG MIAMI (ABC),http://f.ok2.se:8000/victor1/victor123/64885
+WSVN MIAMI (FOX),http://f.ok2.se:8000/victor1/victor123/64803
+WTVJ MIAMI (NBC),http://f.ok2.se:8000/victor1/victor123/65013
+WBAL-TV BALTIMORE (NBC),http://f.ok2.se:8000/victor1/victor123/64920
+WJZ-TV BALTIMORE (CBS),http://f.ok2.se:8000/victor1/victor123/64842
+WMAR-TV BALTIMORE (ABC),http://f.ok2.se:8000/victor1/victor123/82703
+WITN-TV WASHINGTON (NBC),http://f.ok2.se:8000/victor1/victor123/82633
+WJLA-TV WASHINGTON (ABC),http://f.ok2.se:8000/victor1/victor123/82704
+KCPQ SEATTLE (FOX),http://f.ok2.se:8000/victor1/victor123/65008
+KING-TV SEATTLE (NBC),http://f.ok2.se:8000/victor1/victor123/64936
+KIRO-TV SEATTLE (CBS),http://f.ok2.se:8000/victor1/victor123/64854
+KOMO-TV SEATTLE (ABC),http://f.ok2.se:8000/victor1/victor123/64901
+WEWS-TV CLEVELAND (ABC),http://f.ok2.se:8000/victor1/victor123/64893
+WJW CLEVELAND (FOX),http://f.ok2.se:8000/victor1/victor123/65006
+WKYC CLEVELAND (NBC),http://f.ok2.se:8000/victor1/victor123/64913
+WOIO CLEVELAND (CBS),http://f.ok2.se:8000/victor1/victor123/64840
+KABC-TV LOS ANGELES (ABC),http://f.ok2.se:8000/victor1/victor123/82708
+KCAL-TV LOS ANGELES (CBS),http://f.ok2.se:8000/victor1/victor123/65036
+KCBS-TV LOS ANGELES (CBS),http://f.ok2.se:8000/victor1/victor123/64860
+KCOP-TV LOS ANGELES (FOX),http://f.ok2.se:8000/victor1/victor123/65031
+KGO-TV LOS ANGELES (ABC),http://f.ok2.se:8000/victor1/victor123/65033
+KNBC LOS ANGELES (NBC),http://f.ok2.se:8000/victor1/victor123/65035
+KTTV LOS ANGELES (FOX),http://f.ok2.se:8000/victor1/victor123/65032
+KGO-TV SAN FRANCISCO (ABC),http://f.ok2.se:8000/victor1/victor123/82707
+KPIX SAN FRANCISCO (CBS),http://f.ok2.se:8000/victor1/victor123/82562
+WDIV-TV DETROIT (NBC),http://f.ok2.se:8000/victor1/victor123/65037
+WJBK DETROIT (FOX),http://f.ok2.se:8000/victor1/victor123/64823
+WWJ-TV DETROIT (CBS),http://f.ok2.se:8000/victor1/victor123/64836
+WXYZ-TV DETROIT (ABC),http://f.ok2.se:8000/victor1/victor123/64879
+WGRZ BUFFALO (NBC),http://f.ok2.se:8000/victor1/victor123/64914
+WIVB-TV BUFFALO (CBS),http://f.ok2.se:8000/victor1/victor123/82533
+WUTV BUFFALO (FOX),http://f.ok2.se:8000/victor1/victor123/65044
+WFOX-TV JACKSONVILLE (FOX),http://f.ok2.se:8000/victor1/victor123/64804
+WJAX-TV JACKSONVILLE (CBS),http://f.ok2.se:8000/victor1/victor123/64805
+WTLV JACKSONVILLE (NBC),http://f.ok2.se:8000/victor1/victor123/82611
+WKRC CINCINNATI (CBS),http://f.ok2.se:8000/victor1/victor123/82528
+WLWT CINCINNATI (NBC),http://f.ok2.se:8000/victor1/victor123/82629
+WXIX-TV CINCINNATI (FOX),http://f.ok2.se:8000/victor1/victor123/64813
+WAVE LOUISVILLE (NBC),http://f.ok2.se:8000/victor1/victor123/82651
+WLKY LOUISVILLE (CBS),http://f.ok2.se:8000/victor1/victor123/65015
+KHOU HOUSTON (CBS),http://f.ok2.se:8000/victor1/victor123/64855
+KPRC-TV HOUSTON (NBC),http://f.ok2.se:8000/victor1/victor123/64927
+KRIV HOUSTON (FOX),http://f.ok2.se:8000/victor1/victor123/64831
+KTRK-TV HOUSTON (ABC),http://f.ok2.se:8000/victor1/victor123/64898
+KDFW DALLAS (FOX),http://f.ok2.se:8000/victor1/victor123/64834
+KTVT DALLAS (CBS),http://f.ok2.se:8000/victor1/victor123/64851
+KXAS-TV DALLAS (NBC),http://f.ok2.se:8000/victor1/victor123/64922
+WFAA DALLAS (ABC),http://f.ok2.se:8000/victor1/victor123/64892
+KARE MINNEAPOLIS (NBC),http://f.ok2.se:8000/victor1/victor123/64932
+KMSP-TV MINNEAPOLIS (FOX),http://f.ok2.se:8000/victor1/victor123/64833
+WCCO-TV MINNEAPOLIS (CBS),http://f.ok2.se:8000/victor1/victor123/64848
+KCTV KANSAS CITY (CBS),http://f.ok2.se:8000/victor1/victor123/64858
+KMBC-TV KANSAS CITY (ABC),http://f.ok2.se:8000/victor1/victor123/65026
+KSHB-TV KANSAS CITY (NBC),http://f.ok2.se:8000/victor1/victor123/64925
+WDAF-TV KANSAS CITY (FOX),http://f.ok2.se:8000/victor1/victor123/65025
+WFSB CONNECTICUT (CBS),http://f.ok2.se:8000/victor1/victor123/65039
+WVIT CONNECTICUT (NBC),http://f.ok2.se:8000/victor1/victor123/65038
+WRTV INDIANAPOLIS (ABC),http://f.ok2.se:8000/victor1/victor123/65042
+WTHR INDIANAPOLIS (NBC),http://f.ok2.se:8000/victor1/victor123/65040
+WXIN INDIANAPOLIS (FOX),http://f.ok2.se:8000/victor1/victor123/65041
+KDNL-TV ST. LOUIS (ABC),http://f.ok2.se:8000/victor1/victor123/65018
+KMOV ST. LOUIS (CBS),http://f.ok2.se:8000/victor1/victor123/65017
+KSDK ST. LOUIS (NBC),http://f.ok2.se:8000/victor1/victor123/64926
+KTVI ST. LOUIS (FOX),http://f.ok2.se:8000/victor1/victor123/65016
+WHBQ-TV MEMPHIS (FOX),http://f.ok2.se:8000/victor1/victor123/65023
+WMC-TV MEMPHIS (NBC),http://f.ok2.se:8000/victor1/victor123/65022
+WRAZ MEMPHIS (FOX),http://f.ok2.se:8000/victor1/victor123/65021
+KNXV-TV PHOENIX (ABC),http://f.ok2.se:8000/victor1/victor123/64902
+KPHO-TV PHOENIX (CBS),http://f.ok2.se:8000/victor1/victor123/64852
+KPNX PHOENIX (NBC),http://f.ok2.se:8000/victor1/victor123/64928
+KSAZ-TV PHOENIX (FOX),http://f.ok2.se:8000/victor1/victor123/64830
+WTSP TAMPA BAY (CBS),http://f.ok2.se:8000/victor1/victor123/64839
+WTVT TAMPA BAY (FOX),http://f.ok2.se:8000/victor1/victor123/64816
+WFSB HARTFORD (CBS),http://f.ok2.se:8000/victor1/victor123/64844
+WTNH HARTFORD (ABC),http://f.ok2.se:8000/victor1/victor123/64881
+WFRV-TV GREEN BAY (CBS),http://f.ok2.se:8000/victor1/victor123/82540
+WGBA-TV GREEN BAY (NBC),http://f.ok2.se:8000/victor1/victor123/64915
+KFMB-TV SAN DIEGO (CBS),http://f.ok2.se:8000/victor1/victor123/64856
+KGTV SAN DIEGO (ABC),http://f.ok2.se:8000/victor1/victor123/64904
+KNSD SAN DIEGO (NBC),http://f.ok2.se:8000/victor1/victor123/64930
+WCNC-TV CHARLOTTE (NBC),http://f.ok2.se:8000/victor1/victor123/64918
+WJZY CHARLOTTE (FOX),http://f.ok2.se:8000/victor1/victor123/64822
+WSOC-TV CHARLOTTE (ABC),http://f.ok2.se:8000/victor1/victor123/82701
+KARK-TV LITTLE ROCK (NBC),http://f.ok2.se:8000/victor1/victor123/82683
+KTHV LITTLE ROCK (CBS),http://f.ok2.se:8000/victor1/victor123/64944
+WBIR-TV KNOXVILLE (NBC),http://f.ok2.se:8000/victor1/victor123/82648
+WVLT-TV KNOXVILLE (CBS),http://f.ok2.se:8000/victor1/victor123/64987
+WFLA-TV TAMPA (NBC),http://f.ok2.se:8000/victor1/victor123/82638
+WFTS-TV TAMPA (ABC),http://f.ok2.se:8000/victor1/victor123/82705
+KSLA SHREVEPORT (CBS),http://f.ok2.se:8000/victor1/victor123/64993
+KTAL-TV SHREVEPORT (NBC),http://f.ok2.se:8000/victor1/victor123/82666
+WBNS-TV COLUMBUS (CBS),http://f.ok2.se:8000/victor1/victor123/82548
+WCBI-TV COLUMBUS (CBS),http://f.ok2.se:8000/victor1/victor123/82545
+WCMH-TV COLUMBUS (NBC),http://f.ok2.se:8000/victor1/victor123/82645
+WLTZ COLUMBUS (NBC),http://f.ok2.se:8000/victor1/victor123/82630
+KATU PORTLAND (ABC),http://f.ok2.se:8000/victor1/victor123/65010
+KGW PORTLAND (NBC),http://f.ok2.se:8000/victor1/victor123/64931
+KOIN PORTLAND (CBS),http://f.ok2.se:8000/victor1/victor123/82567
+WGME-TV PORTLAND (CBS),http://f.ok2.se:8000/victor1/victor123/82539
+WDSU NEW ORLEANS (NBC),http://f.ok2.se:8000/victor1/victor123/64917
+WVUE-DT NEW ORLEANS (FOX),http://f.ok2.se:8000/victor1/victor123/64814
+WWL-TV NEW ORLEANS (CBS),http://f.ok2.se:8000/victor1/victor123/65012
+KGMB HONOLULU (CBS),http://f.ok2.se:8000/victor1/victor123/64947
+KHNL HONOLULU (NBC),http://f.ok2.se:8000/victor1/victor123/82678
+KCNC-TV DENVER (CBS),http://f.ok2.se:8000/victor1/victor123/64859
+KDVR DENVER (FOX),http://f.ok2.se:8000/victor1/victor123/65009
+KMGH-TV DENVER (ABC),http://f.ok2.se:8000/victor1/victor123/64903
+KUSA DENVER (NBC),http://f.ok2.se:8000/victor1/victor123/82662
+KSL-TV SALT LAKE CITY (NBC),http://f.ok2.se:8000/victor1/victor123/64812
+KSTU SALT LAKE CITY (FOX),http://f.ok2.se:8000/victor1/victor123/65019
+KTVX SALT LAKE CITY (ABC),http://f.ok2.se:8000/victor1/victor123/64897
+KUTV SALT LAKE CITY (CBS),http://f.ok2.se:8000/victor1/victor123/65020
+WKRN NASHVILLE (ABC),http://f.ok2.se:8000/victor1/victor123/64888
+WSMV NASHVILLE (NBC),http://f.ok2.se:8000/victor1/victor123/64906
+WTVF NASHVILLE (CBS),http://f.ok2.se:8000/victor1/victor123/64838
+WDJT-TV MILWAUKEE (CBS),http://f.ok2.se:8000/victor1/victor123/64847
+WISN-TV MILWAUKEE (ABC),http://f.ok2.se:8000/victor1/victor123/64889
+WTMJ-TV MILWAUKEE (NBC),http://f.ok2.se:8000/victor1/victor123/82610
+KEYE-TV AUSTIN (CBS),http://f.ok2.se:8000/victor1/victor123/82577
+KTBC AUSTIN (FOX),http://f.ok2.se:8000/victor1/victor123/64829
+KXAN-TV AUSTIN (NBC),http://f.ok2.se:8000/victor1/victor123/82656
+KOLR SPRINGFIELD (CBS),http://f.ok2.se:8000/victor1/victor123/82564
+KYTV SPRINGFIELD (NBC),http://f.ok2.se:8000/victor1/victor123/82655
+WWLP SPRINGFIELD (NBC),http://f.ok2.se:8000/victor1/victor123/82606
+KCRA-TV SACRAMENTO (NBC),http://f.ok2.se:8000/victor1/victor123/64934
+KOVR SACRAMENTO (CBS),http://f.ok2.se:8000/victor1/victor123/64853
+KXTV SACRAMENTO (ABC),http://f.ok2.se:8000/victor1/victor123/64896
+KGPE-TV FRESNO (CBS),http://f.ok2.se:8000/victor1/victor123/82573
+KSEE FRESNO (NBC),http://f.ok2.se:8000/victor1/victor123/82668
+WJTV JACKSON (CBS),http://f.ok2.se:8000/victor1/victor123/82531
+WLBT JACKSON (NBC),http://f.ok2.se:8000/victor1/victor123/65043
+KDLT-TV SIOUX FALLS (NBC),http://f.ok2.se:8000/victor1/victor123/82681
+KELO-TV SIOUX FALLS (CBS),http://f.ok2.se:8000/victor1/victor123/82578
+WKYT-TV LEXINGTON (CBS),http://f.ok2.se:8000/victor1/victor123/82526
+WLEX-TV LEXINGTON (NBC),http://f.ok2.se:8000/victor1/victor123/82631
+KCCI DES MOINES (CBS),http://f.ok2.se:8000/victor1/victor123/82581
+KCEN-TV TEMPLE (NBC),http://f.ok2.se:8000/victor1/victor123/82682
+KCOY-TV SANTA MARIA (CBS),http://f.ok2.se:8000/victor1/victor123/82580
+KDBC-TV EL PASO (CBS),http://f.ok2.se:8000/victor1/victor123/82579
+KETK-TV TYLER (NBC),http://f.ok2.se:8000/victor1/victor123/82680
+KFVS-TV CAPE GIRARDEAU (CBS),http://f.ok2.se:8000/victor1/victor123/82576
+KGAN-TV CEDAR RAPIDS (CBS),http://f.ok2.se:8000/victor1/victor123/82575
+KGBT-TV HARLINGEN (CBS),http://f.ok2.se:8000/victor1/victor123/82574
+KGET-TV BAKERSFIELD (NBC),http://f.ok2.se:8000/victor1/victor123/82679
+KHQ-TV SPOKANE (NBC),http://f.ok2.se:8000/victor1/victor123/82677
+KIMA-TV YAKIMA (CBS),http://f.ok2.se:8000/victor1/victor123/82572
+KION-TV MONTEREY (CBS),http://f.ok2.se:8000/victor1/victor123/82571
+KJRH-TV TULSA (NBC),http://f.ok2.se:8000/victor1/victor123/82676
+KKTV COLORADO SPRINGS (CBS),http://f.ok2.se:8000/victor1/victor123/82570
+KLAS-TV LAS VEGAS (CBS),http://f.ok2.se:8000/victor1/victor123/82569
+KLFY-TV LAFAYETTE (CBS),http://f.ok2.se:8000/victor1/victor123/82568
+KMTV-TV OMAHA (CBS),http://f.ok2.se:8000/victor1/victor123/64983
+KNDO YAKIMA (NBC),http://f.ok2.se:8000/victor1/victor123/82675
+KNTV SAN JOSE (NBC),http://f.ok2.se:8000/victor1/victor123/82674
+KOAA-TV PUEBLO (NBC),http://f.ok2.se:8000/victor1/victor123/82673
+KOB ALBUQUERQUE (NBC),http://f.ok2.se:8000/victor1/victor123/82672
+KOLD-TV TUCSON (CBS),http://f.ok2.se:8000/victor1/victor123/82566
+KOLN LINCOLN (CBS),http://f.ok2.se:8000/victor1/victor123/82565
+KOTV OKLAHOMA (CBS),http://f.ok2.se:8000/victor1/victor123/82563
+KREM SPOKANE (CBS),http://f.ok2.se:8000/victor1/victor123/82561
+KRIS-TV CORPUS CHRISTI (NBC),http://f.ok2.se:8000/victor1/victor123/82671
+KRQEDT ALBUQUERQUE (CBS),http://f.ok2.se:8000/victor1/victor123/82560
+KSASPORTS1 (ARB),http://f.ok2.se:8000/victor1/victor123/72711
+KSASPORTS2 (ARB),http://f.ok2.se:8000/victor1/victor123/72710
+KSAT-TV SAN ANTONIO (ABC),http://f.ok2.se:8000/victor1/victor123/64900
+KSBW SALINAS (NBC),http://f.ok2.se:8000/victor1/victor123/82670
+KSBY SAN LUIS OBISPO (NBC),http://f.ok2.se:8000/victor1/victor123/82669
+KSNB SUPERIOR (NBC),http://f.ok2.se:8000/victor1/victor123/82667
+KSTP-TV SAINT PAUL (ABC),http://f.ok2.se:8000/victor1/victor123/82706
+KTIV SIOUXLAND (NBC),http://f.ok2.se:8000/victor1/victor123/82665
+KTSM-TV EL PASO (NBC),http://f.ok2.se:8000/victor1/victor123/82664
+KTVB BOISE (NBC),http://f.ok2.se:8000/victor1/victor123/82663
+KTVN RENO (CBS),http://f.ok2.se:8000/victor1/victor123/64938
+KTXA FORTH WORTH (CBS),http://f.ok2.se:8000/victor1/victor123/82559
+KVAL EUGENE (CBS),http://f.ok2.se:8000/victor1/victor123/82558
+KVEO-TV BROWNSVILLE (NBC),http://f.ok2.se:8000/victor1/victor123/82661
+KVLY-TV FARGO (NBC),http://f.ok2.se:8000/victor1/victor123/82660
+KVOA TUCSON (NBC),http://f.ok2.se:8000/victor1/victor123/82659
+KWCH WICHITA (CBS),http://f.ok2.se:8000/victor1/victor123/82557
+KWQC-TV DAVENPORT (NBC),http://f.ok2.se:8000/victor1/victor123/82658
+KWTV OKLAHOMA CITY (CBS),http://f.ok2.se:8000/victor1/victor123/82556
+KWTX-TV WACO (CBS),http://f.ok2.se:8000/victor1/victor123/82555
+KWWL WATERLOO (NBC),http://f.ok2.se:8000/victor1/victor123/82657
+KZTV CORPUS CHRISTI (CBS),http://f.ok2.se:8000/victor1/victor123/82553
+WAFF HUNTSVILLE (NBC),http://f.ok2.se:8000/victor1/victor123/82654
+WAGT AUGUSTA (NBC),http://f.ok2.se:8000/victor1/victor123/82653
+WAND DECATUR (NBC),http://f.ok2.se:8000/victor1/victor123/82652
+WIS COLUMBIA (NBC),http://f.ok2.se:8000/victor1/victor123/82634
+WAVY-TV PORTSMOUTH (NBC),http://f.ok2.se:8000/victor1/victor123/82650
+WBRE-TV WILKES-BARRE (NBC),http://f.ok2.se:8000/victor1/victor123/82647
+WBTW FLORENCE (CBS),http://f.ok2.se:8000/victor1/victor123/82547
+WCAX-TV BURLINGTON (CBS),http://f.ok2.se:8000/victor1/victor123/82546
+WCIA CHAMPAIGN (CBS),http://f.ok2.se:8000/victor1/victor123/82544
+WCSC-TV CHARLESTON (CBS),http://f.ok2.se:8000/victor1/victor123/82543
+WCSH MAINE (NBC),http://f.ok2.se:8000/victor1/victor123/82644
+WDBJ ROANOKE (CBS),http://f.ok2.se:8000/victor1/victor123/82542
+WDEF-TV CHATTANOOGA (CBS),http://f.ok2.se:8000/victor1/victor123/82541
+WDTN DAYTON (NBC),http://f.ok2.se:8000/victor1/victor123/82643
+WEAU EAU CLAIRE (NBC),http://f.ok2.se:8000/victor1/victor123/82642
+WECT CAPE FEAR (NBC),http://f.ok2.se:8000/victor1/victor123/82641
+WEEK-TV PEORIA (NBC),http://f.ok2.se:8000/victor1/victor123/82640
+WFIE EVANSVILLE (NBC),http://f.ok2.se:8000/victor1/victor123/82639
+WFMJ-TV YOUNGSTOWN (NBC),http://f.ok2.se:8000/victor1/victor123/82637
+WFMY-TV GREENSBORO (CBS),http://f.ok2.se:8000/victor1/victor123/64846
+WGAL LANCASTER (NBC),http://f.ok2.se:8000/victor1/victor123/82636
+WHBF-TV ROCK ISLAND (CBS),http://f.ok2.se:8000/victor1/victor123/82538
+WHEC-TV ROCHESTER (NBC),http://f.ok2.se:8000/victor1/victor123/65050
+WHIO-TV DAYTON (CBS),http://f.ok2.se:8000/victor1/victor123/82537
+WHP-TV HARRISBURG (CBS),http://f.ok2.se:8000/victor1/victor123/82536
+WIAT BIRMINGHAM (CBS),http://f.ok2.se:8000/victor1/victor123/82535
+WILX-TV LANSING (NBC),http://f.ok2.se:8000/victor1/victor123/82635
+WISC-TV MADISON (CBS),http://f.ok2.se:8000/victor1/victor123/82534
+WJHG-TV PANAMA CITY (NBC),http://f.ok2.se:8000/victor1/victor123/82632
+WJHL-TV JOHNSON CITY (CBS),http://f.ok2.se:8000/victor1/victor123/82532
+WKBN-TV YOUNGSTOWN (CBS),http://f.ok2.se:8000/victor1/victor123/82530
+WKBT LA CROSSE (CBS),http://f.ok2.se:8000/victor1/victor123/82529
+WKRG-TV MOBILE (CBS),http://f.ok2.se:8000/victor1/victor123/82527
+WLNS-TV LANSING (CBS),http://f.ok2.se:8000/victor1/victor123/82525
+WLNY-TV RIVERHEAD (CBS),http://f.ok2.se:8000/victor1/victor123/82524
+WLTX COLUMBIA (CBS),http://f.ok2.se:8000/victor1/victor123/82523
+WMBD-TV PEORIA (CBS),http://f.ok2.se:8000/victor1/victor123/82522
+WMBF-TV MYRTLE BEACH (NBC),http://f.ok2.se:8000/victor1/victor123/82627
+WMTV MADISON (NBC),http://f.ok2.se:8000/victor1/victor123/82625
+WNCN GOLDSBORO (CBS),http://f.ok2.se:8000/victor1/victor123/82521
+WNCT-TV GREENVILLE (CBS),http://f.ok2.se:8000/victor1/victor123/82520
+WNDU-TV SOUTH BEND (NBC),http://f.ok2.se:8000/victor1/victor123/82623
+WNEM-TV BAY CITY (CBS),http://f.ok2.se:8000/victor1/victor123/82519
+WNYT ALBANY (NBC),http://f.ok2.se:8000/victor1/victor123/82622
+WOGX GAINESVILLE (FOX),http://f.ok2.se:8000/victor1/victor123/64820
+WOOD-TV GRAND RAPIDS (NBC),http://f.ok2.se:8000/victor1/victor123/82621
+WOWK-TV HUNTINGTON (CBS),http://f.ok2.se:8000/victor1/victor123/82518
+WOWT OMAHA (NBC),http://f.ok2.se:8000/victor1/victor123/82620
+WPEC WEST PALM BEACH (CBS),http://f.ok2.se:8000/victor1/victor123/64941
+WPRI-TV PROVIDENCE (CBS),http://f.ok2.se:8000/victor1/victor123/82517
+WPSD-TV PADUCAH (NBC),http://f.ok2.se:8000/victor1/victor123/82619
+WPTA FORT WAYNE (NBC),http://f.ok2.se:8000/victor1/victor123/82618
+WPTV-TV WEST PALM BEACH (NBC),http://f.ok2.se:8000/victor1/victor123/82617
+WPTZ PLATTSBURGH (NBC),http://f.ok2.se:8000/victor1/victor123/82616
+WRAL-TV RALEIGH (NBC),http://f.ok2.se:8000/victor1/victor123/64909
+WRDW-TV AUGUSTA (CBS),http://f.ok2.se:8000/victor1/victor123/82516
+WRGB SCHENECTADY (CBS),http://f.ok2.se:8000/victor1/victor123/82515
+WSAV-TV SAVANNAH (NBC),http://f.ok2.se:8000/victor1/victor123/82615
+WSAZ-TV HUNTINGTON (NBC),http://f.ok2.se:8000/victor1/victor123/82614
+WSBK-TV BOSTON (CBS),http://f.ok2.se:8000/victor1/victor123/82514
+WSFA MONTGOMERY (NBC),http://f.ok2.se:8000/victor1/victor123/82613
+WSLS-TV ROANOKE (NBC),http://f.ok2.se:8000/victor1/victor123/82612
+WSPA GREENVILLE (CBS),http://f.ok2.se:8000/victor1/victor123/82513
+WTAJ-TV ALTOONA (CBS),http://f.ok2.se:8000/victor1/victor123/82512
+WTNH NEW HAVEN (ABC),http://f.ok2.se:8000/victor1/victor123/64982
+WTOC-TV SAVANNAH (CBS),http://f.ok2.se:8000/victor1/victor123/64943
+WTOL TOLEDO (CBS),http://f.ok2.se:8000/victor1/victor123/82511
+WTVD DURHAM (ABC),http://f.ok2.se:8000/victor1/victor123/82700
+WTVF TENNESSEE (CBS),http://f.ok2.se:8000/victor1/victor123/82510
+WTVH SYRACUSE (CBS),http://f.ok2.se:8000/victor1/victor123/82509
+WVTM-TV BIRMINGHAM (NBC),http://f.ok2.se:8000/victor1/victor123/82609
+WVVA BLUEFIELD (NBC),http://f.ok2.se:8000/victor1/victor123/82608
+WWAY WILMINGTON (CBS),http://f.ok2.se:8000/victor1/victor123/82508
+WWBT RICHMOND (NBC),http://f.ok2.se:8000/victor1/victor123/82607
+WWMT KALAMAZOO (CBS),http://f.ok2.se:8000/victor1/victor123/64937
+WWTV CADILLAC (CBS),http://f.ok2.se:8000/victor1/victor123/82507
+WXII-TV WINSTON-SALEM (NBC),http://f.ok2.se:8000/victor1/victor123/82605
+WYFF GREENVILLE (NBC),http://f.ok2.se:8000/victor1/victor123/82604
+WYOU SCRANTON (CBS),http://f.ok2.se:8000/victor1/victor123/82506
+NBC SPORTS BAY AREA,http://f.ok2.se:8000/victor1/victor123/65066
+NBC SPORTS CALIFORNIA,http://f.ok2.se:8000/victor1/victor123/64809
+NBC SPORTS CALIFORNIA PLUS,http://f.ok2.se:8000/victor1/victor123/64806
+NBC SPORTS CHICAGO,http://f.ok2.se:8000/victor1/victor123/64878
+NBC SPORTS CHICAGO PLUS,http://f.ok2.se:8000/victor1/victor123/65065
+NBC SPORTS NETWORK,http://f.ok2.se:8000/victor1/victor123/64876
+NBC SPORTS NEW ENGLAND,http://f.ok2.se:8000/victor1/victor123/64877
+NBC SPORTS NORTHWEST,http://f.ok2.se:8000/victor1/victor123/64808
+NBC SPORTS PHILADELPHIA PLUS,http://f.ok2.se:8000/victor1/victor123/64875
+NBC SPORTS WASHINGTON,http://f.ok2.se:8000/victor1/victor123/64807
+FOX SPORTS ARIZONA,http://f.ok2.se:8000/victor1/victor123/64862
+FOX SPORTS DETROIT,http://f.ok2.se:8000/victor1/victor123/64863
+FOX SPORTS FLORIDA,http://f.ok2.se:8000/victor1/victor123/65060
+FOX SPORTS MIDWEST,http://f.ok2.se:8000/victor1/victor123/64864
+FOX SPORTS NORTH,http://f.ok2.se:8000/victor1/victor123/64865
+FOX SPORTS OHIO,http://f.ok2.se:8000/victor1/victor123/64866
+FOX SPORTS PRIME TICKET,http://f.ok2.se:8000/victor1/victor123/64867
+FOX SPORTS SAN DIEGO,http://f.ok2.se:8000/victor1/victor123/64868
+FOX SPORTS SOUTH,http://f.ok2.se:8000/victor1/victor123/64869
+FOX SPORTS SOUTHEAST,http://f.ok2.se:8000/victor1/victor123/64870
+FOX SPORTS SOUTHWEST,http://f.ok2.se:8000/victor1/victor123/64872
+FOX SPORTS SOUTHWEST PLUS,http://f.ok2.se:8000/victor1/victor123/64871
+FOX SPORTS SPORTSTIME OHIO,http://f.ok2.se:8000/victor1/victor123/65054
+FOX SPORTS SUN,http://f.ok2.se:8000/victor1/victor123/65053
+FOX SPORTS TENNESSEE,http://f.ok2.se:8000/victor1/victor123/65052
+FOX SPORTS WEST,http://f.ok2.se:8000/victor1/victor123/64873
+FOX SPORTS WISCONSIN,http://f.ok2.se:8000/victor1/victor123/64874
+FOX SPORTS YES,http://f.ok2.se:8000/victor1/victor123/64861
+LANAplus (ARB),http://f.ok2.se:8000/victor1/victor123/69316
+LANATV (ARB),http://f.ok2.se:8000/victor1/victor123/72665
+LBCHD (ARB),http://f.ok2.se:8000/victor1/victor123/5328
+LBCSAT (ARB),http://f.ok2.se:8000/victor1/victor123/5400
+LDC (ARB),http://f.ok2.se:8000/victor1/victor123/5394
+LIBYA218 (ARB),http://f.ok2.se:8000/victor1/victor123/5539
+LIBYAALHADATH (ARB),http://f.ok2.se:8000/victor1/victor123/72720
+LibyaAlhrar (ARB),http://f.ok2.se:8000/victor1/victor123/5610
+LIBYAALWATNYAH (ARB),http://f.ok2.se:8000/victor1/victor123/5661
+LibyaPanoramaTV (ARB),http://f.ok2.se:8000/victor1/victor123/69298
+LIBYARSMIACh (ARB),http://f.ok2.se:8000/victor1/victor123/5523
+LIBYASCHANNEL (ARB),http://f.ok2.se:8000/victor1/victor123/5522
+LogosTV (ARB),http://f.ok2.se:8000/victor1/victor123/5447
+LORESTAN TV (IRN),http://f.ok2.se:8000/victor1/victor123/43409
+MaanTV (ARB),http://f.ok2.se:8000/victor1/victor123/69294
+MAJESTICCINEMA (ARB),http://f.ok2.se:8000/victor1/victor123/5552
+MAN VS WILD 24X7 - NEW,http://f.ok2.se:8000/victor1/victor123/8091
+MANAR (ARB),http://f.ok2.se:8000/victor1/victor123/5578
+MANOTO (IRN),http://f.ok2.se:8000/victor1/victor123/10280
+MariamTV (ARB),http://f.ok2.se:8000/victor1/victor123/5530
+MARRIED WITH CHILDREN 24X7,http://f.ok2.se:8000/victor1/victor123/6582
+MasperoZaman (ARB),http://f.ok2.se:8000/victor1/victor123/5708
+MAZANDARAN TV (IRN),http://f.ok2.se:8000/victor1/victor123/43412
+MAZAZIKH (ARB),http://f.ok2.se:8000/victor1/victor123/72649
+Mazzika (ARB),http://f.ok2.se:8000/victor1/victor123/69291
+MBC IRAQ (ARB),http://f.ok2.se:8000/victor1/victor123/69065
+MBC1 (ARB),http://f.ok2.se:8000/victor1/victor123/5514
+MBC2 (ARB),http://f.ok2.se:8000/victor1/victor123/5837
+MBC3 (ARB),http://f.ok2.se:8000/victor1/victor123/5512
+MBC4 (ARB),http://f.ok2.se:8000/victor1/victor123/5511
+MBCAction (ARB),http://f.ok2.se:8000/victor1/victor123/5510
+MBCBollywood (ARB),http://f.ok2.se:8000/victor1/victor123/5507
+MBCDrama (ARB),http://f.ok2.se:8000/victor1/victor123/5509
+MBCMaser (ARB),http://f.ok2.se:8000/victor1/victor123/5505
+MBCMAX (ARB),http://f.ok2.se:8000/victor1/victor123/5508
+MCINEMA (ARB),http://f.ok2.se:8000/victor1/victor123/72642
+MClassic (ARB),http://f.ok2.se:8000/victor1/victor123/5528
+Mecca (ARB),http://f.ok2.se:8000/victor1/victor123/5529
+Medi1TV (ARB),http://f.ok2.se:8000/victor1/victor123/5369
+Mehwer (ARB),http://f.ok2.se:8000/victor1/victor123/5408
+MEKAMELEENTV (ARB),http://f.ok2.se:8000/victor1/victor123/5348
+MELLO TV (JAMAICA),http://f.ok2.se:8000/victor1/victor123/82908
+MESat (ARB),http://f.ok2.se:8000/victor1/victor123/5392
+MICKEYCHANNEL (ARB),http://f.ok2.se:8000/victor1/victor123/5591
+MIRACLE TV - NEW,http://f.ok2.se:8000/victor1/victor123/46721
+MiracleTV (ARB),http://f.ok2.se:8000/victor1/victor123/5786
+MISREDUCATION (ARB),http://f.ok2.se:8000/victor1/victor123/72725
+MODYKIDS (ARB),http://f.ok2.se:8000/victor1/victor123/5391
+MOSALSALATTUBE (ARB),http://f.ok2.se:8000/victor1/victor123/5340
+MTM (JAMAICA),http://f.ok2.se:8000/victor1/victor123/82909
+MTunisia (ARB),http://f.ok2.se:8000/victor1/victor123/5613
+MTVLebanon (ARB),http://f.ok2.se:8000/victor1/victor123/5573
+MUSAWA (ARB),http://f.ok2.se:8000/victor1/victor123/72703
+MusicAlhanen (ARB),http://f.ok2.se:8000/victor1/victor123/5781
+MYHARTO 24X7,http://f.ok2.se:8000/victor1/victor123/6128
+MYX TV,http://f.ok2.se:8000/victor1/victor123/8525
+NBN (ARB),http://f.ok2.se:8000/victor1/victor123/5572
+NeelainSport (ARB),http://f.ok2.se:8000/victor1/victor123/5768
+Nessma (ARB),http://f.ok2.se:8000/victor1/victor123/5382
+NEXTV (PANAMA),http://f.ok2.se:8000/victor1/victor123/65595
+NHK (ARB),http://f.ok2.se:8000/victor1/victor123/5735
+NileCinema (ARB),http://f.ok2.se:8000/victor1/victor123/5455
+NILECOMEDY (ARB),http://f.ok2.se:8000/victor1/victor123/5453
+NileCulture (ARB),http://f.ok2.se:8000/victor1/victor123/5456
+NileDrama (ARB),http://f.ok2.se:8000/victor1/victor123/5457
+NileFamily (ARB),http://f.ok2.se:8000/victor1/victor123/5778
+NileFM (ARB),http://f.ok2.se:8000/victor1/victor123/69313
+NileLife (ARB),http://f.ok2.se:8000/victor1/victor123/5458
+NILENEWS (ARB),http://f.ok2.se:8000/victor1/victor123/5454
+NileSport (ARB),http://f.ok2.se:8000/victor1/victor123/5459
+niletv (ARB),http://f.ok2.se:8000/victor1/victor123/5412
+NogoumFMRadio (ARB),http://f.ok2.se:8000/victor1/victor123/5666
+NogoumFMTV (ARB),http://f.ok2.se:8000/victor1/victor123/5790
+NOOR TV (IRN),http://f.ok2.se:8000/victor1/victor123/10295
+NOORDUBAI (ARB),http://f.ok2.se:8000/victor1/victor123/5520
+NOORJORDAN (ARB),http://f.ok2.se:8000/victor1/victor123/72702
+NourAlSharq (ARB),http://f.ok2.se:8000/victor1/victor123/5445
+NOURELSHAM (ARB),http://f.ok2.se:8000/victor1/victor123/5678
+NourKoddass (ARB),http://f.ok2.se:8000/victor1/victor123/5444
+Noursat (ARB),http://f.ok2.se:8000/victor1/victor123/5571
+NoursatAlchabab (ARB),http://f.ok2.se:8000/victor1/victor123/5614
+NumidiaNewsTV (ARB),http://f.ok2.se:8000/victor1/victor123/5581
+OMANTVCULTURE (ARB),http://f.ok2.se:8000/victor1/victor123/72673
+OMANTVGENERAL (ARB),http://f.ok2.se:8000/victor1/victor123/72731
+OMANTVLIVE (ARB),http://f.ok2.se:8000/victor1/victor123/72674
+OMANTVSPORT (ARB),http://f.ok2.se:8000/victor1/victor123/72672
+ONDrama (ARB),http://f.ok2.se:8000/victor1/victor123/69290
+ONSport (ARB),http://f.ok2.se:8000/victor1/victor123/5686
+ONTVEgypt (ARB),http://f.ok2.se:8000/victor1/victor123/5646
+orient (ARB),http://f.ok2.se:8000/victor1/victor123/5685
+OTV (ARB),http://f.ok2.se:8000/victor1/victor123/5440
+Palestine (ARB),http://f.ok2.se:8000/victor1/victor123/5769
+PalestineLive (ARB),http://f.ok2.se:8000/victor1/victor123/69300
+PalestineNews (ARB),http://f.ok2.se:8000/victor1/victor123/69301
+PalestineSport (ARB),http://f.ok2.se:8000/victor1/victor123/69302
+PalestineToday (ARB),http://f.ok2.se:8000/victor1/victor123/5770
+PanoramaDrama (ARB),http://f.ok2.se:8000/victor1/victor123/5398
+PanoramaFood (ARB),http://f.ok2.se:8000/victor1/victor123/5395
+PEACETV (ARB),http://f.ok2.se:8000/victor1/victor123/72732
+PMC (IRN),http://f.ok2.se:8000/victor1/victor123/10292
+POOYATV & NAHAL (IRN),http://f.ok2.se:8000/victor1/victor123/43414
+POWER 106 (RADIO),http://f.ok2.se:8000/victor1/victor123/71345
+PRESS TV (IRN),http://f.ok2.se:8000/victor1/victor123/10282
+PRIME+ HD (NEW),http://f.ok2.se:8000/victor1/victor123/60426
+PROFESSOR LIVE 24X7 (SPORT),http://f.ok2.se:8000/victor1/victor123/7832
+PTV SPORTS,http://f.ok2.se:8000/victor1/victor123/195
+PYROBOOBY 24X7,http://f.ok2.se:8000/victor1/victor123/6127
+QOM TV IRIB NOOR (IRN),http://f.ok2.se:8000/victor1/victor123/43402
+QuestArabiya (ARB),http://f.ok2.se:8000/victor1/victor123/5734
+QURANTV (ARB),http://f.ok2.se:8000/victor1/victor123/5337
+REMI GAILLARD 24X7,http://f.ok2.se:8000/victor1/victor123/5874
+RETV (JAMAICA),http://f.ok2.se:8000/victor1/victor123/82907
+RIVER (IRN),http://f.ok2.se:8000/victor1/victor123/10297
+RJR 94 (RADIO),http://f.ok2.se:8000/victor1/victor123/71343
+ROMAN ATWOOD 24X7,http://f.ok2.se:8000/victor1/victor123/6594
+RonahiTV (ARB),http://f.ok2.se:8000/victor1/victor123/5319
+Rotana (ARB),http://f.ok2.se:8000/victor1/victor123/5496
+ROTANAAFLMAHD (ARB),http://f.ok2.se:8000/victor1/victor123/5324
+RotanaCinema (ARB),http://f.ok2.se:8000/victor1/victor123/5497
+ROTANACINEMAKSA (ARB),http://f.ok2.se:8000/victor1/victor123/5630
+RotanaClassic (ARB),http://f.ok2.se:8000/victor1/victor123/5499
+RotanaClip (ARB),http://f.ok2.se:8000/victor1/victor123/5501
+ROTANADRAMA (ARB),http://f.ok2.se:8000/victor1/victor123/72644
+RotanaKhalijia (ARB),http://f.ok2.se:8000/victor1/victor123/5500
+RotanaMasriya (ARB),http://f.ok2.se:8000/victor1/victor123/5498
+ROYA (ARB),http://f.ok2.se:8000/victor1/victor123/5680
+RTARABIC (ARB),http://f.ok2.se:8000/victor1/victor123/5771
+RUBIX (IRN),http://f.ok2.se:8000/victor1/victor123/10296
+RudawHD (ARB),http://f.ok2.se:8000/victor1/victor123/5783
+SadaElBalad (ARB),http://f.ok2.se:8000/victor1/victor123/5407
+SadaElBalad2 (ARB),http://f.ok2.se:8000/victor1/victor123/69303
+SadaElBaladDrama (ARB),http://f.ok2.se:8000/victor1/victor123/5580
+SAFATV (ARB),http://f.ok2.se:8000/victor1/victor123/5344
+SAI BABA 24x7 (NEW),http://f.ok2.se:8000/victor1/victor123/49486
+SamaDubai (ARB),http://f.ok2.se:8000/victor1/victor123/5729
+SAMARRATV (ARB),http://f.ok2.se:8000/victor1/victor123/5421
+SamaTV (ARB),http://f.ok2.se:8000/victor1/victor123/5357
+SamiraTV (ARB),http://f.ok2.se:8000/victor1/victor123/5411
+SAT7ARABIC (ARB),http://f.ok2.se:8000/victor1/victor123/72677
+SAT7KIDS (ARB),http://f.ok2.se:8000/victor1/victor123/5425
+Saudi-1 (ARB),http://f.ok2.se:8000/victor1/victor123/5777
+Saudi-2 (ARB),http://f.ok2.se:8000/victor1/victor123/5776
+SAUDI24 (ARB),http://f.ok2.se:8000/victor1/victor123/5658
+SaudiAlHaj (ARB),http://f.ok2.se:8000/victor1/victor123/5705
+SaudiChForSunnah (ARB),http://f.ok2.se:8000/victor1/victor123/69289
+SAUDIQURANTV (ARB),http://f.ok2.se:8000/victor1/victor123/72714
+SBC (ARB),http://f.ok2.se:8000/victor1/victor123/72666
+shamfmtv (ARB),http://f.ok2.se:8000/victor1/victor123/5789
+SHARK TANK 24x7 - NEW,http://f.ok2.se:8000/victor1/victor123/8888
+SKY AT THE RACES,http://f.ok2.se:8000/victor1/victor123/2197
+SKY BOOMERANG,http://f.ok2.se:8000/victor1/victor123/9626
+SKY BOX NATION,http://f.ok2.se:8000/victor1/victor123/209
+SKY CARTOON NETWORK,http://f.ok2.se:8000/victor1/victor123/1773
+SKY DISNEY CHANNEL,http://f.ok2.se:8000/victor1/victor123/1745
+SKY DISNEY JR,http://f.ok2.se:8000/victor1/victor123/1746
+SKY DISNEY XD,http://f.ok2.se:8000/victor1/victor123/1747
+SKY MOVIES FAMILY,http://f.ok2.se:8000/victor1/victor123/1736
+SKY MOVIES DISNEY,http://f.ok2.se:8000/victor1/victor123/1743
+SKY NICK JR,http://f.ok2.se:8000/victor1/victor123/1716
+SKY NICKTOONS,http://f.ok2.se:8000/victor1/victor123/1729
+SKY RTE JR,http://f.ok2.se:8000/victor1/victor123/9625
+SKY SPORTS ACTION,http://f.ok2.se:8000/victor1/victor123/206
+SKY SPORTS ARENA,http://f.ok2.se:8000/victor1/victor123/207
+SKY SPORTS CRICKET,http://f.ok2.se:8000/victor1/victor123/205
+SKY SPORTS F1 HD,http://f.ok2.se:8000/victor1/victor123/210
+SKY SPORTS MAIN EVENT,http://f.ok2.se:8000/victor1/victor123/204
+SKY SPORTS MIX,http://f.ok2.se:8000/victor1/victor123/194
+SKY SPORTS NEWS,http://f.ok2.se:8000/victor1/victor123/203
+SKY SPORTS PREMIER LEAGUE,http://f.ok2.se:8000/victor1/victor123/208
+SkyNewsArabia (ARB),http://f.ok2.se:8000/victor1/victor123/5479
+SM (ARB),http://f.ok2.se:8000/victor1/victor123/5752
+SONY SIX HD,http://f.ok2.se:8000/victor1/victor123/193
+SPACETOONARABIC (ARB),http://f.ok2.se:8000/victor1/victor123/5399
+SPORTS MAX 1 (JAMAICA),http://f.ok2.se:8000/victor1/victor123/82906
+SPORTS MAX 2 (JAMAICA),http://f.ok2.se:8000/victor1/victor123/82905
+SPORTS MAX CRICKET (JAMAICA),http://f.ok2.se:8000/victor1/victor123/82904
+SPORTS MAX PLUS (JAMAICA),http://f.ok2.se:8000/victor1/victor123/82903
+SSBC (ARB),http://f.ok2.se:8000/victor1/victor123/69310
+SSPORT 1 AF,http://f.ok2.se:8000/victor1/victor123/81963
+SSPORT 2 AF,http://f.ok2.se:8000/victor1/victor123/81962
+SSPORT 3 AF,http://f.ok2.se:8000/victor1/victor123/81961
+SSPORT 4 AF,http://f.ok2.se:8000/victor1/victor123/81960
+SSPORT 5 AF,http://f.ok2.se:8000/victor1/victor123/81959
+SSPORT 6 AF,http://f.ok2.se:8000/victor1/victor123/81958
+SSPORT 7 AF,http://f.ok2.se:8000/victor1/victor123/81957
+SSPORT 8 AF,http://f.ok2.se:8000/victor1/victor123/81952
+SSPORT 9 AF,http://f.ok2.se:8000/victor1/victor123/81950
+SSPORT 10 AF,http://f.ok2.se:8000/victor1/victor123/81949
+SSPORT 11 AF,http://f.ok2.se:8000/victor1/victor123/81948
+SSPORT 12 AF,http://f.ok2.se:8000/victor1/victor123/81947
+STAR SPORTS 2 HD,http://f.ok2.se:8000/victor1/victor123/202
+STAR SPORTS HINDI,http://f.ok2.se:8000/victor1/victor123/201
+STAR TREK THE NEX GEN 24X7,http://f.ok2.se:8000/victor1/victor123/70539
+STARCINEMA1 (ARB),http://f.ok2.se:8000/victor1/victor123/5403
+STARCINEMA2 (ARB),http://f.ok2.se:8000/victor1/victor123/5402
+SUDANIA24HD (ARB),http://f.ok2.se:8000/victor1/victor123/72687
+Sudanmonwaat (ARB),http://f.ok2.se:8000/victor1/victor123/5732
+SUDANMUSIC (ARB),http://f.ok2.se:8000/victor1/victor123/72684
+SUDANSPORT (ARB),http://f.ok2.se:8000/victor1/victor123/72685
+SudanTV (ARB),http://f.ok2.se:8000/victor1/victor123/5677
+SUHAILTV (ARB),http://f.ok2.se:8000/victor1/victor123/5434
+SUPERWOMAN 24X7,http://f.ok2.se:8000/victor1/victor123/6590
+SUROYOTV (ARB),http://f.ok2.se:8000/victor1/victor123/72686
+SYRIADRAMA (ARB),http://f.ok2.se:8000/victor1/victor123/5594
+SYRIASATELLITETV (ARB),http://f.ok2.se:8000/victor1/victor123/5683
+TAHA (ARB),http://f.ok2.se:8000/victor1/victor123/5570
+TAL2ARO3B (ARB),http://f.ok2.se:8000/victor1/victor123/5604
+TAMAZIGHT (ARB),http://f.ok2.se:8000/victor1/victor123/72729
+TanasohTV (ARB),http://f.ok2.se:8000/victor1/victor123/5793
+Tanasuh (ARB),http://f.ok2.se:8000/victor1/victor123/5756
+TATT7 (ARB),http://f.ok2.se:8000/victor1/victor123/5338
+TEATROTUBE (ARB),http://f.ok2.se:8000/victor1/victor123/5339
+TELE AZTECA (HONDURAS),http://f.ok2.se:8000/victor1/victor123/65591
+TelelibanTV (ARB),http://f.ok2.se:8000/victor1/victor123/5747
+TELEMUNDO KBLR-LAS VEGAS,http://f.ok2.se:8000/victor1/victor123/82401
+TELEMUNDO KCSO-SACRAMENTO,http://f.ok2.se:8000/victor1/victor123/82402
+TELEMUNDO KDEN-DENVER,http://f.ok2.se:8000/victor1/victor123/82403
+TELEMUNDO KHRR-TUSCON,http://f.ok2.se:8000/victor1/victor123/82411
+TELEMUNDO KNSD-SAN DIEGO,http://f.ok2.se:8000/victor1/victor123/82391
+TELEMUNDO KNSO-FRESNO,http://f.ok2.se:8000/victor1/victor123/82410
+TELEMUNDO KSTS-SAN JOSE,http://f.ok2.se:8000/victor1/victor123/82409
+TELEMUNDO KTAZ-PHOENIX,http://f.ok2.se:8000/victor1/victor123/82408
+TELEMUNDO KTDO-EL PASO,http://f.ok2.se:8000/victor1/victor123/82407
+TELEMUNDO KTLM-RIO GRANDE,http://f.ok2.se:8000/victor1/victor123/82406
+TELEMUNDO KTMD-HOUSTON,http://f.ok2.se:8000/victor1/victor123/82405
+TELEMUNDO KUAN-SAN DIEGO,http://f.ok2.se:8000/victor1/victor123/82404
+TELEMUNDO KVDA-SAN ANTONIO,http://f.ok2.se:8000/victor1/victor123/82400
+TELEMUNDO KVEA-LOS ANGELES,http://f.ok2.se:8000/victor1/victor123/82399
+TELEMUNDO KXTX-DALLAS,http://f.ok2.se:8000/victor1/victor123/82398
+TELEMUNDO WKTB-ATLANTA,http://f.ok2.se:8000/victor1/victor123/82397
+TELEMUNDO WNEU-BOSTON,http://f.ok2.se:8000/victor1/victor123/82396
+TELEMUNDO WNJU-NEW YORK CITY,http://f.ok2.se:8000/victor1/victor123/82395
+TELEMUNDO WRDM-HARTFORD,http://f.ok2.se:8000/victor1/victor123/82390
+TELEMUNDO WRMD-TAMPA,http://f.ok2.se:8000/victor1/victor123/82387
+TELEMUNDO WSCV-FORT LAUDERDALE,http://f.ok2.se:8000/victor1/victor123/82394
+TELEMUNDO WSNS-CHICAGO,http://f.ok2.se:8000/victor1/victor123/82389
+TELEMUNDO WWDT-FORT MEYERS,http://f.ok2.se:8000/victor1/victor123/82388
+TELEMUNDO WWSI-PHILADELPHIA,http://f.ok2.se:8000/victor1/victor123/82393
+TELEMUNDO WZDC-WASHINGTON DC,http://f.ok2.se:8000/victor1/victor123/82392
+TELEORO (PUERTO RICO),http://f.ok2.se:8000/victor1/victor123/65594
+TELEPACIFIC,http://f.ok2.se:8000/victor1/victor123/3230
+Ten (ARB),http://f.ok2.se:8000/victor1/victor123/5486
+TEN 1,http://f.ok2.se:8000/victor1/victor123/4193
+TEN 2,http://f.ok2.se:8000/victor1/victor123/4194
+TEN 3,http://f.ok2.se:8000/victor1/victor123/4195
+THE A-TEAM 24X7,http://f.ok2.se:8000/victor1/victor123/70538
+TheSavior (ARB),http://f.ok2.se:8000/victor1/victor123/5446
+TIMES NOW (NA),http://f.ok2.se:8000/victor1/victor123/9629
+TimeSHA3BEYAT (ARB),http://f.ok2.se:8000/victor1/victor123/5389
+TOKTOKAFLAM (ARB),http://f.ok2.se:8000/victor1/victor123/5710
+TokTokCima (ARB),http://f.ok2.se:8000/victor1/victor123/5477
+TopCinema (ARB),http://f.ok2.se:8000/victor1/victor123/5706
+TRTELARABIYE (ARB),http://f.ok2.se:8000/victor1/victor123/72683
+TunisiaNat1 (ARB),http://f.ok2.se:8000/victor1/victor123/5660
+TunisiaNat2 (ARB),http://f.ok2.se:8000/victor1/victor123/5621
+TunisieTelevsion1 (ARB),http://f.ok2.se:8000/victor1/victor123/5622
+TUNISNA (ARB),http://f.ok2.se:8000/victor1/victor123/5779
+TV ASIA HD (NA),http://f.ok2.se:8000/victor1/victor123/409
+TV5 (ARB),http://f.ok2.se:8000/victor1/victor123/72715
+TV8 (IRN),http://f.ok2.se:8000/victor1/victor123/10270
+TVJ 1 (JAMAICA),http://f.ok2.se:8000/victor1/victor123/82902
+UBERAFLAM (ARB),http://f.ok2.se:8000/victor1/victor123/5728
+UBERCIMA (ARB),http://f.ok2.se:8000/victor1/victor123/5726
+UBERCLASSIC (ARB),http://f.ok2.se:8000/victor1/victor123/5727
+UBERDRAMA (ARB),http://f.ok2.se:8000/victor1/victor123/5724
+UBERFILM (ARB),http://f.ok2.se:8000/victor1/victor123/5723
+UMF TV 24X7,http://f.ok2.se:8000/victor1/victor123/7831
+VITALYZD TV 24X7,http://f.ok2.se:8000/victor1/victor123/6592
+VO ATV PERSIAN (IRN),http://f.ok2.se:8000/victor1/victor123/10272
+VRAK (FR),http://f.ok2.se:8000/victor1/victor123/2408
+WANASAH (ARB),http://f.ok2.se:8000/victor1/victor123/5452
+WATANTV (ARB),http://f.ok2.se:8000/victor1/victor123/69293
+WESALTV (ARB),http://f.ok2.se:8000/victor1/victor123/72712
+Yemen (ARB),http://f.ok2.se:8000/victor1/victor123/5307
+YEMENSHABAB (ARB),http://f.ok2.se:8000/victor1/victor123/5808
+YEMENTODAYTV (ARB),http://f.ok2.se:8000/victor1/victor123/72681
+ZADTV (ARB),http://f.ok2.se:8000/victor1/victor123/72678
+ZANJAN TV (IRN),http://f.ok2.se:8000/victor1/victor123/43405
+ZAYTOONA (ARB),http://f.ok2.se:8000/victor1/victor123/5439
+ZEEAFLAM (ARB),http://f.ok2.se:8000/victor1/victor123/72458
+ZeeAlwan (ARB),http://f.ok2.se:8000/victor1/victor123/5598
+ROAD TODAY (PNJ) (CND),http://f.ok2.se:8000/victor1/victor123/87034
+SEE TV (CND) (PK) - NEW,http://f.ok2.se:8000/victor1/victor123/87035
+TEHLKA (PNJ),http://f.ok2.se:8000/victor1/victor123/88707
+AWAZ TV (PK),http://f.ok2.se:8000/victor1/victor123/90968
+RANGLA PUNJAB (PNJ),http://f.ok2.se:8000/victor1/victor123/96379
+NBA HD,http://f.ok2.se:8000/victor1/victor123/83330
+NBA 1 (TSN 5),http://f.ok2.se:8000/victor1/victor123/83331
+NBA 2 (SNET 1),http://f.ok2.se:8000/victor1/victor123/83332
+NBA 3 (TSN 3),http://f.ok2.se:8000/victor1/victor123/83333
+NHL NET HD,http://f.ok2.se:8000/victor1/victor123/42395
+NHL 1 (SNET O),http://f.ok2.se:8000/victor1/victor123/8895
+NHL 2 (SNET 360),http://f.ok2.se:8000/victor1/victor123/8892
+MLB NET HD,http://f.ok2.se:8000/victor1/victor123/96564
+MLB STRIKE ZONE HD,http://f.ok2.se:8000/victor1/victor123/96565
+SPECTRUM SPORTSNET LA HD,http://f.ok2.se:8000/victor1/victor123/96567
+MLB 1 (ESPN),http://f.ok2.se:8000/victor1/victor123/96568
+MLB 2 (ESPN 2),http://f.ok2.se:8000/victor1/victor123/96569
+MLB 3 (FOX EAST),http://f.ok2.se:8000/victor1/victor123/96570
+MLB 4 (FOX SPORTS 1),http://f.ok2.se:8000/victor1/victor123/96571
+MLB 5 (TBS),http://f.ok2.se:8000/victor1/victor123/96572
+PPV 3 - (EN) UFC 252 - 08/15 - 10 PM 
+
 
 MOVICES,#genre#
 HBO 1 HD,http://f.ok2.se:8000/victor1/victor123/26321
@@ -947,7 +2710,8 @@ vi松视一台,https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w15
 娱乐频道,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
 娱乐频道2,https://5a2a51fc4cfde.streamlock.net/free/_definst_/Stream1/playlist.m3u8
 欢乐台,https://717616144.r.worldssl.net/717616144/tv/ttv12/playlist.m3u8
-XXX: TINY 4K,http://randomserver.site:2086/wickeduk/etqyhww45e/72539
+XTINY 4K,http://randomserver.site:2086/wickeduk/etqyhww45e/72539
+BRAZIL TUBE - 03,http://randomserver.site:2086/wickeduk/etqyhww45e/91366
 HOT,http://185.236.229.4:8000/play/a13h
 MILF HD,http://live.redtraffic.xyz/milf.m3u8
 Exxxotica HD,http://born-tv.ga/id0390/index.m3u8?token=brighid
