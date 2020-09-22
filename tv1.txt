@@ -3,20 +3,56 @@ CA TV,#genre#
 *CNN HD,http://f.ok2.se:8000/victor1/victor123/360
 BBC WORLD NEWS,http://f.ok2.se:8000/victor1/victor123/9546
 *FOX NEWS HD,http://f.ok2.se:8000/victor1/victor123/363
-CBS NEWS HD,http://f.ok2.se:8000/victor1/victor123/3078
-ABC NEWS HD,http://f.ok2.se:8000/victor1/victor123/3077
 CNBC HD,http://f.ok2.se:8000/victor1/victor123/364
 MSNBC HD,http://f.ok2.se:8000/victor1/victor123/365
-DW NEWS,http://f.ok2.se:8000/victor1/victor123/67410
-EURONEWS,http://f.ok2.se:8000/victor1/victor123/67409
-RANCE 24,http://f.ok2.se:8000/victor1/victor123/4796
-CCTV NEWS,http://f.ok2.se:8000/victor1/victor123/3965
-RTE NEWS NOW,http://f.ok2.se:8000/victor1/victor123/7191
-RT NEWS ENGLISH,http://f.ok2.se:8000/victor1/victor123/512
-TRT WORLD HD (TR),http://f.ok2.se:8000/victor1/victor123/27136
+CBS NEWS HD,http://f.ok2.se:8000/victor1/victor123/3078
 CBC NEWS HD,http://f.ok2.se:8000/victor1/victor123/361
 CTV NEWS NETWORK HD,http://f.ok2.se:8000/victor1/victor123/2423
+TRT WORLD HD (TR),http://f.ok2.se:8000/victor1/victor123/27136
+EURONEWS,http://f.ok2.se:8000/victor1/victor123/67409
+DW NEWS,http://f.ok2.se:8000/victor1/victor123/67410
+FRANCE 24,http://f.ok2.se:8000/victor1/victor123/4796
+CCTV NEWS,http://f.ok2.se:8000/victor1/victor123/3965
+RT NEWS ENGLISH,http://f.ok2.se:8000/victor1/victor123/512
+OMNI BC - NEW,http://f.ok2.se:8000/victor1/victor123/71287
+ALJAZEERA ENGLISH,http://f.ok2.se:8000/victor1/victor123/1661
+FOX NEWS BUSINESS,http://f.ok2.se:8000/victor1/victor123/4600
+BNN HD,http://f.ok2.se:8000/victor1/victor123/366
 
+NAT GEO HD,http://f.ok2.se:8000/victor1/victor123/330
+*NAT GEO WILD HD,http://f.ok2.se:8000/victor1/victor123/331
+ANIMAL PLANET HD,http://f.ok2.se:8000/victor1/victor123/332
+×DISCOVERY HD (CDN),http://f.ok2.se:8000/victor1/victor123/319
+DISCOVERY HD (USA),http://f.ok2.se:8000/victor1/victor123/56250
+DISCOVERY SCIENCE HD,http://f.ok2.se:8000/victor1/victor123/320
+DISCOVERY FAMILY HD - NEW,http://f.ok2.se:8000/victor1/victor123/59034
+
+MOVIE TIME HD,http://f.ok2.se:8000/victor1/victor123/369
+SHOWCASE HD,http://f.ok2.se:8000/victor1/victor123/346
+*ID HD,http://f.ok2.se:8000/victor1/victor123/324
+YES TV,http://f.ok2.se:8000/victor1/victor123/6962
+FX HD,http://f.ok2.se:8000/victor1/victor123/314
+FXX HD,http://f.ok2.se:8000/victor1/victor123/315
+TRU TV HD,http://f.ok2.se:8000/victor1/victor123/340
+LIFE HD,http://f.ok2.se:8000/victor1/victor123/325
+*LIFETIME MOVIES HD,http://f.ok2.se:8000/victor1/victor123/326
+CINEMAX EAST HD - NEW,http://f.ok2.se:8000/victor1/victor123/380
+ACTION MAX HD - NEW,http://f.ok2.se:8000/victor1/victor123/383
+MORE MAX HD - NEW,http://f.ok2.se:8000/victor1/victor123/381
+THRILLER MAX HD,http://f.ok2.se:8000/victor1/victor123/80332
+5STAR MAX HD - NEW,http://f.ok2.se:8000/victor1/victor123/382
+IFC HD,http://f.ok2.se:8000/victor1/victor123/327
+APTN - NEW,http://f.ok2.se:8000/victor1/victor123/67104
+COMEDY NETWORK HD,http://f.ok2.se:8000/victor1/victor123/316
+SYFY HD,http://f.ok2.se:8000/victor1/victor123/339
+CTV-SCIFI HD (SPACE),http://f.ok2.se:8000/victor1/victor123/8110
+PPV MOVIES,http://f.ok2.se:8000/victor1/victor123/8784
+SCIENCE FICTION NEW,http://f.ok2.se:8000/victor1/victor123/8887
+007 4 LIFE HD,http://f.ok2.se:8000/victor1/victor123/7493
+
+AMC HD,http://f.ok2.se:8000/victor1/victor123/334
+*A&E HD,http://f.ok2.se:8000/victor1/victor123/347
+ABC SPARK HD,http://f.ok2.se:8000/victor1/victor123/4063
 NBC HD EAST,http://f.ok2.se:8000/victor1/victor123/7
 CBS HD EAST,http://f.ok2.se:8000/victor1/victor123/8
 ABC HD EAST,http://f.ok2.se:8000/victor1/victor123/10
@@ -26,164 +62,25 @@ ABC HD WEST,http://f.ok2.se:8000/victor1/victor123/306
 CBS HD WEST,http://f.ok2.se:8000/victor1/victor123/304
 FOX HD WEST,http://f.ok2.se:8000/victor1/victor123/305
 
-BIG 10 HD,http://f.ok2.se:8000/victor1/victor123/3950
-LEAFS TV,http://f.ok2.se:8000/victor1/victor123/59039
-MSG HD - NEW,http://f.ok2.se:8000/victor1/victor123/10052
-YES NETWORK HD,http://f.ok2.se:8000/victor1/victor123/10034
-MLB NETWORK HD,http://f.ok2.se:8000/victor1/victor123/2193
-GOLF HD,http://f.ok2.se:8000/victor1/victor123/166
-WWE HD,http://f.ok2.se:8000/victor1/victor123/168
-NESN HD,http://f.ok2.se:8000/victor1/victor123/96372
-TENNIS HD,http://f.ok2.se:8000/victor1/victor123/167
-MAVTV,http://f.ok2.se:8000/victor1/victor123/68854
-FIGHT - NEW,http://f.ok2.se:8000/victor1/victor123/71284
-TVG - NEW,http://f.ok2.se:8000/victor1/victor123/59036
-TVG 2 - NEW,http://f.ok2.se:8000/victor1/victor123/81931
-WFN,http://f.ok2.se:8000/victor1/victor123/26231
-OUTDOOR CHANNEL,http://f.ok2.se:8000/victor1/victor123/9049
-SPORTSMAN NETWORK,http://f.ok2.se:8000/victor1/victor123/9050
-CTV HD (MTL),http://f.ok2.se:8000/victor1/victor123/2398
-*CTV EAST HD,http://f.ok2.se:8000/victor1/victor123/16
-CTV NORTH,http://f.ok2.se:8000/victor1/victor123/17
-CTV KITCHNER - NEW,http://f.ok2.se:8000/victor1/victor123/71277
-CTV HALIFAX,http://f.ok2.se:8000/victor1/victor123/4074
-CTV MONCTON - NEW,http://f.ok2.se:8000/victor1/victor123/71282
-CTV NB - NEW,http://f.ok2.se:8000/victor1/victor123/71283
-CTV2 ATLANTIC,http://f.ok2.se:8000/victor1/victor123/71425
-CTV2 LONDON,http://f.ok2.se:8000/victor1/victor123/88493
-CTV OTTAWA - NEW,http://f.ok2.se:8000/victor1/victor123/65625
-CTV 2 OTTAWA - NEW,http://f.ok2.se:8000/victor1/victor123/59130
-CTV WINNIPEG,http://f.ok2.se:8000/victor1/victor123/63327
-CTV EDMONTON - NEW,http://f.ok2.se:8000/victor1/victor123/65628
-CTV CALGARY,http://f.ok2.se:8000/victor1/victor123/7338
-CTV VANCOUVER HD,http://f.ok2.se:8000/victor1/victor123/310
-CTV 2 VANCOUVER HD,http://f.ok2.se:8000/victor1/victor123/2418
-CBC HD (MTL),http://f.ok2.se:8000/victor1/victor123/15074
-CBC EAST HD,http://f.ok2.se:8000/victor1/victor123/18
-CBC WINDSOR - NEW,http://f.ok2.se:8000/victor1/victor123/71279
-CBC HALIFAX,http://f.ok2.se:8000/victor1/victor123/4075
-CBC ATLANTIC - NEW,http://f.ok2.se:8000/victor1/victor123/71278
-CBC CHARLOTTETOWN HD,http://f.ok2.se:8000/victor1/victor123/72691
-CBC OTTAWA - NEW,http://f.ok2.se:8000/victor1/victor123/45499
-CBC WINNIPEG - NEW,http://f.ok2.se:8000/victor1/victor123/46716
-CBC CALGARY,http://f.ok2.se:8000/victor1/victor123/7339
-CBC VANCOUVER HD,http://f.ok2.se:8000/victor1/victor123/309
-CBC EDMONTON - NEW,http://f.ok2.se:8000/victor1/victor123/46715
-CITY TV HD,http://f.ok2.se:8000/victor1/victor123/14
-CITY HD (MTL),http://f.ok2.se:8000/victor1/victor123/15073
-CITY WINNIPEG,http://f.ok2.se:8000/victor1/victor123/71424
-CITY CALGARY - NEW,http://f.ok2.se:8000/victor1/victor123/71280
-CITY VANCOUVER HD,http://f.ok2.se:8000/victor1/victor123/311
-GLOBAL HD (MTL),http://f.ok2.se:8000/victor1/victor123/2397
-GLOBAL EDMONTON - NEW,http://f.ok2.se:8000/victor1/victor123/65627
-GLOBAL LETHBRIDGE - NEW,http://f.ok2.se:8000/victor1/victor123/71285
-*GLOBAL EAST HD,http://f.ok2.se:8000/victor1/victor123/15
-GLOBAL BC HD,http://f.ok2.se:8000/victor1/victor123/308
-OMNI CALGARY - NEW,http://f.ok2.se:8000/victor1/victor123/71286
-OMNI PRAIRIES - NEW,http://f.ok2.se:8000/victor1/victor123/71288
-BC1 HD,http://f.ok2.se:8000/victor1/victor123/307
-OMNI BC - NEW,http://f.ok2.se:8000/victor1/victor123/71287
-CHEK VANCOUVER HD,http://f.ok2.se:8000/victor1/victor123/2419
-*USA NETWORK HD,http://f.ok2.se:8000/victor1/victor123/312
-GSN HD - NEW,http://f.ok2.se:8000/victor1/victor123/12769
-TV LAND HD,http://f.ok2.se:8000/victor1/victor123/313
-DEJAVIEW  - NEW,http://f.ok2.se:8000/victor1/victor123/48517
-BEACON TV - NEW,http://f.ok2.se:8000/victor1/victor123/56247
-METV HD - NEW,http://f.ok2.se:8000/victor1/victor123/15072
-YES TV,http://f.ok2.se:8000/victor1/victor123/6962
-FX HD,http://f.ok2.se:8000/victor1/victor123/314
-FXX HD,http://f.ok2.se:8000/victor1/victor123/315
-TRU TV HD,http://f.ok2.se:8000/victor1/victor123/340
-COMEDY NETWORK HD,http://f.ok2.se:8000/victor1/victor123/316
-*TBS HD,http://f.ok2.se:8000/victor1/victor123/317
-PARAMOUNT NETWORK HD,http://f.ok2.se:8000/victor1/victor123/318
-SMITHSONIAN HD,http://f.ok2.se:8000/victor1/victor123/3951
-OXYGEN HD - NEW,http://f.ok2.se:8000/victor1/victor123/59037
-ION HD - NEW,http://f.ok2.se:8000/victor1/victor123/59033
 *HISTORY HD,http://f.ok2.se:8000/victor1/victor123/322
-*ID HD,http://f.ok2.se:8000/victor1/victor123/324
-LIFE HD,http://f.ok2.se:8000/victor1/victor123/325
-*LIFETIME MOVIES HD,http://f.ok2.se:8000/victor1/victor123/326
-IFC HD,http://f.ok2.se:8000/victor1/victor123/327
-POP HD,http://f.ok2.se:8000/victor1/victor123/82603
-*TLC HD,http://f.ok2.se:8000/victor1/victor123/328
+TRAVEL HD,http://f.ok2.se:8000/victor1/victor123/349
+DESTINATION AMERICA HD,http://f.ok2.se:8000/victor1/victor123/7482
+LOVE NATURE HD,http://f.ok2.se:8000/victor1/victor123/1258
+COTTAGE TV HD,http://f.ok2.se:8000/victor1/victor123/42394
+GSN HD - NEW,http://f.ok2.se:8000/victor1/victor123/12769
+
 DIY HD,http://f.ok2.se:8000/victor1/victor123/329
 FYI HD,http://f.ok2.se:8000/victor1/victor123/42684
+*HGTV HD,http://f.ok2.se:8000/victor1/victor123/335
+HGTV HD (CDN),http://f.ok2.se:8000/victor1/victor123/42685
 OLN - NEW,http://f.ok2.se:8000/victor1/victor123/67103
-LOVE NATURE HD,http://f.ok2.se:8000/victor1/victor123/1258
-MAKEFUL - NEW,http://f.ok2.se:8000/victor1/victor123/67102
-
 COOKING CHANNEL HD,http://f.ok2.se:8000/victor1/victor123/6108
 FOOD HD,http://f.ok2.se:8000/victor1/victor123/333
 FOOD HD (USA),http://f.ok2.se:8000/victor1/victor123/80508
-GUSTO - NEW,http://f.ok2.se:8000/victor1/victor123/67101
-APTN - NEW,http://f.ok2.se:8000/victor1/victor123/67104
-OUT TV - NEW,http://f.ok2.se:8000/victor1/victor123/67116
-GINX (CDN) - NEW,http://f.ok2.se:8000/victor1/victor123/67115
-MOTOR TREND HD,http://f.ok2.se:8000/victor1/victor123/367
-VICELAND HD,http://f.ok2.se:8000/victor1/victor123/323
-AMC HD,http://f.ok2.se:8000/victor1/victor123/334
-ELREY HD - NEW,http://f.ok2.se:8000/victor1/victor123/10046
-SUNDANCE HD - NEW,http://f.ok2.se:8000/victor1/victor123/10039
-*HGTV HD,http://f.ok2.se:8000/victor1/victor123/335
-HGTV HD (CDN),http://f.ok2.se:8000/victor1/victor123/42685
-COTTAGE TV HD,http://f.ok2.se:8000/victor1/victor123/42394
-PEACHTREE HD,http://f.ok2.se:8000/victor1/victor123/337
-WGN HD - NEW,http://f.ok2.se:8000/victor1/victor123/9163
-E! HD,http://f.ok2.se:8000/victor1/victor123/338
-BOOK - NEW,http://f.ok2.se:8000/victor1/victor123/67100
-SYFY HD,http://f.ok2.se:8000/victor1/victor123/339
-CTV-SCIFI HD (SPACE),http://f.ok2.se:8000/victor1/victor123/8110
-
-WE TV HD,http://f.ok2.se:8000/victor1/victor123/342
 SLICE HD,http://f.ok2.se:8000/victor1/victor123/343
-W NETWORK HD,http://f.ok2.se:8000/victor1/victor123/344
-SHOWCASE HD,http://f.ok2.se:8000/victor1/victor123/346
-*A&E HD,http://f.ok2.se:8000/victor1/victor123/347
-OWN HD,http://f.ok2.se:8000/victor1/victor123/348
-QVC - NEW,http://f.ok2.se:8000/victor1/victor123/67097
-TSC - NEW,http://f.ok2.se:8000/victor1/victor123/67098
-TRAVEL HD,http://f.ok2.se:8000/victor1/victor123/349
-DESTINATION AMERICA HD,http://f.ok2.se:8000/victor1/victor123/7482
-MTV HD,http://f.ok2.se:8000/victor1/victor123/350
-MTV 2 HD - NEW,http://f.ok2.se:8000/victor1/victor123/69011
-BET HD,http://f.ok2.se:8000/victor1/victor123/351
-BET HER HD - NEW,http://f.ok2.se:8000/victor1/victor123/69008
-REVOLT HD - NEW,http://f.ok2.se:8000/victor1/victor123/10042
-CMT HD  - NEW,http://f.ok2.se:8000/victor1/victor123/12266
-MUCH MUSIC HD,http://f.ok2.se:8000/victor1/victor123/4141
-BRAVO HD,http://f.ok2.se:8000/victor1/victor123/353
-*VH1 HD,http://f.ok2.se:8000/victor1/victor123/354
-VH1 (US) - NEW,http://f.ok2.se:8000/victor1/victor123/70262
-VISION HD,http://f.ok2.se:8000/victor1/victor123/355
-PBS HD,http://f.ok2.se:8000/victor1/victor123/356
-CHCH HD,http://f.ok2.se:8000/victor1/victor123/358
-CW11 HD,http://f.ok2.se:8000/victor1/victor123/359
-CW11 HD WEST,http://f.ok2.se:8000/victor1/victor123/2421
-BBC CANADA - NEW,http://f.ok2.se:8000/victor1/victor123/46724
-BBC AMERICA HD,http://f.ok2.se:8000/victor1/victor123/357
-HLN HD,http://f.ok2.se:8000/victor1/victor123/362
-FOX NEWS BUSINESS,http://f.ok2.se:8000/victor1/victor123/4600
-BLOOMBERG HD (NA),http://f.ok2.se:8000/victor1/victor123/1662
-BNN HD,http://f.ok2.se:8000/victor1/victor123/366
-WEATHER CANADA,http://f.ok2.se:8000/victor1/victor123/3079
-WEATHER USA HD,http://f.ok2.se:8000/victor1/victor123/3080
-ALJAZEERA ENGLISH,http://f.ok2.se:8000/victor1/victor123/1661
-RT DOCUMENTARY,http://f.ok2.se:8000/victor1/victor123/3075
-TCM HD,http://f.ok2.se:8000/victor1/victor123/368
-MOVIE TIME HD,http://f.ok2.se:8000/victor1/victor123/369
-ADULT SWIM HD,http://f.ok2.se:8000/victor1/victor123/370
-FXM HD,http://f.ok2.se:8000/victor1/victor123/56246
-PPV MOVIES,http://f.ok2.se:8000/victor1/victor123/8784
-SCIENCE FICTION NEW,http://f.ok2.se:8000/victor1/victor123/8887
-007 4 LIFE HD,http://f.ok2.se:8000/victor1/victor123/7493
+FAMILY HD,http://f.ok2.se:8000/victor1/victor123/396
+MOTOR TREND HD,http://f.ok2.se:8000/victor1/victor123/367
 
-NAT GEO HD,http://f.ok2.se:8000/victor1/victor123/330
-*NAT GEO WILD HD,http://f.ok2.se:8000/victor1/victor123/331
-ANIMAL PLANET HD,http://f.ok2.se:8000/victor1/victor123/332
-×DISCOVERY HD (CDN),http://f.ok2.se:8000/victor1/victor123/319
-DISCOVERY HD (USA),http://f.ok2.se:8000/victor1/victor123/56250
-DISCOVERY SCIENCE HD,http://f.ok2.se:8000/victor1/victor123/320
 ×NBA HD,http://f.ok2.se:8000/victor1/victor123/165
 NBA HD,http://f.ok2.se:8000/victor1/victor123/83330
 NBA 1 (TSN 5),http://f.ok2.se:8000/victor1/victor123/83331
@@ -355,6 +252,7 @@ MLB 2 (ESPN 2),http://f.ok2.se:8000/victor1/victor123/96569
 MLB 3 (FOX EAST),http://f.ok2.se:8000/victor1/victor123/96570
 MLB 4 (FOX SPORTS 1),http://f.ok2.se:8000/victor1/victor123/96571
 MLB 5 (TBS),http://f.ok2.se:8000/victor1/victor123/96572
+MLB NETWORK HD,http://f.ok2.se:8000/victor1/victor123/2193
 *TSN 1 HD,http://f.ok2.se:8000/victor1/victor123/138
 *TSN 2 HD,http://f.ok2.se:8000/victor1/victor123/139
 *TSN 3 HD,http://f.ok2.se:8000/victor1/victor123/140
@@ -401,6 +299,82 @@ OMNI 2 HD,http://f.ok2.se:8000/victor1/victor123/13
 *BEIN SPORTS HD,http://f.ok2.se:8000/victor1/victor123/171
 *CBS SPORTS HD,http://f.ok2.se:8000/victor1/victor123/169
 *NBC SPORTS,http://f.ok2.se:8000/victor1/victor123/170
+
+CTV HD,http://f.ok2.se:8000/victor1/victor123/2398
+CTV2,http://f.ok2.se:8000/victor1/victor123/88493
+CITY TV HD,http://f.ok2.se:8000/victor1/victor123/14
+CITY HD (MTL),http://f.ok2.se:8000/victor1/victor123/15073
+*GLOBAL EAST HD,http://f.ok2.se:8000/victor1/victor123/15
+GLOBAL EDMONTON - NEW,http://f.ok2.se:8000/victor1/victor123/65627
+GLOBAL BC HD,http://f.ok2.se:8000/victor1/victor123/308
+BC1 HD,http://f.ok2.se:8000/victor1/victor123/307
+CHEK VANCOUVER HD,http://f.ok2.se:8000/victor1/victor123/2419
+*USA NETWORK HD,http://f.ok2.se:8000/victor1/victor123/312
+TV LAND HD,http://f.ok2.se:8000/victor1/victor123/313
+DEJAVIEW  - NEW,http://f.ok2.se:8000/victor1/victor123/48517
+BEACON TV - NEW,http://f.ok2.se:8000/victor1/victor123/56247
+METV HD - NEW,http://f.ok2.se:8000/victor1/victor123/15072
+*TBS HD,http://f.ok2.se:8000/victor1/victor123/317
+PARAMOUNT NETWORK HD,http://f.ok2.se:8000/victor1/victor123/318
+SMITHSONIAN HD,http://f.ok2.se:8000/victor1/victor123/3951
+OXYGEN HD - NEW,http://f.ok2.se:8000/victor1/victor123/59037
+ION HD - NEW,http://f.ok2.se:8000/victor1/victor123/59033
+OUT TV - NEW,http://f.ok2.se:8000/victor1/victor123/67116
+GINX (CDN) - NEW,http://f.ok2.se:8000/victor1/victor123/67115
+VICELAND HD,http://f.ok2.se:8000/victor1/victor123/323
+ELREY HD - NEW,http://f.ok2.se:8000/victor1/victor123/10046
+SUNDANCE HD - NEW,http://f.ok2.se:8000/victor1/victor123/10039
+PEACHTREE HD,http://f.ok2.se:8000/victor1/victor123/337
+WGN HD - NEW,http://f.ok2.se:8000/victor1/victor123/9163
+E! HD,http://f.ok2.se:8000/victor1/victor123/338
+BOOK - NEW,http://f.ok2.se:8000/victor1/victor123/67100
+WE TV HD,http://f.ok2.se:8000/victor1/victor123/342
+W NETWORK HD,http://f.ok2.se:8000/victor1/victor123/344
+POP HD,http://f.ok2.se:8000/victor1/victor123/82603
+*TLC HD,http://f.ok2.se:8000/victor1/victor123/328
+MAKEFUL - NEW,http://f.ok2.se:8000/victor1/victor123/67102
+OWN HD,http://f.ok2.se:8000/victor1/victor123/348
+QVC - NEW,http://f.ok2.se:8000/victor1/victor123/67097
+TSC - NEW,http://f.ok2.se:8000/victor1/victor123/67098
+MTV HD,http://f.ok2.se:8000/victor1/victor123/350
+MTV 2 HD - NEW,http://f.ok2.se:8000/victor1/victor123/69011
+BET HD,http://f.ok2.se:8000/victor1/victor123/351
+BET HER HD - NEW,http://f.ok2.se:8000/victor1/victor123/69008
+REVOLT HD - NEW,http://f.ok2.se:8000/victor1/victor123/10042
+CMT HD  - NEW,http://f.ok2.se:8000/victor1/victor123/12266
+MUCH MUSIC HD,http://f.ok2.se:8000/victor1/victor123/4141
+BRAVO HD,http://f.ok2.se:8000/victor1/victor123/353
+*VH1 HD,http://f.ok2.se:8000/victor1/victor123/354
+VH1 (US) - NEW,http://f.ok2.se:8000/victor1/victor123/70262
+VISION HD,http://f.ok2.se:8000/victor1/victor123/355
+PBS HD,http://f.ok2.se:8000/victor1/victor123/356
+CHCH HD,http://f.ok2.se:8000/victor1/victor123/358
+CW11 HD,http://f.ok2.se:8000/victor1/victor123/359
+CW11 HD WEST,http://f.ok2.se:8000/victor1/victor123/2421
+BBC CANADA - NEW,http://f.ok2.se:8000/victor1/victor123/46724
+BBC AMERICA HD,http://f.ok2.se:8000/victor1/victor123/357
+HLN HD,http://f.ok2.se:8000/victor1/victor123/362
+WEATHER CANADA,http://f.ok2.se:8000/victor1/victor123/3079
+WEATHER USA HD,http://f.ok2.se:8000/victor1/victor123/3080
+RT DOCUMENTARY,http://f.ok2.se:8000/victor1/victor123/3075
+TCM HD,http://f.ok2.se:8000/victor1/victor123/368
+ADULT SWIM HD,http://f.ok2.se:8000/victor1/victor123/370
+FXM HD,http://f.ok2.se:8000/victor1/victor123/56246
+BIG 10 HD,http://f.ok2.se:8000/victor1/victor123/3950
+LEAFS TV,http://f.ok2.se:8000/victor1/victor123/59039
+MSG HD - NEW,http://f.ok2.se:8000/victor1/victor123/10052
+YES NETWORK HD,http://f.ok2.se:8000/victor1/victor123/10034
+GOLF HD,http://f.ok2.se:8000/victor1/victor123/166
+WWE HD,http://f.ok2.se:8000/victor1/victor123/168
+NESN HD,http://f.ok2.se:8000/victor1/victor123/96372
+TENNIS HD,http://f.ok2.se:8000/victor1/victor123/167
+MAVTV,http://f.ok2.se:8000/victor1/victor123/68854
+FIGHT - NEW,http://f.ok2.se:8000/victor1/victor123/71284
+TVG - NEW,http://f.ok2.se:8000/victor1/victor123/59036
+TVG 2 - NEW,http://f.ok2.se:8000/victor1/victor123/81931
+WFN,http://f.ok2.se:8000/victor1/victor123/26231
+OUTDOOR CHANNEL,http://f.ok2.se:8000/victor1/victor123/9049
+SPORTSMAN NETWORK,http://f.ok2.se:8000/victor1/victor123/9050
 MIRACLE TV - NEW,http://f.ok2.se:8000/victor1/victor123/46721
 SONY SIX HD,http://f.ok2.se:8000/victor1/victor123/193
 SUPERWOMAN 24X7,http://f.ok2.se:8000/victor1/victor123/6590
@@ -408,22 +382,14 @@ SPECTRUM SPORTSNET LA HD,http://f.ok2.se:8000/victor1/victor123/96567
 TVO HD (NA),http://f.ok2.se:8000/victor1/victor123/391
 PBS KIDS - NEW,http://f.ok2.se:8000/victor1/victor123/15071
 YTV HD (NA),http://f.ok2.se:8000/victor1/victor123/390
-DISCOVERY FAMILY HD - NEW,http://f.ok2.se:8000/victor1/victor123/59034
 DISNEY HD EAST,http://f.ok2.se:8000/victor1/victor123/392
-ABC SPARK HD,http://f.ok2.se:8000/victor1/victor123/4063
 TREEHOUSE HD,http://f.ok2.se:8000/victor1/victor123/393
 NICKELODEON HD,http://f.ok2.se:8000/victor1/victor123/394
 CARTOON NETWORK HD,http://f.ok2.se:8000/victor1/victor123/395
-FAMILY HD,http://f.ok2.se:8000/victor1/victor123/396
 DISNEY XD HD,http://f.ok2.se:8000/victor1/victor123/397
 ENCORE WESTERN HD,http://f.ok2.se:8000/victor1/victor123/379
 SUPER CHANNEL FUSE - NEW,http://f.ok2.se:8000/victor1/victor123/71289
 VAULT (CDN) - NEW,http://f.ok2.se:8000/victor1/victor123/67114
-CINEMAX EAST HD - NEW,http://f.ok2.se:8000/victor1/victor123/380
-ACTION MAX HD - NEW,http://f.ok2.se:8000/victor1/victor123/383
-MOREMAX HD - NEW,http://f.ok2.se:8000/victor1/victor123/381
-THRILLER MAX HD,http://f.ok2.se:8000/victor1/victor123/80332
-5STAR MAX HD - NEW,http://f.ok2.se:8000/victor1/victor123/382
 NTV (NEWFOUNDLAND) - NEW,http://f.ok2.se:8000/victor1/victor123/68073
 
 PT,#genre#
