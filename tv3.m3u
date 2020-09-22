@@ -1,4 +1,1223 @@
 #EXTM3U
+#EXTM3U
+#EXTINF:-1 group-title="TEST",3E HD
+http://ingrid.ltd:25461/frank1/frank/3181
+#EXTINF:-1 group-title="TEST",4 Seven HD
+http://ingrid.ltd:25461/frank1/frank/3454
+#EXTINF:-1 group-title="TEST",4MUSIC
+http://ds-tv.co:8080/3333711936844748/160718090519/122478
+#EXTINF:-1 group-title="TEST",4Music
+http://ingrid.ltd:25461/frank1/frank/3180
+#EXTINF:-1 group-title="TEST",4SEVEN
+http://randomserver.site:2086/crystal/12345/66935
+#EXTINF:-1 group-title="TEST",4SEVEN
+http://185.232.53.4:2086/tbird/tbird/66935
+#EXTINF:-1 group-title="TEST",4SEVEN HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122479
+#EXTINF:-1 group-title="TEST",5 STAR
+http://ds-tv.co:8080/3333711936844748/160718090519/122481
+#EXTINF:-1 group-title="TEST",5Star HD
+http://ingrid.ltd:25461/frank1/frank/3453
+#EXTINF:-1 group-title="TEST",5USA HD
+http://ingrid.ltd:25461/frank1/frank/3448
+#EXTINF:-1 group-title="TEST",5USA_SD
+http://mhiptv.com:8888/22558899/22558899/2815
+#EXTINF:-1 group-title="TEST",5USA_SD
+http://mhiptv.com:8888/noval/123456/2815
+#EXTINF:-1 group-title="TEST",AL JAZEERA ENG
+http://185.232.53.4:2086/tbird/tbird/66946
+#EXTINF:-1 group-title="TEST",AL JAZEERA ENG
+http://randomserver.site:2086/crystal/12345/66946
+#EXTINF:-1 group-title="TEST",ALIBI HD
+http://ingrid.ltd:25461/frank1/frank/3452
+#EXTINF:-1 group-title="TEST",ANIMAL PLANET
+http://193.33.39.108:8107/30704
+#EXTINF:-1 group-title="TEST",Ahlulbayt TV
+http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="TEST",Arab's Sky News (Backup), makkah, Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
+#EXTINF:-1 group-title="TEST",At The Races
+http://ingrid.ltd:25461/frank1/frank/23496
+#EXTINF:-1 group-title="TEST",At_the_races_SD
+http://mhiptv.com:8888/noval/123456/2830
+#EXTINF:-1 group-title="TEST",At_the_races_SD
+http://mhiptv.com:8888/22558899/22558899/2830
+#EXTINF:-1 group-title="TEST",BBC 1 FHD
+http://ingrid.ltd:25461/frank1/frank/39727
+#EXTINF:-1 group-title="TEST",BBC 1 Scotland, UK | BBC 1 Scotland
+https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="TEST",BBC 2 FHD
+http://ingrid.ltd:25461/frank1/frank/39726
+#EXTINF:-1 group-title="TEST",BBC 4 FHD /CBEEBIES
+http://ingrid.ltd:25461/frank1/frank/39724
+#EXTINF:-1 group-title="TEST",BBC 4 HD
+http://ingrid.ltd:25461/frank1/frank/3447
+#EXTINF:-1 group-title="TEST",BBC ALBA
+http://ds-tv.co:8080/3333711936844748/160718090519/122485
+#EXTINF:-1 group-title="TEST",BBC Arabic
+http://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/bbc_arabic_tv-pa4%3d128000-video%3d5070016.m3u8
+#EXTINF:-1 group-title="TEST",BBC Cbeebies, Cbeebies
+http://51.52.156.22:8888/http/003
+#EXTINF:-1 group-title="TEST",BBC FOUR FULL HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122486
+#EXTINF:-1 group-title="TEST",BBC NEWS FHD
+http://ingrid.ltd:25461/frank1/frank/39723
+#EXTINF:-1 group-title="TEST",BBC NEWS HD
+http://185.232.53.4:2086/tbird/tbird/90878
+#EXTINF:-1 group-title="TEST",BBC News, UK | BBC News
+https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="TEST",BBC News
+http://51.52.156.22:8888/http/004
+#EXTINF:-1 group-title="TEST",BBC ONE EAST
+http://ds-tv.co:8080/3333711936844748/160718090519/122488
+#EXTINF:-1 group-title="TEST",BBC ONE EAST
+http://randomserver.site:2086/crystal/12345/31878
+#EXTINF:-1 group-title="TEST",BBC ONE EAST MIDLANDS
+http://ds-tv.co:8080/3333711936844748/160718090519/122489
+#EXTINF:-1 group-title="TEST",BBC ONE HD
+http://randomserver.site:2086/crystal/12345/90864
+#EXTINF:-1 group-title="TEST",BBC ONE NORTH EAST
+http://ds-tv.co:8080/3333711936844748/160718090519/122493
+#EXTINF:-1 group-title="TEST",BBC ONE OXFORD
+http://ds-tv.co:8080/3333711936844748/160718090519/122496
+#EXTINF:-1 group-title="TEST",BBC ONE SCOTLAND FULL HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122497
+#EXTINF:-1 group-title="TEST",BBC ONE SOUTH EAST
+http://ds-tv.co:8080/3333711936844748/160718090519/122499
+#EXTINF:-1 group-title="TEST",BBC ONE WEST MIDLANDS
+http://ds-tv.co:8080/3333711936844748/160718090519/122502
+#EXTINF:-1 group-title="TEST",BBC ONE YORKS
+http://ds-tv.co:8080/3333711936844748/160718090519/122503
+#EXTINF:-1 group-title="TEST",BBC PARLIAMENT
+http://ds-tv.co:8080/3333711936844748/160718090519/122504
+#EXTINF:-1 group-title="TEST",BBC SCOTLAND
+http://185.232.53.4:2086/tbird/tbird/98711
+#EXTINF:-1 group-title="TEST",BBC TWO NOTHERN IRELAND
+http://ds-tv.co:8080/3333711936844748/160718090519/122507
+#EXTINF:-1 group-title="TEST",BBC TWO SCOTLAND
+http://ds-tv.co:8080/3333711936844748/160718090519/122508
+#EXTINF:-1 group-title="TEST",BBC TWO WALES
+http://ds-tv.co:8080/3333711936844748/160718090519/122509
+#EXTINF:-1 group-title="TEST",BBC_Four_SD
+http://mhiptv.com:8888/22558899/22558899/2827
+#EXTINF:-1 group-title="TEST",BBC_Four_SD
+http://mhiptv.com:8888/noval/123456/2827
+#EXTINF:-1 group-title="TEST",BBC_NEWS_SD
+http://mhiptv.com:8888/noval/123456/2826
+#EXTINF:-1 group-title="TEST",BBC_NEWS_SD
+http://mhiptv.com:8888/22558899/22558899/2826
+#EXTINF:-1 group-title="TEST",BBC_One_ SD
+http://mhiptv.com:8888/noval/123456/2861
+#EXTINF:-1 group-title="TEST",BBC_One_ SD
+http://mhiptv.com:8888/22558899/22558899/2861
+#EXTINF:-1 group-title="TEST",BBC_Three
+http://mhiptv.com:8888/22558899/22558899/2835
+#EXTINF:-1 group-title="TEST",BBC_Three
+http://mhiptv.com:8888/noval/123456/2835
+#EXTINF:-1 group-title="TEST",BBC_Two_SD
+http://mhiptv.com:8888/22558899/22558899/2851
+#EXTINF:-1 group-title="TEST",BBC_Two_SD
+http://mhiptv.com:8888/noval/123456/2851
+#EXTINF:-1 group-title="TEST",BET HD
+http://ingrid.ltd:25461/frank1/frank/3185
+#EXTINF:-1 group-title="TEST",BLAZE
+http://185.232.53.4:2086/tbird/tbird/66951
+#EXTINF:-1 group-title="TEST",BLAZE
+http://randomserver.site:2086/crystal/12345/66951
+#EXTINF:-1 group-title="TEST",BOOMERANG
+http://193.33.39.108:8107/30710
+#EXTINF:-1 group-title="TEST",BOXNATION
+http://mhiptv.com:8888/noval/123456/2838
+#EXTINF:-1 group-title="TEST",BOXNATION
+http://185.232.53.4:2086/tbird/tbird/67081
+#EXTINF:-1 group-title="TEST",BOXNATION
+http://mhiptv.com:8888/22558899/22558899/2838
+#EXTINF:-1 group-title="TEST",BOXNATION
+http://mhiptv.com:8888/noval/123456/2838
+#EXTINF:-1 group-title="TEST",BOXNATION FHD
+http://ds-tv.co:8080/3333711936844748/160718090519/122665
+#EXTINF:-1 group-title="TEST",BT SPORT 1
+http://ingrid.ltd:25461/frank1/frank/3399
+#EXTINF:-1 group-title="TEST",BT SPORT 1 FULL HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122513
+#EXTINF:-1 group-title="TEST",BT SPORT 2
+http://ingrid.ltd:25461/frank1/frank/3398
+#EXTINF:-1 group-title="TEST",BT SPORT 3
+http://ingrid.ltd:25461/frank1/frank/3397
+#EXTINF:-1 group-title="TEST",BT SPORT 3 FULL HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122515
+#EXTINF:-1 group-title="TEST",BT SPORT ESPN
+http://ingrid.ltd:25461/frank1/frank/3396
+#EXTINF:-1 group-title="TEST",BT SPORT EXTRA 2
+http://ds-tv.co:8080/3333711936844748/160718090519/122667
+#EXTINF:-1 group-title="TEST",BT SPORT EXTRA 2
+http://ds-tv.co:8080/3333711936844748/160718090519/122517
+#EXTINF:-1 group-title="TEST",BT SPORT EXTRA 4
+http://ds-tv.co:8080/3333711936844748/160718090519/122669
+#EXTINF:-1 group-title="TEST",BT SPORT EXTRA 4
+http://ds-tv.co:8080/3333711936844748/160718090519/122519
+#EXTINF:-1 group-title="TEST",BT SPORT EXTRA 5
+http://ds-tv.co:8080/3333711936844748/160718090519/122670
+#EXTINF:-1 group-title="TEST",BT SPORTS 1
+http://randomserver.site:2086/crystal/12345/67062
+#EXTINF:-1 group-title="TEST",BT SPORTS 1
+http://185.232.53.4:2086/tbird/tbird/67062
+#EXTINF:-1 group-title="TEST",BT SPORTS 1 FHD
+http://ds-tv.co:8080/3333711936844748/160718090519/122671
+#EXTINF:-1 group-title="TEST",BT SPORTS 1 FULL HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122521
+#EXTINF:-1 group-title="TEST",BT SPORTS 2
+http://randomserver.site:2086/crystal/12345/67063
+#EXTINF:-1 group-title="TEST",BT SPORTS 2 FHD
+http://ds-tv.co:8080/3333711936844748/160718090519/122672
+#EXTINF:-1 group-title="TEST",BT SPORTS 2 FULL HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122522
+#EXTINF:-1 group-title="TEST",BT SPORTS 3
+http://randomserver.site:2086/crystal/12345/67075
+#EXTINF:-1 group-title="TEST",BT SPORTS ESPN
+http://randomserver.site:2086/crystal/12345/67076
+#EXTINF:-1 group-title="TEST",BT SPORTS ESPN FHD
+http://ds-tv.co:8080/3333711936844748/160718090519/122674
+#EXTINF:-1 group-title="TEST",BT SPORTS ESPN FULL HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122524
+#EXTINF:-1 group-title="TEST",BT Sport Extra 1
+http://ingrid.ltd:25461/frank1/frank/42109
+#EXTINF:-1 group-title="TEST",BT Sport Extra 2
+http://ingrid.ltd:25461/frank1/frank/42110
+#EXTINF:-1 group-title="TEST",BTSport_Extra1
+http://mhiptv.com:8888/noval/123456/2544
+#EXTINF:-1 group-title="TEST",BTSport_Extra1
+http://mhiptv.com:8888/22558899/22558899/2544
+#EXTINF:-1 group-title="TEST",BT_SPORT1_SD
+http://mhiptv.com:8888/noval/123456/2535
+#EXTINF:-1 group-title="TEST",BT_SPORT1_SD
+http://mhiptv.com:8888/22558899/22558899/2535
+#EXTINF:-1 group-title="TEST",BT_SPORT2_SD
+http://mhiptv.com:8888/noval/123456/2536
+#EXTINF:-1 group-title="TEST",BT_SPORT2_SD
+http://mhiptv.com:8888/22558899/22558899/2536
+#EXTINF:-1 group-title="TEST",BT_SPORT_EUROPE
+http://mhiptv.com:8888/noval/123456/2543
+#EXTINF:-1 group-title="TEST",BT_SPORT_EUROPE
+http://mhiptv.com:8888/22558899/22558899/2543
+#EXTINF:-1 group-title="TEST",BT_SPORT_EXTRA
+http://mhiptv.com:8888/noval/123456/2547
+#EXTINF:-1 group-title="TEST",BT_SPORT_EXTRA
+http://mhiptv.com:8888/22558899/22558899/2547
+#EXTINF:-1 group-title="TEST",BT_Sport_ESPN
+http://mhiptv.com:8888/noval/123456/2820
+#EXTINF:-1 group-title="TEST",BT_Sport_ESPN
+http://mhiptv.com:8888/22558899/22558899/2820
+#EXTINF:-1 group-title="TEST",BT_Sport_ESPN_SD
+http://mhiptv.com:8888/22558899/22558899/2545
+#EXTINF:-1 group-title="TEST",BT_Sport_ESPN_SD
+http://mhiptv.com:8888/noval/123456/2545
+#EXTINF:-1 group-title="TEST",BT_Sports3_SD
+http://mhiptv.com:8888/noval/123456/2546
+#EXTINF:-1 group-title="TEST",BT_Sports3_SD
+http://mhiptv.com:8888/22558899/22558899/2546
+#EXTINF:-1 group-title="TEST",Baby TV
+http://ingrid.ltd:25461/frank1/frank/3188
+#EXTINF:-1 group-title="TEST",Baby_tv
+http://mhiptv.com:8888/22558899/22558899/4459
+#EXTINF:-1 group-title="TEST",Baby_tv
+http://mhiptv.com:8888/noval/123456/4459
+#EXTINF:-1 group-title="TEST",Blaze
+http://ingrid.ltd:25461/frank1/frank/3177
+#EXTINF:-1 group-title="TEST",Boomerang
+http://ingrid.ltd:25461/frank1/frank/3176
+#EXTINF:-1 group-title="TEST",Box Nation HD
+http://ingrid.ltd:25461/frank1/frank/12355
+#EXTINF:-1 group-title="TEST",CARTOON NETWORK
+http://randomserver.site:2086/live/Bria/Bria/98707.m3u8
+#EXTINF:-1 group-title="TEST",CARTOON NETWORK
+http://185.232.53.4:2086/tbird/tbird/98707
+#EXTINF:-1 group-title="TEST",CARTOON NETWORK HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122525
+#EXTINF:-1 group-title="TEST",CBBC
+http://185.232.53.4:2086/tbird/tbird/90880
+#EXTINF:-1 group-title="TEST",CBBC HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122526
+#EXTINF:-1 group-title="TEST",CBBC HD
+http://ingrid.ltd:25461/frank1/frank/3174
+#EXTINF:-1 group-title="TEST",CBS ACTION
+http://ds-tv.co:8080/3333711936844748/160718090519/122528
+#EXTINF:-1 group-title="TEST",CBS Action
+http://ingrid.ltd:25461/frank1/frank/3191
+#EXTINF:-1 group-title="TEST",CBS Drama
+http://ingrid.ltd:25461/frank1/frank/3444
+#EXTINF:-1 group-title="TEST",CBS Reality
+http://ingrid.ltd:25461/frank1/frank/3425
+#EXTINF:-1 group-title="TEST",CBS_ACTION
+http://mhiptv.com:8888/22558899/22558899/4452
+#EXTINF:-1 group-title="TEST",CBS_ACTION
+http://mhiptv.com:8888/noval/123456/4452
+#EXTINF:-1 group-title="TEST",CBS_DRAMA_SD
+http://mhiptv.com:8888/noval/123456/4451
+#EXTINF:-1 group-title="TEST",CBS_DRAMA_SD
+http://mhiptv.com:8888/22558899/22558899/4451
+#EXTINF:-1 group-title="TEST",CBS_Reality_SD
+http://mhiptv.com:8888/noval/123456/2821
+#EXTINF:-1 group-title="TEST",CBS_Reality_SD
+http://mhiptv.com:8888/22558899/22558899/2821
+#EXTINF:-1 group-title="TEST",CBeebies
+http://mhiptv.com:8888/noval/123456/4700
+#EXTINF:-1 group-title="TEST",CBeebies
+http://mhiptv.com:8888/22558899/22558899/4700
+#EXTINF:-1 group-title="TEST",CHANNEL 4 FHD
+http://ingrid.ltd:25461/frank1/frank/39721
+#EXTINF:-1 group-title="TEST",CHANNEL 5
+http://185.232.53.4:2086/tbird/tbird/66962
+#EXTINF:-1 group-title="TEST",CHANNEL 5 FHD
+http://ingrid.ltd:25461/frank1/frank/39720
+#EXTINF:-1 group-title="TEST",CNBC_News
+http://mhiptv.com:8888/noval/123456/4702
+#EXTINF:-1 group-title="TEST",CNBC_News
+http://mhiptv.com:8888/22558899/22558899/4702
+#EXTINF:-1 group-title="TEST",CNN FULL HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122536
+#EXTINF:-1 group-title="TEST",COMEDY CENTRAL
+http://185.232.53.4:2086/tbird/tbird/72570
+#EXTINF:-1 group-title="TEST",COMEDY CENTRAL HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122538
+#EXTINF:-1 group-title="TEST",COMEDY XTRA
+http://ds-tv.co:8080/3333711936844748/160718090519/122539
+#EXTINF:-1 group-title="TEST",Canaf 54, UK | Canaf 54
+https://stream.ecable.tv/canaf54/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST",Cartoon_Network
+http://mhiptv.com:8888/22558899/22558899/2596
+#EXTINF:-1 group-title="TEST",Cartoon_Network
+http://mhiptv.com:8888/noval/123456/2596
+#EXTINF:-1 group-title="TEST",Cbeebies HD
+http://ingrid.ltd:25461/frank1/frank/3131
+#EXTINF:-1 group-title="TEST",Challenge
+http://ingrid.ltd:25461/frank1/frank/3443
+#EXTINF:-1 group-title="TEST",Channel 4 HD
+http://ingrid.ltd:25461/frank1/frank/3190
+#EXTINF:-1 group-title="TEST",Channel 5 HD
+http://ingrid.ltd:25461/frank1/frank/3388
+#EXTINF:-1 group-title="TEST",Chelsea FC TV HD
+http://ingrid.ltd:25461/frank1/frank/3552
+#EXTINF:-1 group-title="TEST",Chelsea_TV
+http://mhiptv.com:8888/22558899/22558899/5152
+#EXTINF:-1 group-title="TEST",Chelsea_TV
+http://mhiptv.com:8888/noval/123456/5152
+#EXTINF:-1 group-title="TEST",Comedy Central FHD
+http://ingrid.ltd:25461/frank1/frank/3428
+#EXTINF:-1 group-title="TEST",Comedy_Central_Extra_SD
+http://mhiptv.com:8888/22558899/22558899/2860
+#EXTINF:-1 group-title="TEST",Comedy_Central_Extra_SD
+http://mhiptv.com:8888/noval/123456/2860
+#EXTINF:-1 group-title="TEST",Create & Craft TV, Create and Craft
+https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
+#EXTINF:-1 group-title="TEST",Crime & Investigation
+http://ingrid.ltd:25461/frank1/frank/3196
+#EXTINF:-1 group-title="TEST",Crime_Investigation
+http://mhiptv.com:8888/noval/123456/2845
+#EXTINF:-1 group-title="TEST",Crime_Investigation
+http://mhiptv.com:8888/22558899/22558899/2845
+#EXTINF:-1 group-title="TEST",DAVE
+http://185.232.53.4:2086/tbird/tbird/66969
+#EXTINF:-1 group-title="TEST",DISCOVERY
+http://178.132.3.162:88/Discovery/video.m3u8?token=test
+#EXTINF:-1 group-title="TEST",DISCOVERY CHANNEL
+http://185.232.53.4:2086/tbird/tbird/32042
+#EXTINF:-1 group-title="TEST",DISCOVERY HISTORY
+http://178.132.3.162:88/Discovery_History/video.m3u8?token=test
+#EXTINF:-1 group-title="TEST",DISCOVERY HISTORY
+http://ds-tv.co:8080/3333711936844748/160718090519/122544
+#EXTINF:-1 group-title="TEST",DISCOVERY SCIENCE
+http://ds-tv.co:8080/3333711936844748/160718090519/122545
+#EXTINF:-1 group-title="TEST",DISCOVERY TURBO
+http://ds-tv.co:8080/3333711936844748/160718090519/122546
+#EXTINF:-1 group-title="TEST",DISNEY JUNIOR
+http://185.232.53.4:2086/tbird/tbird/98702
+#EXTINF:-1 group-title="TEST",DMAX
+http://ingrid.ltd:25461/frank1/frank/3195
+#EXTINF:-1 group-title="TEST",Dave
+http://mhiptv.com:8888/22558899/22558899/4703
+#EXTINF:-1 group-title="TEST",Dave
+http://mhiptv.com:8888/noval/123456/4703
+#EXTINF:-1 group-title="TEST",Dave TV
+http://ingrid.ltd:25461/frank1/frank/42048
+#EXTINF:-1 group-title="TEST",Daystar FHD
+http://ingrid.ltd:25461/frank1/frank/42371
+#EXTINF:-1 group-title="TEST",Discovery HD
+http://ingrid.ltd:25461/frank1/frank/41570
+#EXTINF:-1 group-title="TEST",Discovery History
+http://ingrid.ltd:25461/frank1/frank/41571
+#EXTINF:-1 group-title="TEST",Discovery Science
+http://ingrid.ltd:25461/frank1/frank/41572
+#EXTINF:-1 group-title="TEST",Discovery Shed
+http://ingrid.ltd:25461/frank1/frank/41578
+#EXTINF:-1 group-title="TEST",Discovery Turbo
+http://ingrid.ltd:25461/frank1/frank/41577
+#EXTINF:-1 group-title="TEST",Discovery_History
+http://mhiptv.com:8888/22558899/22558899/2859
+#EXTINF:-1 group-title="TEST",Discovery_History
+http://mhiptv.com:8888/noval/123456/2859
+#EXTINF:-1 group-title="TEST",Discovery_SD
+http://mhiptv.com:8888/22558899/22558899/2857
+#EXTINF:-1 group-title="TEST",Discovery_SD
+http://mhiptv.com:8888/noval/123456/2857
+#EXTINF:-1 group-title="TEST",Discovery_Science_SD
+http://mhiptv.com:8888/22558899/22558899/2858
+#EXTINF:-1 group-title="TEST",Discovery_Science_SD
+http://mhiptv.com:8888/noval/123456/2858
+#EXTINF:-1 group-title="TEST",Discovery_Turbo_SD
+http://mhiptv.com:8888/22558899/22558899/2856
+#EXTINF:-1 group-title="TEST",Discovery_Turbo_SD
+http://mhiptv.com:8888/noval/123456/2856
+#EXTINF:-1 group-title="TEST",Disney Channel FHD
+http://ingrid.ltd:25461/frank1/frank/3410
+#EXTINF:-1 group-title="TEST",Disney Jr.
+http://ingrid.ltd:25461/frank1/frank/3194
+#EXTINF:-1 group-title="TEST",Disney XD
+http://ingrid.ltd:25461/frank1/frank/3168
+#EXTINF:-1 group-title="TEST",Disney_Channel
+http://mhiptv.com:8888/22558899/22558899/2855
+#EXTINF:-1 group-title="TEST",Disney_Channel
+http://mhiptv.com:8888/noval/123456/2855
+#EXTINF:-1 group-title="TEST",Disney_Junior_SD
+http://mhiptv.com:8888/22558899/22558899/2854
+#EXTINF:-1 group-title="TEST",Disney_Junior_SD
+http://mhiptv.com:8888/noval/123456/2854
+#EXTINF:-1 group-title="TEST",Disney_XD_SD
+http://mhiptv.com:8888/22558899/22558899/2853
+#EXTINF:-1 group-title="TEST",Disney_XD_SD
+http://mhiptv.com:8888/noval/123456/2853
+#EXTINF:-1 group-title="TEST",Dmax
+http://mhiptv.com:8888/noval/123456/2862
+#EXTINF:-1 group-title="TEST",Dmax
+http://mhiptv.com:8888/22558899/22558899/2862
+#EXTINF:-1 group-title="TEST",Drama
+http://ingrid.ltd:25461/frank1/frank/3442
+#EXTINF:-1 group-title="TEST",E!
+http://mhiptv.com:8888/22558899/22558899/4705
+#EXTINF:-1 group-title="TEST",E!
+http://mhiptv.com:8888/noval/123456/4705
+#EXTINF:-1 group-title="TEST",E! Entertainment
+http://ingrid.ltd:25461/frank1/frank/3200
+#EXTINF:-1 group-title="TEST",E4
+http://ingrid.ltd:25461/frank1/frank/42366
+#EXTINF:-1 group-title="TEST",E4 FULL HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122550
+#EXTINF:-1 group-title="TEST",E4_SD
+http://mhiptv.com:8888/22558899/22558899/2541
+#EXTINF:-1 group-title="TEST",E4_SD
+http://mhiptv.com:8888/noval/123456/2541
+#EXTINF:-1 group-title="TEST",EDEN
+http://randomserver.site:2086/live/crystal/12345/72572.m3u8
+#EXTINF:-1 group-title="TEST",EDEN FULL HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122551
+#EXTINF:-1 group-title="TEST",EIR SPORT 1
+http://185.232.53.4:2086/tbird/tbird/91786
+#EXTINF:-1 group-title="TEST",EIR SPORT 1
+http://ds-tv.co:8080/3333711936844748/160718090519/122675
+#EXTINF:-1 group-title="TEST",EIR SPORT 1
+http://ds-tv.co:8080/3333711936844748/160718090519/122552
+#EXTINF:-1 group-title="TEST",EIR SPORT 2
+http://185.232.53.4:2086/tbird/tbird/91787
+#EXTINF:-1 group-title="TEST",EIR SPORT 2
+http://ds-tv.co:8080/3333711936844748/160718090519/122676
+#EXTINF:-1 group-title="TEST",EIR SPORTS 2
+http://ingrid.ltd:25461/frank1/frank/39731
+#EXTINF:-1 group-title="TEST",EURO SPORTS
+http://91.126.39.98:8086/udp/224.168.32.2:3202
+#EXTINF:-1 group-title="TEST",EUROSPORT 1
+http://randomserver.site:2086/live/Bria/Bria/72659.m3u8
+#EXTINF:-1 group-title="TEST",EUROSPORT 1
+http://185.232.53.4:2086/tbird/tbird/72659
+#EXTINF:-1 group-title="TEST",EUROSPORT 1 FHD
+http://ds-tv.co:8080/3333711936844748/160718090519/122677
+#EXTINF:-1 group-title="TEST",EUROSPORT 1 FULL HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122555
+#EXTINF:-1 group-title="TEST",EUROSPORT 2 FHD
+http://ds-tv.co:8080/3333711936844748/160718090519/122678
+#EXTINF:-1 group-title="TEST",EUROSPORT 2 FULL HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122556
+#EXTINF:-1 group-title="TEST",EUROSPORT ONE
+http://185.232.53.4:2086/tbird/tbird/99200
+#EXTINF:-1 group-title="TEST",EUROSPORT_1
+http://mhiptv.com:8888/22558899/22558899/2850
+#EXTINF:-1 group-title="TEST",EUROSPORT_1
+http://mhiptv.com:8888/noval/123456/2850
+#EXTINF:-1 group-title="TEST",EUROSPORT_2
+http://mhiptv.com:8888/22558899/22558899/2849
+#EXTINF:-1 group-title="TEST",EUROSPORT_2
+http://mhiptv.com:8888/noval/123456/2849
+#EXTINF:-1 group-title="TEST",Eden FHD
+http://ingrid.ltd:25461/frank1/frank/42373
+#EXTINF:-1 group-title="TEST",Eir Sport 2 FHD
+http://ingrid.ltd:25461/frank1/frank/5313
+#EXTINF:-1 group-title="TEST",Eman Channel
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+#EXTINF:-1 group-title="TEST",Euronews
+http://mhiptv.com:8888/noval/123456/14344
+#EXTINF:-1 group-title="TEST",Euronews
+http://mhiptv.com:8888/22558899/22558899/14344
+#EXTINF:-1 group-title="TEST",Eurosport 1
+http://ingrid.ltd:25461/frank1/frank/42101
+#EXTINF:-1 group-title="TEST",Eurosport 2
+http://ingrid.ltd:25461/frank1/frank/42102
+#EXTINF:-1 group-title="TEST",Eurosport 4k
+http://ingrid.ltd:25461/frank1/frank/41411
+#EXTINF:-1 group-title="TEST",FOX
+http://185.232.53.4:2086/tbird/tbird/98699
+#EXTINF:-1 group-title="TEST",France 24 (ENG), FRANCE 24 EN HD
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+#EXTINF:-1 group-title="TEST",FREESPORTS
+http://185.232.53.4:2086/tbird/tbird/99228
+#EXTINF:-1 group-title="TEST",Film4
+http://mhiptv.com:8888/noval/123456/2836
+#EXTINF:-1 group-title="TEST",Film4
+http://mhiptv.com:8888/22558899/22558899/2836
+#EXTINF:-1 group-title="TEST",Five
+http://mhiptv.com:8888/noval/123456/4712
+#EXTINF:-1 group-title="TEST",Five
+http://mhiptv.com:8888/22558899/22558899/4712
+#EXTINF:-1 group-title="TEST",Flow Sports 1
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+#EXTINF:-1 group-title="TEST",Flow Sports 1
+http://161.0.157.9/PLTV/88888888/224/3221226899/02.m3u8
+#EXTINF:-1 group-title="TEST",Flow Sports 1
+http://161.0.157.5/PLTV/88888888/224/3221226899/01.m3u8
+#EXTINF:-1 group-title="TEST",Food Network
+http://ingrid.ltd:25461/frank1/frank/3368
+#EXTINF:-1 group-title="TEST",Food_Network
+http://mhiptv.com:8888/22558899/22558899/2848
+#EXTINF:-1 group-title="TEST",Food_Network
+http://mhiptv.com:8888/noval/123456/2848
+#EXTINF:-1 group-title="TEST",Forces TV, UK | Forces TV
+https://edge-1192-ch-gv.filmon.com/live/3386.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="TEST",Fox FHD
+http://ingrid.ltd:25461/frank1/frank/42365
+#EXTINF:-1 group-title="TEST",Free Sports
+http://ingrid.ltd:25461/frank1/frank/22915
+#EXTINF:-1 group-title="TEST",FrontRunner
+http://ingrid.ltd:25461/frank1/frank/23497
+#EXTINF:-1 group-title="TEST",GOLD
+http://mhiptv.com:8888/22558899/22558899/4704
+#EXTINF:-1 group-title="TEST",GOLD
+http://ds-tv.co:8080/3333711936844748/160718090519/122559
+#EXTINF:-1 group-title="TEST",GOLD
+http://mhiptv.com:8888/noval/123456/4704
+#EXTINF:-1 group-title="TEST",GOLD FHD
+http://ingrid.ltd:25461/frank1/frank/3416
+#EXTINF:-1 group-title="TEST",Gemporia, Gems TV
+http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
+#EXTINF:-1 group-title="TEST",Good Food
+http://ingrid.ltd:25461/frank1/frank/42370
+#EXTINF:-1 group-title="TEST",H2
+http://185.232.53.4:2086/tbird/tbird/67070
+#EXTINF:-1 group-title="TEST",H2 FULL HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122561
+#EXTINF:-1 group-title="TEST",H2 HD
+http://ingrid.ltd:25461/frank1/frank/3165
+#EXTINF:-1 group-title="TEST",HBO
+http://136.243.177.164/HBO/playlist.m3u8
+#EXTINF:-1 group-title="TEST",HISTORY FULL HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122562
+#EXTINF:-1 group-title="TEST",HOME
+http://ds-tv.co:8080/3333711936844748/160718090519/122563
+#EXTINF:-1 group-title="TEST",HORROR CHANNEL
+http://ds-tv.co:8080/3333711936844748/160718090519/122565
+#EXTINF:-1 group-title="TEST",HORSE AND COUNTRY TV
+http://185.232.53.4:2086/tbird/tbird/99203
+#EXTINF:-1 group-title="TEST",History HD
+http://ingrid.ltd:25461/frank1/frank/3164
+#EXTINF:-1 group-title="TEST",History_Channel_SD
+http://mhiptv.com:8888/22558899/22558899/2846
+#EXTINF:-1 group-title="TEST",History_Channel_SD
+http://mhiptv.com:8888/noval/123456/2846
+#EXTINF:-1 group-title="TEST",Home & Health
+http://ingrid.ltd:25461/frank1/frank/3163
+#EXTINF:-1 group-title="TEST",Home_Health
+http://mhiptv.com:8888/noval/123456/4706
+#EXTINF:-1 group-title="TEST",Home_Health
+http://mhiptv.com:8888/22558899/22558899/4706
+#EXTINF:-1 group-title="TEST",Horizon Sports
+https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
+#EXTINF:-1 group-title="TEST",Horror_Channel
+http://mhiptv.com:8888/noval/123456/4707
+#EXTINF:-1 group-title="TEST",Horror_Channel
+http://mhiptv.com:8888/22558899/22558899/4707
+#EXTINF:-1 group-title="TEST",Horse & Country TV
+https://hlshac-i.akamaihd.net/hls/live/854653/haclinear/HNC_AUSTRALIA/1080p_live.m3u8
+#EXTINF:-1 group-title="TEST",ID
+http://185.232.53.4:2086/tbird/tbird/67088
+#EXTINF:-1 group-title="TEST",ID
+http://randomserver.site:2086/crystal/12345/67088
+#EXTINF:-1 group-title="TEST",ITV
+http://185.232.53.4:2086/tbird/tbird/66991
+#EXTINF:-1 group-title="TEST",ITV
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+#EXTINF:-1 group-title="TEST",ITV +1
+http://randomserver.site:2086/crystal/12345/66992
+#EXTINF:-1 group-title="TEST",ITV 1 FHD
+http://ingrid.ltd:25461/frank1/frank/39718
+#EXTINF:-1 group-title="TEST",ITV 1 HD
+http://ingrid.ltd:25461/frank1/frank/3207
+#EXTINF:-1 group-title="TEST",ITV 2 FHD
+http://ingrid.ltd:25461/frank1/frank/39717
+#EXTINF:-1 group-title="TEST",ITV 2 HD
+http://ingrid.ltd:25461/frank1/frank/3206
+#EXTINF:-1 group-title="TEST",ITV 3 FHD
+http://ingrid.ltd:25461/frank1/frank/39716
+#EXTINF:-1 group-title="TEST",ITV 3 HD
+http://ingrid.ltd:25461/frank1/frank/3205
+#EXTINF:-1 group-title="TEST",ITV 4 FHD
+http://ingrid.ltd:25461/frank1/frank/39715
+#EXTINF:-1 group-title="TEST",ITV 4 HD
+http://ingrid.ltd:25461/frank1/frank/3204
+#EXTINF:-1 group-title="TEST",ITV BE FHD
+http://ingrid.ltd:25461/frank1/frank/39719
+#EXTINF:-1 group-title="TEST",ITV BE FULL HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122568
+#EXTINF:-1 group-title="TEST",ITV BE HD
+http://ingrid.ltd:25461/frank1/frank/3203
+#EXTINF:-1 group-title="TEST",ITV1_SD
+http://mhiptv.com:8888/noval/123456/2822
+#EXTINF:-1 group-title="TEST",ITV1_SD
+http://mhiptv.com:8888/22558899/22558899/2822
+#EXTINF:-1 group-title="TEST",ITV2
+http://randomserver.site:2086/crystal/12345/67003
+#EXTINF:-1 group-title="TEST",ITV2
+http://51.52.156.22:8888/http/005
+#EXTINF:-1 group-title="TEST",ITV2_SD
+http://mhiptv.com:8888/noval/123456/2824
+#EXTINF:-1 group-title="TEST",ITV2_SD
+http://mhiptv.com:8888/22558899/22558899/2824
+#EXTINF:-1 group-title="TEST",ITV3 FULL HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122572
+#EXTINF:-1 group-title="TEST",ITV3_SD
+http://mhiptv.com:8888/noval/123456/4709
+#EXTINF:-1 group-title="TEST",ITV3_SD
+http://mhiptv.com:8888/22558899/22558899/4709
+#EXTINF:-1 group-title="TEST",ITV4
+http://randomserver.site:2086/crystal/12345/67004
+#EXTINF:-1 group-title="TEST",ITV4_SD
+http://mhiptv.com:8888/noval/123456/4710
+#EXTINF:-1 group-title="TEST",ITV4_SD
+http://mhiptv.com:8888/22558899/22558899/4710
+#EXTINF:-1 group-title="TEST",ITVBe
+http://185.232.53.4:2086/tbird/tbird/67006
+#EXTINF:-1 group-title="TEST",ITVBe
+http://randomserver.site:2086/crystal/12345/67006
+#EXTINF:-1 group-title="TEST",ITV_Encore
+http://mhiptv.com:8888/noval/123456/4711
+#EXTINF:-1 group-title="TEST",ITV_Encore
+http://mhiptv.com:8888/22558899/22558899/4711
+#EXTINF:-1 group-title="TEST",Ideal World
+https://live-isd.simplestreamcdn.com/idealworld/3/prog_index.m3u8
+#EXTINF:-1 group-title="TEST",Ideal World, UK | Ideal World
+http://live-isd.simplestreamcdn.com/idealworld/3/prog_index.m3u8
+#EXTINF:-1 group-title="TEST",KEEP_IT_COUNTRY
+http://mhiptv.com:8888/noval/123456/4708
+#EXTINF:-1 group-title="TEST",KEEP_IT_COUNTRY
+http://mhiptv.com:8888/22558899/22558899/4708
+#EXTINF:-1 group-title="TEST",Kanshi TV, UK | Kanshi TV
+http://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8
+#EXTINF:-1 group-title="TEST",LFC TV 1080
+http://ingrid.ltd:25461/frank1/frank/22993
+#EXTINF:-1 group-title="TEST",LFC TV FULL HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122574
+#EXTINF:-1 group-title="TEST",LFC TV HD
+http://ingrid.ltd:25461/frank1/frank/3551
+#EXTINF:-1 group-title="TEST",LIFETIME
+http://185.232.53.4:2086/tbird/tbird/67069
+#EXTINF:-1 group-title="TEST",LIFETIME
+http://randomserver.site:2086/crystal/12345/67069
+#EXTINF:-1 group-title="TEST",LIFETIME FULL HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122575
+#EXTINF:-1 group-title="TEST",LIVERPOOL_FC
+http://mhiptv.com:8888/22558899/22558899/4934
+#EXTINF:-1 group-title="TEST",LIVERPOOL_FC
+http://mhiptv.com:8888/noval/123456/4934
+#EXTINF:-1 group-title="TEST",Liverpool FC TV HD
+http://ingrid.ltd:25461/frank1/frank/3371
+#EXTINF:-1 group-title="TEST",London_Live
+http://mhiptv.com:8888/22558899/22558899/4713
+#EXTINF:-1 group-title="TEST",London_Live
+http://mhiptv.com:8888/noval/123456/4713
+#EXTINF:-1 group-title="TEST",Love Nature FHD
+http://ingrid.ltd:25461/frank1/frank/42372
+#EXTINF:-1 group-title="TEST",MATV, UK | MATV
+https://a.jsrdn.com/r-373576a2/publish/22677_J8PT4x6prY/index.m3u8
+#EXTINF:-1 group-title="TEST",MORE4
+http://randomserver.site:2086/live/crystal/12345/98696.m3u8
+#EXTINF:-1 group-title="TEST",MORE4
+http://randomserver.site:2086/crystal/12345/98696
+#EXTINF:-1 group-title="TEST",MORE4 +1
+http://randomserver.site:2086/live/crystal/12345/67015.m3u8
+#EXTINF:-1 group-title="TEST",MTA 1
+http://ooyalahd2-f.akamaihd.net:80/i/mtaorigin_delivery@353498/index_1100_av-p.m3u8
+#EXTINF:-1 group-title="TEST",MTA 1 English
+https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
+#EXTINF:-1 group-title="TEST",MTA 1 Urdu
+https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/index_3000_av-p.m3u8
+#EXTINF:-1 group-title="TEST",MTA 2
+https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/index_2400_av-p.m3u8
+#EXTINF:-1 group-title="TEST",MTA 2 Urdu
+https://ooyalahd2-f.akamaihd.net/i/mtageraudio_delivery@308889/index_1100_av-p.m3u8
+#EXTINF:-1 group-title="TEST",MTA 3
+https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_3000_av-p.m3u8
+#EXTINF:-1 group-title="TEST",MTA 3
+http://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_1700_av-p.m3u8
+#EXTINF:-1 group-title="TEST",MTV
+http://randomserver.site:2086/live/crystal/12345/67073.m3u8
+#EXTINF:-1 group-title="TEST",MTV
+http://185.232.53.4:2086/tbird/tbird/67073
+#EXTINF:-1 group-title="TEST",MTV
+http://randomserver.site:2086/crystal/12345/67073
+#EXTINF:-1 group-title="TEST",MTV BASE
+http://ingrid.ltd:25461/frank1/frank/3158
+#EXTINF:-1 group-title="TEST",MTV CLASSIC
+http://ingrid.ltd:25461/frank1/frank/3157
+#EXTINF:-1 group-title="TEST",MTV DANCE
+http://ds-tv.co:8080/3333711936844748/160718090519/122579
+#EXTINF:-1 group-title="TEST",MTV DANCE
+http://ingrid.ltd:25461/frank1/frank/3156
+#EXTINF:-1 group-title="TEST",MTV Hits
+http://ingrid.ltd:25461/frank1/frank/3372
+#EXTINF:-1 group-title="TEST",MTV MUSIC
+http://ds-tv.co:8080/3333711936844748/160718090519/122582
+#EXTINF:-1 group-title="TEST",MTV MUSIC
+http://ingrid.ltd:25461/frank1/frank/3155
+#EXTINF:-1 group-title="TEST",MTV MUSIC +1
+http://ds-tv.co:8080/3333711936844748/160718090519/122583
+#EXTINF:-1 group-title="TEST",MTV ROCKS
+http://ingrid.ltd:25461/frank1/frank/3154
+#EXTINF:-1 group-title="TEST",MTV ROCKS
+http://ds-tv.co:8080/3333711936844748/160718090519/122584
+#EXTINF:-1 group-title="TEST",MTV_CLASSIC
+http://mhiptv.com:8888/noval/123456/2841
+#EXTINF:-1 group-title="TEST",MTV_CLASSIC
+http://mhiptv.com:8888/22558899/22558899/2841
+#EXTINF:-1 group-title="TEST",MTV_Music
+http://mhiptv.com:8888/noval/123456/2840
+#EXTINF:-1 group-title="TEST",MTV_Music
+http://mhiptv.com:8888/22558899/22558899/2840
+#EXTINF:-1 group-title="TEST",MUTV
+http://185.232.53.4:2086/tbird/tbird/42409
+#EXTINF:-1 group-title="TEST",MUTV
+http://ingrid.ltd:25461/frank1/frank/3383
+#EXTINF:-1 group-title="TEST",MUTV FULL HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122585
+#EXTINF:-1 group-title="TEST",MUTV_HD
+http://mhiptv.com:8888/noval/123456/4717
+#EXTINF:-1 group-title="TEST",MUTV_HD
+http://mhiptv.com:8888/22558899/22558899/4717
+#EXTINF:-1 group-title="TEST",More4 HD
+http://ingrid.ltd:25461/frank1/frank/3382
+#EXTINF:-1 group-title="TEST",More4_SD
+http://mhiptv.com:8888/22558899/22558899/4714
+#EXTINF:-1 group-title="TEST",More4_SD
+http://mhiptv.com:8888/noval/123456/4714
+#EXTINF:-1 group-title="TEST",Motors
+http://mhiptv.com:8888/noval/123456/4715
+#EXTINF:-1 group-title="TEST",Motors
+http://mhiptv.com:8888/22558899/22558899/4715
+#EXTINF:-1 group-title="TEST",Movies4men
+http://ingrid.ltd:25461/frank1/frank/3422
+#EXTINF:-1 group-title="TEST",Movies_24
+http://mhiptv.com:8888/22558899/22558899/4716
+#EXTINF:-1 group-title="TEST",Movies_24
+http://mhiptv.com:8888/noval/123456/4716
+#EXTINF:-1 group-title="TEST",Movies_4_Men
+http://mhiptv.com:8888/noval/123456/2842
+#EXTINF:-1 group-title="TEST",Movies_4_Men
+http://mhiptv.com:8888/22558899/22558899/2842
+#EXTINF:-1 group-title="TEST",NAT GEO
+http://randomserver.site:2086/crystal/12345/98691
+#EXTINF:-1 group-title="TEST",NAT GEO WILD
+http://185.232.53.4:2086/tbird/tbird/67074
+#EXTINF:-1 group-title="TEST",NAT GEO WILD FULL HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122586
+#EXTINF:-1 group-title="TEST",NICK
+http://185.232.53.4:2086/tbird/tbird/91784
+#EXTINF:-1 group-title="TEST",NICK
+http://randomserver.site:2086/crystal/12345/91784
+#EXTINF:-1 group-title="TEST",NICK FULL HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122588
+#EXTINF:-1 group-title="TEST",NICK JR
+http://ds-tv.co:8080/3333711936844748/160718090519/122590
+#EXTINF:-1 group-title="TEST",NICK JR TOO
+http://ds-tv.co:8080/3333711936844748/160718090519/122591
+#EXTINF:-1 group-title="TEST",NICKELODEON
+http://mhiptv.com:8888/22558899/22558899/4450
+#EXTINF:-1 group-title="TEST",NICKELODEON
+http://ds-tv.co:8080/3333711936844748/160718090519/122592
+#EXTINF:-1 group-title="TEST",NICKELODEON
+http://mhiptv.com:8888/noval/123456/4450
+#EXTINF:-1 group-title="TEST",Nat_Geo_Wild
+http://mhiptv.com:8888/noval/123456/2837
+#EXTINF:-1 group-title="TEST",Nat_Geo_Wild
+http://mhiptv.com:8888/22558899/22558899/2837
+#EXTINF:-1 group-title="TEST",National Geographic HD
+http://ingrid.ltd:25461/frank1/frank/3433
+#EXTINF:-1 group-title="TEST",National Geographic Wild HD
+http://ingrid.ltd:25461/frank1/frank/3377
+#EXTINF:-1 group-title="TEST",National_Geographic
+http://mhiptv.com:8888/noval/123456/2839
+#EXTINF:-1 group-title="TEST",National_Geographic
+http://mhiptv.com:8888/22558899/22558899/2839
+#EXTINF:-1 group-title="TEST",Nick Jr
+http://ingrid.ltd:25461/frank1/frank/3378
+#EXTINF:-1 group-title="TEST",Nick Jr
+http://ingrid.ltd:25461/frank1/frank/3380
+#EXTINF:-1 group-title="TEST",Nick Toons
+http://ingrid.ltd:25461/frank1/frank/3434
+#EXTINF:-1 group-title="TEST",Nick_Junior_SD
+http://mhiptv.com:8888/noval/123456/2831
+#EXTINF:-1 group-title="TEST",Nick_Junior_SD
+http://mhiptv.com:8888/22558899/22558899/2831
+#EXTINF:-1 group-title="TEST",Nickelodeon
+http://ingrid.ltd:25461/frank1/frank/3384
+#EXTINF:-1 group-title="TEST",PARAMOUNT
+http://185.232.53.4:2086/tbird/tbird/66940
+#EXTINF:-1 group-title="TEST",PICK HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122594
+#EXTINF:-1 group-title="TEST",PREMIER SPORTS 1
+http://185.232.53.4:2086/tbird/tbird/91782
+#EXTINF:-1 group-title="TEST",PREMIER SPORTS 1
+http://randomserver.site:2086/crystal/12345/91782
+#EXTINF:-1 group-title="TEST",PREMIER SPORTS 2
+http://185.232.53.4:2086/tbird/tbird/91783
+#EXTINF:-1 group-title="TEST",PREMIER SPORTS 2
+http://randomserver.site:2086/crystal/12345/91783
+#EXTINF:-1 group-title="TEST",PREMIER SPORTS FULL HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122595
+#EXTINF:-1 group-title="TEST",PREMIER_SPORT
+http://mhiptv.com:8888/noval/123456/2833
+#EXTINF:-1 group-title="TEST",PREMIER_SPORT
+http://mhiptv.com:8888/22558899/22558899/2833
+#EXTINF:-1 group-title="TEST",Pick TV
+http://ingrid.ltd:25461/frank1/frank/3387
+#EXTINF:-1 group-title="TEST",Pop MAX, UK | Pop MAX
+https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="TEST",QUEST
+http://mhiptv.com:8888/22558899/22558899/4458
+#EXTINF:-1 group-title="TEST",QUEST
+http://randomserver.site:2086/crystal/12345/67029
+#EXTINF:-1 group-title="TEST",QUEST
+http://mhiptv.com:8888/noval/123456/4458
+#EXTINF:-1 group-title="TEST",QVC
+http://ingrid.ltd:25461/frank1/frank/36329
+#EXTINF:-1 group-title="TEST",QVC
+https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
+#EXTINF:-1 group-title="TEST",QVC
+http://ingrid.ltd:25461/Melon3175/Melon7531/36329
+#EXTINF:-1 group-title="TEST",QVC Plus
+http://ingrid.ltd:25461/frank1/frank/36613
+#EXTINF:-1 group-title="TEST",QVC Style
+http://ingrid.ltd:25461/frank1/frank/36614
+#EXTINF:-1 group-title="TEST",Quest HD
+http://ingrid.ltd:25461/frank1/frank/3385
+#EXTINF:-1 group-title="TEST",RACING HD
+http://ingrid.ltd:25461/frank1/frank/23486
+#EXTINF:-1 group-title="TEST",RACING TV
+http://185.232.53.4:2086/tbird/tbird/67071
+#EXTINF:-1 group-title="TEST",RACING TV
+http://randomserver.site:2086/crystal/12345/67071
+#EXTINF:-1 group-title="TEST",RACING UK
+http://ds-tv.co:8080/3333711936844748/160718090519/122596
+#EXTINF:-1 group-title="TEST",RT HD UK
+http://ds-tv.co:8080/3333711936844748/160718090519/122597
+#EXTINF:-1 group-title="TEST",RTE JR
+http://185.232.53.4:2086/tbird/tbird/91792
+#EXTINF:-1 group-title="TEST",RTE NEWS
+http://185.232.53.4:2086/tbird/tbird/91793
+#EXTINF:-1 group-title="TEST",RTE NEWS
+http://randomserver.site:2086/crystal/12345/91793
+#EXTINF:-1 group-title="TEST",RTE NEWS
+http://ingrid.ltd:25461/frank1/frank/39730
+#EXTINF:-1 group-title="TEST",RTE News
+http://ingrid.ltd:25461/frank1/frank/3147
+#EXTINF:-1 group-title="TEST",RTE ONE
+http://185.232.53.4:2086/tbird/tbird/32065
+#EXTINF:-1 group-title="TEST",RTE ONE
+http://randomserver.site:2086/crystal/12345/32065
+#EXTINF:-1 group-title="TEST",RTE ONE HD
+http://ingrid.ltd:25461/frank1/frank/3435
+#EXTINF:-1 group-title="TEST",RTE TWO HD
+http://ingrid.ltd:25461/frank1/frank/3436
+#EXTINF:-1 group-title="TEST",Racing_UK
+http://mhiptv.com:8888/22558899/22558899/4932
+#EXTINF:-1 group-title="TEST",Racing_UK
+http://mhiptv.com:8888/noval/123456/4932
+#EXTINF:-1 group-title="TEST",Really, UK | Really
+https://edge-1192-ch-gv.filmon.com/live/2798.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="TEST",Really
+http://ingrid.ltd:25461/frank1/frank/3389
+#EXTINF:-1 group-title="TEST",Reuters
+http://220.158.149.28:8180/live/TV00000000000000000034@HHZT
+#EXTINF:-1 group-title="TEST",S4C HD
+http://ingrid.ltd:25461/frank1/frank/3146
+#EXTINF:-1 group-title="TEST",SKY ARTS
+http://185.232.53.4:2086/tbird/tbird/98689
+#EXTINF:-1 group-title="TEST",SKY ATLANTIC
+http://185.232.53.4:2086/tbird/tbird/91780
+#EXTINF:-1 group-title="TEST",SKY ATLANTIC HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122599
+#EXTINF:-1 group-title="TEST",SKY CINEMA ACTION
+http://randomserver.site:2086/crystal/12345/87571
+#EXTINF:-1 group-title="TEST",SKY CINEMA ACTION FULL HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122600
+#EXTINF:-1 group-title="TEST",SKY CINEMA COMEDY
+http://randomserver.site:2086/crystal/12345/87572
+#EXTINF:-1 group-title="TEST",SKY CINEMA CRIME & THRILLER
+http://ds-tv.co:8080/3333711936844748/160718090519/122603
+#EXTINF:-1 group-title="TEST",SKY CINEMA DISNEY
+http://randomserver.site:2086/crystal/12345/87573
+#EXTINF:-1 group-title="TEST",SKY CINEMA DRAMA
+http://randomserver.site:2086/crystal/12345/87574
+#EXTINF:-1 group-title="TEST",SKY CINEMA DRAMA
+http://185.232.53.4:2086/tbird/tbird/87574
+#EXTINF:-1 group-title="TEST",SKY CINEMA DRAMA & ROMANCE
+http://ds-tv.co:8080/3333711936844748/160718090519/122605
+#EXTINF:-1 group-title="TEST",SKY CINEMA FAMILY
+http://randomserver.site:2086/crystal/12345/87575
+#EXTINF:-1 group-title="TEST",SKY CINEMA GREATS
+http://randomserver.site:2086/crystal/12345/87576
+#EXTINF:-1 group-title="TEST",SKY CINEMA GREATS
+http://185.232.53.4:2086/tbird/tbird/87576
+#EXTINF:-1 group-title="TEST",SKY CINEMA HITS
+http://randomserver.site:2086/crystal/12345/87577
+#EXTINF:-1 group-title="TEST",SKY CINEMA PREMIERE
+http://randomserver.site:2086/crystal/12345/87578
+#EXTINF:-1 group-title="TEST",SKY CINEMA PREMIERE
+http://185.232.53.4:2086/tbird/tbird/87578
+#EXTINF:-1 group-title="TEST",SKY CINEMA SCI-FI
+http://randomserver.site:2086/crystal/12345/87579
+#EXTINF:-1 group-title="TEST",SKY CINEMA SELECT
+http://185.232.53.4:2086/tbird/tbird/87580
+#EXTINF:-1 group-title="TEST",SKY CINEMA SELECT FULL HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122609
+#EXTINF:-1 group-title="TEST",SKY CINEMA THRILLER
+http://randomserver.site:2086/crystal/12345/87581
+#EXTINF:-1 group-title="TEST",SKY CINEMA THRILLER
+http://185.232.53.4:2086/tbird/tbird/87581
+#EXTINF:-1 group-title="TEST",SKY NATURE
+http://185.232.53.4:2086/tbird/tbird/99206
+#EXTINF:-1 group-title="TEST",SKY NEWS
+http://randomserver.site:2086/crystal/12345/98692
+#EXTINF:-1 group-title="TEST",Sky News Arabia, SKY NEWS ARABIA (1280×720)
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 group-title="TEST",SKY SPORTS ACTION
+http://randomserver.site:2086/crystal/12345/85930
+#EXTINF:-1 group-title="TEST",SKY SPORTS ACTION FHD
+http://ds-tv.co:8080/3333711936844748/160718090519/122679
+#EXTINF:-1 group-title="TEST",SKY SPORTS ARENA
+http://ds-tv.co:8080/3333711936844748/160718090519/122680
+#EXTINF:-1 group-title="TEST",SKY SPORTS ARENA
+http://185.232.53.4:2086/tbird/tbird/85931
+#EXTINF:-1 group-title="TEST",SKY SPORTS ARENA
+http://randomserver.site:2086/crystal/12345/85931
+#EXTINF:-1 group-title="TEST",SKY SPORTS CRICKET
+http://185.232.53.4:2086/tbird/tbird/51106
+#EXTINF:-1 group-title="TEST",SKY SPORTS CRICKET
+http://randomserver.site:2086/crystal/12345/51106
+#EXTINF:-1 group-title="TEST",SKY SPORTS CRICKET FHD
+http://ds-tv.co:8080/3333711936844748/160718090519/122682
+#EXTINF:-1 group-title="TEST",SKY SPORTS F1
+http://185.232.53.4:2086/tbird/tbird/67056
+#EXTINF:-1 group-title="TEST",SKY SPORTS F1
+http://randomserver.site:2086/crystal/12345/67056
+#EXTINF:-1 group-title="TEST",SKY SPORTS F1 HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122617
+#EXTINF:-1 group-title="TEST",SKY SPORTS FOOTBALL
+http://185.232.53.4:2086/tbird/tbird/67057
+#EXTINF:-1 group-title="TEST",SKY SPORTS FOOTBALL
+http://randomserver.site:2086/crystal/12345/67057
+#EXTINF:-1 group-title="TEST",SKY SPORTS GOLF
+http://randomserver.site:2086/crystal/12345/67059
+#EXTINF:-1 group-title="TEST",SKY SPORTS GOLF HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122619
+#EXTINF:-1 group-title="TEST",SKY SPORTS GOLF HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122685
+#EXTINF:-1 group-title="TEST",SKY SPORTS MAIN EVENT FHD
+http://ds-tv.co:8080/3333711936844748/160718090519/122686
+#EXTINF:-1 group-title="TEST",SKY SPORTS MIX
+http://185.232.53.4:2086/tbird/tbird/67061
+#EXTINF:-1 group-title="TEST",SKY SPORTS MIX
+http://randomserver.site:2086/crystal/12345/67061
+#EXTINF:-1 group-title="TEST",SKY SPORTS MIX FHD
+http://ds-tv.co:8080/3333711936844748/160718090519/122687
+#EXTINF:-1 group-title="TEST",SKY SPORTS NEWS
+http://185.232.53.4:2086/tbird/tbird/67091
+#EXTINF:-1 group-title="TEST",SKY SPORTS NEWS
+http://randomserver.site:2086/crystal/12345/67091
+#EXTINF:-1 group-title="TEST",SKY SPORTS NEWS FHD
+http://ds-tv.co:8080/3333711936844748/160718090519/122688
+#EXTINF:-1 group-title="TEST",SKY SPORTS NEWS FULL HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122637
+#EXTINF:-1 group-title="TEST",SKY SPORTS PREMIER LEAGUE
+http://185.232.53.4:2086/tbird/tbird/67060
+#EXTINF:-1 group-title="TEST",SKY SPORTS PREMIER LEAGUE
+http://randomserver.site:2086/crystal/12345/67060
+#EXTINF:-1 group-title="TEST",SKY SPORTS PREMIER LEAGUE FHD
+http://ds-tv.co:8080/3333711936844748/160718090519/122689
+#EXTINF:-1 group-title="TEST",SKY SPORTS RACING
+http://randomserver.site:2086/crystal/12345/47763
+#EXTINF:-1 group-title="TEST",SKY WITNESS
+http://randomserver.site:2086/crystal/12345/38338
+#EXTINF:-1 group-title="TEST",SKY_ATLANTIC
+http://mhiptv.com:8888/noval/123456/2834
+#EXTINF:-1 group-title="TEST",SKY_ATLANTIC
+http://mhiptv.com:8888/22558899/22558899/2834
+#EXTINF:-1 group-title="TEST",SKY_SHOWCASE
+http://mhiptv.com:8888/noval/123456/4701
+#EXTINF:-1 group-title="TEST",SKY_SHOWCASE
+http://mhiptv.com:8888/22558899/22558899/4701
+#EXTINF:-1 group-title="TEST",SONY MAX HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122622
+#EXTINF:-1 group-title="TEST",SONY MOVIE CHANNEL
+http://ds-tv.co:8080/3333711936844748/160718090519/122623
+#EXTINF:-1 group-title="TEST",SONY MOVIES
+http://ds-tv.co:8080/3333711936844748/160718090519/122624
+#EXTINF:-1 group-title="TEST",SONY Movies
+http://ingrid.ltd:25461/frank1/frank/3421
+#EXTINF:-1 group-title="TEST",SPORTS TONIGHT
+http://185.232.53.4:2086/tbird/tbird/99205
+#EXTINF:-1 group-title="TEST",STV HD
+http://ingrid.ltd:25461/frank1/frank/3138
+#EXTINF:-1 group-title="TEST",SYFY
+http://randomserver.site:2086/crystal/12345/67068
+#EXTINF:-1 group-title="TEST",SYFY HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122626
+#EXTINF:-1 group-title="TEST",Screamfest, UK | Screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+#EXTINF:-1 group-title="TEST",Sheffield TV
+http://tv.sheffieldlive.org/hls/main.m3u8
+#EXTINF:-1 group-title="TEST",Sky Atlantic
+http://ingrid.ltd:25461/frank1/frank/42117
+#EXTINF:-1 group-title="TEST",Sky Atlantic FHD
+http://ingrid.ltd:25461/frank1/frank/3390
+#EXTINF:-1 group-title="TEST",Sky Cinema Action & Adventure
+http://ingrid.ltd:25461/frank1/frank/42111
+#EXTINF:-1 group-title="TEST",Sky Cinema Comedy
+http://ingrid.ltd:25461/frank1/frank/42118
+#EXTINF:-1 group-title="TEST",Sky Cinema Crime & Thriller
+http://ingrid.ltd:25461/frank1/frank/22962
+#EXTINF:-1 group-title="TEST",Sky Cinema Disney
+http://ingrid.ltd:25461/frank1/frank/42113
+#EXTINF:-1 group-title="TEST",Sky Cinema Drama & Romance
+http://ingrid.ltd:25461/frank1/frank/42112
+#EXTINF:-1 group-title="TEST",Sky Cinema Greats
+http://ingrid.ltd:25461/frank1/frank/42116
+#EXTINF:-1 group-title="TEST",Sky Cinema Hits
+http://ingrid.ltd:25461/frank1/frank/42115
+#EXTINF:-1 group-title="TEST",Sky Cinema Premiere
+http://ingrid.ltd:25461/frank1/frank/42114
+#EXTINF:-1 group-title="TEST",Sky Cinema Premiere +1
+http://ingrid.ltd:25461/frank1/frank/42122
+#EXTINF:-1 group-title="TEST",Sky Cinema SciFi & Horror
+http://ingrid.ltd:25461/frank1/frank/3431
+#EXTINF:-1 group-title="TEST",Sky Cinema SciFi & Horror
+http://ingrid.ltd:25461/frank1/frank/42121
+#EXTINF:-1 group-title="TEST",Sky Cinema Select
+http://ingrid.ltd:25461/frank1/frank/42120
+#EXTINF:-1 group-title="TEST",Sky Cinema Superheroes
+http://ingrid.ltd:25461/frank1/frank/42119
+#EXTINF:-1 group-title="TEST",Sky News
+http://ingrid.ltd:25461/frank1/frank/3437
+#EXTINF:-1 group-title="TEST",Sky News (Backup)
+http://ingrid.ltd:25461/frank1/frank/3141
+#EXTINF:-1 group-title="TEST",Sky Sports Action FHD
+http://ingrid.ltd:25461/frank1/frank/25176
+#EXTINF:-1 group-title="TEST",Sky Sports Arena FHD
+http://ingrid.ltd:25461/frank1/frank/25175
+#EXTINF:-1 group-title="TEST",Sky Sports Arena HD
+http://ingrid.ltd:25461/frank1/frank/7949
+#EXTINF:-1 group-title="TEST",Sky Sports Cricket HD
+http://ingrid.ltd:25461/frank1/frank/7947
+#EXTINF:-1 group-title="TEST",Sky Sports F1 HD
+http://ingrid.ltd:25461/frank1/frank/41545
+#EXTINF:-1 group-title="TEST",Sky Sports Football FHD
+http://ingrid.ltd:25461/frank1/frank/25172
+#EXTINF:-1 group-title="TEST",Sky Sports Golf FHD
+http://ingrid.ltd:25461/frank1/frank/25171
+#EXTINF:-1 group-title="TEST",Sky Sports Golf HD
+http://ingrid.ltd:25461/frank1/frank/25174
+#EXTINF:-1 group-title="TEST",Sky Sports Main Event FHD
+http://ingrid.ltd:25461/frank1/frank/25170
+#EXTINF:-1 group-title="TEST",Sky Sports Mix FHD
+http://ingrid.ltd:25461/frank1/frank/25169
+#EXTINF:-1 group-title="TEST",Sky Sports News FHD
+http://ingrid.ltd:25461/frank1/frank/25168
+#EXTINF:-1 group-title="TEST",Sky Sports Premier League FHD
+http://ingrid.ltd:25461/frank1/frank/22992
+#EXTINF:-1 group-title="TEST",Sky Witness FHD
+http://ingrid.ltd:25461/frank1/frank/22830
+#EXTINF:-1 group-title="TEST",SkyCinema_OSCARS
+http://mhiptv.com:8888/22558899/22558899/2812
+#EXTINF:-1 group-title="TEST",SkyCinema_OSCARS
+http://mhiptv.com:8888/noval/123456/2812
+#EXTINF:-1 group-title="TEST",Sky_Cinema_Action_SD
+http://mhiptv.com:8888/22558899/22558899/2819
+#EXTINF:-1 group-title="TEST",Sky_Cinema_Action_SD
+http://mhiptv.com:8888/noval/123456/2819
+#EXTINF:-1 group-title="TEST",Sky_Cinema_Comedy_SD
+http://mhiptv.com:8888/22558899/22558899/2818
+#EXTINF:-1 group-title="TEST",Sky_Cinema_Disney_HD
+http://mhiptv.com:8888/22558899/22558899/2817
+#EXTINF:-1 group-title="TEST",Sky_Cinema_Disney_HD
+http://mhiptv.com:8888/noval/123456/2817
+#EXTINF:-1 group-title="TEST",Sky_Cinema_Family_SD
+http://mhiptv.com:8888/22558899/22558899/2816
+#EXTINF:-1 group-title="TEST",Sky_Cinema_Family_SD
+http://mhiptv.com:8888/noval/123456/2816
+#EXTINF:-1 group-title="TEST",Sky_Cinema_Hits_HD
+http://mhiptv.com:8888/22558899/22558899/2832
+#EXTINF:-1 group-title="TEST",Sky_Cinema_Hits_HD
+http://mhiptv.com:8888/noval/123456/2832
+#EXTINF:-1 group-title="TEST",Sky_Cinema_Premiere_HD
+http://mhiptv.com:8888/22558899/22558899/2823
+#EXTINF:-1 group-title="TEST",Sky_Cinema_Premiere_HD
+http://mhiptv.com:8888/noval/123456/2823
+#EXTINF:-1 group-title="TEST",Sky_Cinema_Sci-Fi_SD
+http://mhiptv.com:8888/22558899/22558899/2814
+#EXTINF:-1 group-title="TEST",Sky_Cinema_Sci-Fi_SD
+http://mhiptv.com:8888/noval/123456/2814
+#EXTINF:-1 group-title="TEST",Sky_Cinema_Select_SD
+http://mhiptv.com:8888/22558899/22558899/2852
+#EXTINF:-1 group-title="TEST",Sky_Cinema_Select_SD
+http://mhiptv.com:8888/noval/123456/2852
+#EXTINF:-1 group-title="TEST",Sky_Cinema_Thriller_SD
+http://mhiptv.com:8888/22558899/22558899/2813
+#EXTINF:-1 group-title="TEST",Sky_Cinema_Thriller_SD
+http://mhiptv.com:8888/noval/123456/2813
+#EXTINF:-1 group-title="TEST",Sky_Movies_Modern_HD
+http://mhiptv.com:8888/noval/123456/2843
+#EXTINF:-1 group-title="TEST",Sky_Movies_Modern_HD
+http://mhiptv.com:8888/22558899/22558899/2843
+#EXTINF:-1 group-title="TEST",Sky_News
+http://mhiptv.com:8888/22558899/22558899/2847
+#EXTINF:-1 group-title="TEST",Sky_News
+http://mhiptv.com:8888/noval/123456/2847
+#EXTINF:-1 group-title="TEST",Sky_Sports_Action_SD
+http://mhiptv.com:8888/22558899/22558899/2539
+#EXTINF:-1 group-title="TEST",Sky_Sports_Action_SD
+http://mhiptv.com:8888/noval/123456/2539
+#EXTINF:-1 group-title="TEST",Sky_Sports_Cricket
+http://mhiptv.com:8888/22558899/22558899/4718
+#EXTINF:-1 group-title="TEST",Sky_Sports_Cricket
+http://mhiptv.com:8888/noval/123456/4718
+#EXTINF:-1 group-title="TEST",Sky_Sports_F1_SD
+http://mhiptv.com:8888/22558899/22558899/5396
+#EXTINF:-1 group-title="TEST",Sky_Sports_F1_SD
+http://mhiptv.com:8888/noval/123456/5396
+#EXTINF:-1 group-title="TEST",Sky_Sports_Football_SD
+http://mhiptv.com:8888/22558899/22558899/4453
+#EXTINF:-1 group-title="TEST",Sky_Sports_Football_SD
+http://mhiptv.com:8888/noval/123456/4453
+#EXTINF:-1 group-title="TEST",Sky_Sports_Main_Event_SD
+http://mhiptv.com:8888/noval/123456/2538
+#EXTINF:-1 group-title="TEST",Sky_Sports_Main_Event_SD
+http://mhiptv.com:8888/22558899/22558899/2538
+#EXTINF:-1 group-title="TEST",Sky_Sports_Mix_SD
+http://mhiptv.com:8888/22558899/22558899/2537
+#EXTINF:-1 group-title="TEST",Sky_Sports_Mix_SD
+http://mhiptv.com:8888/noval/123456/2537
+#EXTINF:-1 group-title="TEST",Sky_Sports_News_SD
+http://mhiptv.com:8888/22558899/22558899/2540
+#EXTINF:-1 group-title="TEST",Sky_Sports_News_SD
+http://mhiptv.com:8888/noval/123456/2540
+#EXTINF:-1 group-title="TEST",Sky_Sports_Premier_League_SD
+http://mhiptv.com:8888/22558899/22558899/2542
+#EXTINF:-1 group-title="TEST",Sky_Sports_Premier_League_SD
+http://mhiptv.com:8888/noval/123456/2542
+#EXTINF:-1 group-title="TEST",Smithsonian FHD
+http://ingrid.ltd:25461/frank1/frank/42369
+#EXTINF:-1 group-title="TEST",Spotlight TV, UK | Spotlight TV
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
+#EXTINF:-1 group-title="TEST",Star_GOLD
+http://mhiptv.com:8888/22558899/22558899/2829
+#EXTINF:-1 group-title="TEST",Star_GOLD
+http://mhiptv.com:8888/noval/123456/2829
+#EXTINF:-1 group-title="TEST",Sunburn TV
+https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
+#EXTINF:-1 group-title="TEST",SyFy HD
+http://ingrid.ltd:25461/frank1/frank/3411
+#EXTINF:-1 group-title="TEST",TCM
+http://randomserver.site:2086/crystal/12345/32055
+#EXTINF:-1 group-title="TEST",TCM FULL HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122627
+#EXTINF:-1 group-title="TEST",TG4
+http://ingrid.ltd:25461/frank1/frank/3412
+#EXTINF:-1 group-title="TEST",TLC
+http://185.232.53.4:2086/tbird/tbird/91781
+#EXTINF:-1 group-title="TEST",TLC
+http://ingrid.ltd:25461/frank1/frank/3413
+#EXTINF:-1 group-title="TEST",TRAVEL CHANNEL HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122629
+#EXTINF:-1 group-title="TEST",TRUE MOVIES
+http://ds-tv.co:8080/3333711936844748/160718090519/122631
+#EXTINF:-1 group-title="TEST",TRUE_MOVIES1
+http://mhiptv.com:8888/22558899/22558899/2844
+#EXTINF:-1 group-title="TEST",TRUE_MOVIES1
+http://mhiptv.com:8888/noval/123456/2844
+#EXTINF:-1 group-title="TEST",TRUE_MOVIES2
+http://mhiptv.com:8888/22558899/22558899/2825
+#EXTINF:-1 group-title="TEST",TRUE_MOVIES2
+http://mhiptv.com:8888/noval/123456/2825
+#EXTINF:-1 group-title="TEST",TSN 1 HD (3pm kick offs)
+http://ingrid.ltd:25461/frank1/frank/22989
+#EXTINF:-1 group-title="TEST",TSN 2 HD (3pm kick offs)
+http://ingrid.ltd:25461/frank1/frank/22988
+#EXTINF:-1 group-title="TEST",TSN 3 HD (3pm kick offs)
+http://ingrid.ltd:25461/frank1/frank/22987
+#EXTINF:-1 group-title="TEST",TSN 4 HD (3pm kick offs)
+http://ingrid.ltd:25461/frank1/frank/22986
+#EXTINF:-1 group-title="TEST",TSN 5 HD (3pm kick offs)
+http://ingrid.ltd:25461/frank1/frank/22985
+#EXTINF:-1 group-title="TEST",TV3
+http://ingrid.ltd:25461/frank1/frank/3189
+#EXTINF:-1 group-title="TEST",Tiny Pop
+http://ingrid.ltd:25461/frank1/frank/3137
+#EXTINF:-1 group-title="TEST",Travel
+http://mhiptv.com:8888/22558899/22558899/2828
+#EXTINF:-1 group-title="TEST",Travel
+http://mhiptv.com:8888/noval/123456/2828
+#EXTINF:-1 group-title="TEST",Travel Channel
+http://ingrid.ltd:25461/frank1/frank/3136
+#EXTINF:-1 group-title="TEST",True_Movies_SD
+http://mhiptv.com:8888/22558899/22558899/2811
+#EXTINF:-1 group-title="TEST",True_Movies_SD
+http://mhiptv.com:8888/noval/123456/2811
+#EXTINF:-1 group-title="TEST",UNIVERSAL
+http://mhiptv.com:8888/noval/123456/4454
+#EXTINF:-1 group-title="TEST",UNIVERSAL
+http://mhiptv.com:8888/22558899/22558899/4454
+#EXTINF:-1 group-title="TEST",UNIVERSAL FULL HD
+http://ds-tv.co:8080/3333711936844748/160718090519/122633
+#EXTINF:-1 group-title="TEST",UTV FHD
+http://ingrid.ltd:25461/frank1/frank/42368
+#EXTINF:-1 group-title="TEST",VH1
+http://ingrid.ltd:25461/frank1/frank/3417
+#EXTINF:-1 group-title="TEST",VIRGIN ONE
+http://185.232.53.4:2086/tbird/tbird/91788
+#EXTINF:-1 group-title="TEST",VIRGIN ONE
+http://randomserver.site:2086/crystal/12345/91788
+#EXTINF:-1 group-title="TEST",VIRGIN THREE
+http://randomserver.site:2086/crystal/12345/91790
+#EXTINF:-1 group-title="TEST",W
+http://ingrid.ltd:25461/frank1/frank/42367
+#EXTINF:-1 group-title="TEST",Watch
+http://mhiptv.com:8888/noval/123456/4123
+#EXTINF:-1 group-title="TEST",Watch
+http://mhiptv.com:8888/22558899/22558899/4123
+#EXTINF:-1 group-title="TEST",Yesterday
+http://mhiptv.com:8888/noval/123456/4127
+#EXTINF:-1 group-title="TEST",Yesterday
+http://mhiptv.com:8888/22558899/22558899/4127
+#EXTINF:-1 group-title="TEST",Yesterday
+http://ingrid.ltd:25461/frank1/frank/3439
+#EXTINF:-1 group-title="TEST",ZEE TV HD
+http://ingrid.ltd:25461/frank1/frank/3182
+
+
 #EXTINF:-1  group-title="MOVICES",HBO 1 HD
 http://f.ok2.se:8000/victor1/victor123/26321
 #EXTINF:-1  group-title="MOVICES",HBO 2 HD
