@@ -1,5 +1,6 @@
 
 CA TV,#genre#
+temp http://nbastreams.xyz/live/1/
 *CNN HD,http://f.ok2.se:8000/victor1/victor123/360
 BBC WORLD NEWS,http://f.ok2.se:8000/victor1/victor123/9546
 *FOX NEWS HD,http://f.ok2.se:8000/victor1/victor123/363
