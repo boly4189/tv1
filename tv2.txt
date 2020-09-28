@@ -1,149 +1,632 @@
-MOVICES,#genre#
-HBO 1 HD,http://f.ok2.se:8000/victor1/victor123/26321
-HBO 2 HD,http://f.ok2.se:8000/victor1/victor123/26322
-HBO COMEDY HD,http://f.ok2.se:8000/victor1/victor123/373
-HBO FAMILY HD,http://f.ok2.se:8000/victor1/victor123/4829
-HBO SIGNATURE HD,http://f.ok2.se:8000/victor1/victor123/372
-HBO ZONE HD,http://f.ok2.se:8000/victor1/victor123/4828
-HBO EAST HD,http://f.ok2.se:8000/victor1/victor123/371
-ACTION MAX HD,http://f.ok2.se:8000/victor1/victor123/383
-THRILLER MAX HD,http://f.ok2.se:8000/victor1/victor123/80332
-MORE MAX HD,http://f.ok2.se:8000/victor1/victor123/381
-5STAR MAX HD,http://f.ok2.se:8000/victor1/victor123/382
-SHOWTIME 2 HD,http://f.ok2.se:8000/victor1/victor123/11362
-SHOWTIME BEYOND HD,http://f.ok2.se:8000/victor1/victor123/11363
-SHOWTIME WOMEN HD,http://f.ok2.se:8000/victor1/victor123/11359
-SHOWTIME NEXT HD (NEW),http://f.ok2.se:8000/victor1/victor123/11360
-SHOWTIME EAST HD,http://f.ok2.se:8000/victor1/victor123/11361
-SHOWCASE HD,http://f.ok2.se:8000/victor1/victor123/346
-STARZ HD,http://f.ok2.se:8000/victor1/victor123/374
-STARZ EDGE HD,http://f.ok2.se:8000/victor1/victor123/377
-STARZ COMEDY HD,http://f.ok2.se:8000/victor1/victor123/376
-STARZ BLACK HD,http://f.ok2.se:8000/victor1/victor123/378
-SKY SYFY,http://f.ok2.se:8000/victor1/victor123/7174
-SKY MOVIES COMEDY,http://f.ok2.se:8000/victor1/victor123/1737
-SKY MOVIES THRILLER,http://f.ok2.se:8000/victor1/victor123/1742
-SKY CRIME AND INVESTIGATION,http://f.ok2.se:8000/victor1/victor123/7190
-SKY 5 STAR,http://f.ok2.se:8000/victor1/victor123/7181
-SKY SONY MOVIES,http://f.ok2.se:8000/victor1/victor123/1771
-*LIFETIME MOVIES HD,http://f.ok2.se:8000/victor1/victor123/326
-TRUE MOVIES,http://f.ok2.se:8000/victor1/victor123/1786
-MOVIE TIME HD,http://f.ok2.se:8000/victor1/victor123/369
-PPV MOVIES,http://f.ok2.se:8000/victor1/victor123/8784
-SCIENCE FICTION,http://f.ok2.se:8000/victor1/victor123/8887
-SYFY HD,http://f.ok2.se:8000/victor1/victor123/339
-AMC HD,http://f.ok2.se:8000/victor1/victor123/334
-VAULT (CDN),http://f.ok2.se:8000/victor1/victor123/67114
-ENCORE WESTERN HD,http://f.ok2.se:8000/victor1/victor123/379
-EPIX EAST HD - NEW,http://f.ok2.se:8000/victor1/victor123/69016
-EPIX 2 HD - NEW,http://f.ok2.se:8000/victor1/victor123/69014
-EPIX DRIVE IN'S HD - NEW,http://f.ok2.se:8000/victor1/victor123/69012
-EPIX HITS HD - NEW,http://f.ok2.se:8000/victor1/victor123/69013
-NEWS,#genre#
-*CNN HD,http://f.ok2.se:8000/victor1/victor123/360
-BBC WORLD NEWS,http://f.ok2.se:8000/victor1/victor123/9546
-*FOX NEWS HD,http://f.ok2.se:8000/victor1/victor123/363
-FOX NEWS BUSINESS,http://f.ok2.se:8000/victor1/victor123/4600
-SKY NEWS,http://f.ok2.se:8000/victor1/victor123/7173
-CNBC HD,http://f.ok2.se:8000/victor1/victor123/364
+TEST,#genre#
+3E HD,http://ingrid.ltd:25461/frank1/frank/3181
+4 Seven HD,http://ingrid.ltd:25461/frank1/frank/3454
+4MUSIC,http://ds-tv.co:8080/3333711936844748/160718090519/122478
+4Music,http://ingrid.ltd:25461/frank1/frank/3180
+4SEVEN,http://randomserver.site:2086/crystal/12345/66935
+4SEVEN,http://185.232.53.4:2086/tbird/tbird/66935
+4SEVEN HD,http://ds-tv.co:8080/3333711936844748/160718090519/122479
+5 STAR,http://ds-tv.co:8080/3333711936844748/160718090519/122481
+5Star HD,http://ingrid.ltd:25461/frank1/frank/3453
+5USA HD,http://ingrid.ltd:25461/frank1/frank/3448
+5USA_SD,http://mhiptv.com:8888/22558899/22558899/2815
+5USA_SD,http://mhiptv.com:8888/noval/123456/2815
+AL JAZEERA ENG,http://185.232.53.4:2086/tbird/tbird/66946
+AL JAZEERA ENG,http://randomserver.site:2086/crystal/12345/66946
+ALIBI HD,http://ingrid.ltd:25461/frank1/frank/3452
+ANIMAL PLANET,http://193.33.39.108:8107/30704
+Ahlulbayt TV,http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
+Sky News Arabia,https://stream.skynewsarabia.com/hls/sna_720.m3u8
+At The Races,http://ingrid.ltd:25461/frank1/frank/23496
+At_the_races_SD,http://mhiptv.com:8888/noval/123456/2830
+At_the_races_SD,http://mhiptv.com:8888/22558899/22558899/2830
+BBC 1 FHD,http://ingrid.ltd:25461/frank1/frank/39727
+UK | BBC 1 Scotland,https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8
+BBC 2 FHD,http://ingrid.ltd:25461/frank1/frank/39726
+BBC 4 FHD /CBEEBIES,http://ingrid.ltd:25461/frank1/frank/39724
+BBC 4 HD,http://ingrid.ltd:25461/frank1/frank/3447
+BBC ALBA,http://ds-tv.co:8080/3333711936844748/160718090519/122485
+BBC Arabic,http://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/bbc_arabic_tv-pa4%3d128000-video%3d5070016.m3u8
+Cbeebies,http://51.52.156.22:8888/http/003
+BBC FOUR FULL HD,http://ds-tv.co:8080/3333711936844748/160718090519/122486
+BBC NEWS FHD,http://ingrid.ltd:25461/frank1/frank/39723
+BBC NEWS HD,http://185.232.53.4:2086/tbird/tbird/90878
+UK | BBC News,https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
 BBC News,http://51.52.156.22:8888/http/004
-CCTV NEWS,http://f.ok2.se:8000/victor1/victor123/3965
-RT NEWS ENGLISH,http://f.ok2.se:8000/victor1/victor123/512
-DW NEWS,http://f.ok2.se:8000/victor1/victor123/67410
-EURONEWS,http://f.ok2.se:8000/victor1/victor123/67409
-CBS NEWS HD,http://f.ok2.se:8000/victor1/victor123/3078
-CTV NEWS NETWORK HD,http://f.ok2.se:8000/victor1/victor123/2423
-*CP24 HD,http://f.ok2.se:8000/victor1/victor123/11
-TRT WORLD HD (TR),http://f.ok2.se:8000/victor1/victor123/27136
-ALJAZEERA ENGLISH,http://f.ok2.se:8000/victor1/victor123/1661
-FRANCE 24,http://f.ok2.se:8000/victor1/victor123/4796
-亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
-NHK英语新闻,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
-MSNBC HD,http://f.ok2.se:8000/victor1/victor123/365
-CBS HD EAST,http://f.ok2.se:8000/victor1/victor123/8
-CBS HD WEST,http://f.ok2.se:8000/victor1/victor123/304
-ABC HD EAST,http://f.ok2.se:8000/victor1/victor123/10
-ABC HD WEST,http://f.ok2.se:8000/victor1/victor123/306
-NBC HD WEST,http://f.ok2.se:8000/victor1/victor123/303
-FOX HD WEST,http://f.ok2.se:8000/victor1/victor123/305
-HLN HD,http://f.ok2.se:8000/victor1/victor123/362
-RT DOCUMENTARY,http://f.ok2.se:8000/victor1/victor123/3075
-NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-SPORTS,#genre#
-TNT HD,http://f.ok2.se:8000/victor1/victor123/341
-*ESPN HD,http://f.ok2.se:8000/victor1/victor123/143
-ESPN 2 HD,http://f.ok2.se:8000/victor1/victor123/144
-*NBA HD,http://f.ok2.se:8000/victor1/victor123/165
-ESPN NEWS HD - NEW,http://f.ok2.se:8000/victor1/victor123/59038
-*FOX SPORTS 1 HD,http://f.ok2.se:8000/victor1/victor123/145
-*FOX SPORTS 2 HD,http://f.ok2.se:8000/victor1/victor123/146
-ESPN ACC HD,http://f.ok2.se:8000/victor1/victor123/86092
-*NBC SPORTS,http://f.ok2.se:8000/victor1/victor123/170
-*CBS SPORTS HD,http://f.ok2.se:8000/victor1/victor123/169
-*TSN HD,http://f.ok2.se:8000/victor1/victor123/138
-*TSN HD,http://f.ok2.se:8000/victor1/victor123/140
-*TSN HD,http://f.ok2.se:8000/victor1/victor123/141
-*TSN HD,http://f.ok2.se:8000/victor1/victor123/142
-BIG 10 HD,http://f.ok2.se:8000/victor1/victor123/3950
-FOX COLLEGE ATLANTIC,http://f.ok2.se:8000/victor1/victor123/59885
-FOX COLLEGE PACIFIC,http://f.ok2.se:8000/victor1/victor123/59886
-PAC 12 ARIZONA,http://f.ok2.se:8000/victor1/victor123/9691
-PAC 12 BAY AREA,http://f.ok2.se:8000/victor1/victor123/9690
-PAC 12 LOS ANGELES,http://f.ok2.se:8000/victor1/victor123/9692
-PAC 12 MOUNTAIN,http://f.ok2.se:8000/victor1/victor123/9689
-PAC 12 NETWORK,http://f.ok2.se:8000/victor1/victor123/9687
-PAC 12 OREGON,http://f.ok2.se:8000/victor1/victor123/9688
-*SPORTSNET ONT HD,http://f.ok2.se:8000/victor1/victor123/148
-*SPORTSNET ONE HD,http://f.ok2.se:8000/victor1/victor123/149
-SPORTSNET WEST HD,http://f.ok2.se:8000/victor1/victor123/8890
-*SPORTSNET PACIFIC HD,http://f.ok2.se:8000/victor1/victor123/2434
-*SPORTSNET 360 HD,http://f.ok2.se:8000/victor1/victor123/147
-*SPORTSNET WORLD HD,http://f.ok2.se:8000/victor1/victor123/150
-*NFL NETWORK HD,http://f.ok2.se:8000/victor1/victor123/157
-MSG HD - NEW,http://f.ok2.se:8000/victor1/victor123/10052
-YES NETWORK HD,http://f.ok2.se:8000/victor1/victor123/10034
-MLB NETWORK HD,http://f.ok2.se:8000/victor1/victor123/2193
-GOLF HD,http://f.ok2.se:8000/victor1/victor123/166
-WWE HD,http://f.ok2.se:8000/victor1/victor123/168
-TENNIS HD,http://f.ok2.se:8000/victor1/victor123/167
-MAVTV,http://f.ok2.se:8000/victor1/victor123/68854
-WILLOW CRICKET HD,http://f.ok2.se:8000/victor1/victor123/198
-WILLOW XTRA HD,http://f.ok2.se:8000/victor1/victor123/9630
-FIGHT - NEW,http://f.ok2.se:8000/victor1/victor123/71284
-*BEIN SPORTS HD,http://f.ok2.se:8000/victor1/victor123/171
-TVG - NEW,http://f.ok2.se:8000/victor1/victor123/59036
-TVG 2 - NEW,http://f.ok2.se:8000/victor1/victor123/81931
-RACING.COM (AU),http://f.ok2.se:8000/victor1/victor123/80783
-BT SPORTS 1 HD,http://f.ok2.se:8000/victor1/victor123/225
-BT SPORTS 2 HD,http://f.ok2.se:8000/victor1/victor123/226
-BT SPORTS 3 HD,http://f.ok2.se:8000/victor1/victor123/232
-BT SPORTS ESPN,http://f.ok2.se:8000/victor1/victor123/233
-WFN,http://f.ok2.se:8000/victor1/victor123/26231
-OUTDOOR CHANNEL,http://f.ok2.se:8000/victor1/victor123/9049
-SPORTSMAN NETWORK,http://f.ok2.se:8000/victor1/victor123/9050
-NAT GEO,#genre#
-*DISCOVERY HD (CDN),http://f.ok2.se:8000/victor1/victor123/319
-DISCOVERY HD (USA),http://f.ok2.se:8000/victor1/victor123/56250
-DISCOVERY SCIENCE HD,http://f.ok2.se:8000/victor1/victor123/320
-DISCOVERY FAMILY HD - NEW,http://f.ok2.se:8000/victor1/victor123/59034
-NAT GEO HD,http://f.ok2.se:8000/victor1/victor123/330
-*NAT GEO WILD HD,http://f.ok2.se:8000/victor1/victor123/331
-ANIMAL PLANET HD,http://f.ok2.se:8000/victor1/victor123/332
-SKY NAT GEO,http://f.ok2.se:8000/victor1/victor123/1755
-SKY NAT GEO WILD,http://f.ok2.se:8000/victor1/victor123/1756
-SKY ANIMAL PLANET,http://f.ok2.se:8000/victor1/victor123/1760
-SKY DISCOVERY,http://f.ok2.se:8000/victor1/victor123/1764
-SKY DISCOVERY HISTORY,http://f.ok2.se:8000/victor1/victor123/1765
-SKY DISCOVERY SCIENCE,http://f.ok2.se:8000/victor1/victor123/1766
-SKY DISCOVERY SHED,http://f.ok2.se:8000/victor1/victor123/1761
-LOVE NATURE HD,http://f.ok2.se:8000/victor1/victor123/1258
-*HISTORY HD,http://f.ok2.se:8000/victor1/victor123/322
-SMITHSONIAN HD,http://f.ok2.se:8000/victor1/victor123/3951
-FYI HD,http://f.ok2.se:8000/victor1/victor123/42684
-DIY HD,http://f.ok2.se:8000/victor1/victor123/329
-SKY HISTORY,http://f.ok2.se:8000/victor1/victor123/1758
-SKY H2,http://f.ok2.se:8000/victor1/victor123/1754
-TRAVEL HD,http://f.ok2.se:8000/victor1/victor123/349
+BBC ONE EAST,http://ds-tv.co:8080/3333711936844748/160718090519/122488
+BBC ONE EAST,http://randomserver.site:2086/crystal/12345/31878
+BBC ONE EAST MIDLANDS,http://ds-tv.co:8080/3333711936844748/160718090519/122489
+BBC ONE HD,http://randomserver.site:2086/crystal/12345/90864
+BBC ONE NORTH EAST,http://ds-tv.co:8080/3333711936844748/160718090519/122493
+BBC ONE OXFORD,http://ds-tv.co:8080/3333711936844748/160718090519/122496
+BBC ONE SCOTLAND FULL HD,http://ds-tv.co:8080/3333711936844748/160718090519/122497
+BBC ONE SOUTH EAST,http://ds-tv.co:8080/3333711936844748/160718090519/122499
+BBC ONE WEST MIDLANDS,http://ds-tv.co:8080/3333711936844748/160718090519/122502
+BBC ONE YORKS,http://ds-tv.co:8080/3333711936844748/160718090519/122503
+BBC PARLIAMENT,http://ds-tv.co:8080/3333711936844748/160718090519/122504
+BBC SCOTLAND,http://185.232.53.4:2086/tbird/tbird/98711
+BBC TWO NOTHERN IRELAND,http://ds-tv.co:8080/3333711936844748/160718090519/122507
+BBC TWO SCOTLAND,http://ds-tv.co:8080/3333711936844748/160718090519/122508
+BBC TWO WALES,http://ds-tv.co:8080/3333711936844748/160718090519/122509
+BBC_Four_SD,http://mhiptv.com:8888/22558899/22558899/2827
+BBC_Four_SD,http://mhiptv.com:8888/noval/123456/2827
+BBC_NEWS_SD,http://mhiptv.com:8888/noval/123456/2826
+BBC_NEWS_SD,http://mhiptv.com:8888/22558899/22558899/2826
+BBC_One_ SD,http://mhiptv.com:8888/noval/123456/2861
+BBC_One_ SD,http://mhiptv.com:8888/22558899/22558899/2861
+BBC_Three,http://mhiptv.com:8888/22558899/22558899/2835
+BBC_Three,http://mhiptv.com:8888/noval/123456/2835
+BBC_Two_SD,http://mhiptv.com:8888/22558899/22558899/2851
+BBC_Two_SD,http://mhiptv.com:8888/noval/123456/2851
+BET HD,http://ingrid.ltd:25461/frank1/frank/3185
+BLAZE,http://185.232.53.4:2086/tbird/tbird/66951
+BLAZE,http://randomserver.site:2086/crystal/12345/66951
+BOOMERANG,http://193.33.39.108:8107/30710
+BOXNATION,http://mhiptv.com:8888/noval/123456/2838
+BOXNATION,http://185.232.53.4:2086/tbird/tbird/67081
+BOXNATION,http://mhiptv.com:8888/22558899/22558899/2838
+BOXNATION,http://mhiptv.com:8888/noval/123456/2838
+BOXNATION FHD,http://ds-tv.co:8080/3333711936844748/160718090519/122665
+BT SPORT 1,http://ingrid.ltd:25461/frank1/frank/3399
+BT SPORT 1 FULL HD,http://ds-tv.co:8080/3333711936844748/160718090519/122513
+BT SPORT 2,http://ingrid.ltd:25461/frank1/frank/3398
+BT SPORT 3,http://ingrid.ltd:25461/frank1/frank/3397
+BT SPORT 3 FULL HD,http://ds-tv.co:8080/3333711936844748/160718090519/122515
+BT SPORT ESPN,http://ingrid.ltd:25461/frank1/frank/3396
+BT SPORT EXTRA 2,http://ds-tv.co:8080/3333711936844748/160718090519/122667
+BT SPORT EXTRA 2,http://ds-tv.co:8080/3333711936844748/160718090519/122517
+BT SPORT EXTRA 4,http://ds-tv.co:8080/3333711936844748/160718090519/122669
+BT SPORT EXTRA 4,http://ds-tv.co:8080/3333711936844748/160718090519/122519
+BT SPORT EXTRA 5,http://ds-tv.co:8080/3333711936844748/160718090519/122670
+BT SPORTS 1,http://randomserver.site:2086/crystal/12345/67062
+BT SPORTS 1,http://185.232.53.4:2086/tbird/tbird/67062
+BT SPORTS 1 FHD,http://ds-tv.co:8080/3333711936844748/160718090519/122671
+BT SPORTS 1 FULL HD,http://ds-tv.co:8080/3333711936844748/160718090519/122521
+BT SPORTS 2,http://randomserver.site:2086/crystal/12345/67063
+BT SPORTS 2 FHD,http://ds-tv.co:8080/3333711936844748/160718090519/122672
+BT SPORTS 2 FULL HD,http://ds-tv.co:8080/3333711936844748/160718090519/122522
+BT SPORTS 3,http://randomserver.site:2086/crystal/12345/67075
+BT SPORTS ESPN,http://randomserver.site:2086/crystal/12345/67076
+BT SPORTS ESPN FHD,http://ds-tv.co:8080/3333711936844748/160718090519/122674
+BT SPORTS ESPN FULL HD,http://ds-tv.co:8080/3333711936844748/160718090519/122524
+BT Sport Extra 1,http://ingrid.ltd:25461/frank1/frank/42109
+BT Sport Extra 2,http://ingrid.ltd:25461/frank1/frank/42110
+BTSport_Extra1,http://mhiptv.com:8888/noval/123456/2544
+BTSport_Extra1,http://mhiptv.com:8888/22558899/22558899/2544
+BT_SPORT1_SD,http://mhiptv.com:8888/noval/123456/2535
+BT_SPORT1_SD,http://mhiptv.com:8888/22558899/22558899/2535
+BT_SPORT2_SD,http://mhiptv.com:8888/noval/123456/2536
+BT_SPORT2_SD,http://mhiptv.com:8888/22558899/22558899/2536
+BT_SPORT_EUROPE,http://mhiptv.com:8888/noval/123456/2543
+BT_SPORT_EUROPE,http://mhiptv.com:8888/22558899/22558899/2543
+BT_SPORT_EXTRA,http://mhiptv.com:8888/noval/123456/2547
+BT_SPORT_EXTRA,http://mhiptv.com:8888/22558899/22558899/2547
+BT_Sport_ESPN,http://mhiptv.com:8888/noval/123456/2820
+BT_Sport_ESPN,http://mhiptv.com:8888/22558899/22558899/2820
+BT_Sport_ESPN_SD,http://mhiptv.com:8888/22558899/22558899/2545
+BT_Sport_ESPN_SD,http://mhiptv.com:8888/noval/123456/2545
+BT_Sports3_SD,http://mhiptv.com:8888/noval/123456/2546
+BT_Sports3_SD,http://mhiptv.com:8888/22558899/22558899/2546
+Baby TV,http://ingrid.ltd:25461/frank1/frank/3188
+Baby_tv,http://mhiptv.com:8888/22558899/22558899/4459
+Baby_tv,http://mhiptv.com:8888/noval/123456/4459
+Blaze,http://ingrid.ltd:25461/frank1/frank/3177
+Boomerang,http://ingrid.ltd:25461/frank1/frank/3176
+Box Nation HD,http://ingrid.ltd:25461/frank1/frank/12355
+CARTOON NETWORK,http://randomserver.site:2086/live/Bria/Bria/98707.m3u8
+CARTOON NETWORK,http://185.232.53.4:2086/tbird/tbird/98707
+CARTOON NETWORK HD,http://ds-tv.co:8080/3333711936844748/160718090519/122525
+CBBC,http://185.232.53.4:2086/tbird/tbird/90880
+CBBC HD,http://ds-tv.co:8080/3333711936844748/160718090519/122526
+CBBC HD,http://ingrid.ltd:25461/frank1/frank/3174
+CBS ACTION,http://ds-tv.co:8080/3333711936844748/160718090519/122528
+CBS Action,http://ingrid.ltd:25461/frank1/frank/3191
+CBS Drama,http://ingrid.ltd:25461/frank1/frank/3444
+CBS Reality,http://ingrid.ltd:25461/frank1/frank/3425
+CBS_ACTION,http://mhiptv.com:8888/22558899/22558899/4452
+CBS_ACTION,http://mhiptv.com:8888/noval/123456/4452
+CBS_DRAMA_SD,http://mhiptv.com:8888/noval/123456/4451
+CBS_DRAMA_SD,http://mhiptv.com:8888/22558899/22558899/4451
+CBS_Reality_SD,http://mhiptv.com:8888/noval/123456/2821
+CBS_Reality_SD,http://mhiptv.com:8888/22558899/22558899/2821
+CBeebies,http://mhiptv.com:8888/noval/123456/4700
+CBeebies,http://mhiptv.com:8888/22558899/22558899/4700
+CHANNEL 4 FHD,http://ingrid.ltd:25461/frank1/frank/39721
+CHANNEL 5,http://185.232.53.4:2086/tbird/tbird/66962
+CHANNEL 5 FHD,http://ingrid.ltd:25461/frank1/frank/39720
+CNBC_News,http://mhiptv.com:8888/noval/123456/4702
+CNBC_News,http://mhiptv.com:8888/22558899/22558899/4702
+CNN FULL HD,http://ds-tv.co:8080/3333711936844748/160718090519/122536
+COMEDY CENTRAL,http://185.232.53.4:2086/tbird/tbird/72570
+COMEDY CENTRAL HD,http://ds-tv.co:8080/3333711936844748/160718090519/122538
+COMEDY XTRA,http://ds-tv.co:8080/3333711936844748/160718090519/122539
+UK | Canaf 54,https://stream.ecable.tv/canaf54/tracks-v1a1/mono.m3u8
+Cartoon_Network,http://mhiptv.com:8888/22558899/22558899/2596
+Cartoon_Network,http://mhiptv.com:8888/noval/123456/2596
+Cbeebies HD,http://ingrid.ltd:25461/frank1/frank/3131
+Challenge,http://ingrid.ltd:25461/frank1/frank/3443
+Channel 4 HD,http://ingrid.ltd:25461/frank1/frank/3190
+Channel 5 HD,http://ingrid.ltd:25461/frank1/frank/3388
+Chelsea FC TV HD,http://ingrid.ltd:25461/frank1/frank/3552
+Chelsea_TV,http://mhiptv.com:8888/22558899/22558899/5152
+Chelsea_TV,http://mhiptv.com:8888/noval/123456/5152
+Comedy Central FHD,http://ingrid.ltd:25461/frank1/frank/3428
+Comedy_Central_Extra_SD,http://mhiptv.com:8888/22558899/22558899/2860
+Comedy_Central_Extra_SD,http://mhiptv.com:8888/noval/123456/2860
+Create and Craft,https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
+Crime & Investigation,http://ingrid.ltd:25461/frank1/frank/3196
+Crime_Investigation,http://mhiptv.com:8888/noval/123456/2845
+Crime_Investigation,http://mhiptv.com:8888/22558899/22558899/2845
+DAVE,http://185.232.53.4:2086/tbird/tbird/66969
+DISCOVERY,http://178.132.3.162:88/Discovery/video.m3u8?token=test
+DISCOVERY CHANNEL,http://185.232.53.4:2086/tbird/tbird/32042
+DISCOVERY HISTORY,http://178.132.3.162:88/Discovery_History/video.m3u8?token=test
+DISCOVERY HISTORY,http://ds-tv.co:8080/3333711936844748/160718090519/122544
+DISCOVERY SCIENCE,http://ds-tv.co:8080/3333711936844748/160718090519/122545
+DISCOVERY TURBO,http://ds-tv.co:8080/3333711936844748/160718090519/122546
+DISNEY JUNIOR,http://185.232.53.4:2086/tbird/tbird/98702
+DMAX,http://ingrid.ltd:25461/frank1/frank/3195
+Dave,http://mhiptv.com:8888/22558899/22558899/4703
+Dave,http://mhiptv.com:8888/noval/123456/4703
+Dave TV,http://ingrid.ltd:25461/frank1/frank/42048
+Daystar FHD,http://ingrid.ltd:25461/frank1/frank/42371
+Discovery HD,http://ingrid.ltd:25461/frank1/frank/41570
+Discovery History,http://ingrid.ltd:25461/frank1/frank/41571
+Discovery Science,http://ingrid.ltd:25461/frank1/frank/41572
+Discovery Shed,http://ingrid.ltd:25461/frank1/frank/41578
+Discovery Turbo,http://ingrid.ltd:25461/frank1/frank/41577
+Discovery_History,http://mhiptv.com:8888/22558899/22558899/2859
+Discovery_History,http://mhiptv.com:8888/noval/123456/2859
+Discovery_SD,http://mhiptv.com:8888/22558899/22558899/2857
+Discovery_SD,http://mhiptv.com:8888/noval/123456/2857
+Discovery_Science_SD,http://mhiptv.com:8888/22558899/22558899/2858
+Discovery_Science_SD,http://mhiptv.com:8888/noval/123456/2858
+Discovery_Turbo_SD,http://mhiptv.com:8888/22558899/22558899/2856
+Discovery_Turbo_SD,http://mhiptv.com:8888/noval/123456/2856
+Disney Channel FHD,http://ingrid.ltd:25461/frank1/frank/3410
+Disney Jr.,http://ingrid.ltd:25461/frank1/frank/3194
+Disney XD,http://ingrid.ltd:25461/frank1/frank/3168
+Disney_Channel,http://mhiptv.com:8888/22558899/22558899/2855
+Disney_Channel,http://mhiptv.com:8888/noval/123456/2855
+Disney_Junior_SD,http://mhiptv.com:8888/22558899/22558899/2854
+Disney_Junior_SD,http://mhiptv.com:8888/noval/123456/2854
+Disney_XD_SD,http://mhiptv.com:8888/22558899/22558899/2853
+Disney_XD_SD,http://mhiptv.com:8888/noval/123456/2853
+Dmax,http://mhiptv.com:8888/noval/123456/2862
+Dmax,http://mhiptv.com:8888/22558899/22558899/2862
+Drama,http://ingrid.ltd:25461/frank1/frank/3442
+E!,http://mhiptv.com:8888/22558899/22558899/4705
+E!,http://mhiptv.com:8888/noval/123456/4705
+E! Entertainment,http://ingrid.ltd:25461/frank1/frank/3200
+E4,http://ingrid.ltd:25461/frank1/frank/42366
+E4 FULL HD,http://ds-tv.co:8080/3333711936844748/160718090519/122550
+E4_SD,http://mhiptv.com:8888/22558899/22558899/2541
+E4_SD,http://mhiptv.com:8888/noval/123456/2541
+EDEN,http://randomserver.site:2086/live/crystal/12345/72572.m3u8
+EDEN FULL HD,http://ds-tv.co:8080/3333711936844748/160718090519/122551
+EIR SPORT 1,http://185.232.53.4:2086/tbird/tbird/91786
+EIR SPORT 1,http://ds-tv.co:8080/3333711936844748/160718090519/122675
+EIR SPORT 1,http://ds-tv.co:8080/3333711936844748/160718090519/122552
+EIR SPORT 2,http://185.232.53.4:2086/tbird/tbird/91787
+EIR SPORT 2,http://ds-tv.co:8080/3333711936844748/160718090519/122676
+EIR SPORTS 2,http://ingrid.ltd:25461/frank1/frank/39731
+EURO SPORTS,http://91.126.39.98:8086/udp/224.168.32.2:3202
+EUROSPORT 1,http://randomserver.site:2086/live/Bria/Bria/72659.m3u8
+EUROSPORT 1,http://185.232.53.4:2086/tbird/tbird/72659
+EUROSPORT 1 FHD,http://ds-tv.co:8080/3333711936844748/160718090519/122677
+EUROSPORT 1 FULL HD,http://ds-tv.co:8080/3333711936844748/160718090519/122555
+EUROSPORT 2 FHD,http://ds-tv.co:8080/3333711936844748/160718090519/122678
+EUROSPORT 2 FULL HD,http://ds-tv.co:8080/3333711936844748/160718090519/122556
+EUROSPORT ONE,http://185.232.53.4:2086/tbird/tbird/99200
+EUROSPORT_1,http://mhiptv.com:8888/22558899/22558899/2850
+EUROSPORT_1,http://mhiptv.com:8888/noval/123456/2850
+EUROSPORT_2,http://mhiptv.com:8888/22558899/22558899/2849
+EUROSPORT_2,http://mhiptv.com:8888/noval/123456/2849
+Eden FHD,http://ingrid.ltd:25461/frank1/frank/42373
+Eir Sport 2 FHD,http://ingrid.ltd:25461/frank1/frank/5313
+Eman Channel,https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+Euronews,http://mhiptv.com:8888/noval/123456/14344
+Euronews,http://mhiptv.com:8888/22558899/22558899/14344
+Eurosport 1,http://ingrid.ltd:25461/frank1/frank/42101
+Eurosport 2,http://ingrid.ltd:25461/frank1/frank/42102
+Eurosport 4k,http://ingrid.ltd:25461/frank1/frank/41411
+FOX,http://185.232.53.4:2086/tbird/tbird/98699
+FRANCE 24 EN HD,http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+FREESPORTS,http://185.232.53.4:2086/tbird/tbird/99228
+Film4,http://mhiptv.com:8888/noval/123456/2836
+Film4,http://mhiptv.com:8888/22558899/22558899/2836
+Five,http://mhiptv.com:8888/noval/123456/4712
+Five,http://mhiptv.com:8888/22558899/22558899/4712
+Flow Sports 1,http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+Flow Sports 1,http://161.0.157.9/PLTV/88888888/224/3221226899/02.m3u8
+Flow Sports 1,http://161.0.157.5/PLTV/88888888/224/3221226899/01.m3u8
+Food Network,http://ingrid.ltd:25461/frank1/frank/3368
+Food_Network,http://mhiptv.com:8888/22558899/22558899/2848
+Food_Network,http://mhiptv.com:8888/noval/123456/2848
+UK | Forces TV,https://edge-1192-ch-gv.filmon.com/live/3386.high.stream/playlist.m3u8
+Fox FHD,http://ingrid.ltd:25461/frank1/frank/42365
+Free Sports,http://ingrid.ltd:25461/frank1/frank/22915
+FrontRunner,http://ingrid.ltd:25461/frank1/frank/23497
+GOLD,http://mhiptv.com:8888/22558899/22558899/4704
+GOLD,http://ds-tv.co:8080/3333711936844748/160718090519/122559
+GOLD,http://mhiptv.com:8888/noval/123456/4704
+GOLD FHD,http://ingrid.ltd:25461/frank1/frank/3416
+Gems TV,http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
+Good Food,http://ingrid.ltd:25461/frank1/frank/42370
+H2,http://185.232.53.4:2086/tbird/tbird/67070
+H2 FULL HD,http://ds-tv.co:8080/3333711936844748/160718090519/122561
+H2 HD,http://ingrid.ltd:25461/frank1/frank/3165
+HBO,http://136.243.177.164/HBO/playlist.m3u8
+HISTORY FULL HD,http://ds-tv.co:8080/3333711936844748/160718090519/122562
+HOME,http://ds-tv.co:8080/3333711936844748/160718090519/122563
+HORROR CHANNEL,http://ds-tv.co:8080/3333711936844748/160718090519/122565
+HORSE AND COUNTRY TV,http://185.232.53.4:2086/tbird/tbird/99203
+History HD,http://ingrid.ltd:25461/frank1/frank/3164
+History_Channel_SD,http://mhiptv.com:8888/22558899/22558899/2846
+History_Channel_SD,http://mhiptv.com:8888/noval/123456/2846
+Home & Health,http://ingrid.ltd:25461/frank1/frank/3163
+Home_Health,http://mhiptv.com:8888/noval/123456/4706
+Home_Health,http://mhiptv.com:8888/22558899/22558899/4706
+Horizon Sports,https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
+Horror_Channel,http://mhiptv.com:8888/noval/123456/4707
+Horror_Channel,http://mhiptv.com:8888/22558899/22558899/4707
+Horse & Country TV,https://hlshac-i.akamaihd.net/hls/live/854653/haclinear/HNC_AUSTRALIA/1080p_live.m3u8
+ID,http://185.232.53.4:2086/tbird/tbird/67088
+ID,http://randomserver.site:2086/crystal/12345/67088
+ITV,http://185.232.53.4:2086/tbird/tbird/66991
+ITV,http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+ITV +1,http://randomserver.site:2086/crystal/12345/66992
+ITV 1 FHD,http://ingrid.ltd:25461/frank1/frank/39718
+ITV 1 HD,http://ingrid.ltd:25461/frank1/frank/3207
+ITV 2 FHD,http://ingrid.ltd:25461/frank1/frank/39717
+ITV 2 HD,http://ingrid.ltd:25461/frank1/frank/3206
+ITV 3 FHD,http://ingrid.ltd:25461/frank1/frank/39716
+ITV 3 HD,http://ingrid.ltd:25461/frank1/frank/3205
+ITV 4 FHD,http://ingrid.ltd:25461/frank1/frank/39715
+ITV 4 HD,http://ingrid.ltd:25461/frank1/frank/3204
+ITV BE FHD,http://ingrid.ltd:25461/frank1/frank/39719
+ITV BE FULL HD,http://ds-tv.co:8080/3333711936844748/160718090519/122568
+ITV BE HD,http://ingrid.ltd:25461/frank1/frank/3203
+ITV1_SD,http://mhiptv.com:8888/noval/123456/2822
+ITV1_SD,http://mhiptv.com:8888/22558899/22558899/2822
+ITV2,http://randomserver.site:2086/crystal/12345/67003
+ITV2,http://51.52.156.22:8888/http/005
+ITV2_SD,http://mhiptv.com:8888/noval/123456/2824
+ITV2_SD,http://mhiptv.com:8888/22558899/22558899/2824
+ITV3 FULL HD,http://ds-tv.co:8080/3333711936844748/160718090519/122572
+ITV3_SD,http://mhiptv.com:8888/noval/123456/4709
+ITV3_SD,http://mhiptv.com:8888/22558899/22558899/4709
+ITV4,http://randomserver.site:2086/crystal/12345/67004
+ITV4_SD,http://mhiptv.com:8888/noval/123456/4710
+ITV4_SD,http://mhiptv.com:8888/22558899/22558899/4710
+ITVBe,http://185.232.53.4:2086/tbird/tbird/67006
+ITVBe,http://randomserver.site:2086/crystal/12345/67006
+ITV_Encore,http://mhiptv.com:8888/noval/123456/4711
+ITV_Encore,http://mhiptv.com:8888/22558899/22558899/4711
+Ideal World,https://live-isd.simplestreamcdn.com/idealworld/3/prog_index.m3u8
+UK | Ideal World,http://live-isd.simplestreamcdn.com/idealworld/3/prog_index.m3u8
+KEEP_IT_COUNTRY,http://mhiptv.com:8888/noval/123456/4708
+KEEP_IT_COUNTRY,http://mhiptv.com:8888/22558899/22558899/4708
+UK | Kanshi TV,http://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8
+LFC TV 1080,http://ingrid.ltd:25461/frank1/frank/22993
+LFC TV FULL HD,http://ds-tv.co:8080/3333711936844748/160718090519/122574
+LFC TV HD,http://ingrid.ltd:25461/frank1/frank/3551
+LIFETIME,http://185.232.53.4:2086/tbird/tbird/67069
+LIFETIME,http://randomserver.site:2086/crystal/12345/67069
+LIFETIME FULL HD,http://ds-tv.co:8080/3333711936844748/160718090519/122575
+LIVERPOOL_FC,http://mhiptv.com:8888/22558899/22558899/4934
+LIVERPOOL_FC,http://mhiptv.com:8888/noval/123456/4934
+Liverpool FC TV HD,http://ingrid.ltd:25461/frank1/frank/3371
+London_Live,http://mhiptv.com:8888/22558899/22558899/4713
+London_Live,http://mhiptv.com:8888/noval/123456/4713
+Love Nature FHD,http://ingrid.ltd:25461/frank1/frank/42372
+UK | MATV,https://a.jsrdn.com/r-373576a2/publish/22677_J8PT4x6prY/index.m3u8
+MORE4,http://randomserver.site:2086/live/crystal/12345/98696.m3u8
+MORE4,http://randomserver.site:2086/crystal/12345/98696
+MORE4 +1,http://randomserver.site:2086/live/crystal/12345/67015.m3u8
+MTA 1,http://ooyalahd2-f.akamaihd.net:80/i/mtaorigin_delivery@353498/index_1100_av-p.m3u8
+MTA 1 English,https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
+MTA 1 Urdu,https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/index_3000_av-p.m3u8
+MTA 2,https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/index_2400_av-p.m3u8
+MTA 2 Urdu,https://ooyalahd2-f.akamaihd.net/i/mtageraudio_delivery@308889/index_1100_av-p.m3u8
+MTA 3,https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_3000_av-p.m3u8
+MTA 3,http://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_1700_av-p.m3u8
+MTV,http://randomserver.site:2086/live/crystal/12345/67073.m3u8
+MTV,http://185.232.53.4:2086/tbird/tbird/67073
+MTV,http://randomserver.site:2086/crystal/12345/67073
+MTV BASE,http://ingrid.ltd:25461/frank1/frank/3158
+MTV CLASSIC,http://ingrid.ltd:25461/frank1/frank/3157
+MTV DANCE,http://ds-tv.co:8080/3333711936844748/160718090519/122579
+MTV DANCE,http://ingrid.ltd:25461/frank1/frank/3156
+MTV Hits,http://ingrid.ltd:25461/frank1/frank/3372
+MTV MUSIC,http://ds-tv.co:8080/3333711936844748/160718090519/122582
+MTV MUSIC,http://ingrid.ltd:25461/frank1/frank/3155
+MTV MUSIC +1,http://ds-tv.co:8080/3333711936844748/160718090519/122583
+MTV ROCKS,http://ingrid.ltd:25461/frank1/frank/3154
+MTV ROCKS,http://ds-tv.co:8080/3333711936844748/160718090519/122584
+MTV_CLASSIC,http://mhiptv.com:8888/noval/123456/2841
+MTV_CLASSIC,http://mhiptv.com:8888/22558899/22558899/2841
+MTV_Music,http://mhiptv.com:8888/noval/123456/2840
+MTV_Music,http://mhiptv.com:8888/22558899/22558899/2840
+MUTV,http://185.232.53.4:2086/tbird/tbird/42409
+MUTV,http://ingrid.ltd:25461/frank1/frank/3383
+MUTV FULL HD,http://ds-tv.co:8080/3333711936844748/160718090519/122585
+MUTV_HD,http://mhiptv.com:8888/noval/123456/4717
+MUTV_HD,http://mhiptv.com:8888/22558899/22558899/4717
+More4 HD,http://ingrid.ltd:25461/frank1/frank/3382
+More4_SD,http://mhiptv.com:8888/22558899/22558899/4714
+More4_SD,http://mhiptv.com:8888/noval/123456/4714
+Motors,http://mhiptv.com:8888/noval/123456/4715
+Motors,http://mhiptv.com:8888/22558899/22558899/4715
+Movies4men,http://ingrid.ltd:25461/frank1/frank/3422
+Movies_24,http://mhiptv.com:8888/22558899/22558899/4716
+Movies_24,http://mhiptv.com:8888/noval/123456/4716
+Movies_4_Men,http://mhiptv.com:8888/noval/123456/2842
+Movies_4_Men,http://mhiptv.com:8888/22558899/22558899/2842
+NAT GEO,http://randomserver.site:2086/crystal/12345/98691
+NAT GEO WILD,http://185.232.53.4:2086/tbird/tbird/67074
+NAT GEO WILD FULL HD,http://ds-tv.co:8080/3333711936844748/160718090519/122586
+NICK,http://185.232.53.4:2086/tbird/tbird/91784
+NICK,http://randomserver.site:2086/crystal/12345/91784
+NICK FULL HD,http://ds-tv.co:8080/3333711936844748/160718090519/122588
+NICK JR,http://ds-tv.co:8080/3333711936844748/160718090519/122590
+NICK JR TOO,http://ds-tv.co:8080/3333711936844748/160718090519/122591
+NICKELODEON,http://mhiptv.com:8888/22558899/22558899/4450
+NICKELODEON,http://ds-tv.co:8080/3333711936844748/160718090519/122592
+NICKELODEON,http://mhiptv.com:8888/noval/123456/4450
+Nat_Geo_Wild,http://mhiptv.com:8888/noval/123456/2837
+Nat_Geo_Wild,http://mhiptv.com:8888/22558899/22558899/2837
+National Geographic HD,http://ingrid.ltd:25461/frank1/frank/3433
+National Geographic Wild HD,http://ingrid.ltd:25461/frank1/frank/3377
+National_Geographic,http://mhiptv.com:8888/noval/123456/2839
+National_Geographic,http://mhiptv.com:8888/22558899/22558899/2839
+Nick Jr,http://ingrid.ltd:25461/frank1/frank/3378
+Nick Jr,http://ingrid.ltd:25461/frank1/frank/3380
+Nick Toons,http://ingrid.ltd:25461/frank1/frank/3434
+Nick_Junior_SD,http://mhiptv.com:8888/noval/123456/2831
+Nick_Junior_SD,http://mhiptv.com:8888/22558899/22558899/2831
+Nickelodeon,http://ingrid.ltd:25461/frank1/frank/3384
+PARAMOUNT,http://185.232.53.4:2086/tbird/tbird/66940
+PICK HD,http://ds-tv.co:8080/3333711936844748/160718090519/122594
+PREMIER SPORTS 1,http://185.232.53.4:2086/tbird/tbird/91782
+PREMIER SPORTS 1,http://randomserver.site:2086/crystal/12345/91782
+PREMIER SPORTS 2,http://185.232.53.4:2086/tbird/tbird/91783
+PREMIER SPORTS 2,http://randomserver.site:2086/crystal/12345/91783
+PREMIER SPORTS FULL HD,http://ds-tv.co:8080/3333711936844748/160718090519/122595
+PREMIER_SPORT,http://mhiptv.com:8888/noval/123456/2833
+PREMIER_SPORT,http://mhiptv.com:8888/22558899/22558899/2833
+Pick TV,http://ingrid.ltd:25461/frank1/frank/3387
+UK | Pop MAX,https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
+QUEST,http://mhiptv.com:8888/22558899/22558899/4458
+QUEST,http://randomserver.site:2086/crystal/12345/67029
+QUEST,http://mhiptv.com:8888/noval/123456/4458
+QVC,http://ingrid.ltd:25461/frank1/frank/36329
+QVC,https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
+QVC,http://ingrid.ltd:25461/Melon3175/Melon7531/36329
+QVC Plus,http://ingrid.ltd:25461/frank1/frank/36613
+QVC Style,http://ingrid.ltd:25461/frank1/frank/36614
+Quest HD,http://ingrid.ltd:25461/frank1/frank/3385
+RACING HD,http://ingrid.ltd:25461/frank1/frank/23486
+RACING TV,http://185.232.53.4:2086/tbird/tbird/67071
+RACING TV,http://randomserver.site:2086/crystal/12345/67071
+RACING UK,http://ds-tv.co:8080/3333711936844748/160718090519/122596
+RT HD UK,http://ds-tv.co:8080/3333711936844748/160718090519/122597
+RTE JR,http://185.232.53.4:2086/tbird/tbird/91792
+RTE NEWS,http://185.232.53.4:2086/tbird/tbird/91793
+RTE NEWS,http://randomserver.site:2086/crystal/12345/91793
+RTE NEWS,http://ingrid.ltd:25461/frank1/frank/39730
+RTE News,http://ingrid.ltd:25461/frank1/frank/3147
+RTE ONE,http://185.232.53.4:2086/tbird/tbird/32065
+RTE ONE,http://randomserver.site:2086/crystal/12345/32065
+RTE ONE HD,http://ingrid.ltd:25461/frank1/frank/3435
+RTE TWO HD,http://ingrid.ltd:25461/frank1/frank/3436
+Racing_UK,http://mhiptv.com:8888/22558899/22558899/4932
+Racing_UK,http://mhiptv.com:8888/noval/123456/4932
+UK | Really,https://edge-1192-ch-gv.filmon.com/live/2798.high.stream/playlist.m3u8
+Really,http://ingrid.ltd:25461/frank1/frank/3389
+Reuters,http://220.158.149.28:8180/live/TV00000000000000000034@HHZT
+S4C HD,http://ingrid.ltd:25461/frank1/frank/3146
+SKY ARTS,http://185.232.53.4:2086/tbird/tbird/98689
+SKY ATLANTIC,http://185.232.53.4:2086/tbird/tbird/91780
+SKY ATLANTIC HD,http://ds-tv.co:8080/3333711936844748/160718090519/122599
+SKY CINEMA ACTION,http://randomserver.site:2086/crystal/12345/87571
+SKY CINEMA ACTION FULL HD,http://ds-tv.co:8080/3333711936844748/160718090519/122600
+SKY CINEMA COMEDY,http://randomserver.site:2086/crystal/12345/87572
+SKY CINEMA CRIME & THRILLER,http://ds-tv.co:8080/3333711936844748/160718090519/122603
+SKY CINEMA DISNEY,http://randomserver.site:2086/crystal/12345/87573
+SKY CINEMA DRAMA,http://randomserver.site:2086/crystal/12345/87574
+SKY CINEMA DRAMA,http://185.232.53.4:2086/tbird/tbird/87574
+SKY CINEMA DRAMA & ROMANCE,http://ds-tv.co:8080/3333711936844748/160718090519/122605
+SKY CINEMA FAMILY,http://randomserver.site:2086/crystal/12345/87575
+SKY CINEMA GREATS,http://randomserver.site:2086/crystal/12345/87576
+SKY CINEMA GREATS,http://185.232.53.4:2086/tbird/tbird/87576
+SKY CINEMA HITS,http://randomserver.site:2086/crystal/12345/87577
+SKY CINEMA PREMIERE,http://randomserver.site:2086/crystal/12345/87578
+SKY CINEMA PREMIERE,http://185.232.53.4:2086/tbird/tbird/87578
+SKY CINEMA SCI-FI,http://randomserver.site:2086/crystal/12345/87579
+SKY CINEMA SELECT,http://185.232.53.4:2086/tbird/tbird/87580
+SKY CINEMA SELECT FULL HD,http://ds-tv.co:8080/3333711936844748/160718090519/122609
+SKY CINEMA THRILLER,http://randomserver.site:2086/crystal/12345/87581
+SKY CINEMA THRILLER,http://185.232.53.4:2086/tbird/tbird/87581
+SKY NATURE,http://185.232.53.4:2086/tbird/tbird/99206
+SKY NEWS,http://randomserver.site:2086/crystal/12345/98692
+SKY NEWS ARABIA (1280×720),https://stream.skynewsarabia.com/hls/sna.m3u8
+SKY SPORTS ACTION,http://randomserver.site:2086/crystal/12345/85930
+SKY SPORTS ACTION FHD,http://ds-tv.co:8080/3333711936844748/160718090519/122679
+SKY SPORTS ARENA,http://ds-tv.co:8080/3333711936844748/160718090519/122680
+SKY SPORTS ARENA,http://185.232.53.4:2086/tbird/tbird/85931
+SKY SPORTS ARENA,http://randomserver.site:2086/crystal/12345/85931
+SKY SPORTS CRICKET,http://185.232.53.4:2086/tbird/tbird/51106
+SKY SPORTS CRICKET,http://randomserver.site:2086/crystal/12345/51106
+SKY SPORTS CRICKET FHD,http://ds-tv.co:8080/3333711936844748/160718090519/122682
+SKY SPORTS F1,http://185.232.53.4:2086/tbird/tbird/67056
+SKY SPORTS F1,http://randomserver.site:2086/crystal/12345/67056
+SKY SPORTS F1 HD,http://ds-tv.co:8080/3333711936844748/160718090519/122617
+SKY SPORTS FOOTBALL,http://185.232.53.4:2086/tbird/tbird/67057
+SKY SPORTS FOOTBALL,http://randomserver.site:2086/crystal/12345/67057
+SKY SPORTS GOLF,http://randomserver.site:2086/crystal/12345/67059
+SKY SPORTS GOLF HD,http://ds-tv.co:8080/3333711936844748/160718090519/122619
+SKY SPORTS GOLF HD,http://ds-tv.co:8080/3333711936844748/160718090519/122685
+SKY SPORTS MAIN EVENT FHD,http://ds-tv.co:8080/3333711936844748/160718090519/122686
+SKY SPORTS MIX,http://185.232.53.4:2086/tbird/tbird/67061
+SKY SPORTS MIX,http://randomserver.site:2086/crystal/12345/67061
+SKY SPORTS MIX FHD,http://ds-tv.co:8080/3333711936844748/160718090519/122687
+SKY SPORTS NEWS,http://185.232.53.4:2086/tbird/tbird/67091
+SKY SPORTS NEWS,http://randomserver.site:2086/crystal/12345/67091
+SKY SPORTS NEWS FHD,http://ds-tv.co:8080/3333711936844748/160718090519/122688
+SKY SPORTS NEWS FULL HD,http://ds-tv.co:8080/3333711936844748/160718090519/122637
+SKY SPORTS PREMIER LEAGUE,http://185.232.53.4:2086/tbird/tbird/67060
+SKY SPORTS PREMIER LEAGUE,http://randomserver.site:2086/crystal/12345/67060
+SKY SPORTS PREMIER LEAGUE FHD,http://ds-tv.co:8080/3333711936844748/160718090519/122689
+SKY SPORTS RACING,http://randomserver.site:2086/crystal/12345/47763
+SKY WITNESS,http://randomserver.site:2086/crystal/12345/38338
+SKY_ATLANTIC,http://mhiptv.com:8888/noval/123456/2834
+SKY_ATLANTIC,http://mhiptv.com:8888/22558899/22558899/2834
+SKY_SHOWCASE,http://mhiptv.com:8888/noval/123456/4701
+SKY_SHOWCASE,http://mhiptv.com:8888/22558899/22558899/4701
+SONY MAX HD,http://ds-tv.co:8080/3333711936844748/160718090519/122622
+SONY MOVIE CHANNEL,http://ds-tv.co:8080/3333711936844748/160718090519/122623
+SONY MOVIES,http://ds-tv.co:8080/3333711936844748/160718090519/122624
+SONY Movies,http://ingrid.ltd:25461/frank1/frank/3421
+SPORTS TONIGHT,http://185.232.53.4:2086/tbird/tbird/99205
+STV HD,http://ingrid.ltd:25461/frank1/frank/3138
+SYFY,http://randomserver.site:2086/crystal/12345/67068
+SYFY HD,http://ds-tv.co:8080/3333711936844748/160718090519/122626
+UK | Screamfest,https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+Sheffield TV,http://tv.sheffieldlive.org/hls/main.m3u8
+Sky Atlantic,http://ingrid.ltd:25461/frank1/frank/42117
+Sky Atlantic FHD,http://ingrid.ltd:25461/frank1/frank/3390
+Sky Cinema Action & Adventure,http://ingrid.ltd:25461/frank1/frank/42111
+Sky Cinema Comedy,http://ingrid.ltd:25461/frank1/frank/42118
+Sky Cinema Crime & Thriller,http://ingrid.ltd:25461/frank1/frank/22962
+Sky Cinema Disney,http://ingrid.ltd:25461/frank1/frank/42113
+Sky Cinema Drama & Romance,http://ingrid.ltd:25461/frank1/frank/42112
+Sky Cinema Greats,http://ingrid.ltd:25461/frank1/frank/42116
+Sky Cinema Hits,http://ingrid.ltd:25461/frank1/frank/42115
+Sky Cinema Premiere,http://ingrid.ltd:25461/frank1/frank/42114
+Sky Cinema Premiere +1,http://ingrid.ltd:25461/frank1/frank/42122
+Sky Cinema SciFi & Horror,http://ingrid.ltd:25461/frank1/frank/3431
+Sky Cinema SciFi & Horror,http://ingrid.ltd:25461/frank1/frank/42121
+Sky Cinema Select,http://ingrid.ltd:25461/frank1/frank/42120
+Sky Cinema Superheroes,http://ingrid.ltd:25461/frank1/frank/42119
+Sky News,http://ingrid.ltd:25461/frank1/frank/3437
+Sky News (Backup),http://ingrid.ltd:25461/frank1/frank/3141
+Sky Sports Action FHD,http://ingrid.ltd:25461/frank1/frank/25176
+Sky Sports Arena FHD,http://ingrid.ltd:25461/frank1/frank/25175
+Sky Sports Arena HD,http://ingrid.ltd:25461/frank1/frank/7949
+Sky Sports Cricket HD,http://ingrid.ltd:25461/frank1/frank/7947
+Sky Sports F1 HD,http://ingrid.ltd:25461/frank1/frank/41545
+Sky Sports Football FHD,http://ingrid.ltd:25461/frank1/frank/25172
+Sky Sports Golf FHD,http://ingrid.ltd:25461/frank1/frank/25171
+Sky Sports Golf HD,http://ingrid.ltd:25461/frank1/frank/25174
+Sky Sports Main Event FHD,http://ingrid.ltd:25461/frank1/frank/25170
+Sky Sports Mix FHD,http://ingrid.ltd:25461/frank1/frank/25169
+Sky Sports News FHD,http://ingrid.ltd:25461/frank1/frank/25168
+Sky Sports Premier League FHD,http://ingrid.ltd:25461/frank1/frank/22992
+Sky Witness FHD,http://ingrid.ltd:25461/frank1/frank/22830
+SkyCinema_OSCARS,http://mhiptv.com:8888/22558899/22558899/2812
+SkyCinema_OSCARS,http://mhiptv.com:8888/noval/123456/2812
+Sky_Cinema_Action_SD,http://mhiptv.com:8888/22558899/22558899/2819
+Sky_Cinema_Action_SD,http://mhiptv.com:8888/noval/123456/2819
+Sky_Cinema_Comedy_SD,http://mhiptv.com:8888/22558899/22558899/2818
+Sky_Cinema_Disney_HD,http://mhiptv.com:8888/22558899/22558899/2817
+Sky_Cinema_Disney_HD,http://mhiptv.com:8888/noval/123456/2817
+Sky_Cinema_Family_SD,http://mhiptv.com:8888/22558899/22558899/2816
+Sky_Cinema_Family_SD,http://mhiptv.com:8888/noval/123456/2816
+Sky_Cinema_Hits_HD,http://mhiptv.com:8888/22558899/22558899/2832
+Sky_Cinema_Hits_HD,http://mhiptv.com:8888/noval/123456/2832
+Sky_Cinema_Premiere_HD,http://mhiptv.com:8888/22558899/22558899/2823
+Sky_Cinema_Premiere_HD,http://mhiptv.com:8888/noval/123456/2823
+Sky_Cinema_Sci-Fi_SD,http://mhiptv.com:8888/22558899/22558899/2814
+Sky_Cinema_Sci-Fi_SD,http://mhiptv.com:8888/noval/123456/2814
+Sky_Cinema_Select_SD,http://mhiptv.com:8888/22558899/22558899/2852
+Sky_Cinema_Select_SD,http://mhiptv.com:8888/noval/123456/2852
+Sky_Cinema_Thriller_SD,http://mhiptv.com:8888/22558899/22558899/2813
+Sky_Cinema_Thriller_SD,http://mhiptv.com:8888/noval/123456/2813
+Sky_Movies_Modern_HD,http://mhiptv.com:8888/noval/123456/2843
+Sky_Movies_Modern_HD,http://mhiptv.com:8888/22558899/22558899/2843
+Sky_News,http://mhiptv.com:8888/22558899/22558899/2847
+Sky_News,http://mhiptv.com:8888/noval/123456/2847
+Sky_Sports_Action_SD,http://mhiptv.com:8888/22558899/22558899/2539
+Sky_Sports_Action_SD,http://mhiptv.com:8888/noval/123456/2539
+Sky_Sports_Cricket,http://mhiptv.com:8888/22558899/22558899/4718
+Sky_Sports_Cricket,http://mhiptv.com:8888/noval/123456/4718
+Sky_Sports_F1_SD,http://mhiptv.com:8888/22558899/22558899/5396
+Sky_Sports_F1_SD,http://mhiptv.com:8888/noval/123456/5396
+Sky_Sports_Football_SD,http://mhiptv.com:8888/22558899/22558899/4453
+Sky_Sports_Football_SD,http://mhiptv.com:8888/noval/123456/4453
+Sky_Sports_Main_Event_SD,http://mhiptv.com:8888/noval/123456/2538
+Sky_Sports_Main_Event_SD,http://mhiptv.com:8888/22558899/22558899/2538
+Sky_Sports_Mix_SD,http://mhiptv.com:8888/22558899/22558899/2537
+Sky_Sports_Mix_SD,http://mhiptv.com:8888/noval/123456/2537
+Sky_Sports_News_SD,http://mhiptv.com:8888/22558899/22558899/2540
+Sky_Sports_News_SD,http://mhiptv.com:8888/noval/123456/2540
+Sky_Sports_Premier_League_SD,http://mhiptv.com:8888/22558899/22558899/2542
+Sky_Sports_Premier_League_SD,http://mhiptv.com:8888/noval/123456/2542
+Smithsonian FHD,http://ingrid.ltd:25461/frank1/frank/42369
+UK | Spotlight TV,https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
+Star_GOLD,http://mhiptv.com:8888/22558899/22558899/2829
+Star_GOLD,http://mhiptv.com:8888/noval/123456/2829
+Sunburn TV,https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
+SyFy HD,http://ingrid.ltd:25461/frank1/frank/3411
+TCM,http://randomserver.site:2086/crystal/12345/32055
+TCM FULL HD,http://ds-tv.co:8080/3333711936844748/160718090519/122627
+TG4,http://ingrid.ltd:25461/frank1/frank/3412
+TLC,http://185.232.53.4:2086/tbird/tbird/91781
+TLC,http://ingrid.ltd:25461/frank1/frank/3413
+TRAVEL CHANNEL HD,http://ds-tv.co:8080/3333711936844748/160718090519/122629
+TRUE MOVIES,http://ds-tv.co:8080/3333711936844748/160718090519/122631
+TRUE_MOVIES1,http://mhiptv.com:8888/22558899/22558899/2844
+TRUE_MOVIES1,http://mhiptv.com:8888/noval/123456/2844
+TRUE_MOVIES2,http://mhiptv.com:8888/22558899/22558899/2825
+TRUE_MOVIES2,http://mhiptv.com:8888/noval/123456/2825
+TSN 1 HD (3pm kick offs),http://ingrid.ltd:25461/frank1/frank/22989
+TSN 2 HD (3pm kick offs),http://ingrid.ltd:25461/frank1/frank/22988
+TSN 3 HD (3pm kick offs),http://ingrid.ltd:25461/frank1/frank/22987
+TSN 4 HD (3pm kick offs),http://ingrid.ltd:25461/frank1/frank/22986
+TSN 5 HD (3pm kick offs),http://ingrid.ltd:25461/frank1/frank/22985
+TV3,http://ingrid.ltd:25461/frank1/frank/3189
+Tiny Pop,http://ingrid.ltd:25461/frank1/frank/3137
+Travel,http://mhiptv.com:8888/22558899/22558899/2828
+Travel,http://mhiptv.com:8888/noval/123456/2828
+Travel Channel,http://ingrid.ltd:25461/frank1/frank/3136
+True_Movies_SD,http://mhiptv.com:8888/22558899/22558899/2811
+True_Movies_SD,http://mhiptv.com:8888/noval/123456/2811
+UNIVERSAL,http://mhiptv.com:8888/noval/123456/4454
+UNIVERSAL,http://mhiptv.com:8888/22558899/22558899/4454
+UNIVERSAL FULL HD,http://ds-tv.co:8080/3333711936844748/160718090519/122633
+UTV FHD,http://ingrid.ltd:25461/frank1/frank/42368
+VH1,http://ingrid.ltd:25461/frank1/frank/3417
+VIRGIN ONE,http://185.232.53.4:2086/tbird/tbird/91788
+VIRGIN ONE,http://randomserver.site:2086/crystal/12345/91788
+VIRGIN THREE,http://randomserver.site:2086/crystal/12345/91790
+W,http://ingrid.ltd:25461/frank1/frank/42367
+Watch,http://mhiptv.com:8888/noval/123456/4123
+Watch,http://mhiptv.com:8888/22558899/22558899/4123
+Yesterday,http://mhiptv.com:8888/noval/123456/4127
+Yesterday,http://mhiptv.com:8888/22558899/22558899/4127
+Yesterday,http://ingrid.ltd:25461/frank1/frank/3439
+
+CA,#genre#
+Discovery HD,http://185.236.229.4:8000/play/a11u
+Travel Channel HD,http://185.236.229.4:8000/play/a10x
+AMC HD,http://185.236.229.4:8000/play/a11x
+FOX Comedy,http://185.236.229.4:8000/play/a0yn
+FOX Crime HD,http://185.236.229.4:8000/play/a10w
+FOX Life HD,http://185.236.229.4:8000/play/a11e
+FOX Movies,http://185.236.229.4:8000/play/a12f
+BBC Entertainment,http://185.236.229.4:8000/play/a120
+Blaze,http://185.236.229.4:8000/play/a12h
+ID Investigation Discovery,http://185.236.229.4:8000/play/a111
+E! Entertainment,http://185.236.229.4:8000/play/a0y1
+Histðria,http://185.236.229.4:8000/play/a106
+Hollywood,http://185.236.229.4:8000/play/a0tt
+SyFy,http://185.236.229.4:8000/play/a0z3
+Motorvision,http://185.236.229.4:8000/play/a11z
+NHK World Japan,http://185.236.229.4:8000/play/a0xo
+National Geographic Wild,http://185.236.229.4:8000/play/a0yi
+TLC,http://185.236.229.4:8000/play/a12e
+
 AU TV,#genre#
 SBS,https://sbs-live.akamaized.net/hls/live/2002827/channel1/geo/master_2500K.m3u8
 SBS Food,https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8
@@ -244,171 +727,4 @@ HBO Asia,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 博斯魅力,https://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 空中英語教室,http://220.158.149.14:9999/live/TV00000000000000000077@HHZT;LIVE
 緯來體育台,http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
-CA TV,#genre#
-Discovery HD,http://185.236.229.4:8000/play/a11u
-Travel Channel HD,http://185.236.229.4:8000/play/a10x
-AMC HD,http://185.236.229.4:8000/play/a11x
-FOX Comedy,http://185.236.229.4:8000/play/a0yn
-FOX Crime HD,http://185.236.229.4:8000/play/a10w
-FOX Life HD,http://185.236.229.4:8000/play/a11e
-FOX Movies,http://185.236.229.4:8000/play/a12f
-BBC Entertainment,http://185.236.229.4:8000/play/a120
-Blaze,http://185.236.229.4:8000/play/a12h
-ID Investigation Discovery,http://185.236.229.4:8000/play/a111
-E! Entertainment,http://185.236.229.4:8000/play/a0y1
-Histðria,http://185.236.229.4:8000/play/a106
-Hollywood,http://185.236.229.4:8000/play/a0tt
-SyFy,http://185.236.229.4:8000/play/a0z3
-Motorvision,http://185.236.229.4:8000/play/a11z
-NHK World Japan,http://185.236.229.4:8000/play/a0xo
-National Geographic Wild,http://185.236.229.4:8000/play/a0yi
-TLC,http://185.236.229.4:8000/play/a12e
-BBC CANADA - NEW,http://f.ok2.se:8000/victor1/victor123/46724
-BBC AMERICA HD,http://f.ok2.se:8000/victor1/victor123/357
-US TV,#genre#
-ABC SPARK HD,http://f.ok2.se:8000/victor1/victor123/4063
-CTV-SCIFI HD (SPACE),http://f.ok2.se:8000/victor1/victor123/8110
-*A&E HD,http://f.ok2.se:8000/victor1/victor123/347
-007 4 LIFE HD,http://f.ok2.se:8000/victor1/victor123/7493
-CRAVE 1 HD,http://f.ok2.se:8000/victor1/victor123/9505
-CRAVE 2 HD,http://f.ok2.se:8000/victor1/victor123/9506
-CRAVE 3 HD,http://f.ok2.se:8000/victor1/victor123/9507
-80'S ACTION HITZ HD,http://f.ok2.se:8000/victor1/victor123/7497
-80'S COMEDY HITZ HD,http://f.ok2.se:8000/victor1/victor123/7496
-80'S DRAMA HITZ HD,http://f.ok2.se:8000/victor1/victor123/7495
-80'S HORROR HITZ HD,http://f.ok2.se:8000/victor1/victor123/7494
-*HALLMARK HD,http://f.ok2.se:8000/victor1/victor123/321
-*HALLMARK MOVIES MYSTERY HD,http://f.ok2.se:8000/victor1/victor123/4599
-HALLMARK DRAMA,http://f.ok2.se:8000/victor1/victor123/83349
-OXYGEN HD - NEW,http://f.ok2.se:8000/victor1/victor123/59037
-YES TV,http://f.ok2.se:8000/victor1/victor123/6962
-FX HD,http://f.ok2.se:8000/victor1/victor123/314
-FXX HD,http://f.ok2.se:8000/victor1/victor123/315
-TRU TV HD,http://f.ok2.se:8000/victor1/victor123/340
-COMEDY NETWORK HD,http://f.ok2.se:8000/victor1/victor123/316
-SKY BBC 1,http://f.ok2.se:8000/victor1/victor123/1783
-SKY BBC 2,http://f.ok2.se:8000/victor1/victor123/1784
-CBS ACTION,http://f.ok2.se:8000/victor1/victor123/7184
-CBS DRAMA,http://f.ok2.se:8000/victor1/victor123/7186
-SKY E4,http://f.ok2.se:8000/victor1/victor123/7178
-SKY MORE4,http://f.ok2.se:8000/victor1/victor123/7177
-SKY FILM4,http://f.ok2.se:8000/victor1/victor123/7189
-TVO HD (NA),http://f.ok2.se:8000/victor1/victor123/391
-SUNDANCE HD - NEW,http://f.ok2.se:8000/victor1/victor123/10039
-YTV HD,http://f.ok2.se:8000/victor1/victor123/390
-DISNEY HD EAST,http://f.ok2.se:8000/victor1/victor123/392
-TREEHOUSE HD,http://f.ok2.se:8000/victor1/victor123/393
-WE TV HD,http://f.ok2.se:8000/victor1/victor123/342
-BET HD,http://f.ok2.se:8000/victor1/victor123/351
-BET HER HD - NEW,http://f.ok2.se:8000/victor1/victor123/69008
-CMT HD  - NEW,http://f.ok2.se:8000/victor1/victor123/12266
-*VH1 HD,http://f.ok2.se:8000/victor1/victor123/354
-VISION HD,http://f.ok2.se:8000/victor1/victor123/355
-PBS HD,http://f.ok2.se:8000/victor1/victor123/356
-CHCH HD,http://f.ok2.se:8000/victor1/victor123/358
-CW11 HD,http://f.ok2.se:8000/victor1/victor123/359
-CW11 HD WEST,http://f.ok2.se:8000/victor1/victor123/2421
-TCM HD,http://f.ok2.se:8000/victor1/victor123/368
-ADULT SWIM HD,http://f.ok2.se:8000/victor1/victor123/370
-FXM HD,http://f.ok2.se:8000/victor1/victor123/56246
-TV LAND HD,http://f.ok2.se:8000/victor1/victor123/313
-*TBS HD,http://f.ok2.se:8000/victor1/victor123/317
-SKY CHANNEL 4,http://f.ok2.se:8000/victor1/victor123/7175
-SKY CHANNEL 5,http://f.ok2.se:8000/victor1/victor123/7176
-PBS KIDS - NEW,http://f.ok2.se:8000/victor1/victor123/15071
-BOOK - NEW,http://f.ok2.se:8000/victor1/victor123/67100
-SHOWTIME EXTREME HD,http://f.ok2.se:8000/victor1/victor123/11358
-*ID HD,http://f.ok2.se:8000/victor1/victor123/324
-FOX HD EAST,http://f.ok2.se:8000/victor1/victor123/9
-SKY TLC,http://f.ok2.se:8000/victor1/victor123/1790
-SKY REALLY,http://f.ok2.se:8000/victor1/victor123/1757
-SKY ARTS,http://f.ok2.se:8000/victor1/victor123/2196
-SKY QUEST,http://f.ok2.se:8000/victor1/victor123/1768
-SKY TRU TV,http://f.ok2.se:8000/victor1/victor123/1723
-SKY HOME,http://f.ok2.se:8000/victor1/victor123/1718
-SKY DAVE,http://f.ok2.se:8000/victor1/victor123/1775
-SKY ITV 1,http://f.ok2.se:8000/victor1/victor123/4865
-SKY ITV 2,http://f.ok2.se:8000/victor1/victor123/4864
-SKY ITV 3,http://f.ok2.se:8000/victor1/victor123/4863
-SKY ITV 4,http://f.ok2.se:8000/victor1/victor123/4862
-SKY ITV BE,http://f.ok2.se:8000/victor1/victor123/4860
-SKY RTE 1,http://f.ok2.se:8000/victor1/victor123/4859
-SKY RTE 2,http://f.ok2.se:8000/victor1/victor123/4858
-SKY ATLANTIC,http://f.ok2.se:8000/victor1/victor123/1740
-SKY ALIBI,http://f.ok2.se:8000/victor1/victor123/1774
-SKY 2,http://f.ok2.se:8000/victor1/victor123/1749
-CITY TV HD,http://f.ok2.se:8000/victor1/victor123/14
-OLN - NEW,http://f.ok2.se:8000/victor1/victor123/67103
-*GLOBAL EAST HD,http://f.ok2.se:8000/victor1/victor123/15
-CTV,http://f.ok2.se:8000/victor1/victor123/17
-CBC EAST HD,http://f.ok2.se:8000/victor1/victor123/18
-CBC WINDSOR,http://f.ok2.se:8000/victor1/victor123/71279
-CBC ATLANTIC,http://f.ok2.se:8000/victor1/victor123/71278
-CBC CHARLOTTETOWN HD,http://f.ok2.se:8000/victor1/victor123/72691
-CTV MONCTON,http://f.ok2.se:8000/victor1/victor123/71282
-CTV2 ATLANTIC,http://f.ok2.se:8000/victor1/victor123/71425
-CTV2 LONDON,http://f.ok2.se:8000/victor1/victor123/88493
-NTV (NEWFOUNDLAND) - NEW,http://f.ok2.se:8000/victor1/victor123/68073
-CBC OTTAWA - NEW,http://f.ok2.se:8000/victor1/victor123/45499
-CTV OTTAWA - NEW,http://f.ok2.se:8000/victor1/victor123/65625
-CTV 2 OTTAWA - NEW,http://f.ok2.se:8000/victor1/victor123/59130
-CBC WINNIPEG - NEW,http://f.ok2.se:8000/victor1/victor123/46716
-CTV WINNIPEG,http://f.ok2.se:8000/victor1/victor123/63327
-CITY WINNIPEG,http://f.ok2.se:8000/victor1/victor123/71424
-CBC EDMONTON - NEW,http://f.ok2.se:8000/victor1/victor123/46715
-CTV EDMONTON - NEW,http://f.ok2.se:8000/victor1/victor123/65628
-GLOBAL EDMONTON - NEW,http://f.ok2.se:8000/victor1/victor123/65627
-BC1 HD,http://f.ok2.se:8000/victor1/victor123/307
-GLOBAL BC HD,http://f.ok2.se:8000/victor1/victor123/308
-CBC CALGARY,http://f.ok2.se:8000/victor1/victor123/7339
-CTV CALGARY,http://f.ok2.se:8000/victor1/victor123/7338
-CITY CALGARY - NEW,http://f.ok2.se:8000/victor1/victor123/71280
-GLOBAL LETHBRIDGE - NEW,http://f.ok2.se:8000/victor1/victor123/71285
-OMNI CALGARY - NEW,http://f.ok2.se:8000/victor1/victor123/71286
-OMNI PRAIRIES - NEW,http://f.ok2.se:8000/victor1/victor123/71288
-CTV VANCOUVER HD,http://f.ok2.se:8000/victor1/victor123/310
-CTV 2 VANCOUVER HD,http://f.ok2.se:8000/victor1/victor123/2418
-CITY VANCOUVER HD,http://f.ok2.se:8000/victor1/victor123/311
-CBC VANCOUVER HD,http://f.ok2.se:8000/victor1/victor123/309
-OMNI BC - NEW,http://f.ok2.se:8000/victor1/victor123/71287
-CHEK VANCOUVER HD,http://f.ok2.se:8000/victor1/victor123/2419
-CBC HD (MTL),http://f.ok2.se:8000/victor1/victor123/15074
-CTV HD (MTL),http://f.ok2.se:8000/victor1/victor123/2398
-CITY HD (MTL),http://f.ok2.se:8000/victor1/victor123/15073
-GLOBAL HD (MTL),http://f.ok2.se:8000/victor1/victor123/2397
-GSN HD - NEW,http://f.ok2.se:8000/victor1/victor123/12769
-BEACON TV - NEW,http://f.ok2.se:8000/victor1/victor123/56247
-METV HD - NEW,http://f.ok2.se:8000/victor1/victor123/15072
-ION HD - NEW,http://f.ok2.se:8000/victor1/victor123/59033
-LIFE HD,http://f.ok2.se:8000/victor1/victor123/325
-MAKEFUL - NEW,http://f.ok2.se:8000/victor1/victor123/67102
-IFC HD,http://f.ok2.se:8000/victor1/victor123/327
-POP HD,http://f.ok2.se:8000/victor1/victor123/82603
-*TLC HD,http://f.ok2.se:8000/victor1/victor123/328
-GUSTO - NEW,http://f.ok2.se:8000/victor1/victor123/67101
-APTN - NEW,http://f.ok2.se:8000/victor1/victor123/67104
-OUT TV - NEW,http://f.ok2.se:8000/victor1/victor123/67116
-GINX (CDN) - NEW,http://f.ok2.se:8000/victor1/victor123/67115
-MOTOR TREND HD,http://f.ok2.se:8000/victor1/victor123/367
-VICELAND HD,http://f.ok2.se:8000/victor1/victor123/323
-*HGTV HD,http://f.ok2.se:8000/victor1/victor123/335
-HGTV HD (CDN),http://f.ok2.se:8000/victor1/victor123/42685
-PEACHTREE HD,http://f.ok2.se:8000/victor1/victor123/337
-WGN HD - NEW,http://f.ok2.se:8000/victor1/victor123/9163
-E! HD,http://f.ok2.se:8000/victor1/victor123/338
-SLICE HD,http://f.ok2.se:8000/victor1/victor123/343
-W NETWORK HD,http://f.ok2.se:8000/victor1/victor123/344
-OWN HD,http://f.ok2.se:8000/victor1/victor123/348
-QVC - NEW,http://f.ok2.se:8000/victor1/victor123/67097
-TSC - NEW,http://f.ok2.se:8000/victor1/victor123/67098
-DESTINATION AMERICA HD,http://f.ok2.se:8000/victor1/victor123/7482
-MTV HD,http://f.ok2.se:8000/victor1/victor123/350
-MTV 2 HD - NEW,http://f.ok2.se:8000/victor1/victor123/69011
-REVOLT HD - NEW,http://f.ok2.se:8000/victor1/victor123/10042
-MUCH MUSIC HD,http://f.ok2.se:8000/victor1/victor123/4141
-BRAVO HD,http://f.ok2.se:8000/victor1/victor123/353
-PARAMOUNT NETWORK HD,http://f.ok2.se:8000/victor1/victor123/318
-FOODS,#genre#
-COOKING CHANNEL HD,http://f.ok2.se:8000/victor1/victor123/6108
-FOOD HD,http://f.ok2.se:8000/victor1/victor123/333
-FOOD HD (USA),http://f.ok2.se:8000/victor1/victor123/80508
+
