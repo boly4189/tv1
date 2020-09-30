@@ -31,7 +31,7 @@ ABC KIDS,https://c.mjh.nz/101002210222/
 7mate Sydney,https://npc.cdn.7livecloud.io/hls/live/SYD3/masterSD.m3u8
 7flix Sydney,https://npc.cdn.7livecloud.io/hls/live/SYD6/masterSD.m3u8
 Fuel TV,https://fueltv.cdn.7livecloud.io/hls/live/FTV/master.m3u8
-PAC-12,https://pac12b.cdn.7livecloud.io/index.m3u8
+PAC-12，https://pac12b.cdn.7livecloud.io/index_1080p5000000.m3u8
 openshop,https://npc.cdn.7livecloud.io/hls/live/ASN/masterSD.m3u8
 RACING,https://npc.cdn.7livecloud.io/hls/live/RAC/masterSD.m3u8
 outdoor food,http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w996888467_b1006700.m3u8
@@ -46,7 +46,7 @@ Al Jazeera,https://i.mjh.nz/au/Sydney/tv.46.m3u8
 Bloomberg,https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8?checkedby:hlscat.com
 ausbiz TV,https://i.mjh.nz/au/Sydney/tv.7ausbiz.m3u8
 Olympics Channel,https://i.mjh.nz/au/Sydney/tv.7olympics.m3u8
-Snowy Mountains Television,https://c.mjh.nz/snowy-mountains/
+Snowy Mountains TV,https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/index_150_av-p.m3u8?sd=6&rebase=on
 Redbull TV,https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8
 C31 Melbourne,https://dcunilive47-lh.akamaihd.net/i/dclive_1@739220/master.m3u8?checkedby:hlscat.com
 Fox Sports News,https://i.mjh.nz/au/Sydney/tv.fox.sports.news.m3u8
