@@ -1,4 +1,817 @@
 #EXTM3U
+#EXTINF:-1  group-title="CA" PBS 17 Buffalo HD
+http://ingrid.ltd:25461/berny/berny1234/17425
+#EXTINF:-1  group-title="CA" Bein Sports HD
+http://ingrid.ltd:25461/berny/berny1234/42515
+#EXTINF:-1  group-title="CA" A&E HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67566
+#EXTINF:-1  group-title="CA" ABC 5 (WCVB) Boston (R)
+http://ingrid.ltd:25461/berny/berny1234/67470
+#EXTINF:-1  group-title="CA" ABC 7 (WKBW) Buffalo (R)
+http://ingrid.ltd:25461/berny/berny1234/67325
+#EXTINF:-1  group-title="CA" ABC 7 (WXYZ) Detroit (R)
+http://ingrid.ltd:25461/berny/berny1234/67476
+#EXTINF:-1  group-title="CA" ABC Spark (R)
+http://ingrid.ltd:25461/berny/berny1234/67326
+#EXTINF:-1  group-title="CA" Aboriginal Peoples Television Network (R)
+http://ingrid.ltd:25461/berny/berny1234/67333
+#EXTINF:-1  group-title="CA" Adult Swim (R)
+http://ingrid.ltd:25461/berny/berny1234/67264
+#EXTINF:-1  group-title="CA" Amazing Discoveries TV
+http://ingrid.ltd:25461/berny/berny1234/67516
+#EXTINF:-1  group-title="CA" AMC (R)
+http://ingrid.ltd:25461/berny/berny1234/67318
+#EXTINF:-1  group-title="CA" AMI TV HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67481
+#EXTINF:-1  group-title="CA" Animal Planet HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67496
+#EXTINF:-1  group-title="CA" Animal Planet SD (P)
+http://ingrid.ltd:25461/berny/berny1234/67340
+#EXTINF:-1  group-title="CA" APTN HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67480
+#EXTINF:-1  group-title="CA" Assemblee Nationale du Quebec
+http://ingrid.ltd:25461/berny/berny1234/67517
+#EXTINF:-1  group-title="CA" BBC Canada HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67314
+#EXTINF:-1  group-title="CA" BBC Toronto Gaunda Punjab
+http://ingrid.ltd:25461/berny/berny1234/67515
+#EXTINF:-1  group-title="CA" BBC World News HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67567
+#EXTINF:-1  group-title="CA" Bein Sports HD   (P) (F)
+http://ingrid.ltd:25461/berny/berny1234/67339
+#EXTINF:-1  group-title="CA" Bein Sports HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67565
+#EXTINF:-1  group-title="CA" BNN Bloomberg (R)
+http://ingrid.ltd:25461/berny/berny1234/67324
+#EXTINF:-1  group-title="CA" Cable 14  (R)
+http://ingrid.ltd:25461/berny/berny1234/67502
+#EXTINF:-1  group-title="CA" CablePulse 24 (R)
+http://ingrid.ltd:25461/berny/berny1234/67278
+#EXTINF:-1  group-title="CA" Canada Star TV
+http://ingrid.ltd:25461/berny/berny1234/67518
+#EXTINF:-1  group-title="CA" Canal 9
+http://ingrid.ltd:25461/berny/berny1234/67519
+#EXTINF:-1  group-title="CA" Canal M  (R)
+http://ingrid.ltd:25461/berny/berny1234/67510
+#EXTINF:-1  group-title="CA" Cartoon Network SD (R)
+http://ingrid.ltd:25461/berny/berny1234/67313
+#EXTINF:-1  group-title="CA" CBC Calgary HD (D)
+http://ingrid.ltd:25461/berny/berny1234/67444
+#EXTINF:-1  group-title="CA" CBC Charlottetown HD (D)
+http://ingrid.ltd:25461/berny/berny1234/67445
+#EXTINF:-1  group-title="CA" CBC Edmonton HD (D)
+http://ingrid.ltd:25461/berny/berny1234/67446
+#EXTINF:-1  group-title="CA" CBC Fredericton HD (D)
+http://ingrid.ltd:25461/berny/berny1234/67447
+#EXTINF:-1  group-title="CA" CBC Halifax HD (D)
+http://ingrid.ltd:25461/berny/berny1234/67448
+#EXTINF:-1  group-title="CA" CBC Kids (R)
+http://ingrid.ltd:25461/berny/berny1234/67570
+#EXTINF:-1  group-title="CA" CBC Moncton HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67468
+#EXTINF:-1  group-title="CA" CBC Montreal HD (D)
+http://ingrid.ltd:25461/berny/berny1234/67449
+#EXTINF:-1  group-title="CA" CBC News Network HD (D)
+http://ingrid.ltd:25461/berny/berny1234/67443
+#EXTINF:-1  group-title="CA" CBC News Network HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67312
+#EXTINF:-1  group-title="CA" CBC Oshawa (CHEX2) (R)
+http://ingrid.ltd:25461/berny/berny1234/67250
+#EXTINF:-1  group-title="CA" CBC Ottawa HD (D)
+http://ingrid.ltd:25461/berny/berny1234/67450
+#EXTINF:-1  group-title="CA" CBC Ottawa HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67571
+#EXTINF:-1  group-title="CA" CBC Regina HD (D)
+http://ingrid.ltd:25461/berny/berny1234/67451
+#EXTINF:-1  group-title="CA" CBC St John's HD (D)
+http://ingrid.ltd:25461/berny/berny1234/67452
+#EXTINF:-1  group-title="CA" CBC St. John's (CBNT) (R)
+http://ingrid.ltd:25461/berny/berny1234/67249
+#EXTINF:-1  group-title="CA" CBC Toronto HD (D)
+http://ingrid.ltd:25461/berny/berny1234/67453
+#EXTINF:-1  group-title="CA" CBC Toronto HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67311
+#EXTINF:-1  group-title="CA" CBC Vancouver HD (D)
+http://ingrid.ltd:25461/berny/berny1234/67454
+#EXTINF:-1  group-title="CA" CBC Windsor HD (D)
+http://ingrid.ltd:25461/berny/berny1234/67455
+#EXTINF:-1  group-title="CA" CBC Winnipeg HD (D)
+http://ingrid.ltd:25461/berny/berny1234/67456
+#EXTINF:-1  group-title="CA" CBC Yellowknife HD (D)
+http://ingrid.ltd:25461/berny/berny1234/67457
+#EXTINF:-1  group-title="CA" CBC 3  (P)
+http://ingrid.ltd:25461/berny/berny1234/67376
+#EXTINF:-1  group-title="CA" CBS 4 (WBZ) Boston (R)
+http://ingrid.ltd:25461/berny/berny1234/67471
+#EXTINF:-1  group-title="CA" CHCH (R)
+http://ingrid.ltd:25461/berny/berny1234/67310
+#EXTINF:-1  group-title="CA" Citytv Toronto HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67309
+#EXTINF:-1  group-title="CA" CMT (R)
+http://ingrid.ltd:25461/berny/berny1234/67308
+#EXTINF:-1  group-title="CA" CNBC HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67270
+#EXTINF:-1  group-title="CA" CNN HD  (R)
+http://ingrid.ltd:25461/berny/berny1234/67569
+#EXTINF:-1  group-title="CA" CP24 (Backup) (R)
+http://ingrid.ltd:25461/berny/berny1234/67384
+#EXTINF:-1  group-title="CA" CP24 HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67307
+#EXTINF:-1  group-title="CA" CPAC (R)
+http://ingrid.ltd:25461/berny/berny1234/67306
+#EXTINF:-1  group-title="CA" Crave 1 (R)
+http://ingrid.ltd:25461/berny/berny1234/67368
+#EXTINF:-1  group-title="CA" Crave 2 (R)
+http://ingrid.ltd:25461/berny/berny1234/67369
+#EXTINF:-1  group-title="CA" Crave 3 (R)
+http://ingrid.ltd:25461/berny/berny1234/67370
+#EXTINF:-1  group-title="CA" Crave 4 (R)
+http://ingrid.ltd:25461/berny/berny1234/67371
+#EXTINF:-1  group-title="CA" Crime & Investigation (R)
+http://ingrid.ltd:25461/berny/berny1234/67334
+#EXTINF:-1  group-title="CA" CTV (Ottawa) (R)
+http://ingrid.ltd:25461/berny/berny1234/67487
+#EXTINF:-1  group-title="CA" CTV Atlantic HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67462
+#EXTINF:-1  group-title="CA" CTV Comedy Channel (R)
+http://ingrid.ltd:25461/berny/berny1234/67305
+#EXTINF:-1  group-title="CA" CTV Drama Channel (R)
+http://ingrid.ltd:25461/berny/berny1234/67269
+#EXTINF:-1  group-title="CA" CTV Kitchener HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67484
+#EXTINF:-1  group-title="CA" CTV News Channel HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67304
+#EXTINF:-1  group-title="CA" CTV Ottawa HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67572
+#EXTINF:-1  group-title="CA" CTV Sci-Fi Channel (R)
+http://ingrid.ltd:25461/berny/berny1234/67248
+#EXTINF:-1  group-title="CA" CTV Toronto HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67303
+#EXTINF:-1  group-title="CA" CTV Two Atlantic (R)
+http://ingrid.ltd:25461/berny/berny1234/67463
+#EXTINF:-1  group-title="CA" CTV Two Atlantic HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67302
+#EXTINF:-1  group-title="CA" CTV 2 London HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67485
+#EXTINF:-1  group-title="CA" CTV2 Ottawa HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67488
+#EXTINF:-1  group-title="CA" CW 23 (WNLO) Buffalo (R)
+http://ingrid.ltd:25461/berny/berny1234/67477
+#EXTINF:-1  group-title="CA" Discovery Channel (R)
+http://ingrid.ltd:25461/berny/berny1234/67300
+#EXTINF:-1  group-title="CA" Discovery Velocity HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67503
+#EXTINF:-1  group-title="CA" Disney Channel HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67299
+#EXTINF:-1  group-title="CA" Disney Junior HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67322
+#EXTINF:-1  group-title="CA" Disney XD HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67298
+#EXTINF:-1  group-title="CA" DIY Network (R)
+http://ingrid.ltd:25461/berny/berny1234/67297
+#EXTINF:-1  group-title="CA" DTOUR HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67296
+#EXTINF:-1  group-title="CA" E! Entertainment Television (R)
+http://ingrid.ltd:25461/berny/berny1234/67295
+#EXTINF:-1  group-title="CA" EET TV (Asian)
+http://ingrid.ltd:25461/berny/berny1234/67521
+#EXTINF:-1  group-title="CA" Family Channel East HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67293
+#EXTINF:-1  group-title="CA" Family CHRGD (R)
+http://ingrid.ltd:25461/berny/berny1234/67294
+#EXTINF:-1  group-title="CA" Family Jr. (R)
+http://ingrid.ltd:25461/berny/berny1234/67292
+#EXTINF:-1  group-title="CA" Food Network (R)
+http://ingrid.ltd:25461/berny/berny1234/67267
+#EXTINF:-1  group-title="CA" FOX 2 (WJBK) Detroit (R)
+http://ingrid.ltd:25461/berny/berny1234/67588
+#EXTINF:-1  group-title="CA" FOX 29 (WUTV) Buffalo (R)
+http://ingrid.ltd:25461/berny/berny1234/67472
+#EXTINF:-1  group-title="CA" Fox News HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67562
+#EXTINF:-1  group-title="CA" Fox Sports Racing (R)
+http://ingrid.ltd:25461/berny/berny1234/67241
+#EXTINF:-1  group-title="CA" FX (R)
+http://ingrid.ltd:25461/berny/berny1234/67242
+#EXTINF:-1  group-title="CA" FXX (R)
+http://ingrid.ltd:25461/berny/berny1234/67243
+#EXTINF:-1  group-title="CA" Game Plus (R)
+http://ingrid.ltd:25461/berny/berny1234/67268
+#EXTINF:-1  group-title="CA" Game TV (R)
+http://ingrid.ltd:25461/berny/berny1234/67290
+#EXTINF:-1  group-title="CA" GINX Esports TV Canada HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67587
+#EXTINF:-1  group-title="CA" Global Calgary (SD)  (P)
+http://ingrid.ltd:25461/berny/berny1234/67539
+#EXTINF:-1  group-title="CA" Global Durham HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67483
+#EXTINF:-1  group-title="CA" Global Maritimes HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67461
+#EXTINF:-1  group-title="CA" Global National (HD) (R)
+http://ingrid.ltd:25461/berny/berny1234/67377
+#EXTINF:-1  group-title="CA" Global Toronto HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67289
+#EXTINF:-1  group-title="CA" Golf Channel HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67288
+#EXTINF:-1  group-title="CA" HBO 1 (R)
+http://ingrid.ltd:25461/berny/berny1234/67373
+#EXTINF:-1  group-title="CA" HBO 2 (R)
+http://ingrid.ltd:25461/berny/berny1234/67372
+#EXTINF:-1  group-title="CA" Headline News (R)
+http://ingrid.ltd:25461/berny/berny1234/67266
+#EXTINF:-1  group-title="CA" HGTV (R)
+http://ingrid.ltd:25461/berny/berny1234/67287
+#EXTINF:-1  group-title="CA" History Channel HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67286
+#EXTINF:-1  group-title="CA" HLN (R)
+http://ingrid.ltd:25461/berny/berny1234/67285
+#EXTINF:-1  group-title="CA" Hollywood Suite 00's (R)
+http://ingrid.ltd:25461/berny/berny1234/67441
+#EXTINF:-1  group-title="CA" Hollywood Suite 70's  (R)
+http://ingrid.ltd:25461/berny/berny1234/67509
+#EXTINF:-1  group-title="CA" Hollywood Suite 80's (R)
+http://ingrid.ltd:25461/berny/berny1234/67508
+#EXTINF:-1  group-title="CA" Hollywood Suite 90's (R)
+http://ingrid.ltd:25461/berny/berny1234/67507
+#EXTINF:-1  group-title="CA" ICI Radio Tele Toronto HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67321
+#EXTINF:-1  group-title="CA" ICI TV (AR)
+http://ingrid.ltd:25461/berny/berny1234/67538
+#EXTINF:-1  group-title="CA" IIPC TV
+http://ingrid.ltd:25461/berny/berny1234/67525
+#EXTINF:-1  group-title="CA" Investigación Discovery HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67585
+#EXTINF:-1  group-title="CA" Knowledge Network (D)
+http://ingrid.ltd:25461/berny/berny1234/67526
+#EXTINF:-1  group-title="CA" Legislative Assembly of British Columbia Committee A (D)
+http://ingrid.ltd:25461/berny/berny1234/67541
+#EXTINF:-1  group-title="CA" Legislative Assembly of Ontario (D)
+http://ingrid.ltd:25461/berny/berny1234/67540
+#EXTINF:-1  group-title="CA" Lifetime (R)
+http://ingrid.ltd:25461/berny/berny1234/67284
+#EXTINF:-1  group-title="CA" Love Nature HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67386
+#EXTINF:-1  group-title="CA" Makeful (R)
+http://ingrid.ltd:25461/berny/berny1234/67283
+#EXTINF:-1  group-title="CA" MLB Network (R)
+http://ingrid.ltd:25461/berny/berny1234/67336
+#EXTINF:-1  group-title="CA" Montreal Greek TV
+http://ingrid.ltd:25461/berny/berny1234/67527
+#EXTINF:-1  group-title="CA" MovieTime (R)
+http://ingrid.ltd:25461/berny/berny1234/67244
+#EXTINF:-1  group-title="CA" MSNBC (R)
+http://ingrid.ltd:25461/berny/berny1234/67592
+#EXTINF:-1  group-title="CA" MTV HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67282
+#EXTINF:-1  group-title="CA" Much (R)
+http://ingrid.ltd:25461/berny/berny1234/67335
+#EXTINF:-1  group-title="CA" Much Music (R)
+http://ingrid.ltd:25461/berny/berny1234/67281
+#EXTINF:-1  group-title="CA" My 43 (WUAB) Cleveland (R)
+http://ingrid.ltd:25461/berny/berny1234/67475
+#EXTINF:-1  group-title="CA" MY 49 (WNYO) Buffalo (R)
+http://ingrid.ltd:25461/berny/berny1234/67591
+#EXTINF:-1  group-title="CA" National Geographic (R)
+http://ingrid.ltd:25461/berny/berny1234/67280
+#EXTINF:-1  group-title="CA" National Geographic Wild (R)
+http://ingrid.ltd:25461/berny/berny1234/67246
+#EXTINF:-1  group-title="CA" NBA TV HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67279
+#EXTINF:-1  group-title="CA" NBC  (WYCN) Nashua (R)
+http://ingrid.ltd:25461/berny/berny1234/67465
+#EXTINF:-1  group-title="CA" NBC 2 (WGRZ) Buffalo (R)
+http://ingrid.ltd:25461/berny/berny1234/67589
+#EXTINF:-1  group-title="CA" NBC 4 (WDIV) Detroit (R)
+http://ingrid.ltd:25461/berny/berny1234/67590
+#EXTINF:-1  group-title="CA" NBC 8 (WYCN) Boston (R)
+http://ingrid.ltd:25461/berny/berny1234/67473
+#EXTINF:-1  group-title="CA" NFL Network HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67254
+#EXTINF:-1  group-title="CA" Nickelodeon (R)
+http://ingrid.ltd:25461/berny/berny1234/67240
+#EXTINF:-1  group-title="CA" NTV St. John`s (CJON - Newfoundland TV) (R)
+http://ingrid.ltd:25461/berny/berny1234/67464
+#EXTINF:-1  group-title="CA" OLN (R)
+http://ingrid.ltd:25461/berny/berny1234/67276
+#EXTINF:-1  group-title="CA" OMNI 1 (R)
+http://ingrid.ltd:25461/berny/berny1234/67275
+#EXTINF:-1  group-title="CA" OMNI 2 (R)
+http://ingrid.ltd:25461/berny/berny1234/67274
+#EXTINF:-1  group-title="CA" OMNI East (R)
+http://ingrid.ltd:25461/berny/berny1234/67482
+#EXTINF:-1  group-title="CA" OWN (R)
+http://ingrid.ltd:25461/berny/berny1234/67273
+#EXTINF:-1  group-title="CA" Paramount Network   (P) (F)
+http://ingrid.ltd:25461/berny/berny1234/67469
+#EXTINF:-1  group-title="CA" PBS 10 (WMEM) Presque Isle (R)
+http://ingrid.ltd:25461/berny/berny1234/67466
+#EXTINF:-1  group-title="CA" PBS 17 (WNED) Buffalo  (R)
+http://ingrid.ltd:25461/berny/berny1234/67467
+#EXTINF:-1  group-title="CA" PBS 54 (WQLN) Erie (R)
+http://ingrid.ltd:25461/berny/berny1234/67474
+#EXTINF:-1  group-title="CA" PBS Buffalo (WNED)  (R)
+http://ingrid.ltd:25461/berny/berny1234/67272
+#EXTINF:-1  group-title="CA" PBS Detroit (WTVS) (R)
+http://ingrid.ltd:25461/berny/berny1234/67568
+#EXTINF:-1  group-title="CA" Peachtree TV HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67271
+#EXTINF:-1  group-title="CA" Quo Vadis TV
+http://ingrid.ltd:25461/berny/berny1234/67536
+#EXTINF:-1  group-title="CA" QVTV
+http://ingrid.ltd:25461/berny/berny1234/67529
+#EXTINF:-1  group-title="CA" Rogers TV (Corner Brook) (R)
+http://ingrid.ltd:25461/berny/berny1234/67505
+#EXTINF:-1  group-title="CA" Rogers TV (Ottawa) (R)
+http://ingrid.ltd:25461/berny/berny1234/67490
+#EXTINF:-1  group-title="CA" Rogers TV (St. John's) (R)
+http://ingrid.ltd:25461/berny/berny1234/67504
+#EXTINF:-1  group-title="CA" Rogers TV Barrie (R)
+http://ingrid.ltd:25461/berny/berny1234/67577
+#EXTINF:-1  group-title="CA" Rogers TV Bathurst  (R)
+http://ingrid.ltd:25461/berny/berny1234/67367
+#EXTINF:-1  group-title="CA" Rogers TV Bathurst (R)
+http://ingrid.ltd:25461/berny/berny1234/67575
+#EXTINF:-1  group-title="CA" Rogers TV Corner_Brook (R)
+http://ingrid.ltd:25461/berny/berny1234/67576
+#EXTINF:-1  group-title="CA" Rogers TV Guelph (R)
+http://ingrid.ltd:25461/berny/berny1234/67578
+#EXTINF:-1  group-title="CA" Rogers TV London HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67486
+#EXTINF:-1  group-title="CA" Rogers TV St. Thomas/Strathroy (R)
+http://ingrid.ltd:25461/berny/berny1234/67573
+#EXTINF:-1  group-title="CA" Rogers TV Waterloo (R)
+http://ingrid.ltd:25461/berny/berny1234/67574
+#EXTINF:-1  group-title="CA" Salt + Light TV
+http://ingrid.ltd:25461/berny/berny1234/67535
+#EXTINF:-1  group-title="CA" Showcase (R)
+http://ingrid.ltd:25461/berny/berny1234/67253
+#EXTINF:-1  group-title="CA" SLICE (R)
+http://ingrid.ltd:25461/berny/berny1234/67265
+#EXTINF:-1  group-title="CA" SPORTSNET EAST (R)
+http://ingrid.ltd:25461/berny/berny1234/67259
+#EXTINF:-1  group-title="CA" SPORTSNET ONE (R)
+http://ingrid.ltd:25461/berny/berny1234/67258
+#EXTINF:-1  group-title="CA" SPORTSNET ONTARIO (R)
+http://ingrid.ltd:25461/berny/berny1234/67257
+#EXTINF:-1  group-title="CA" SPORTSNET PACIFIC (R)
+http://ingrid.ltd:25461/berny/berny1234/67256
+#EXTINF:-1  group-title="CA" SPORTSNET PPV (R)
+http://ingrid.ltd:25461/berny/berny1234/67341
+#EXTINF:-1  group-title="CA" Sportsnet World HD (Backup) (R)
+http://ingrid.ltd:25461/berny/berny1234/67563
+#EXTINF:-1  group-title="CA" Sportsnet World HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67564
+#EXTINF:-1  group-title="CA" Sportsnet World SD (R) (P)
+http://ingrid.ltd:25461/berny/berny1234/67459
+#EXTINF:-1  group-title="CA" SPORTSNET_360 (R)
+http://ingrid.ltd:25461/berny/berny1234/67260
+#EXTINF:-1  group-title="CA" SPORTSNET_WEST (R)
+http://ingrid.ltd:25461/berny/berny1234/67255
+#EXTINF:-1  group-title="CA" Starz 1 (R)
+http://ingrid.ltd:25461/berny/berny1234/67378
+#EXTINF:-1  group-title="CA" Starz 2 (R)
+http://ingrid.ltd:25461/berny/berny1234/67379
+#EXTINF:-1  group-title="CA" Super Channel Fuse (R)
+http://ingrid.ltd:25461/berny/berny1234/67478
+#EXTINF:-1  group-title="CA" Super Channel Heart & Home (R)
+http://ingrid.ltd:25461/berny/berny1234/67374
+#EXTINF:-1  group-title="CA" Super Channel Vault HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67460
+#EXTINF:-1  group-title="CA" (FR)  EMCI TV
+http://ingrid.ltd:25461/berny/berny1234/67522
+#EXTINF:-1  group-title="CA" (FR) AMI-tele HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67277
+#EXTINF:-1  group-title="CA" (FR) Canal V
+http://ingrid.ltd:25461/berny/berny1234/67442
+#EXTINF:-1  group-title="CA" (FR) CPAC (R)
+http://ingrid.ltd:25461/berny/berny1234/67323
+#EXTINF:-1  group-title="CA" (FR) Disney La Chaine (R)
+http://ingrid.ltd:25461/berny/berny1234/67511
+#EXTINF:-1  group-title="CA" (FR) Disney La Chaine (R)
+http://ingrid.ltd:25461/berny/berny1234/67375
+#EXTINF:-1  group-title="CA" (FR) EWTN
+http://ingrid.ltd:25461/berny/berny1234/67537
+#EXTINF:-1  group-title="CA" (FR) ICI Radio Tele Ottawa HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67489
+#EXTINF:-1  group-title="CA" (FR) ICI Radio-Canada Télé (TOR) HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67586
+#EXTINF:-1  group-title="CA" (FR) ICI RDI HD (D)
+http://ingrid.ltd:25461/berny/berny1234/67523
+#EXTINF:-1  group-title="CA" (FR) ICI RDI HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67337
+#EXTINF:-1  group-title="CA" (FR) ICI Tele 2 HD (D)
+http://ingrid.ltd:25461/berny/berny1234/67524
+#EXTINF:-1  group-title="CA" (FR) ICI Tele Acadie HD (D)
+http://ingrid.ltd:25461/berny/berny1234/67543
+#EXTINF:-1  group-title="CA" (FR) ICI Tele Alberta HD (D)
+http://ingrid.ltd:25461/berny/berny1234/67544
+#EXTINF:-1  group-title="CA" (FR) ICI Tele CB-Yukon HD (D)
+http://ingrid.ltd:25461/berny/berny1234/67545
+#EXTINF:-1  group-title="CA" (FR) ICI Tele Est-Quebec HD (D)
+http://ingrid.ltd:25461/berny/berny1234/67546
+#EXTINF:-1  group-title="CA" (FR) ICI Tele Estrie HD (D)
+http://ingrid.ltd:25461/berny/berny1234/67547
+#EXTINF:-1  group-title="CA" (FR) ICI Tele HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67263
+#EXTINF:-1  group-title="CA" (FR) ICI Tele Manitoba HD (D)
+http://ingrid.ltd:25461/berny/berny1234/67548
+#EXTINF:-1  group-title="CA" (FR) ICI Tele Mauricie HD (D)
+http://ingrid.ltd:25461/berny/berny1234/67549
+#EXTINF:-1  group-title="CA" (FR) ICI Tele Montreal HD (D)
+http://ingrid.ltd:25461/berny/berny1234/67550
+#EXTINF:-1  group-title="CA" (FR) ICI Tele Ontario HD (D)
+http://ingrid.ltd:25461/berny/berny1234/67551
+#EXTINF:-1  group-title="CA" (FR) ICI Tele Ottawa-Gatineau HD (D)
+http://ingrid.ltd:25461/berny/berny1234/67552
+#EXTINF:-1  group-title="CA" (FR) ICI Tele Quebec HD (D)
+http://ingrid.ltd:25461/berny/berny1234/67553
+#EXTINF:-1  group-title="CA" (FR) ICI Tele Saguenay HD (D)
+http://ingrid.ltd:25461/berny/berny1234/67554
+#EXTINF:-1  group-title="CA" (FR) ICI Tele Saskatchewan HD (D)
+http://ingrid.ltd:25461/berny/berny1234/67555
+#EXTINF:-1  group-title="CA" (FR) L'Assemblee nationale du Quebec HD (D)
+http://ingrid.ltd:25461/berny/berny1234/67542
+#EXTINF:-1  group-title="CA" (FR) Meteo Media (R)
+http://ingrid.ltd:25461/berny/berny1234/67492
+#EXTINF:-1  group-title="CA" (FR) Metro Media SD (P)
+http://ingrid.ltd:25461/berny/berny1234/67366
+#EXTINF:-1  group-title="CA" (FR) NOOVO V-Tele
+http://ingrid.ltd:25461/berny/berny1234/67514
+#EXTINF:-1  group-title="CA" (FR) NOOVO V-Tele HD
+http://ingrid.ltd:25461/berny/berny1234/67532
+#EXTINF:-1  group-title="CA" (FR) RDS HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67495
+#EXTINF:-1  group-title="CA" (FR) RDS HQ (R)
+http://ingrid.ltd:25461/berny/berny1234/67512
+#EXTINF:-1  group-title="CA" (FR) RDS SD (R)
+http://ingrid.ltd:25461/berny/berny1234/67513
+#EXTINF:-1  group-title="CA" (FR) Super Ecran 1 SD (P)
+http://ingrid.ltd:25461/berny/berny1234/67458
+#EXTINF:-1  group-title="CA" (FR) Teletoon SD (P)
+http://ingrid.ltd:25461/berny/berny1234/67385
+#EXTINF:-1  group-title="CA" (FR) TFO HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67319
+#EXTINF:-1  group-title="CA" (FR) Trace Africa
+http://ingrid.ltd:25461/berny/berny1234/67556
+#EXTINF:-1  group-title="CA" (FR) Trace Mziki
+http://ingrid.ltd:25461/berny/berny1234/67557
+#EXTINF:-1  group-title="CA" (FR) Trace Naija
+http://ingrid.ltd:25461/berny/berny1234/67558
+#EXTINF:-1  group-title="CA" (FR) Trace Toca
+http://ingrid.ltd:25461/berny/berny1234/67559
+#EXTINF:-1  group-title="CA" (FR) Trace Tropical
+http://ingrid.ltd:25461/berny/berny1234/67560
+#EXTINF:-1  group-title="CA" (FR) Trace Urban
+http://ingrid.ltd:25461/berny/berny1234/67561
+#EXTINF:-1  group-title="CA" (FR) TV Rogers Ottawa (R)
+http://ingrid.ltd:25461/berny/berny1234/67491
+#EXTINF:-1  group-title="CA" (FR) TV5 Quebec HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67317
+#EXTINF:-1  group-title="CA" (FR) TVA Carleton HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67579
+#EXTINF:-1  group-title="CA" (FR) TVA Hull HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67493
+#EXTINF:-1  group-title="CA" (FR) TVA Montreal HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67316
+#EXTINF:-1  group-title="CA" (FR) TVA Riviere-du-Loup HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67479
+#EXTINF:-1  group-title="CA" (FR) TVA Sports 2 HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67494
+#EXTINF:-1  group-title="CA" (FR) TVA Sports 2 HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67364
+#EXTINF:-1  group-title="CA" (FR) TVA Sports HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67365
+#EXTINF:-1  group-title="CA" (FR) Unis TV HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67315
+#EXTINF:-1  group-title="CA" (PA) Quo Vadis TV
+http://ingrid.ltd:25461/berny/berny1234/67528
+#EXTINF:-1  group-title="CA" (TA) Tamil Vision TV
+http://ingrid.ltd:25461/berny/berny1234/67531
+#EXTINF:-1  group-title="CA" (ZH) CNTV
+http://ingrid.ltd:25461/berny/berny1234/67520
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 267 (Backup) (R)
+http://ingrid.ltd:25461/berny/berny1234/67351
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 296 (R)
+http://ingrid.ltd:25461/berny/berny1234/67497
+#EXTINF:-1  group-title="CA"SUPER SPORTS CH 297 (R)
+http://ingrid.ltd:25461/berny/berny1234/67498
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 322 (R)
+http://ingrid.ltd:25461/berny/berny1234/67499
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 323 (R)
+http://ingrid.ltd:25461/berny/berny1234/67500
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 324 (R)
+http://ingrid.ltd:25461/berny/berny1234/67501
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 368 (R)
+http://ingrid.ltd:25461/berny/berny1234/67415
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 422 (Backup) (R)
+http://ingrid.ltd:25461/berny/berny1234/67380
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 431 (R)
+http://ingrid.ltd:25461/berny/berny1234/67387
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 432 (R)
+http://ingrid.ltd:25461/berny/berny1234/67416
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 432 (R)
+http://ingrid.ltd:25461/berny/berny1234/67388
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 433 (Backup) (R)
+http://ingrid.ltd:25461/berny/berny1234/67354
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 433 (R)
+http://ingrid.ltd:25461/berny/berny1234/67389
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 434 (Backup) (R)
+http://ingrid.ltd:25461/berny/berny1234/67355
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 434 (R)
+http://ingrid.ltd:25461/berny/berny1234/67390
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 435 (Backup) (R)
+http://ingrid.ltd:25461/berny/berny1234/67356
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 435 (R)
+http://ingrid.ltd:25461/berny/berny1234/67391
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 436 (Backup)  (R)
+http://ingrid.ltd:25461/berny/berny1234/67357
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 436 (R)
+http://ingrid.ltd:25461/berny/berny1234/67417
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 436 (R)
+http://ingrid.ltd:25461/berny/berny1234/67392
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 437 (Backup)  (R)
+http://ingrid.ltd:25461/berny/berny1234/67358
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 437 (R)
+http://ingrid.ltd:25461/berny/berny1234/67418
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 437 (R)
+http://ingrid.ltd:25461/berny/berny1234/67393
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 438 (Backup)  (R)
+http://ingrid.ltd:25461/berny/berny1234/67359
+#EXTINF:-1  group-title="CA"SUPER SPORTS CH 438 (R)
+http://ingrid.ltd:25461/berny/berny1234/67419
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 438 (R)
+http://ingrid.ltd:25461/berny/berny1234/67395
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 439 (Backup)  (R)
+http://ingrid.ltd:25461/berny/berny1234/67360
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 439 (R)
+http://ingrid.ltd:25461/berny/berny1234/67420
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 439 (R)
+http://ingrid.ltd:25461/berny/berny1234/67394
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 440  (R)
+http://ingrid.ltd:25461/berny/berny1234/67421
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 440 (Backup)  (R)
+http://ingrid.ltd:25461/berny/berny1234/67361
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 440 (R)
+http://ingrid.ltd:25461/berny/berny1234/67396
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 441 (Backup) (R)
+http://ingrid.ltd:25461/berny/berny1234/67363
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 441 (R)
+http://ingrid.ltd:25461/berny/berny1234/67422
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 441 (R)
+http://ingrid.ltd:25461/berny/berny1234/67397
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 442 (R)
+http://ingrid.ltd:25461/berny/berny1234/67423
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 442 (R)
+http://ingrid.ltd:25461/berny/berny1234/67398
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 443  (R)
+http://ingrid.ltd:25461/berny/berny1234/67424
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 443 (Backup)  (R)
+http://ingrid.ltd:25461/berny/berny1234/67381
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 443 (R)
+http://ingrid.ltd:25461/berny/berny1234/67399
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 444 (Backup)  (R)
+http://ingrid.ltd:25461/berny/berny1234/67382
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 444 (R)
+http://ingrid.ltd:25461/berny/berny1234/67425
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 444 (R)
+http://ingrid.ltd:25461/berny/berny1234/67400
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 450 (Backup) (R)
+http://ingrid.ltd:25461/berny/berny1234/67352
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 450 (R)
+http://ingrid.ltd:25461/berny/berny1234/67426
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 450 (R)
+http://ingrid.ltd:25461/berny/berny1234/67401
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 452 (R)
+http://ingrid.ltd:25461/berny/berny1234/67402
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 453 (R)
+http://ingrid.ltd:25461/berny/berny1234/67403
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 454 (R)
+http://ingrid.ltd:25461/berny/berny1234/67406
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 455 (R)
+http://ingrid.ltd:25461/berny/berny1234/67404
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 456 (R)
+http://ingrid.ltd:25461/berny/berny1234/67405
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 457 (R)
+http://ingrid.ltd:25461/berny/berny1234/67407
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 458 (R)
+http://ingrid.ltd:25461/berny/berny1234/67408
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 459 (R)
+http://ingrid.ltd:25461/berny/berny1234/67409
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 460 (R)
+http://ingrid.ltd:25461/berny/berny1234/67410
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 461 (Backup)  (R)
+http://ingrid.ltd:25461/berny/berny1234/67345
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 461 (R)
+http://ingrid.ltd:25461/berny/berny1234/67427
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 461 (R)
+http://ingrid.ltd:25461/berny/berny1234/67411
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 462 (Backup)  (R)
+http://ingrid.ltd:25461/berny/berny1234/67346
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 462 (R)
+http://ingrid.ltd:25461/berny/berny1234/67428
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 462 (R)
+http://ingrid.ltd:25461/berny/berny1234/67412
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 464 (Backup) (R)
+http://ingrid.ltd:25461/berny/berny1234/67347
+#EXTINF:-1  group-title="CA"SUPER SPORTS CH 464 (R)
+http://ingrid.ltd:25461/berny/berny1234/67413
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 465 (Backup) (R)
+http://ingrid.ltd:25461/berny/berny1234/67348
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 465 (R)
+http://ingrid.ltd:25461/berny/berny1234/67414
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 472 (Backup) (R)
+http://ingrid.ltd:25461/berny/berny1234/67353
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 473 (R)
+http://ingrid.ltd:25461/berny/berny1234/67429
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 474 (R)
+http://ingrid.ltd:25461/berny/berny1234/67430
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 475 (R)
+http://ingrid.ltd:25461/berny/berny1234/67431
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 476 (Backup) (R)
+http://ingrid.ltd:25461/berny/berny1234/67362
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 476 (R)
+http://ingrid.ltd:25461/berny/berny1234/67432
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 477 (Backup)  (R)
+http://ingrid.ltd:25461/berny/berny1234/67349
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 477 (R)
+http://ingrid.ltd:25461/berny/berny1234/67433
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 478 (Backup)  (R)
+http://ingrid.ltd:25461/berny/berny1234/67350
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 478 (R)
+http://ingrid.ltd:25461/berny/berny1234/67435
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 479 (Backup) (R)
+http://ingrid.ltd:25461/berny/berny1234/67251
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 479 (R)
+http://ingrid.ltd:25461/berny/berny1234/67434
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 480 (Backup) (R)
+http://ingrid.ltd:25461/berny/berny1234/67342
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 480 (R)
+http://ingrid.ltd:25461/berny/berny1234/67436
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 481 (R)
+http://ingrid.ltd:25461/berny/berny1234/67437
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 482 (Backup) (R)
+http://ingrid.ltd:25461/berny/berny1234/67343
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 482 (R)
+http://ingrid.ltd:25461/berny/berny1234/67438
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 483 (Backup) (R)
+http://ingrid.ltd:25461/berny/berny1234/67344
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 483 (R)
+http://ingrid.ltd:25461/berny/berny1234/67439
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 484 (Backup) (R)
+http://ingrid.ltd:25461/berny/berny1234/67383
+#EXTINF:-1  group-title="CA" SUPER SPORTS CH 484 (R)
+http://ingrid.ltd:25461/berny/berny1234/67440
+#EXTINF:-1  group-title="CA" TAG TV (Asian)
+http://ingrid.ltd:25461/berny/berny1234/67530
+#EXTINF:-1  group-title="CA" TCTV2 HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67261
+#EXTINF:-1  group-title="CA" Teletoon (R)
+http://ingrid.ltd:25461/berny/berny1234/67320
+#EXTINF:-1  group-title="CA" The Fight Network HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67583
+#EXTINF:-1  group-title="CA" The Fight Network SD (P)
+http://ingrid.ltd:25461/berny/berny1234/67291
+#EXTINF:-1  group-title="CA" TLC (R)
+http://ingrid.ltd:25461/berny/berny1234/67332
+#EXTINF:-1  group-title="CA" Toronto 360
+http://ingrid.ltd:25461/berny/berny1234/67533
+#EXTINF:-1  group-title="CA" Treehouse (R)
+http://ingrid.ltd:25461/berny/berny1234/67245
+#EXTINF:-1  group-title="CA" TSC (R)
+http://ingrid.ltd:25461/berny/berny1234/67262
+#EXTINF:-1  group-title="CA" TSN 1 (R)
+http://ingrid.ltd:25461/berny/berny1234/67331
+#EXTINF:-1  group-title="CA" TSN 2 (R)
+http://ingrid.ltd:25461/berny/berny1234/67330
+#EXTINF:-1  group-title="CA" TSN 3 (R)
+http://ingrid.ltd:25461/berny/berny1234/67329
+#EXTINF:-1  group-title="CA" TSN 4 (R)
+http://ingrid.ltd:25461/berny/berny1234/67328
+#EXTINF:-1  group-title="CA" TSN 5 (R)
+http://ingrid.ltd:25461/berny/berny1234/67327
+#EXTINF:-1  group-title="CA" TSN4 HD Blackout (R)
+http://ingrid.ltd:25461/berny/berny1234/67580
+#EXTINF:-1  group-title="CA" TSN5 Blackout (R)
+http://ingrid.ltd:25461/berny/berny1234/67581
+#EXTINF:-1  group-title="CA"TSN5 HD Blackout 2 (R)
+http://ingrid.ltd:25461/berny/berny1234/67582
+#EXTINF:-1  group-title="CA" Turner Classic Movies HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67252
+#EXTINF:-1  group-title="CA" TV 16 Toronto (Asian)
+http://ingrid.ltd:25461/berny/berny1234/67534
+#EXTINF:-1  group-title="CA" TV Ontario (R)
+http://ingrid.ltd:25461/berny/berny1234/67338
+#EXTINF:-1  group-title="CA" TV Rogers (Moncton) (R)
+http://ingrid.ltd:25461/berny/berny1234/67584
+#EXTINF:-1  group-title="CA" Vision HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67239
+#EXTINF:-1  group-title="CA" W NETWORK (R)
+http://ingrid.ltd:25461/berny/berny1234/67238
+#EXTINF:-1  group-title="CA" Weather Network HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67247
+#EXTINF:-1  group-title="CA" WPIX SD  (P)
+http://ingrid.ltd:25461/berny/berny1234/67301
+#EXTINF:-1  group-title="CA" WWE Network (R)
+http://ingrid.ltd:25461/berny/berny1234/67506
+#EXTINF:-1  group-title="CA" YES TV (R)
+http://ingrid.ltd:25461/berny/berny1234/67237
+#EXTINF:-1  group-title="CA" YTV East HD (R)
+http://ingrid.ltd:25461/berny/berny1234/67236
+#EXTINF:-1  group-title="CA" SPORTS NET PPV
+http://ingrid.ltd:25461/berny/berny1234/3646
+#EXTINF:-1  group-title="CA" SPORTS NET WEST HD
+http://ingrid.ltd:25461/berny/berny1234/3647
+#EXTINF:-1  group-title="CA" SPORTS NET PACIFIC HD
+http://ingrid.ltd:25461/berny/berny1234/3648
+#EXTINF:-1  group-title="CA" SPORTS NET ONTARIO HD
+http://ingrid.ltd:25461/berny/berny1234/3649
+#EXTINF:-1  group-title="CA" SPORTS NET ONE HD
+http://ingrid.ltd:25461/berny/berny1234/3650
+#EXTINF:-1  group-title="CA" SPORTS NET 360 HD
+http://ingrid.ltd:25461/berny/berny1234/3652
+#EXTINF:-1  group-title="CA" Super Sport CH 431
+http://ingrid.ltd:25461/berny/berny1234/41951
+#EXTINF:-1  group-title="CA" Super Sport CH 432
+http://ingrid.ltd:25461/berny/berny1234/41980
+#EXTINF:-1  group-title="CA" Super Sport CH 433
+http://ingrid.ltd:25461/berny/berny1234/41953
+#EXTINF:-1  group-title="CA" Super Sport CH 434
+http://ingrid.ltd:25461/berny/berny1234/41954
+#EXTINF:-1  group-title="CA" Super Sport CH 435
+http://ingrid.ltd:25461/berny/berny1234/41955
+#EXTINF:-1  group-title="CA" Super Sport CH 436
+http://ingrid.ltd:25461/berny/berny1234/41981
+#EXTINF:-1  group-title="CA" Super Sport CH 437
+http://ingrid.ltd:25461/berny/berny1234/41982
+#EXTINF:-1  group-title="CA" Super Sport CH 438
+http://ingrid.ltd:25461/berny/berny1234/41983
+#EXTINF:-1  group-title="CA" Super Sport CH 439
+http://ingrid.ltd:25461/berny/berny1234/41958
+#EXTINF:-1  group-title="CA" Super Sport CH 440
+http://ingrid.ltd:25461/berny/berny1234/41960
+#EXTINF:-1  group-title="CA" Super Sport CH 441
+http://ingrid.ltd:25461/berny/berny1234/41961
+#EXTINF:-1  group-title="CA" Super Sport CH 442
+http://ingrid.ltd:25461/berny/berny1234/41962
+#EXTINF:-1  group-title="CA" Super Sport CH 443
+http://ingrid.ltd:25461/berny/berny1234/41988
+#EXTINF:-1  group-title="CA" Super Sport CH 444
+http://ingrid.ltd:25461/berny/berny1234/41989
+#EXTINF:-1  group-title="CA" Super Sport CH 450
+http://ingrid.ltd:25461/berny/berny1234/41990
+#EXTINF:-1  group-title="CA" Super Sport CH 452
+http://ingrid.ltd:25461/berny/berny1234/41966
+#EXTINF:-1  group-title="CA" Super Sport CH 454
+http://ingrid.ltd:25461/berny/berny1234/41970
+#EXTINF:-1  group-title="CA" Super Sport CH 455
+http://ingrid.ltd:25461/berny/berny1234/41968
+#EXTINF:-1  group-title="CA" Super Sport CH 456
+http://ingrid.ltd:25461/berny/berny1234/41969
+#EXTINF:-1  group-title="CA" Super Sport CH 457
+http://ingrid.ltd:25461/berny/berny1234/41971
+#EXTINF:-1  group-title="CA" Super Sport CH 458
+http://ingrid.ltd:25461/berny/berny1234/41972
+#EXTINF:-1  group-title="CA" Super Sport CH 459
+http://ingrid.ltd:25461/berny/berny1234/41973
+#EXTINF:-1  group-title="CA" Super Sport CH 460
+http://ingrid.ltd:25461/berny/berny1234/41974
+#EXTINF:-1  group-title="CA" Super Sport CH 461
+http://ingrid.ltd:25461/berny/berny1234/41991
+#EXTINF:-1  group-title="CA" Super Sport CH 462
+http://ingrid.ltd:25461/berny/berny1234/41976
+#EXTINF:-1  group-title="CA" Super Sport CH 464
+http://ingrid.ltd:25461/berny/berny1234/41977
+#EXTINF:-1  group-title="CA" Super Sport CH 465
+http://ingrid.ltd:25461/berny/berny1234/41978
+#EXTINF:-1  group-title="CA" Super Sport CH 468
+http://ingrid.ltd:25461/berny/berny1234/41979
+#EXTINF:-1  group-title="CA" Super Sport CH 473
+http://ingrid.ltd:25461/berny/berny1234/41993
+#EXTINF:-1  group-title="CA" Super Sport CH 474
+http://ingrid.ltd:25461/berny/berny1234/41994
+#EXTINF:-1  group-title="CA" Super Sport CH 475
+http://ingrid.ltd:25461/berny/berny1234/41995
+#EXTINF:-1  group-title="CA" Super Sport CH 476
+http://ingrid.ltd:25461/berny/berny1234/41996
+#EXTINF:-1  group-title="CA" Super Sport CH 477
+http://ingrid.ltd:25461/berny/berny1234/41997
+#EXTINF:-1  group-title="CA" Super Sport CH 478
+http://ingrid.ltd:25461/berny/berny1234/41999
+#EXTINF:-1  group-title="CA" Super Sports CH 479
+http://ingrid.ltd:25461/berny/berny1234/41998
+#EXTINF:-1  group-title="CA" Super Sport CH 480
+http://ingrid.ltd:25461/berny/berny1234/42000
+#EXTINF:-1  group-title="CA" Super Sport CH 481
+http://ingrid.ltd:25461/berny/berny1234/42001
+#EXTINF:-1  group-title="CA" Super Sport CH 482
+http://ingrid.ltd:25461/berny/berny1234/42002
+#EXTINF:-1  group-title="CA" Super Sport CH 483
+http://ingrid.ltd:25461/berny/berny1234/42003
+#EXTINF:-1  group-title="CA" Super Sport CH 484
+http://ingrid.ltd:25461/berny/berny1234/42004
+#EXTINF:-1  group-title="CA" NBA TV HD
+http://ingrid.ltd:25461/berny/berny1234/41834
+
 
 #EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="新马",亚洲新闻台(CNA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
