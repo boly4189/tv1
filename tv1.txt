@@ -34,14 +34,7 @@ PINK BRAVO,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/832
 PINK CLASSIC,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/831
 PINK COMEDY,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/830
 PINK CRIME & MYSTERY,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/829
-PINK EROTIC 1,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/828
-PINK EROTIC 2,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/827
-PINK EROTIC 3,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/826
-PINK EROTIC 4,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/825
-PINK EROTIC 5,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/824
-PINK EROTIC 6,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/823
-PINK EROTIC 7,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/822
-PINK EROTIC 8,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/821
+
 PINK EXTRA,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/820
 PINK FAMILY,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/819
 PINK FASHION,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/818
@@ -311,22 +304,6 @@ HOT,http://185.236.229.4:8000/play/a13h
 MILF HD,http://live.redtraffic.xyz/milf.m3u8
 PLAYBOY TV (NA),http://f.ok2.se:8000/victor1/victor123/300
 Exxxotica HD,http://born-tv.ga/id0390/index.m3u8?token=brighid
-TEN - NEW,http://f.ok2.se:8000/victor1/victor123/9165
-XTSY - (NEW),http://f.ok2.se:8000/victor1/victor123/9164
-CANDY - NEW,http://f.ok2.se:8000/victor1/victor123/90820
-O-LA-LA - NEW,http://f.ok2.se:8000/victor1/victor123/90821
-FAP TV TEENS - NEW,http://f.ok2.se:8000/victor1/victor123/90822
-OH-AH - NEW,http://f.ok2.se:8000/victor1/victor123/90823
-SESTO SENSO - NEW,http://f.ok2.se:8000/victor1/victor123/90824
-PENTHOUSE,http://f.ok2.se:8000/victor1/victor123/71118
-1 HD XXX,http://f.ok2.se:8000/victor1/victor123/6697
-2 HD XXX,http://f.ok2.se:8000/victor1/victor123/6696
-3 HD XXX,http://f.ok2.se:8000/victor1/victor123/6695
-4 HD XXX,http://f.ok2.se:8000/victor1/victor123/6694
-5 HD XXX,http://f.ok2.se:8000/victor1/victor123/6693
-6 HD XXX,http://f.ok2.se:8000/victor1/victor123/6692
-7 HD XXX,http://f.ok2.se:8000/victor1/victor123/6687
-8 HD XXX,http://f.ok2.se:8000/victor1/victor123/6686
 Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
 Blonde,http://cdn.adultiptv.net/blonde.m3u8
 Blowjob,http://cdn.adultiptv.net/blowjob.m3u8
@@ -411,6 +388,14 @@ AST TV 2,https://www.ast.tv/stream/2/normal.m3u8
 福利28,https://www.800-cdn.com/20191024/nP15lEjD/index.m3u8
 福利29,https://www.800-cdn.com/20191024/y2HqkX9g/index.m3u8
 福利30,https://www.800-cdn.com/20191024/TpNs2GDB/index.m3u8
+PINK EROTIC 1,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/828
+PINK EROTIC 2,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/827
+PINK EROTIC 3,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/826
+PINK EROTIC 4,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/825
+PINK EROTIC 5,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/824
+PINK EROTIC 6,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/823
+PINK EROTIC 7,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/822
+PINK EROTIC 8,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/821
 
 夜曲频道2,#genre#
 日韩高清1[1280*720],https://www.800-cdn.com/20191104/E1HxL2k9/index.m3u8
@@ -600,52 +585,32 @@ Video 28,http://content2.sexforsure.com/2013/07/03/20/Video.mp4
 Video 7,http://content2.sexforsure.com/2013/07/03/3/Video.mp4
 Video 23,http://content2.sexforsure.com/2013/07/03/4/Video.mp4
 Video 26,http://content2.sexforsure.com/2013/07/03/7/Video.mp4
-Big Ass HD,http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/bigass.m3u8
-Big Dick HD,http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/bigdick.m3u8
-Big Tits HD,http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/bigtits.m3u8
-Cuckold HD,http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/cuckold.m3u8
-Fetish HD,http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/fetish.m3u8
-Hardcore HD,http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/hardcore.m3u8
-Interracial HD,http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/interracial.m3u8
-Latina HD,http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/latina.m3u8
-Milf HD,http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/milf.m3u8
-Pornstar HD,http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/pornstar.m3u8
-POV HD,http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/pov.m3u8
-Russian HD,http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/russian.m3u8
-Teen HD,http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/teen.m3u8
-Jasmin TV HD,http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-Jasmin channel 18+ HD,http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1793148297.m3u8
-Jasmin HD 18+,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-Jasmin TV,http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w1696432778.m3u8
-Jasmin TV,http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-ADULT XXX,http://v2.14mp4.com:80/av-hls/20160713/m1/index.m3u8
-ADULT XXX,http://v2.14mp4.com:80/av-hls/20160713/m127/index.m3u8
-ADULT XXX,http://v2.14mp4.com:80/av-hls/20160713/m128/index.m3u8
-ADULT XXX,http://v2.14mp4.com:80/av-hls/20160713/m129/index.m3u8
-ADULT XXX,http://v2.14mp4.com:80/av-hls/20160713/m130/index.m3u8
-ADULT XXX,http://v2.14mp4.com:80/av-hls/20160713/m131/index.m3u8
-ADULT XXX,http://v2.14mp4.com:80/av-hls/20160713/m132/index.m3u8
-ADULT XXX,http://v2.14mp4.com:80/av-hls/20160713/m133/index.m3u8
-ADULT XXX,http://v2.14mp4.com:80/av-hls/20160713/m134/index.m3u8
-ADULT XXX,http://v2.14mp4.com:80/av-hls/20160713/m135/index.m3u8
-ADULT XXX,http://v2.14mp4.com:80/av-hls/20160713/m136/index.m3u8
-ADULT XXX,http://v2.14mp4.com:80/av-hls/20160713/m137/index.m3u8
-ADULT XXX,http://v2.14mp4.com:80/av-hls/20160713/m138/index.m3u8
-ADULT XXX,http://v2.14mp4.com:80/av-hls/20160713/m146/index.m3u8
-ADULT XXX,http://v2.14mp4.com:80/av-hls/20160713/m147/index.m3u8
-ADULT XXX,http://v2.14mp4.com:80/av-hls/20160713/m22/index.m3u8
-ADULT XXX,http://v2.14mp4.com:80/av-hls/20160713/m23/index.m3u8
-ADULT XXX,http://v2.14mp4.com:80/av-hls/20160713/m30/index.m3u8
-ADULT XXX,http://v2.14mp4.com:80/av-hls/20160713/m31/index.m3u8
-ADULT XXX,http://v2.14mp4.com:80/av-hls/20160713/m32/index.m3u8
-ADULT XXX,http://v2.14mp4.com:80/av-hls/20160713/m33/index.m3u8
-ADULT XXX,http://v2.14mp4.com:80/av-hls/20160713/m34/index.m3u8
-ADULT XXX,http://v2.14mp4.com:80/av-hls/20160713/m35/index.m3u8
-ADULT XXX,http://v2.14mp4.com:80/av-hls/20160713/m49/index.m3u8
-ADULT XXX,http://v2.14mp4.com:80/av-hls/20160713/m50/index.m3u8
+ADULT 1,http://v2.14mp4.com:80/av-hls/20160713/m1/index.m3u8
+ADULT 2,http://v2.14mp4.com:80/av-hls/20160713/m127/index.m3u8
+ADULT 3,http://v2.14mp4.com:80/av-hls/20160713/m128/index.m3u8
+ADULT 4,http://v2.14mp4.com:80/av-hls/20160713/m129/index.m3u8
+ADULT 5,http://v2.14mp4.com:80/av-hls/20160713/m130/index.m3u8
+ADULT 6,http://v2.14mp4.com:80/av-hls/20160713/m131/index.m3u8
+ADULT 7,http://v2.14mp4.com:80/av-hls/20160713/m132/index.m3u8
+ADULT 8,http://v2.14mp4.com:80/av-hls/20160713/m133/index.m3u8
+ADULT 9,http://v2.14mp4.com:80/av-hls/20160713/m134/index.m3u8
+ADULT 10,http://v2.14mp4.com:80/av-hls/20160713/m135/index.m3u8
+ADULT 11,http://v2.14mp4.com:80/av-hls/20160713/m136/index.m3u8
+ADULT 12,http://v2.14mp4.com:80/av-hls/20160713/m137/index.m3u8
+ADULT 13,http://v2.14mp4.com:80/av-hls/20160713/m138/index.m3u8
+ADULT 14,http://v2.14mp4.com:80/av-hls/20160713/m146/index.m3u8
+ADULT 15,http://v2.14mp4.com:80/av-hls/20160713/m147/index.m3u8
+ADULT 16,http://v2.14mp4.com:80/av-hls/20160713/m22/index.m3u8
+ADULT 17,http://v2.14mp4.com:80/av-hls/20160713/m23/index.m3u8
+ADULT 18,http://v2.14mp4.com:80/av-hls/20160713/m30/index.m3u8
+ADULT 19,http://v2.14mp4.com:80/av-hls/20160713/m31/index.m3u8
+ADULT 20,http://v2.14mp4.com:80/av-hls/20160713/m32/index.m3u8
+ADULT 21,http://v2.14mp4.com:80/av-hls/20160713/m33/index.m3u8
+ADULT 22,http://v2.14mp4.com:80/av-hls/20160713/m34/index.m3u8
+ADULT 23,http://v2.14mp4.com:80/av-hls/20160713/m35/index.m3u8
+ADULT 24,http://v2.14mp4.com:80/av-hls/20160713/m49/index.m3u8
+ADULT 25,http://v2.14mp4.com:80/av-hls/20160713/m50/index.m3u8
 
-CMTV,http://185.236.229.4:8000/play/a0yh
-CMTV,http://185.236.229.4:8000/play/a0z5
 魔力男士上错身,https://n4.huayundiaosu.com/202009/08/qA25TnRX/2200kb/hls/index.m3u8
 美女约小伙打炮,https://n4.huayundiaosu.com/202009/08/G5yeuRsb/2200kb/hls/index.m3u8
 荷官的情欲睡衣诱惑,https://n4.huayundiaosu.com/202009/01/Cx6Gd1AT/2200kb/hls/index.m3u8
