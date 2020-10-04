@@ -1,3 +1,88 @@
+test,#genre#
+
+ALJAZEERA BALKANS,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/900
+CNN,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/881
+NAT GEOGRAPHIC,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/842
+NATIONAL GEOGRAPHIC WILD,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/841
+VIASAT HISTORY,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/745
+VIASAT EXPLORER,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/746
+VIASAT NATURE,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/744
+DISCOVERY,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/880
+DISCOVERY IDXTRA,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/878
+TLC,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/753
+ANIMAL PLANET,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/899
+24 KITCHEN,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/902
+FOX CRIME,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/866
+FOX LIFE,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/865
+FOX CHANNEL,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/867
+PRO7,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/783
+VOX,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/742
+VH1,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/748
+VH1 CLASSIC,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/747
+MTV ADRIA,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/844
+CMC,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/882
+EUROSPORT 1,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/871
+EUROSPORT 2,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/870
+DISCOVERY SCIENCE,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/877
+PINK WORLD,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/787
+PINKNROLL,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/784
+PINK 1,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/836
+PINK 2,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/835
+PINK 3,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/834
+PINK ACTION,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/833
+PINK BRAVO,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/832
+PINK CLASSIC,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/831
+PINK COMEDY,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/830
+PINK CRIME & MYSTERY,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/829
+PINK EROTIC 1,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/828
+PINK EROTIC 2,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/827
+PINK EROTIC 3,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/826
+PINK EROTIC 4,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/825
+PINK EROTIC 5,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/824
+PINK EROTIC 6,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/823
+PINK EROTIC 7,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/822
+PINK EROTIC 8,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/821
+PINK EXTRA,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/820
+PINK FAMILY,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/819
+PINK FASHION,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/818
+PINK FIGHT NETWORK,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/817
+PINK FILM,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/816
+PINK FOLK 1,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/815
+PINK FOLK 2,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/814
+PINK HAHA,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/813
+PINK HITS,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/812
+PINK HITS2,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/811
+PINK HORROR,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/810
+PINK KIDS,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/809
+PINK KONCERT,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/808
+PINK KUVAR,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/807
+PINK LOL,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/806
+PINK MOVIES,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/805
+PINK MUSIC,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/804
+PINK MUSIC2,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/803
+PINK PARADA,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/801
+PINK PEDIA,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/800
+PINK PLUS,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/799
+PINK PREMIUM,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/798
+PINK REALITY,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/797
+PINK ROMANCE,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/796
+PINK SCIFI & FANTASY,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/795
+PINK SERIJE,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/794
+PINK SHOW,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/793
+PINK SOAP,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/792
+PINK STYLE,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/791
+PINK SUPER KIDS,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/790
+PINK THRILLER,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/789
+PINK WESTERN,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/788
+PINK WORLD CINEMA,http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/786
+
+
+
+
+BBC One HD,http://176.10.117.3:5000/play/a035
+CNN Int. HD,http://176.10.117.3:5000/play/a03e
+ComedyCentral CH HD,http://176.10.117.3:5000/play/a03b
+
 
 PT,#genre#
 BBC News,https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
