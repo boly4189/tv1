@@ -141,6 +141,13 @@ HBO Family,https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index
 HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 HBO Signature,https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 Red by HBO,https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+凤凰电影,https://www.fanmingming.cn/hls/fhdy.m3u8
+天映娱乐thrll,http://210.210.155.35/qwr9ew/s/s34/02.m3u8
+天映频道Celestial Movies,http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+kk金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+kk开心影院,http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
+歐美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8
+亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8
 
 NEWS,#genre#
 CNN,http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
@@ -216,40 +223,28 @@ HK TV,#genre#
 凤凰资讯,http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
 凤凰香港,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 凤凰香港,http://220.158.149.28:8180/TV00000000000000000068@HHZT;LIVE
-HKS香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-翡翠台,http://61.238.6.49:8000/bysid/1
 翡翠台,https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGFeiCui.m3u8
+翡翠台,http://61.238.6.49:8000/bysid/1
 J2台,http://61.238.6.49:8001/bysid/82
-TVB Pearl,http://61.238.6.49:8001/bysid/2.mpeg
+Pearl,http://61.238.6.49:8001/bysid/2.mpeg
 无线新闻,http://45.93.217.106/jiuban/hg.php?id=1
+无线新闻,http://livetv.dnsfor.me/channel.10.m3u8
 无线财经,http://96.45.185.192/tv.php?vid=wxcjzx
-無綫新聞台,http://livetv.dnsfor.me/channel.10.m3u8
-無綫財經資訊台,http://livetv.dnsfor.me/channel.11.m3u8
-有线新闻2,http://danielwu.gz01.bdysite.com/iptv/?id=yxxw2
+无线财经,http://livetv.dnsfor.me/channel.11.m3u8
+有线新闻,http://livetv.dnsfor.me:80/channel.5.m3u8
+有线新闻,http://danielwu.gz01.bdysite.com/iptv/?id=yxxw2
 有線綜合娱乐,http://livetv.dnsfor.me/channel.7.m3u8
-有線新闻,http://livetv.dnsfor.me:80/channel.5.m3u8
 有線財經資訊,http://livetv.dnsfor.me/channel.6.m3u8
-NOW新闻台,http://a.315600.xyz/dl/gt.php?id=nowtvlive
-
-耀才財經台1,http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
-环球电視,http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
-亞美衛視,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-亚视本港,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 RHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&rebase=on
 RHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8?sd=10&rebase=on
-RHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
-C+,http://liveima.utvlive.top/livehls/MOB-U1-NO/03.m3u8
+ATV,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi_1080p.m3u8
+ATV,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 ViuTV,http://61.238.6.49:8000/bysid/99
 ViuTVsix,http://61.238.6.49:8000/bysid/96
+NOW新闻台,http://a.315600.xyz/dl/gt.php?id=nowtvlive
+HKS香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+耀才財經台,http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
 
-凤凰电影,https://www.fanmingming.cn/hls/fhdy.m3u8
-天映娱乐thrll,http://210.210.155.35/qwr9ew/s/s34/02.m3u8
-kk金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-kk开心影院,http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
-歐美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSEAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
-亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSEAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
-天映频道Celestial Movies,http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-卡式台,http://live.vpnyun.tk:8080/demo/456321/23
 澳视澳门,https://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
 澳视电影,https://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
 澳视体育,https://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
@@ -260,12 +255,18 @@ kk开心影院,http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
 澳视葡文,http://61.244.22.4/ch2/ch2.live/index.m3u8
 澳門微电影,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
 
+亞美衛視,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+C+,http://liveima.utvlive.top/livehls/MOB-U1-NO/03.m3u8
+凤凰电影,https://www.fanmingming.cn/hls/fhdy.m3u8
+天映娱乐thrll,http://210.210.155.35/qwr9ew/s/s34/02.m3u8
+天映频道Celestial Movies,http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+kk金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+kk开心影院,http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
+歐美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSEAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
+亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSEAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
 香港开電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 Now Sports Prime,http://teslagram.com/live/channel_630.m3u8
 赛马直击,http://liveima.utvlive.top/livehls/MOB-HR/index.m3u8
-亞洲電視台,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi_1080p.m3u8
-
-
 
 TW TV,#genre#
 TVBS新闻 FHD ★,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
