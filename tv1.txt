@@ -133,21 +133,15 @@ NAT GEO HD [CHINESE],https://www.fanmingming.cn/hls/natlgeo.m3u8
 Love Nature 4K,https://bamus-eng-roku.amagi.tv/playlist.m3u8
 
 MOVICES,#genre#
+
+kk金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+kk开心影院,http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
+歐美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSEAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
+亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSEAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
 HBO Asia,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
-FOX Movies,https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-Fox Family Movies,https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
-HBO,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-HBO Family,https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-HBO Signature,https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-Red by HBO,https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 凤凰电影,https://www.fanmingming.cn/hls/fhdy.m3u8
 天映娱乐thrll,http://210.210.155.35/qwr9ew/s/s34/02.m3u8
 天映频道Celestial Movies,http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-kk金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-kk开心影院,http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
-歐美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8
-亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8
 
 NEWS,#genre#
 CNN,http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
@@ -174,6 +168,7 @@ Bloomberg,https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virgi
 CGTN Documentary,https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 SPORTS,#genre#
+
 緯來體育台,http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
 CCTV-5 体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
 CCTV-5+ 体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
