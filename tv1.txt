@@ -1,5 +1,73 @@
 
 test,#genre#
+求索一,http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
+求索二,http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
+求索三,http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
+求索四,http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
+
+CCTV4K,http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
+黑莓电影,http://112.17.40.140/PLTV/88888888/224/3221226755/index.m3u8
+中国功夫,http://112.17.40.140/PLTV/88888888/224/3221226759/index.m3u8
+精品体育,http://112.17.40.140/PLTV/88888888/224/3221226819/index.m3u8
+都市剧场,http://112.17.40.140/PLTV/88888888/224/3221226825/index.m3u8
+动作电影,http://112.17.40.140/PLTV/88888888/224/3221226747/index.m3u8
+搏击,http://112.17.40.140/PLTV/88888888/224/3221226737/index.m3u8
+惊悚悬疑,http://112.17.40.140/PLTV/88888888/224/3221226656/index.m3u8
+爱情喜剧,http://112.17.40.140/PLTV/88888888/224/3221226660/index.m3u8
+时装,http://112.17.40.140/PLTV/88888888/224/3221226120/index.m3u8
+华数网球,http://112.17.40.140/PLTV/88888888/224/3221226326/index.m3u8
+cctv5,http://112.17.40.140/PLTV/88888888/224/3221226687/index.m3u8
+cctv5+,http://112.17.40.140/PLTV/88888888/224/3221226406/index.m3u8
+cctv6,http://112.17.40.140/PLTV/88888888/224/3221226433/index.m3u8
+凤凰资讯台,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
+
+CNTV喜剧影院,http://120.221.5.113:8089/PLTV/88888888/224/3221225927/index.m3u8
+CNTV光影频道,http://120.221.5.177:8089/PLTV/88888888/224/3221225854/index.m3u8
+CNTV音乐现场,http://120.221.5.113:8089/PLTV/88888888/224/3221226059/index.m3u8
+CNTV古装剧场,http://120.221.5.113:8089/PLTV/88888888/224/3221226057/index.m3u8
+
+G+经典剧场,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225782/1/index.m3u8?fmt=ts2hls
+G+都市剧场,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225783/1/index.m3u8?fmt=ts2hls
+G+谍战剧场,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225784/1/index.m3u8?fmt=ts2hls
+G+动画乐园,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225785/1/index.m3u8?fmt=ts2hls
+G+海外佳片,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225786/1/index.m3u8?fmt=ts2hls
+G+华语影院,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
+
+电视剧1台,http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8
+电视剧2台,http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
+电视剧3台,http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
+
+KiD电影一台,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+KiD电影二台,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+KiD动画,http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+
+CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+
+爱奇艺_收视冠军,http://baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c16_lb_shoushiguanjun_720p_t5/c16_lb_shoushiguanjun_720p_t5.m3u8
+爱奇艺_经典港片,http://120.233.49.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c18_lb_jingdianguangpian_720p_t5/c18_lb_jingdianguangpian_720p_t5.m3u8
+爱奇艺_豆瓣高分,http://baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c15_lb_wuxingyingyuan_720p_t5/c15_lb_wuxingyingyuan_720p_t5.m3u8
+爱奇艺_惊悚午夜,http://120.241.39.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c16_lb_jingnawuyechang_720p_t5/c16_lb_jingnawuyechang_720p_t5.m3u8
+爱奇艺_动作电影,http://120.241.39.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c15_lb_dongzuodianying_720p_t5/c15_lb_dongzuodianying_720p_t5.m3u8
+爱奇艺温情,http://baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c17_lb_chenglong_720p_t5/c17_lb_chenglong_720p_t5.m3u8
+爱奇艺_动画电影,http://120.232.170.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c15_lb_donghuadianying_720p_t5/c15_lb_donghuadianying_720p_t5.m3u8
+爱奇艺_周末影院,http://120.233.49.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c15_lb_fengxiaogang_720p_t5/c15_lb_fengxiaogang_720p_t5.m3u8
+爱奇艺_青春剧场,http://120.241.39.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c18_lb_qingchunjuchang_720p_t5/c18_lb_qingchunjuchang_720p_t5.m3u8
+爱奇艺_电影大片,http://120.241.39.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c19_lb_dianyingjingxuan_720p_t5/c19_lb_dianyingjingxuan_720p_t5.m3u8
+爱奇艺_谍战剧场,http://120.232.170.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c18_lb_diezhanjuchang_720p_t5/c18_lb_diezhanjuchang_720p_t5.m3u8
+爱奇艺_热播电视剧,http://120.233.49.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c18_lb_rebodianshiju_720p_t5/c18_lb_rebodianshiju_720p_t5.m3u8
+爱奇艺_仙侠玄幻,http://120.233.49.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c18_lb_xianxiaxuanhuan_720p_t5/c18_lb_xianxiaxuanhuan_720p_t5.m3u8
+爱奇艺_军旅剧场,http://120.232.170.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c17_lb_junlvjuchang_720p_t5/c17_lb_junlvjuchang_720p_t5.m3u8
+爱奇艺_抗战剧场,http://120.233.49.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c17_lb_kangzhanjuchang_720p_t5/c17_lb_kangzhanjuchang_720p_t5.m3u8
+爱奇艺_票房收割机,http://120.232.170.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c19_lb_heibangdianying_720p_t5/c19_lb_heibangdianying_720p_t5.m3u8
+爱奇艺_宫廷正剧,http://120.233.49.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c19_lb_niandaijuchang_720p_t5/c19_lb_niandaijuchang_720p_t5.m3u8
+爱奇艺_家庭剧场,http://120.232.170.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c19_lb_jiatingjuchang_720p_t5/c19_lb_jiatingjuchang_720p_t5.m3u8
+爱奇艺_情景喜剧,http://120.241.39.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c16_lb_qingjingxiju_720p_t5/c16_lb_qingjingxiju_720p_t5.m3u8
+爱奇艺_经典重温,http://120.241.39.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c16_lb_jingdianchongwen_720p_t5/c16_lb_jingdianchongwen_720p_t5.m3u8
+爱奇艺_军事观察,http://120.241.39.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c20_lb_junshiguancha_720P_t5/c20_lb_junshiguancha_720P_t5.m3u8
+爱奇艺_历史秘闻,http://120.233.49.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c18_lb_lishimiwen_720P_t5/c18_lb_lishimiwen_720P_t5.m3u8
+
 CNN,http://60.251.61.66:4014/VideoInput/play.ts
 CBSN Newyork,https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?@amarnettv.live
 
@@ -145,6 +213,7 @@ HBO Asia,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 NEWS,#genre#
 CNN,http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 BBC News,http://203.162.235.41:16917
+BBC News,http://www.mytvhd.xyz/tvm.php?id=BBCWorldNews
 Fox News,http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 CNBC World,http://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
 CBSN News,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
@@ -156,8 +225,10 @@ RT,http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8?@amarnettv.live
 Africa News,https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AfricaNews.m3u8
 Al Jazeera,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+Al Jazeera,http://www.mytvhd.xyz/tvm.php?id=AljazeeraTV
 NHK,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
 NHK,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_2M.m3u8?@amarnettv.live
+NHK,http://www.mytvhd.xyz/tvm.php?id=NHK
 Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?@amarnettv.live
 
 CBN News,https://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
@@ -260,6 +331,14 @@ kk开心影院,http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
 香港开電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 Now Sports Prime,http://teslagram.com/live/channel_630.m3u8
 赛马直击,http://liveima.utvlive.top/livehls/MOB-HR/index.m3u8
+
+凤凰资讯,https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_PhoenixinfoTVHD.m3u8
+凤凰中文,https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_PhoenixTVHD.m3u8
+凤凰香港,https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_PhoenixHKHD.m3u8
+TVB翡翠台,https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGFeiCui.m3u8
+TVB明珠台,https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGMingZhu.m3u8
+澳亚卫视,https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_MasTV.m3u8
+澳门卫视,https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_MSTV.m3u8
 
 TW TV,#genre#
 TVBS新闻 FHD ★,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
@@ -815,3 +894,4 @@ ADULT 25,http://v2.14mp4.com:80/av-hls/20160713/m50/index.m3u8
 满清十大酷刑之赤裸凌迟,https://n1.huayundiaosu.com/201811/12/LjuYBsWH/1000kb/hls/index.m3u8
 青楼十二房,https://n1.huayundiaosu.com/20181017/Bbr4S4PL/2000kb/hls/index.m3u8
 玉蒲团之云雨山庄,http://d2.zxfsjc.com/201811/15/hPi33s5N/mp4/hPi33s5N.mp4
+
