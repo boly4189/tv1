@@ -133,7 +133,6 @@ NAT GEO HD [CHINESE],https://www.fanmingming.cn/hls/natlgeo.m3u8
 Love Nature 4K,https://bamus-eng-roku.amagi.tv/playlist.m3u8
 
 MOVICES,#genre#
-
 kk金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 kk开心影院,http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
 歐美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSEAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
@@ -172,7 +171,6 @@ SPORTS,#genre#
 緯來體育台,http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
 CCTV-5 体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
 CCTV-5+ 体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
-NAT GEO,#genre#
 
 AU TV,#genre#
 SBS,https://sbs-live.akamaized.net/hls/live/2002827/channel1/geo/master_2500K.m3u8
