@@ -133,6 +133,7 @@ NAT GEO HD [CHINESE],https://www.fanmingming.cn/hls/natlgeo.m3u8
 Love Nature 4K,https://bamus-eng-roku.amagi.tv/playlist.m3u8
 
 MOVICES,#genre#
+HBO Asia,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 FOX Movies,https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 Fox Family Movies,https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 HBO,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
@@ -166,6 +167,7 @@ Bloomberg,https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virgi
 CGTN Documentary,https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
 SPORTS,#genre#
+緯來體育台,http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
 CCTV-5 体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
 CCTV-5+ 体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
 NAT GEO,#genre#
@@ -278,46 +280,28 @@ TVBS新闻 FHD ★,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 中视新闻 FHD ★,http://seb.sason.top/sc/zsxw_fhd.m3u8
 中天新闻 FHD ★,http://seb.sason.top/sc/ztxw_fhd.m3u8
 壹新闻 FHD ★,http://stream.nexttv.com.tw/n001/hd/live.m3u8
-三立新闻,http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
 民视 ★,http://seb.sason.top/ptv/ftv.php?id=ms
 民视第一 ★,http://seb.sason.top/ptv/ftv.php?id=dy
 民视台湾 ★,http://seb.sason.top/ptv/ftv.php?id=tw
 民视影剧 ★,http://seb.sason.top/ptv/ftv.php?id=yj
 民视综艺 ★,http://seb.sason.top/ptv/ftv.php?id=zy
 民视旅游 ★,http://seb.sason.top/ptv/ftv.php?id=ly
-大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-TVBS新聞台,http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 TVBS歡樂台,http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE
+TVBS歡樂台,http://220.158.149.28:8180/live/TV00000000000000000079@HHZT
 CNEX Taiwan,http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE
-HBO Asia,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 博斯魅力,https://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 空中英語教室,http://220.158.149.14:9999/live/TV00000000000000000077@HHZT;LIVE
 緯來體育台,http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
-
-民視,http://seb.sason.top/ptv/ftv.php?id=ms
-民視第一,http://seb.sason.top/ptv/ftv.php?id=dy
-民視台灣,http://seb.sason.top/ptv/ftv.php?id=tw
 民視新聞,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
-東森財經新聞,http://seb.sason.top/sc/dscjxw_fhd.m3u8
-TVBS新聞,http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
-TVBS歡樂,http://220.158.149.28:8180/live/TV00000000000000000079@HHZT
-台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
-中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
-華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
-中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
-三立新聞,http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
-三立財經新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
 大愛1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-信吉電視,http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
 華藏衛視,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
 人間衛視,https://bcovlive-a.akamaihd.net/a735d612667b460185bd29f9978178bd/ap-northeast-1/6169276188001/profile_2/chunklist.m3u8
 唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 番薯電視,http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
 
-cctv,#genre#
+CCTV,#genre#
 CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225710/index.m3u8
 CCTV-2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225747/index.m3u8
 CCTV-3 文艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225606/index.m3u8
@@ -335,7 +319,7 @@ CCTV-13 新闻,http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=
 CCTV-14 少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV-15 音乐,http://39.134.157.199/PLTV/88888888/224/3221225610/index.m3u8
 CCTV-17 农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-wstv,#genre#
+WSTV,#genre#
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
