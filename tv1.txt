@@ -1,118 +1,42 @@
 T1,#genre#
+History TV,https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
+History 2,https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
+Crime + Investigation,http://203.154.243.31:15001
 Zee Cafe HD,http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
 AXN ASIA,https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
-STAR WORLD HD,http://198.255.87.59:8080/INDIA_ENGLISH/STAR_WORLD_HD/tracks-v1a1/mono.m3u8?token=test
-COLORS INFINITY HD,http://89.187.169.203:2200/R-EX/ENGLISH_COLORS_INFINITY_HD-in/tracks-v1a1/mono.m3u8?token=
 WARNER TV HD,https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
-FOX Life HD,http://live-ng-01.more.tv/hls/Fox_Life_HD/master.m3u8
-FOX THAI,https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
-FOX HD [RUSSIA],http://live-ng-01.more.tv/hls/FOX_HD/master.m3u8
-VIP SERIAL HD,http://live-ng-01.more.tv/hls/VIP_SERIAL/master.m3u8
-BritCom,https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
 CBBC,http://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
 itv,http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 TV Series,http://203.154.243.89:1423
 Cine Series,https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8?@amarnettv.live
-
 MBC MAX HD,https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8?@amarnettv.live
-MBC MAX FHD,https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8?@amarnettv.live
 MBC 2 HD,https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8?@amarnettv.live
-MBC 2 FHD,https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8?@amarnettv.live
 MBC Action HD,https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8?@amarnettv.live
-MBC Action FHD,https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8?@amarnettv.live
-& Prive HD,http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andprivehd/index.m3u8
 & Flix HD,http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andflixhd/index.m3u8
-WB Movies,http://89.187.169.206:2200/R-EX/HINDI_WARNER_BROS-in/index.m3u8?token=
-HBO HD,http://198.255.87.59:8080/INDIA_ENGLISH/HBO_HD/tracks-v1a1/mono.m3u8?token=test
+HBO,https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbo.m3u8
 HBO Signature,https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbosig.m3u8
 HBO Hits,https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbohits.m3u8
 HBO Family,https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8
-HBO,https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbo.m3u8
 HBO Chinese,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
-Star Movies HD,http://198.255.87.59:8080/INDIA_ENGLISH/STAR_MOVIES_HD/tracks-v1a1/mono.m3u8?token=test
-Star Movies Select HD,http://198.255.87.59:8080/INDIA_ENGLISH/STAR_MOVIES_SELECT_HD/tracks-v1a1/mono.m3u8?token=test
 Movies Now,https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-MNX,https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
-ROMEDY NOW,https://timesnow.airtel.tv/live/RN_pull/master.m3u8
-Sony Pix HD,http://198.255.87.59:8080/INDIA_HINDI/SONY_PIX_HD/tracks-v1a1/mono.m3u8?token=test
-
 FOX MOVIES PREMIUM EN,https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
-FOX FAMILY HD EN,https://www.livedoomovies.com/02_FoxFamilyHD_720p/chunklist.m3u8
-FOX ACTION EN,https://www.livedoomovies.com/02_FoxActionHD_720p/chunklist.m3u8
-TV 1000 HD,http://live-ng-01.more.tv/hls/TV1000_HD/master.m3u8?@amarnettv.live
-TV 1000 Action HD,http://live-ng-01.more.tv/hls/TV1000_Action_HD/master.m3u8?@amarnettv.live
-ViP Premiere HD,http://live-ng-01.more.tv/hls/ViP_Premiere_HD/master.m3u8?@amarnettv.live
-ViP Megahit HD,http://live-ng-01.more.tv/hls/ViP_Megahit_HD/master.m3u8?@amarnettv.live
-ViP Comedy HD,http://live-ng-01.more.tv/hls/ViP_Comedy_HD/master.m3u8?@amarnettv.live
 RED HBO HD,https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 Cinemax,http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_2.m3u8
 24 Box TV,http://51.158.190.97/hls/stream.m3u8?@amarnettv.live
-Cinema World,http://45.126.83.51/uq2663/h/h04/index.m3u8?@amarnettv.live
 Cine Film,https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8?@amarnettv.live
 AlFajer MOVIE,http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8?@amarnettv.live
 CELESTIAL MOVIES,http://210.210.155.35/qwr9ew/s/s33/index.m3u8?@amarnettv.live
-The ShortFilms,https://m-c09-j2apps.s.llnwi.net/hls/8011.ShortFilmsTV.in.m3u8
-
-Viasat Nature,http://live-ng-01.more.tv/hls/Viasat_Nature_HD/master.m3u8
-
-SONY BBC Earth HD [HINDI],http://198.255.87.59:8080/INDIA_HINDI/BBC_EARTH_HD/tracks-v1a1/mono.m3u8?token=test
-NAT GEO HD,http://198.255.87.59:8080/INDIA_HINDI/NAT_GEO_HD/tracks-v1a1/mono.m3u8?token=test
-NAT GEO HD [RUSSIA],http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8?@amarnettv.live
-NAT GEO WILD HD,http://198.255.87.59:8080/INDIA_HINDI/NAT_GEO_WILD_HD/tracks-v1a1/mono.m3u8?token=test
-NAT GEO WILD HD [RUSSIA],https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?@amarnettv.live
-ANIMAL PLANET HD [HINDI],https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
-ANIMAL PLANET HD [RUSSIA],http://live-ng-01.more.tv/hls/Animal_Planet_HD/master.m3u8
-Discovery HD [ENGLISH],https://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8
-Discovery [BANGLA],https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8
-Discovery [HINDI],https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
-Discovery [RUSSIA],http://live-ng-01.more.tv/hls/Discovery_HD/index_1.m3u8
-Discovery Science [HINDI],https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
-Discovery Science [ENGLISH],https://streamitv.multitvsolution.in/idvo/discoverscienceeng.m3u8
-Discovery Science [RUSSIA],http://live-ng-01.more.tv/hls/Discovery_Science_HD/master.m3u8
-Discovery ID,https://streamitv.multitvsolution.in/idvo/investigationdiscovery.m3u8
-Discovery Turbo,https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
-TLC [ENGLISH],https://streamitv.multitvsolution.in/idvo/tlceng.m3u8
-TLC [HINDI],https://streamitv.multitvsolution.in/idvo/tlchdhindi.m3u8
-TLC HD [RUSSIA],http://live-ng-01.more.tv/hls/TLC_Russia_HD/master.m3u8
-History TV,https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
-History 2,https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
-Fox Life HINDI,http://198.255.87.59:8080/INDIA_HINDI/FOX_LIFE_HD/tracks-v1a1/mono.m3u8?token=test
-Viasat History,http://live-ng-01.more.tv/hls/Viasat_History_HD/index_1.m3u8
-GOOD TiMES,https://load.airtel.tv/ndtvgoodtimes/smil:common.smil/chunklist.m3u8
-Viasat Explore,http://live-ng-01.more.tv/hls/Viasat_Explore_HD/master.m3u8
 TRAVEL XP,http://198.255.87.59:8080/INDIA_ENGLISH/TRAVEL_XP_HD/tracks-v1a1/mono.m3u8?token=test
-Living Food,http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/livingfoodz/index.m3u8
 RT Documentary,http://rt-doc.secure.footprint.net:80/1101_2500Kb.m3u8?@amarnettv.live
 Docurama,https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
-Fashion TV,https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 WF,http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8?@amarnettv.live
 ID Fashion,https://sc.id-tv.kz/IDFashion_38_39.m3u8?@amarnettv.live
 HD Fashion & LifeStyle,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-
-BBC News,https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
-BBC Lifestyle,https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-BBC Earth,https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 ITV,http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
-
-CSBN New York,https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
-CBSN Los Angeles,https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
-CBS Sports HQ,https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop_7.m3u8
-Cheddar,https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/4.m3u8
 Classic Arts Showcase,https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
-Fox,https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-Fox Life,https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 Fashion TV,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 Free Speech TV,https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 Global News,https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
-
-Asian Food Network,https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-Animal Planet,https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
-BBC Earth,https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-Crime + Investigation,http://203.154.243.31:15001
-Comedy Central,http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-Discovery,https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
-Discovery Asia,https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-National Geographic,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 
 T6,#genre#
 BLUE HUSTER TV HD,http://localdblagent.club:8080/Carlos1/Carlos1/12631
@@ -141,6 +65,7 @@ CNN,http://203.162.235.41:16918?checkedby
 BBC WORLD NEWS,http://188.195.58.187:8000/play/a07p
 BBC WORLD NEWS,http://84.47.174.140/hlsl/2/BBC_World/BBC_World.m3u8
 BBC WORLD NEWS,http://217.199.224.5:1212/udp/239.192.1.20:2121
+BBC News,https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
 
 TNT,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/99
 TNT,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/31
