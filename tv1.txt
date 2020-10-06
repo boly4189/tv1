@@ -1,71 +1,14 @@
-test,#genre#
-NAT GEO,http://89.189.191.250/239.211.211.40/stream.m3u8
-NAT GEO HD,http://ingrid.ltd:25461/berny/berny1234/11566
-NAT GEO HD,http://31.220.40.44:80/Ung_debernardi123/mag322/114228
-NAT GEO HD,http://r45.dtv.invitel.net:40124/udp/239.1.1.0261:5000?
-NAT GEO KIDS HD,http://boxiptv.club:8080/arthur/123456/259
-NAT GEO SD,http://31.220.40.44:80/Ung_debernardi123/mag322/127721
-NAT GEO WILD,http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNatGeoWild&login=vladimirkochura&key=c6Ylhgy
-NAT GEO WILD,http://89.189.191.250/239.211.211.42/stream.m3u8
-NAT GEO WILD,http://178.217.72.66/225.201.3.68/mpegts
-NAT GEO WILD,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/106
-NAT GEO WILD,http://62.149.15.98:8816/play/a0dw?auth=dimana:dimana
-NAT GEO WILD,http://ingrid.ltd:25461/berny/berny1234/42046
-NAT GEO WILD,http://livegopanel.club:8080/saeed/saeed2020/9879
-NAT GEO WILD,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/108
-NAT GEO WILD,http://livegopanel.club:8080/saeed/saeed2020/14572
-NAT GEO WILD,http://mytv.fun:8080/Michele/Noya1/5352
-NAT GEO WILD,http://portal-protv.club:8080/benny2/benny2/9879
-NAT GEO WILD,http://cdn.toppro.xyz:8816/play/a0dw?auth=sobol772:sobol772
-NAT GEO WILD FHD,http://bestcostiptv.com:8080/ruru/4fd09a88/20327?checkedby
-NAT GEO WILD FHD,http://mytv.fun:8080/som4o6s6ie/hr93tlaf3a/6227
-NAT GEO WILD FULL HD,http://luminar.tv:2300/alberto/alberto/10439
-NAT GEO WILD FULL HD,http://boxiptv.club:8080/arthur/123456/261
-NAT GEO WILD HD,http://boxiptv.club:8080/arthur/123456/262
-NAT GEO WILD HD,http://217.199.224.5:1212/udp/239.192.4.12:2121
-NAT GEO WILD HD,http://luminar.tv:2300/alberto/alberto/10438
-NAT GEO WILD HD,https://vs16.vcdn.biz/154f120ec6a627f5c1614b5f5e78dc50_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/368771/u_uid/0/u_vod/3/u_device/cms_html5/a/10/type.amlst/chunklist-sid1597498692-b2000000.m3u8
-NAT GEO WILD HD,http://89.189.191.250/239.211.200.15/stream.m3u8
-NAT GEO WILD HD,http://62.149.15.98:8816/play/a0dx?auth=dimana:dimana
-NAT GEO WILD HD,http://176.122.202.5:9012/play/h21
-NAT GEO WILD HD,http://zigfreed.ru/Y3O/869.m3u8
-NAT GEO WILD HD,http://31.220.40.44:80/Ung_debernardi123/mag322/79742
-NAT GEO WILD HD,http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/8446
-NAT GEO WILD HD,http://cdn.toppro.xyz:8816/play/a0dx?auth=sobol772:sobol772
-NAT GEO WILD HD,http://tviptv.iptv-channel.ru:8000/live/pDp/NiS/67.ts
-NAT GEO WILD HD,http://31.185.10.141:81/udp/239.1.12.6:1234
-NAT GEO WILD HD,http://mytv.fun:8080/som4o6s6ie/hr93tlaf3a/9136
-NAT GEO WILD HD US,http://www.destinyip.tv:2086/juli838771/Pz7hlHQ36WZebA5P/2863
-NAT GEO WILD SD,http://boxiptv.club:8080/arthur/123456/263
-NAT GEO WILD РОССИЯ,http://217.199.224.5:1212/udp/239.192.3.112:2121
-NAT-GEO-WILD,http://51.195.44.53:8081/tv/nat-geo-wild/playlist.m3u8
-NAT.GEO.WILD SD,http://31.220.40.44:80/Ung_debernardi123/mag322/127723
-NATGEO,http://94.232.231.220:8080/natgeo/mono.m3u8
-NATGEO WILD,http://45.15.112.4:8082/114/mpegts
-NATGEOHD HD,http://94.232.231.220:8080/natgeohd/mono.m3u8
-NATGEOWILDHD HD,http://94.232.231.220:8080/natgeowildhd/mono.m3u8
-NAT_GEO_WILD,http://mhiptv.com:8888/ka5/ka5/5521?checkedby
-NAT_GEO_WILD,http://mhiptv.com:8888/noval/123456/5521?checkedby
-NAT_GEO_WILD,http://mhiptv.com:8888/22558899/22558899/7666?checkedby
-NAT_GEO_WILD,http://mhiptv.com:8888/ka5/ka5/3546
-NAT_GEO_WILD,http://mhiptv.com:8888/ka5/ka5/2837?checkedby
-NAT_GEO_WILD,http://mhiptv.com:8888/22558899/22558899/2837
-NAT_GEO_WILD,http://mhiptv.com:8888/noval/123456/3546
-NAT_GEO_WILD,http://mhiptv.com:8888/22558899/22558899/3546?checkedby
-NAT_GEO_WILD,http://mhiptv.com:8888/ka5/ka5/3546?checkedby
-NAT_GEO_WILD,http://mhiptv.com:8888/noval/123456/4816?checkedby
-NAT_GEO_WILD,http://mhiptv.com:8888/noval/123456/3546?checkedby
-NAT_GEO_WILD,http://mhiptv.com:8888/noval/123456/7666?checkedby
-NAT_GEO_WILD,http://mhiptv.com:8888/22558899/22558899/2837?checkedby
-NAT_GEO_WILD,http://mhiptv.com:8888/noval/123456/2837?checkedby
-NAT_GEO_WILD,http://mhiptv.com:8888/ka5/ka5/5521
-NAT_GEO_WILD,http://mhiptv.com:8888/22558899/22558899/4816?checkedby
-NAT_GEO_WILD,http://mhiptv.com:8888/noval/123456/4816
-NAT_GEO_WILD,http://mhiptv.com:8888/ka5/ka5/7666?checkedby
-[UK] NATGEO WILD,http://62.149.15.98:8816/play/NationalGeographicWildUK?auth=dimana:dimana
-_NAT.GEO.WILD,http://mhiptv.com:8888/ka5/ka5/2489?checkedby
-_NAT.GEO.WILD,http://mhiptv.com:8888/ka5/ka5/2489
+TT,#genre#
 
+CNN INTERNATIONAL,http://ingrid.ltd:25461/berny/berny1234/41753
+CNN INTERNATIONAL,http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/63467
+CNN INTERNATIONAL,http://r45.dtv.invitel.net:40124/udp/239.1.1.060:5000?
+CNN INTERNATIONAL,http://2122248091.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+CNN INTERNATIONAL,http://109.235.188.211:4022/udp/225.201.2.20:1234
+CNN.INTERNATIONAL,http://mhiptv.com:8888/22558899/22558899/15264?checkedby
+CNN.INTERNATIONAL,http://mhiptv.com:8888/noval/123456/15264?checkedby
+
+test,#genre#
 CNN HD,http://94.232.231.220:8080/cnn/mono.m3u8
 CNN,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/8
 CNN,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/4
@@ -97,6 +40,7 @@ DISCOVERY SCIENCE,http://104.218.61.161:83/directline76598/352220203508223508352
 NATIONAL GEOGRAPHIC,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/102
 NAT GEO WILD,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/106
 NAT GEO WILD,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/108
+NAT GEO WILD,http://livegopanel.club:8080/saeed/saeed2020/14572
 
 FOOD NETWORK,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/27
 FOOD NETWORK,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/1
