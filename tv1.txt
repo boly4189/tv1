@@ -9,6 +9,8 @@ COMEDY CENTRAL,http://livegopanel.club:8080/saeed/saeed2020/14570
 DISCOVERY CHANNEL,http://livegopanel.club:8080/saeed/saeed2020/22285
 DISCOVERY CHANNEL FHD,http://livegopanel.club:8080/eli/eli/27534
 
+TTT,#genre#
+
 ANIMAL PLANET,http://livegopanel.club:8080/saeed/saeed2020/12766
 ANIMAL PLANET HD,http://livegopanel.club:8080/vanessa1234/vanessa1234/9849
 ANIMAL PLANET HD,http://livegopanel.club:8080/saeed/saeed2020/2934
