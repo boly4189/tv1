@@ -1,8 +1,4 @@
-
 test,#genre#
-- DISCOVERY CHANNEL EAST,http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/65077
-- DISCOVERY CHANNEL FHD,http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/65078
-BU- DISCOVERY CHANNEL,http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/28177
 DISCOVERY CHANNEL,http://176.51.134.213:1234/udp/233.7.70.12:5000
 DISCOVERY CHANNEL,http://pro-panel01.club:8080/jmanuel/123456/28686
 DISCOVERY CHANNEL,http://livegopanel.club:8080/saeed/saeed2020/22285
@@ -17,8 +13,10 @@ DISCOVERY CHANNEL,http://2.60.48.253:1234/udp/233.7.70.12:5000
 DISCOVERY CHANNEL,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/60
 DISCOVERY CHANNEL,http://176.122.202.5:9015/play/p27
 DISCOVERY CHANNEL,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/190
+
 DISCOVERY CHANNEL (РОССИЯ),http://217.199.224.5:1212/udp/239.192.0.53:2121
 DISCOVERY CHANNEL FHD,http://livegopanel.club:8080/eli/eli/27534
+
 DISCOVERY CHANNEL HD,http://livegopanel.club:8080/saeed/saeed2020/18035
 DISCOVERY CHANNEL HD,http://109.235.188.211:4022/udp/225.201.2.50:1234
 DISCOVERY CHANNEL HD,http://tviptv.iptv-channel.ru:8000/live/pDp/NiS/64.ts
@@ -26,12 +24,15 @@ DISCOVERY CHANNEL HD,http://boxiptv.club:8080/arthur/123456/65
 DISCOVERY CHANNEL HD,http://play.wisp.cat:80/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDiscoveryChannelHD&login=vladimirkochura&key=c6Ylhgy
 DISCOVERY CHANNEL HD,http://mondial.cybergroup.top:8000/mRVmECfv4k/AHta3FLCBW/326
 DISCOVERY CHANNEL HD,http://31.220.40.44:80/Ung_debernardi123/mag322/114196
+
 DISCOVERY CHANNEL SD,http://boxiptv.club:8080/arthur/123456/66
 DISCOVERY CHANNEL UHD,http://australiaiptv.xyz:8080/3rfDi64JcT/zNjP4w6pRM/8459
 DISCOVERY CHANNEL [MULTI-SUB],http://livegopanel.club:8080/vanessa1234/vanessa1234/23734
 DISCOVERY CHANNEL [MULTI-SUB],http://livegopanel.club:8080/saeed/saeed2020/23734
+
 DISCOVERY_CHANNEL,http://mhiptv.com:8888/noval/123456/12402?checkedby
 DISCOVERY_CHANNEL,http://mhiptv.com:8888/22558899/22558899/12402?checkedby
+
 DISCOVERY_CHANNEL_HD,http://mhiptv.com:8888/noval/123456/3531
 DISCOVERY_CHANNEL_HD,http://mhiptv.com:8888/ka5/ka5/5544
 DISCOVERY_CHANNEL_HD,http://mhiptv.com:8888/ka5/ka5/3531?checkedby
@@ -41,22 +42,9 @@ DISCOVERY_CHANNEL_HD,http://mhiptv.com:8888/noval/123456/3531?checkedby
 DISCOVERY_CHANNEL_HD,http://mhiptv.com:8888/noval/123456/5544?checkedby
 DISCOVERY_CHANNEL_HD,http://mhiptv.com:8888/noval/123456/3358?checkedby
 DISCOVERY_CHANNEL_HD,http://mhiptv.com:8888/22558899/22558899/3531?checkedby
+
 DISOCVERY CHANNEL,http://bestcostiptv.com:8080/ruru/4fd09a88/17215?checkedby
-DN- DISCOVERY CHANNEL HD,http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/29257
-FR- DISCOVERY CHANNEL HD,http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/8056
-HU- DISCOVERY CHANNEL HD,http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/62798
-NL- DISCOVERY CHANNEL 4K,http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/21368
-NL- DISCOVERY CHANNEL HD BACKUP,http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/17546
-NO- DISCOVERY CHANNEL HD,http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/29317
-OSN DISCOVERY CHANNEL HD,http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/7701
-PL- DISCOVERY CHANNEL HD,http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/10566
-PT- DISCOVERY CHANNEL HD,http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/8858
-RO- DISCOVERY CHANNEL HD,http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/21110
-SR- DISCOVERY CHANNEL HD,http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/28420
-TR- DISCOVERY CHANNEL HD,http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/33712
-[BG] DISCOVERY CHANNEL,http://62.149.15.98:8816/play/DiscoveryChannelBG?auth=dimana:dimana
-[US] DISCOVERY CHANNEL,http://62.149.15.98:8816/play/USDiscovery?auth=dimana:dimana
-- DISCOVERY SCIENCE FHD,http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/65083
+
 DISCOVERY,http://94.232.231.220:8080/discovery/mono.m3u8
 DISCOVERY,http://178.132.3.162:88/Discovery/video.m3u8?token=test
 DISCOVERY,http://178.217.72.66/225.201.2.88/tracks-v1a1/mono.m3u8
@@ -73,9 +61,11 @@ DISCOVERY,http://mhiptv.com:8888/noval/123456/3030?checkedby
 DISCOVERY,http://178.217.72.66:80/225.201.2.88/mpegts
 DISCOVERY,http://mhiptv.com:8888/ka5/ka5/3030
 DISCOVERY,http://mhiptv.com:8888/noval/123456/15211?checkedby
+
 DISCOVERY HD,http://mytv.fun:8080/som4o6s6ie/hr93tlaf3a/5096
 DISCOVERY HD,http://portal-protv.club:8080/Tarek/Tarek/7342
 DISCOVERY HD,http://178.217.72.66:80/225.201.2.50/mpegts
+
 DISCOVERY SCIENCE,http://livegopanel.club:8080/saeed/saeed2020/18025
 DISCOVERY SCIENCE,http://109.235.188.211:4022/udp/225.201.2.75:1234
 DISCOVERY SCIENCE,http://62.149.15.98:8816/play/a0ct?auth=dimana:dimana
@@ -88,9 +78,11 @@ DISCOVERY SCIENCE,http://cdn.toppro.xyz:8816/play/a0ct?auth=sobol772:sobol772
 DISCOVERY SCIENCE,http://localdblagent.club:8080/Carlos1/Carlos1/9118?checkedby
 DISCOVERY SCIENCE,http://livegopanel.club:8080/saeed/saeed2020/12775
 DISCOVERY SCIENCE,http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/877
+
 DISCOVERY SCIENCE  ЕВРОПА,http://62.149.15.98:8816/play/DiscoveryScienceEU?auth=dimana:dimana
 DISCOVERY SCIENCE FHD PL,http://mytv.fun:8080/1yr6bvfhd/hb3c7nrwpf/5234
 DISCOVERY SCIENCE FULL HD,http://boxiptv.club:8080/arthur/123456/73
+
 DISCOVERY SCIENCE HD,http://cdn.toppro.xyz:8816/play/a0dg?auth=sobol772:sobol772
 DISCOVERY SCIENCE HD,http://bestcostiptv.com:8080/ruru/4fd09a88/10647?checkedby
 DISCOVERY SCIENCE HD,http://boxiptv.club:8080/arthur/123456/74
