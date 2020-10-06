@@ -1,12 +1,19 @@
 TT,#genre#
-
-CNN INTERNATIONAL,http://ingrid.ltd:25461/berny/berny1234/41753
-CNN INTERNATIONAL,http://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/63467
-CNN INTERNATIONAL,http://r45.dtv.invitel.net:40124/udp/239.1.1.060:5000?
-CNN INTERNATIONAL,http://2122248091.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-CNN INTERNATIONAL,http://109.235.188.211:4022/udp/225.201.2.20:1234
-CNN.INTERNATIONAL,http://mhiptv.com:8888/22558899/22558899/15264?checkedby
-CNN.INTERNATIONAL,http://mhiptv.com:8888/noval/123456/15264?checkedby
+CNN,http://mhiptv.com:8888/22558899/22558899/15263?checkedby
+CNN,http://203.162.235.41:16918?checkedby
+CNN,http://mhiptv.com:8888/noval/123456/15263?checkedby
+CNN,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/8
+CNN,http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/881
+CNN,http://www.destinyip.tv:2086/juli838771/Pz7hlHQ36WZebA5P/2951
+CNN,http://mhiptv.com:8888/22558899/22558899/14757?checkedby
+CNN,http://bestcostiptv.com:8080/ruru/4fd09a88/9703?checkedby
+CNN,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/4
+CNN,http://livegopanel.club:8080/eli/eli/27708
+CNN,http://mhiptv.com:8888/noval/123456/14757?checkedby
+CNN,http://bestcostiptv.com:8080/ruru/4fd09a88/37826?checkedby
+CNN HD,http://ingrid.ltd:25461/berny/berny1234/11664
+CNN HD,http://94.232.231.220:8080/cnn/mono.m3u8
+CNN HD,http://zigfreed.ru/Y3O/1628.m3u8
 
 test,#genre#
 CNN HD,http://94.232.231.220:8080/cnn/mono.m3u8
