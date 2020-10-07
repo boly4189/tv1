@@ -119,23 +119,6 @@ Fashion TV,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_
 Free Speech TV,https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 Global News,https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
 
-T6,#genre#
-BLUE HUSTER TV HD,http://localdblagent.club:8080/Carlos1/Carlos1/12631
-DISCOVERY SCIENCE,http://localdblagent.club:8080/Carlos1/Carlos1/9118?checkedby
-EROX HD,http://localdblagent.club:8080/Carlos1/Carlos1/12643
-EUROSPORT 1,http://localdblagent.club:8080/Carlos1/Carlos1/12087
-EUROSPORT 2,http://localdblagent.club:8080/Carlos1/Carlos1/12088
-HUSTLER TV HD,http://localdblagent.club:8080/Carlos1/Carlos1/12653
-PENTHOUSE 2 HD,http://localdblagent.club:8080/Carlos1/Carlos1/12663
-PENTHOUSE HD,http://localdblagent.club:8080/Carlos1/Carlos1/12664
-PLAYBOY TV HD,http://localdblagent.club:8080/Carlos1/Carlos1/12666
-PRIVATE TV HD,http://localdblagent.club:8080/Carlos1/Carlos1/12669
-TVA SPORTS,http://localdblagent.club:8080/Carlos1/Carlos1/9217
-TVA SPORTS,http://localdblagent.club:8080/Carlos1/Carlos1/9217?checkedby
-T7,#genre#
-BLUE HUSTLER 2,http://catchup.iptv.iinet.rs/playlist.m3u8?id=214&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&DVR
-EROXXX HD,http://catchup.iptv.iinet.rs/chunklist.m3u8?id=180&profile=3&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA
-
 test,#genre#
 CNN,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/8
 CNN,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/4
@@ -495,6 +478,7 @@ Lesbian,http://cdn.adultiptv.net/lesbian.m3u8
 Pornstar,http://cdn.adultiptv.net/pornstar.m3u8
 POV,http://cdn.adultiptv.net/pov.m3u8
 Russian,http://cdn.adultiptv.net/russian.m3u8
+EROXXX HD,http://catchup.iptv.iinet.rs/chunklist.m3u8?id=180&profile=3&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA
 Teen,http://cdn.adultiptv.net/teen.m3u8
 Threesome,http://cdn.adultiptv.net/threesome.m3u8
 Vivid TV Europe,http://188.35.9.26:2031/udp/031a
