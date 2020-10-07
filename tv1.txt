@@ -80,9 +80,6 @@ Newtv动画王国,http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
 爱赛车,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
 爱浪漫,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls
 T1,#genre#
-History TV,https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
-History 2,https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
-Crime + Investigation,http://203.154.243.31:15001
 Zee Cafe HD,http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
 AXN ASIA,https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
 WARNER TV HD,https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
@@ -231,7 +228,9 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 cctv5,http://112.17.40.140/PLTV/88888888/224/3221226687/index.m3u8
 cctv5+,http://112.17.40.140/PLTV/88888888/224/3221226406/index.m3u8
 cctv6,http://112.17.40.140/PLTV/88888888/224/3221226433/index.m3u8
-
+CCTV-3蓝光1,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
+CCTV-6蓝光2,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
+CCTV-8蓝光1,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
 NAT GEO,#genre#
 Discovery [CHINESE],https://www.fanmingming.cn/hls/discovery.m3u8
 NAT GEO HD [CHINESE],https://www.fanmingming.cn/hls/natlgeo.m3u8
@@ -461,11 +460,12 @@ WSTV,#genre#
 河北卫视,http://weblive.hebtv.com/live/hbwsbq_bq/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 
-夜曲频道0,#genre#
-
-
-
 夜曲频道1,#genre#
+Cdn1,http://cdn.adultiptv.net/livecams.m3u8
+Cdn2,http://cdn.adultiptv.net/gangbang.m3u8
+Cdn3,http://cdn.adultiptv.net/brunette.m3u8
+Cdn4,http://cdn.adultiptv.net/compilation.m3u8
+Cdn5,http://cdn.adultiptv.net/pornstar.m3u8
 MILF HD,http://live.redtraffic.xyz/milf.m3u8
 Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
 Blonde,http://cdn.adultiptv.net/blonde.m3u8
