@@ -117,6 +117,8 @@ Free Speech TV,https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 Global News,https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
 
 test,#genre#
+CNN,http://zigfreed.ru/Y3O/1628.m3u8
+CNN,http://203.162.235.41:16918?checkedby
 CNN,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/8
 CNN,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/4
 CNN,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/11
