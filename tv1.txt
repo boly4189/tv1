@@ -1,4 +1,81 @@
 T0,#genre#
+#EXTINF:-1,CNN HIGHLIGHT
+http://176.10.117.3:5000/play/a03e
+#EXTINF:-1,24 KITCHEN
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/3983
+#EXTINF:-1,A & E
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/3982
+#EXTINF:-1,AMC
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/3980
+#EXTINF:-1,AMC HD 1080
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/7034
+#EXTINF:-1,AXN
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/3985
+#EXTINF:-1,AXN BLACK HD 1080
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/7031
+#EXTINF:-1,AXN HD 1080
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/7033
+#EXTINF:-1,AXN WHITE
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/3984
+#EXTINF:-1,AXN WHITE HD 1080
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/7032
+#EXTINF:-1,CBS REALITY
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/4300
+#EXTINF:-1,DISCOVERY CHANNEL
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/3970
+#EXTINF:-1,DISCOVERY HD 1080 SHOWCASE
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/7722
+#EXTINF:-1,Discovery HD Showcase
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/3969
+#EXTINF:-1,DOG TV
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/19198
+#EXTINF:-1,E! Entertainment
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/3966
+#EXTINF:-1,Fox Comedy
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/3965
+#EXTINF:-1,FOX Comedy HD 1080
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/7027
+#EXTINF:-1,Fox Crime
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/4303
+#EXTINF:-1,FOX CRIME
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/3940
+#EXTINF:-1,FOX CRIME HD 1080
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/7028
+#EXTINF:-1,FOX HD 1080
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/7030
+#EXTINF:-1,FOX LIFE
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/3939
+#EXTINF:-1,FOX LIFE HD 1080
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/7029
+#EXTINF:-1,FOX MOVIES
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/3996
+#EXTINF:-1,FOX Movies HD 1080
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/7726
+#EXTINF:-1,FOX TV
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/3938
+#EXTINF:-1,FUEL TV
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/4299
+#EXTINF:-1,FUEL TV HD 1080
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/7045
+#EXTINF:-1,HOLLYWOOD
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/3937
+#EXTINF:-1,HOLLYWOOD HD 1080
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/7728
+#EXTINF:-1,MOV HD
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/4001
+#EXTINF:-1,MOV HD 1080
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/7729
+#EXTINF:-1,Nat Geo Wild
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/3962
+#EXTINF:-1,Nat Geo Wild HD 1080
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/7723
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/3963
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD 1080
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/7724
+#EXTINF:-1,TRAVEL CHANNEL HD 1080
+http://bestbuyiptv.link:7899/lucaciuviorel1/tynoUDRB7C/7725
+
 影视1台FHD,http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
 影视2台FHD,http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8
 影视3台FHD,http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
