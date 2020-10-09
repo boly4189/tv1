@@ -1,285 +1,46 @@
 TEST,#genre#
-DUK| ITV 4 HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/69303
-UK| 5 USA HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9080
-UK| RTE TWO HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9081
-UK| RTE ONE HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9082
-UK| MORE 4 HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9083
-UK| E4 HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9084
-UK| CHANNEL 4 HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9484
-UK| SKY SPORTS F1 HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9485
-UK| CITV HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9486
-UK| SKY SPORTS PREMIER LEAGUE HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9487
-UK| ITV BE HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9488
-UK| SKY SPORTS MAIN EVENT HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9489
-UK| SKY SPORTS GOLF HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9490
-UK| SKY SPORTS CRICKET HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9492
-UK| SKY SPORTS ARENA HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9493
-UK| ITV 3 HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9494
-UK| SKY SPORTS MIX HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9495
-UK| ITV 2 HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9496
-UK| SKY SPORTS ACTION HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9497
-UK| SKY SPORTS NEWS HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9498
-UK| E! ENTERTAINEMENT HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9499
-UK| DISCOVERY CHANNEL HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9500
-UK| PREMIER SPORTS HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9501
-UK| MTV HITS HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9502
-UK| NAT GEO WILD HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9503
-UK| MTV ROCKS HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9504
-UK| FRANCE 24 HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9505
-UK| LFCTV HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9506
-UK| MTV DANCE HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9507
-UK| MTV HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9508
-UK| ELEVEN SPORTS HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9509
-UK| SKY MOVIES SCI-FI & HORROR HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9510
-UK| HOME & HEALTH HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9511
-UK| HOME HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9512
-UK| INVESTIGATION DISCOVERY HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9513
-UK| EIR SPORT 1 HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9514
-UK| DISCOVERY HISTORY HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9515
-UK| FOX HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9516
-UK| ITV 1 HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9517
-UK| DISCOVERY TURBO HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9518
-UK| DISCOVERY SHED HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9519
-UK| DMAX HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9520
-UK| DRAMA HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9521
-UK| DISNEY CHANNEL HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9522
-UK| EURONEWS HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9523
-UK| EIR SPORT 2 HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9524
-UK| EUROSPORT 2 HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9525
-UK| EUROSPORT 1 HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9526
-UK| DISCOVERY SCIENCE HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9527
-UK| CBS DRAMA HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9528
-UK| BBC SCOTLAND HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9529
-UK| CHANNEL 5 HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9530
-UK| CRIME AND INVESTIGATION HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9531
-UK| COMEDY CENTRAL EXTRA HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9532
-UK| COMEDY CENTRAL HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9533
-UK| SKY MOVIES DISNEY HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9534
-UK| SKY MOVIES COMEDY HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9535
-UK| CHELSEA TV HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9536
-UK| CBS REALITY HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9537
-UK| CBS ACTION HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9538
-UK| 5 STAR HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9539
-UK| CHALLENGE HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9540
-UK| BT SPORT EXTRA 3 HD (Live Match Only:,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9541
-UK| BT SPORT EXTRA 2 HD (Live Match Only:,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9542
-UK| BT SPORT EXTRA 1 HD (Live Match Only:,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9543
-UK| BT SPORT / ESPN HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9544
-UK| BT SPORT 3 HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9545
-UK| BT SPORT 2 HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9546
-UK| BT SPORT 1 HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9547
-UK| BBC NEWS HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9548
-UK| BBC4 HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9549
-UK| BBC3 HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9550
-UK| BBC2 HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9551
-UK| RACING UK HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9552
-UK| 4 SEVEN HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/9553
-UK| BBC1 HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17584
-UK| AL JAZEERA HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17596
-UK| CNN INTERNAIONAL HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17604
-UK| RTE NEWS HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17613
-UK| DAVE HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17625
-UK| BET HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17640
-UK| AMC HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17662
-UK| ALIBI HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/17675
-UK| SKY CINEMA THRILLER,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/60241
-UK| SKY CINEMA SELECT,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/60242
-UK| SKY CINEMA HITS,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/60243
-UK| SKY CINEMA DRAMA,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/60244
-UK| SKY CINEMA DISNEY,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/60245
-UK| SKY CINEMA COMEDY,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/60246
-UK| SKY SPORTS FOOTBALL,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/60406
-UK| SKY SPORTS RACING,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/60407
-UK| SKY CINEMA ACTION,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/60509
-UK| SKY CINEMA FAMILY,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/60510
-UK| SKY CINEMA GREATS,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/60511
-UK| SKY CINEMA PREMIER,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/60512
-UK| SKY CINEMA SCI-FI,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/60513
-UK| SKY CINEMA MUSICALS,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/60514
-UK| SKY WITNESS,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/60516
-UK| S4C,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/60517
-UK| SKY MOVIES FAMILY,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/60518
-UK| QUEST,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/60519
-UK| WATCH,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/60520
-UK| SMITHSONIAN CHANNEL,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/60521
-UK| SONY TV,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/60522
-UK| SONY MAX,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/60523
-UK| SKY 1,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/60563
-UK| BLOOMBERG,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/60677
-UK| GOLD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61591
-UK| BOX NATION,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61592
-UK| History Channel 1,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61595
-UK| HISTORY CHANNEL 2,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61596
-UK| TG4,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61597
-UK| CBBC,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61598
-UK| TLC,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61599
-UK| EDEN,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61600
-UK| ANIMAL PLANET,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61601
-UK| UTV,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61602
-UK| BOOMERANG,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61605
-UK| NICK,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61606
-UK| DISNEY JUNIOR,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61607
-UK| DISNEY XD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61608
-UK| HORROR CHANNEL,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61609
-UK| TRAVEL CHANNEL,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61611
-UK| REALLY,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61612
-UK| BABY TV,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61613
-UK| CARTOONITO,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61614
-UK| MUTV,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61615
-UK| HORSE & COUNTRY,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61616
-UK| FREE SPORTS,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61617
-UK| FOOD NETWORK,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61610
-UK| PREMIER SPORTS 1,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61618
-UK| PREMIER SPORTS 2,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61594
-UK| UNIVERSAL,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61619
-UK| BOOMERANG KIDS,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61688
-UK| RTE JR,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61738
-UK| NICKTOONS,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61739
-UK| NAT GEO HD,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61740
-UK| SKY ARTS,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61741
-UK| SONY MOVIES,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61742
-UK| SONY CRIME CHANNEL,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61743
-UK| 5 SELECT,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61744
-UK| POP,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61745
-UK| TINY POP,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61746
-UK| MAGIC TV,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61747
-UK| SKY ATLANTIC,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61748
-UK| SKY NEWS,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61749
-UK| SKY 2,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61765
-UK| PARAMOUNT NETWORK,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61766
-UK| NICK JR,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61767
-UK| SYFY,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61768
-UK| VH1,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61769
-UK| NICK JR TOO,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61782
-UK| YESTERDAY,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/61783
-UK| SETANTA SPORTS,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/62157
-UK| STAR PLUS,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/62160
-UK| UFC FIGHT night Pass,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/62504
-UK| UFC FIGHT Pass,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/62505
-UK| Box Office 1,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/62506
-UK| Box Office 2,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/62507
-UK| Box Office 3,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/62508
-UK| Box Office 4,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/62509
-UK| BOX OFFICE 5,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/62510
-UK| Box Office 6,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/62511
-UK| BOX OFFICE 7,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/62512
-UK| BOX OFFICE 8,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/62513
-UK| BOX OFFICE 9,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/62514
-UK| BOX OFFICE 10,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/62515
-UK| Rush Sport EPL,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/62518
-UK| Talking Pictures,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/62519
-UK| Kids Tom And Jerry,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/62520
-UK| ISLAM CHANNEL,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/62580
-UK| LOVE NATURE,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/62581
-UK| PARAMOUNT,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/62582
-UK| CELTIC TV (Live During Match Only:,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/63815
-UK| RUSH SPORTS 1,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/63816
-UK| RUSH SPORTS 2,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/63817
-UK| RUSH SPORTS 3,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/63818
-UK| RUSH SPORTS 4,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/63819
-UK| RUSH SPORTS 5,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/63820
-UK| RUSH SPORTS 6,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/63821
-UK| FILM 4,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64884
-UK| Zee TV,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64978
-UK| Color TV,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64979
-UK| & Tv,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64980
-UK| Colors Rishtey Europe,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64981
-UK| Sony Sab,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64982
-UK| News One PK,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64983
-UK| Colors CinePlex,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64985
-UK| B4u Movies,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64986
-UK| Sony Max 2,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64987
-UK| Zing Music,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64988
-UK| B4u Music,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64989
-UK| Brit Asia,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64990
-UK| Ary Family,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64991
-UK| Sikh Channel,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64992
-UK| Sangat Tv,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64993
-UK| KTV,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64994
-UK| Ptc Punjabi,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64995
-UK| Akaal Tv,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64996
-UK| Geo Tv,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64997
-UK| Geo Kahani,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64998
-UK| Hum Tv,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/64999
-UK| Hum Masala,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/65000
-UK| Ptv Global,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/65001
-UK| Geo News,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/65002
-UK| Duniya News,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/65003
-UK| Samaa News,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/65004
-UK| Channel 44,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/65005
-UK| Ary World,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/65006
-UK| 92 News,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/65007
-UK| Ptv News,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/65008
-UK| Abp News,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/65009
-UK| AajTak News,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/65010
-UK| Ary Qtv,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/65011
-UK| Takbeer TV,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/65012
-UK| Madni Channel,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/65013
-UK| Peace Tv Urdu,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/65014
-UK| Noor Tv,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/65015
-UK| Hidayat Tv,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/65017
-UK| Ahlulbayt Tv,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/65018
-UK| Aastha,http://silvertv.net:1997/opentvromania/ZADAoihhadj97adaziohda/65019
 
-
-CA,#genre#
-Discovery HD,http://185.236.229.4:8000/play/a11u
-Travel Channel HD,http://185.236.229.4:8000/play/a10x
-AMC HD,http://185.236.229.4:8000/play/a11x
-FOX Comedy,http://185.236.229.4:8000/play/a0yn
-FOX Crime HD,http://185.236.229.4:8000/play/a10w
-FOX Life HD,http://185.236.229.4:8000/play/a11e
-FOX Movies,http://185.236.229.4:8000/play/a12f
-BBC Entertainment,http://185.236.229.4:8000/play/a120
-Blaze,http://185.236.229.4:8000/play/a12h
-ID Investigation Discovery,http://185.236.229.4:8000/play/a111
-E! Entertainment,http://185.236.229.4:8000/play/a0y1
-Histðria,http://185.236.229.4:8000/play/a106
-Hollywood,http://185.236.229.4:8000/play/a0tt
-SyFy,http://185.236.229.4:8000/play/a0z3
-Motorvision,http://185.236.229.4:8000/play/a11z
-NHK World Japan,http://185.236.229.4:8000/play/a0xo
-National Geographic Wild,http://185.236.229.4:8000/play/a0yi
-TLC,http://185.236.229.4:8000/play/a12e
 
 AU TV,#genre#
-SBS,https://sbs-live.akamaized.net/hls/live/2002827/channel1/geo/master_2500K.m3u8
-SBS Food,https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8
-SBS World Movies,https://sbs-live.akamaized.net/hls/live/2005470/channel5/geo/master_2500K.m3u8
-SBS VICELAND,https://sbs-live.akamaized.net/hls/live/2002828/channel2/geo/master_2500K.m3u8
-SBS NITV,https://sbs-live.akamaized.net/hls/live/2002826/channel4/geo/master_1800K.m3u8
-ABC NEWS,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+ABC,https://c.mjh.nz/101002510251/
 ABC,https://c.mjh.nz/101002210221/
 ABC Comedy,https://c.mjh.nz/abc2/
-ABC Me,https://c.mjh.nz/101002210224/
-ABC KIDS,https://c.mjh.nz/101002210222/
+ABC Kids,https://c.mjh.nz/101002210222/
+ABC ME,https://c.mjh.nz/101002210224/
+SBS,https://sbs-live.akamaized.net/hls/live/2002827/channel1/geo/master_2500K.m3u8
+SBS Food,https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8
+SBS NITV,https://sbs-live.akamaized.net/hls/live/2002826/channel4/geo/master_1800K.m3u8
+SBS VICELAND,https://sbs-live.akamaized.net/hls/live/2002828/channel2/geo/master_2500K.m3u8
+SBS World Movies,https://sbs-live.akamaized.net/hls/live/2005470/channel5/geo/master_2500K.m3u8
 7ONE,https://npc.cdn.7livecloud.io/hls/live/CNS1/masterSD.m3u8
 7TWO,https://npc.cdn.7livecloud.io/hls/live/BRI2/masterSD.m3u8
-7mate Sydney,https://npc.cdn.7livecloud.io/hls/live/SYD3/masterSD.m3u8
 7flix Sydney,https://npc.cdn.7livecloud.io/hls/live/SYD6/masterSD.m3u8
+7mate Sydney,https://npc.cdn.7livecloud.io/hls/live/SYD3/masterSD.m3u8
 Fuel TV,https://i.mjh.nz/au/Sydney/tv.7fueltv.m3u8
-PAC-12,https://pac12b.cdn.7livecloud.io/index.m3u8
 openshop,https://npc.cdn.7livecloud.io/hls/live/ASN/masterSD.m3u8
 RACING,https://npc.cdn.7livecloud.io/hls/live/RAC/masterSD.m3u8
-outdoor food,http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w996888467_b1006700.m3u8
-Outdoor Channel,https://i.mjh.nz/au/Sydney/tv.7outdoor.m3u8
+ausbiz TV,https://i.mjh.nz/au/Sydney/tv.7ausbiz.m3u8
 Channel 9,https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8
 9Gem,https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
 9Go!,https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
 9Life,https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
 9Rush,https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8
 Channel 10,https://d2wbjmkh2b1mgc.cloudfront.net/10QLD/stream.m3u8
-Al Jazeera,https://i.mjh.nz/au/Sydney/tv.46.m3u8
-Bloomberg,https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8?checkedby:hlscat.com
-ausbiz TV,https://i.mjh.nz/au/Sydney/tv.7ausbiz.m3u8
-Olympics Channel,https://i.mjh.nz/au/Sydney/tv.7olympics.m3u8
-Snowy Mountains Television,https://c.mjh.nz/snowy-mountains/
-Redbull TV,https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8
-C31 Melbourne,https://dcunilive47-lh.akamaihd.net/i/dclive_1@739220/master.m3u8?checkedby:hlscat.com
-Fox Sports News,https://i.mjh.nz/au/Sydney/tv.fox.sports.news.m3u8
+Outdoor Channel,https://i.mjh.nz/au/Sydney/tv.7outdoor.m3u8
+outdoor food,http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w996888467_b1006700.m3u8
 Sky News Extra 1,https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8?checkedby:hlscat.com
 Sky News Extra 2,https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8?checkedby:hlscat.com
 Sky News Extra 3,https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8?checkedby:hlscat.com
+Fox Sports News,https://i.mjh.nz/au/Sydney/tv.fox.sports.news.m3u8
+Bloomberg,https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8?checkedby:hlscat.com
+Al Jazeera,https://i.mjh.nz/au/Sydney/tv.46.m3u8
+ACC,http://i.mjh.nz/au/Adelaide/tv.acctv.m3u8
+Redbull TV,https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8
+Snowy Mountains Television,https://c.mjh.nz/snowy-mountains/
+PAC-12,https://pac12b.cdn.7livecloud.io/index.m3u8
+Olympics Channel,https://i.mjh.nz/au/Sydney/tv.7olympics.m3u8
+
 HK TV,#genre#
 凤凰中文,http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
 凤凰资讯,http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
