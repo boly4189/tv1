@@ -85,7 +85,7 @@ https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?@amar
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="TEST",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8?@amarnettv.live
