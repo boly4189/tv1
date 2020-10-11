@@ -1,167 +1,170 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",MBC 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-movies",MBC 2 FHD
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",MBC 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-movies",MBC 2 HD
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",MBC Action FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-movies",MBC Action FHD
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",MBC Action HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-movies",MBC Action HD
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",MBC MAX FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-movies",MBC MAX FHD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",MBC MAX HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-movies",MBC MAX HD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="TEST",HBO
+#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="ama-movies",HBO
 http://anytv.live:8080/saiful/saiful/382
-#EXTINF:-1 tvg-id="6155" tvg-name="HBOFamily" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="TEST",HBO Family
+#EXTINF:-1 tvg-id="6155" tvg-name="HBOFamily" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="ama-movies",HBO Family
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8
-#EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="TEST",HBO HD
+#EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="ama-movies",HBO HD
 http://anytv.live:8080/saiful/saiful/286
-#EXTINF:-1 tvg-id="6153" tvg-name="HBOHits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="TEST",HBO Hits
+#EXTINF:-1 tvg-id="6153" tvg-name="HBOHits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="ama-movies",HBO Hits
 http://anytv.live:8080/saiful/saiful/362
-#EXTINF:-1 tvg-id="6153" tvg-name="HBOHits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="TEST",HBO Hits
+#EXTINF:-1 tvg-id="6153" tvg-name="HBOHits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="ama-movies",HBO Hits
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbohits.m3u8
-#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="TEST",HBO Signature
+#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="ama-movies",HBO Signature
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbosig.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Zee Cafe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-movies",Zee Cafe
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Zee Cafe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-movies",Zee Cafe
 http://anytv.live:8080/saiful/saiful/350
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Zee Cafe HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-movies",Zee Cafe HD
 http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Zee Cafe HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-movies",Zee Cafe HD
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="6149" tvg-name="WarnerTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/WarnerTV.png" group-title="TEST",WARNER TV HD
+#EXTINF:-1 tvg-id="6149" tvg-name="WarnerTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/WarnerTV.png" group-title="ama-movies",WARNER TV HD
 https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",& Flix
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-movies",& Flix
 http://anytv.live:8080/saiful/saiful/296
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",& Flix HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-movies",& Flix HD
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andflixhd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",& Prive HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-movies",& Prive HD
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andprivehd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Film 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-movies",Film 4
 http://51.52.156.22:8888/http/008
-#EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" group-title="TEST",FOX MOVIES PREMIUM EN
+#EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" group-title="ama-movies",FOX MOVIES PREMIUM EN
 https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",BritCom
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-movies",BritCom
 https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",AlFajer MOVIE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-movies",AlFajer MOVIE
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",CCM MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-movies",CCM MOVIES
 http://anytv.live:8080/saiful/saiful/310
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",CELESTIAL MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-movies",CELESTIAL MOVIES
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",MNX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-movies",MNX
 http://103.214.202.218:8081/live/mnx/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",MNX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-movies",MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Sony Movies Action
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-movies",Sony Movies Action
 http://51.52.156.22:8888/http/009
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Movies Now
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-movies",Movies Now
 http://103.214.202.218:8081/live/moviesnow/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Movies Now
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-movies",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Cine Film
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-movies",Cine Film
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Cine Series
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-movies",Cine Series
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="871" tvg-name="cinemaworld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="TEST",Cinema World
+#EXTINF:-1 tvg-id="871" tvg-name="cinemaworld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="ama-movies",Cinema World
 http://45.126.83.51/uq2663/h/h04/index.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="6089" tvg-name="CINEMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="TEST",Cinemax
+#EXTINF:-1 tvg-id="6089" tvg-name="CINEMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="ama-movies",Cinemax
 http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",TV Series
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-movies",TV Series
 http://203.154.243.89:1423
-#EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="TEST",CNN
+
+#EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="ama-news",CNN
 http://60.251.61.66:4014/VideoInput/play.ts
-#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="TEST",BBC News
+#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="ama-news",BBC News
 http://103.102.136.106:8080/cmcltv/tcm_bbc.m3u8
-#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="TEST",BBC News
+#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="ama-news",BBC News
 http://anytv.live:8080/saiful/saiful/385
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",CBBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-news",CBBC
 http://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",CBSN Newyork
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-news",CBSN Newyork
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="TEST",CNBC TV
+#EXTINF:-1 tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="ama-news",CNBC TV
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",CNA HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-news",CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="TEST",CGTN
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="ama-news",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Newsmax TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-news",Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="717" tvg-name="FoxNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoxNews.png" group-title="TEST",Fox News
+#EXTINF:-1 tvg-id="717" tvg-name="FoxNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoxNews.png" group-title="ama-news",Fox News
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="TEST",Sky News Extra
+#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="ama-news",Sky News Extra
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",VoA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-news",VoA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",RT News HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-news",RT News HD
 http://rt-usa.secure.footprint.net:80/1105_2500Kb.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="TEST",DW
+#EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="ama-news",DW
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-3600&checkedby
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",NHK WORLD HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-news",NHK WORLD HD
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_2M.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Africa News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-news",Africa News
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AfricaNews.m3u8
-#EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="TEST",Al Jazeera FHD
+#EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="ama-news",Al Jazeera FHD
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="TEST",Bloomberg
+#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="ama-news",Bloomberg
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="TEST",Arirang
+#EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="ama-news",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",TRT WORLD HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-news",TRT WORLD HD
 https://tv-trtworld.live.trt.com.tr/master.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",itv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-GEO",itv
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",itv2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-GEO",itv2
 http://51.52.156.22:8888/http/005
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",itv3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-GEO",itv3
 http://51.52.156.22:8888/http/006
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",itv4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-GEO",itv4
 http://51.52.156.22:8888/http/007
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",NAT GEO HD [CHINESE]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-GEO",NAT GEO HD [CHINESE]
 https://www.fanmingming.cn/hls/natlgeo.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Love Nature 4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-GEO",Love Nature 4K
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Discovery [CHINESE]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-GEO",Discovery [CHINESE]
 https://www.fanmingming.cn/hls/discovery.m3u8
-#EXTINF:-1 tvg-id="6165" tvg-name="Discovery科学" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery科学.png" group-title="TEST",Discovery Science [ENGLIS
+#EXTINF:-1 tvg-id="6165" tvg-name="Discovery科学" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Discovery科学.png" group-title="ama-GEO",Discovery Science [ENGLIS
 https://streamitv.multitvsolution.in/idvo/discoverscienceeng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Discovery Turbo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-GEO",Discovery Turbo
 https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
-#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="TEST",History 2
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="ama-GEO",History 2
 https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",HD Fashion & LifeStyle
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-GEO",HD Fashion & LifeStyle
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",WF
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-GEO",WF
 http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",RT Documentary
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-GEO",RT Documentary
 http://rt-doc.secure.footprint.net:80/1101_2500Kb.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",FOX SPORT 1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-sports",FOX SPORT 1
 https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="6092" tvg-name="FOXSports2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports2.png" group-title="TEST",FOX SPORT 2
+#EXTINF:-1 tvg-id="6092" tvg-name="FOXSports2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports2.png" group-title="ama-sports",FOX SPORT 2
 https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="508" tvg-name="FoxSports3" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoxSports3.png" group-title="TEST",FOX SPORT 3
+#EXTINF:-1 tvg-id="508" tvg-name="FoxSports3" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoxSports3.png" group-title="ama-sports",FOX SPORT 3
 https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Olympic Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-sports",Olympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8?@amarnettv.live?fluxustv.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Olympic Channel [HD]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-sports",Olympic Channel [HD]
 http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Olympic Channel [UHD]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-sports",Olympic Channel [UHD]
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?@amarnettv.live?fluxustv.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Racing.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-sports",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Red Bull TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-sports",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Fight Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-sports",Fight Sports
 http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Super Tennis
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-sports",Super Tennis
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",Ten Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-sports",Ten Sports
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",TITAS SPORTS [BD]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-sports",TITAS SPORTS [BD]
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/live-orgin/titash.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",WWE Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-sports",WWE Network
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?@amarnettv.live
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",华纳电影
