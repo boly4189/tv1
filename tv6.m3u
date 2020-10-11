@@ -1,1878 +1,1867 @@
 #EXTM3U
-
-#EXTINF:-1 group-title="常用频道" ,华纳电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",华纳电影
 http://ublive.fhtv.top/UBlive.php?id=83
-#EXTINF:-1 group-title="常用频道" ,东森电影
+#EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="常用频道",东森电影
 http://ublive.fhtv.top/UBlive.php?id=350
-#EXTINF:-1 group-title="常用频道" ,东森洋片
+#EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="常用频道",东森洋片
 http://ublive.fhtv.top/UBlive.php?id=1128
-#EXTINF:-1 group-title="常用频道" ,龙华电影
+#EXTINF:-1 tvg-id="7128" tvg-name="龙华电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华电影.png" group-title="常用频道",龙华电影
 http://ublive.fhtv.top/UBlive.php?id=311
-#EXTINF:-1 group-title="常用频道" ,纬来电影
+#EXTINF:-1 tvg-id="6081" tvg-name="纬来电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="常用频道",纬来电影
 http://ublive.fhtv.top/UBlive.php?id=96
-#EXTINF:-1 group-title="常用频道" ,靖天电影台
+#EXTINF:-1 tvg-id="7164" tvg-name="靖天电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天电影.png" group-title="常用频道",靖天电影台
 http://ublive.fhtv.top/UBlive.php?id=110
-#EXTINF:-1 group-title="常用频道" ,好莱坞电影
+#EXTINF:-1 tvg-id="6086" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="常用频道",好莱坞电影
 http://ublive.fhtv.top/UBlive.php?id=37
-#EXTINF:-1 group-title="常用频道" ,CinemaWorld
+#EXTINF:-1 tvg-id="871" tvg-name="cinemaworld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="常用频道",CinemaWorld
 http://ublive.fhtv.top/UBlive.php?id=84
-#EXTINF:-1 group-title="常用频道" ,爆笑频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",爆笑频道
 http://ublive.fhtv.top/UBlive.php?id=85
-#EXTINF:-1 group-title="常用频道" ,AMC最爱电影
+#EXTINF:-1 tvg-id="7165" tvg-name="AMC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AMC.png" group-title="常用频道",AMC最爱电影
 http://ublive.fhtv.top/UBlive.php?id=92
-#EXTINF:-1 group-title="常用频道" ,CI罪案偵查
+#EXTINF:-1 tvg-id="7178" tvg-name="CI" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CrimeInvestigation.png" group-title="常用频道",CI罪案侦查
 http://ublive.fhtv.top/UBlive.php?id=1159
-#EXTINF:-1 group-title="常用频道" ,AXN亞洲
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",AXN亚洲
 http://ublive.fhtv.top/UBlive.php?id=1066
-#EXTINF:-1 group-title="常用频道" ,FOX
+#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="常用频道",FOX
 http://ublive.fhtv.top/UBlive.php?id=384
-#EXTINF:-1 group-title="常用频道" ,FOX ACTION
+#EXTINF:-1 tvg-id="870" tvg-name="FOXActionMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="常用频道",FOX ACTION
 http://ublive.fhtv.top/UBlive.php?id=385
-#EXTINF:-1 group-title="常用频道" ,FOX CRIME
+#EXTINF:-1 tvg-id="354" tvg-name="FOXCRIME" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXCRIME.png" group-title="常用频道",FOX CRIME
 http://ublive.fhtv.top/UBlive.php?id=386
-#EXTINF:-1 group-title="常用频道" ,CATCHPLAY电影台
+#EXTINF:-1 tvg-id="7206" tvg-name="CatchPlay电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/catchplay.png" group-title="常用频道",CATCHPLAY电影台
 http://ublive.fhtv.top/UBlive.php?id=362
-#EXTINF:-1 group-title="常用频道" ,卫视西片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",卫视西片
 http://ublive.fhtv.top/UBlive.php?id=369
-#EXTINF:-1 group-title="常用频道" ,龙华日韩
+#EXTINF:-1 tvg-id="7158" tvg-name="龙华日韩台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华日韩.png" group-title="常用频道",龙华日韩
 http://ublive.fhtv.top/UBlive.php?id=382
-#EXTINF:-1 group-title="常用频道" ,纬来日本
+#EXTINF:-1 tvg-id="6095" tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="常用频道",纬来日本
 http://ublive.fhtv.top/UBlive.php?id=46
-#EXTINF:-1 group-title="常用频道" ,纬来日本
+#EXTINF:-1 tvg-id="6095" tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="常用频道",纬来日本
 http://ublive.fhtv.top/UBlive.php?id=337
-#EXTINF:-1 group-title="常用频道" ,靖天国际台
+#EXTINF:-1 tvg-id="7187" tvg-name="靖天国际" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天国际.png" group-title="常用频道",靖天国际台
 http://ublive.fhtv.top/UBlive.php?id=345
-#EXTINF:-1 group-title="常用频道" ,靖天日本台
+#EXTINF:-1 tvg-id="6157" tvg-name="靖天日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天日本.png" group-title="常用频道",靖天日本台
 http://ublive.fhtv.top/UBlive.php?id=108
-#EXTINF:-1 group-title="常用频道" ,JET综合
+#EXTINF:-1 tvg-id="6063" tvg-name="JET综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/JETVariety.png" group-title="常用频道",JET综合
 http://ublive.fhtv.top/UBlive.php?id=41
-#EXTINF:-1 group-title="常用频道" ,曼迪日本台
+#EXTINF:-1 tvg-id="7223" tvg-name="曼迪日本" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mandi_japan.png" group-title="常用频道",曼迪日本台
 http://ublive.fhtv.top/UBlive.php?id=316
-#EXTINF:-1 group-title="常用频道" ,AFN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",AFN
 http://ublive.fhtv.top/UBlive.php?id=195
-#EXTINF:-1 group-title="常用频道" ,AFN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",AFN
 http://ublive.fhtv.top/UBlive.php?id=307
-#EXTINF:-1 group-title="常用频道" ,中文字Smithsonian
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",中文字Smithsonian
 http://ublive.fhtv.top/UBlive.php?id=291
-#EXTINF:-1 group-title="常用频道" ,中文字FoodNetwork
+#EXTINF:-1 tvg-id="6158" tvg-name="FoodNetwork美食台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoodNetwork.png" group-title="常用频道",中文字FoodNetwork
 http://ublive.fhtv.top/UBlive.php?id=294
-#EXTINF:-1 group-title="常用频道" ,韩国娱乐
+#EXTINF:-1 tvg-id="6161" tvg-name="韩国娱乐台KMTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/KMTV.png" group-title="常用频道",韩国娱乐
 http://ublive.fhtv.top/UBlive.php?id=73
-#EXTINF:-1 group-title="常用频道" ,亚洲旅游
+#EXTINF:-1 tvg-id="6172" tvg-name="亚洲旅游台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="常用频道",亚洲旅游
 http://ublive.fhtv.top/UBlive.php?id=77
-#EXTINF:-1 group-title="常用频道" ,Love Nature
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",Love Nature
 http://ublive.fhtv.top/UBlive.php?id=388
-#EXTINF:-1 group-title="常用频道" ,国家地理
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="常用频道",国家地理
 http://ublive.fhtv.top/UBlive.php?id=302
-#EXTINF:-1 group-title="常用频道" ,探索亚洲
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",探索亚洲
 http://ublive.fhtv.top/UBlive.php?id=306
-#EXTINF:-1 group-title="常用频道" ,探索频道
+#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="常用频道",探索频道
 http://ublive.fhtv.top/UBlive.php?id=1035
-#EXTINF:-1 group-title="常用频道" ,国家野生
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",国家野生
 http://ublive.fhtv.top/UBlive.php?id=1038
-#EXTINF:-1 group-title="常用频道" ,探索科学
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",探索科学
 http://ublive.fhtv.top/UBlive.php?id=343
-#EXTINF:-1 group-title="常用频道" ,光影歐洲
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",光影欧洲
 http://ublive.fhtv.top/UBlive.php?id=1157
-#EXTINF:-1 group-title="常用频道" ,History 2
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="常用频道",History 2
 http://ublive.fhtv.top/UBlive.php?id=1158
-#EXTINF:-1 group-title="常用频道" ,动物星球1
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="常用频道",动物星球1
 http://ublive.fhtv.top/UBlive.php?id=367
-#EXTINF:-1 group-title="常用频道" ,动物星球2
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="常用频道",动物星球2
 http://ublive.fhtv.top/UBlive.php?id=368
-#EXTINF:-1 group-title="常用频道" ,纬来体育
+#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="常用频道",纬来体育
 http://ublive.fhtv.top/UBlive.php?id=52
-#EXTINF:-1 group-title="常用频道" ,纬来体育
+#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="常用频道",纬来体育
 http://ublive.fhtv.top/UBlive.php?id=118
-#EXTINF:-1 group-title="常用频道" ,空中英语教
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",空中英语教
 http://ublive.fhtv.top/UBlive.php?id=313
-#EXTINF:-1 group-title="常用频道" ,生活英语台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",生活英语台
 http://ublive.fhtv.top/UBlive.php?id=323
-#EXTINF:-1 group-title="常用频道" ,ViUtv
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="常用频道",ViUtv
 http://ublive.fhtv.top/UBlive.php?id=72
-#EXTINF:-1 group-title="常用频道" ,卫视电影
+#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="常用频道",卫视电影
 http://ublive.fhtv.top/UBlive.php?id=93
-#EXTINF:-1 group-title="常用频道" ,星卫电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",星卫电影
 http://ublive.fhtv.top/UBlive.php?id=496
-#EXTINF:-1 group-title="常用频道" ,影迷数位电影
+#EXTINF:-1 tvg-id="7185" tvg-name="影迷数位电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/影迷电影.png" group-title="常用频道",影迷数位电影
 http://ublive.fhtv.top/UBlive.php?id=497
-#EXTINF:-1 group-title="常用频道" ,有线电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",有线电影
 http://ublive.fhtv.top/UBlive.php?id=354
-#EXTINF:-1 group-title="常用频道" ,凤凰电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",凤凰电影
 http://ublive.fhtv.top/UBlive.php?id=18
-#EXTINF:-1 group-title="常用频道" ,凤凰电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",凤凰电影
 http://ublive.fhtv.top/UBlive.php?id=19
-#EXTINF:-1 group-title="常用频道" ,美亚电影
+#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="常用频道",美亚电影
 http://ublive.fhtv.top/UBlive.php?id=375
-#EXTINF:-1 group-title="常用频道" ,新马AXN
+#EXTINF:-1 tvg-id="6085" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="常用频道",新马AXN
 http://ublive.fhtv.top/UBlive.php?id=1044
-#EXTINF:-1 group-title="常用频道" ,BBC world news
+#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="常用频道",BBC world news
 http://ublive.fhtv.top/UBlive.php?id=421
-#EXTINF:-1 group-title="常用频道" ,英國-BBC News
+#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="常用频道",英国-BBC News
 http://ublive.fhtv.top/UBlive.php?id=164
-#EXTINF:-1 group-title="常用频道" ,BBC lifestyle
+#EXTINF:-1 tvg-id="6147" tvg-name="BBCLifestyle" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" group-title="常用频道",BBC lifestyle
 http://ublive.fhtv.top/UBlive.php?id=424
-#EXTINF:-1 group-title="常用频道" ,BBC earth
+#EXTINF:-1 tvg-id="6189" tvg-name="BBCEarth" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png" group-title="常用频道",BBC earth
 http://ublive.fhtv.top/UBlive.php?id=97
-#EXTINF:-1 group-title="常用频道" ,英國-BBC 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",英国-BBC 1
 http://ublive.fhtv.top/UBlive.php?id=158
-#EXTINF:-1 group-title="常用频道" ,英国-BBC 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",英国-BBC 2
 http://ublive.fhtv.top/UBlive.php?id=157
-#EXTINF:-1 group-title="常用频道" ,Travel Channel
+#EXTINF:-1 tvg-id="6168" tvg-name="TravelChannel" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/travelchannel.png" group-title="常用频道",Travel Channel
 http://ublive.fhtv.top/UBlive.php?id=63
-#EXTINF:-1 group-title="常用频道" ,cnex
+#EXTINF:-1 tvg-id="7179" tvg-name="cnex" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cnex.png" group-title="常用频道",cnex
 http://ublive.fhtv.top/UBlive.php?id=91
-#EXTINF:-1 group-title="常用频道" ,FOX Family
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",FOX Family
 http://ublive.fhtv.top/UBlive.php?id=383
-#EXTINF:-1 group-title="常用频道" ,History
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="常用频道",History
 http://ublive.fhtv.top/UBlive.php?id=116
-#EXTINF:-1 group-title="常用频道" ,探索EVE
+#EXTINF:-1 tvg-id="6164" tvg-name="EVE" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EVE.png" group-title="常用频道",探索EVE
 http://ublive.fhtv.top/UBlive.php?id=1036
-#EXTINF:-1 group-title="常用频道" ,FOX WILD CARA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",FOX WILD CARA
 http://ublive.fhtv.top/UBlive.php?id=1083
-#EXTINF:-1 group-title="常用频道" ,ESPN-U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",ESPN-U
 http://ublive.fhtv.top/UBlive.php?id=170
-#EXTINF:-1 group-title="常用频道" ,美国CNN USA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国CNN USA
 http://ublive.fhtv.top/UBlive.php?id=1102
-#EXTINF:-1 group-title="常用频道" ,美国FOX
+#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="常用频道",美国FOX
 http://ublive.fhtv.top/UBlive.php?id=1103
-#EXTINF:-1 group-title="常用频道" ,美国MSNBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国MSNBC
 http://ublive.fhtv.top/UBlive.php?id=1104
-#EXTINF:-1 group-title="常用频道" ,美国CNBC
+#EXTINF:-1 tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="常用频道",美国CNBC
 http://ublive.fhtv.top/UBlive.php?id=1106
-#EXTINF:-1 group-title="常用频道" ,美国ABC
+#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5b3af185b2db8.png" group-title="常用频道",美国ABC
 http://ublive.fhtv.top/UBlive.php?id=1216
-#EXTINF:-1 group-title="常用频道" ,美国NBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国NBC
 http://ublive.fhtv.top/UBlive.php?id=1217
-#EXTINF:-1 group-title="常用频道" ,美国FOX
+#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="常用频道",美国FOX
 http://ublive.fhtv.top/UBlive.php?id=1218
-#EXTINF:-1 group-title="常用频道" ,美国CBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国CBS
 http://ublive.fhtv.top/UBlive.php?id=1219
-#EXTINF:-1 group-title="常用频道" ,美国CW
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国CW
 http://ublive.fhtv.top/UBlive.php?id=1220
-#EXTINF:-1 group-title="常用频道" ,VOA美国之音
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",VOA美国之音
 http://ublive.fhtv.top/UBlive.php?id=495
-#EXTINF:-1 group-title="常用频道" ,VOA衛視
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",VOA卫视
 http://ublive.fhtv.top/UBlive.php?id=22
-#EXTINF:-1 group-title="常用频道" ,美国Discovery Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国Discovery Channel
 http://ublive.fhtv.top/UBlive.php?id=1198
-#EXTINF:-1 group-title="常用频道" ,美国National Geographic
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="常用频道",美国National Geographic
 http://ublive.fhtv.top/UBlive.php?id=1200
-#EXTINF:-1 group-title="常用频道" ,美国-NAT-GEO
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="常用频道",美国-NAT-GEO
 http://ublive.fhtv.top/UBlive.php?id=285
-#EXTINF:-1 group-title="常用频道" ,美国Nat Geo Wild
+#EXTINF:-1 tvg-id="427" tvg-name="国家地理野生频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" group-title="常用频道",美国Nat Geo Wild
 http://ublive.fhtv.top/UBlive.php?id=1201
-#EXTINF:-1 group-title="常用频道" ,美国Animal Planet
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="常用频道",美国Animal Planet
 http://ublive.fhtv.top/UBlive.php?id=1203
-#EXTINF:-1 group-title="常用频道" ,美国History
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="常用频道",美国History
 http://ublive.fhtv.top/UBlive.php?id=1204
-#EXTINF:-1 group-title="常用频道" ,美国-HISTORY
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="常用频道",美国-HISTORY
 http://ublive.fhtv.top/UBlive.php?id=275
-#EXTINF:-1 group-title="常用频道" ,美国Science
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国Science
 http://ublive.fhtv.top/UBlive.php?id=1207
-#EXTINF:-1 group-title="常用频道" ,美国Investigation Discovery US
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国Investigation Discovery
 http://ublive.fhtv.top/UBlive.php?id=1202
-#EXTINF:-1 group-title="常用频道" ,美国SYFY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国SYFY
 http://ublive.fhtv.top/UBlive.php?id=1221
-#EXTINF:-1 group-title="常用频道" ,美国E!
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国E!
 http://ublive.fhtv.top/UBlive.php?id=1222
-#EXTINF:-1 group-title="常用频道" ,美国Comedy Central
+#EXTINF:-1 tvg-id="874" tvg-name="ComedyCentralAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ComedyCentral.png" group-title="常用频道",美国Comedy Central
 http://ublive.fhtv.top/UBlive.php?id=1223
-#EXTINF:-1 group-title="常用频道" ,美国TNT US
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国TNT US
 http://ublive.fhtv.top/UBlive.php?id=1224
-#EXTINF:-1 group-title="常用频道" ,美国Bravo US
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国Bravo US
 http://ublive.fhtv.top/UBlive.php?id=1225
-#EXTINF:-1 group-title="常用频道" ,美国LifeTime US
+#EXTINF:-1 tvg-id="509" tvg-name="Lifetime" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Lifetime.png" group-title="常用频道",美国LifeTime US
 http://ublive.fhtv.top/UBlive.php?id=1226
-#EXTINF:-1 group-title="常用频道" ,美国Arts and Entertainment
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国Arts and Entertainment
 http://ublive.fhtv.top/UBlive.php?id=1227
-#EXTINF:-1 group-title="常用频道" ,美国AMC
+#EXTINF:-1 tvg-id="7165" tvg-name="AMC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AMC.png" group-title="常用频道",美国AMC
 http://ublive.fhtv.top/UBlive.php?id=1228
-#EXTINF:-1 group-title="常用频道" ,美国Lifetime Movie Network
+#EXTINF:-1 tvg-id="509" tvg-name="Lifetime" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Lifetime.png" group-title="常用频道",美国Lifetime Movie Network
 http://ublive.fhtv.top/UBlive.php?id=1232
-#EXTINF:-1 group-title="常用频道" ,美国5 Star Max
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国5 Star Max
 http://ublive.fhtv.top/UBlive.php?id=1174
-#EXTINF:-1 group-title="常用频道" ,美国Action Max
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国Action Max
 http://ublive.fhtv.top/UBlive.php?id=1175
-#EXTINF:-1 group-title="常用频道" ,美国MoreMax
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国MoreMax
 http://ublive.fhtv.top/UBlive.php?id=1176
-#EXTINF:-1 group-title="常用频道" ,美国Hallmark Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国Hallmark Channel
 http://ublive.fhtv.top/UBlive.php?id=1177
-#EXTINF:-1 group-title="常用频道" ,美国Hallmark Drama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国Hallmark Drama
 http://ublive.fhtv.top/UBlive.php?id=1178
-#EXTINF:-1 group-title="常用频道" ,美国Hallmark Movie
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国Hallmark Movie
 http://ublive.fhtv.top/UBlive.php?id=1179
-#EXTINF:-1 group-title="常用频道" ,美国Starz in Black
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国Starz in Black
 http://ublive.fhtv.top/UBlive.php?id=1181
-#EXTINF:-1 group-title="常用频道" ,美国HGTV US
+#EXTINF:-1 tvg-id="6167" tvg-name="HGTV居家乐活" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HGTV.png" group-title="常用频道",美国HGTV US
 http://ublive.fhtv.top/UBlive.php?id=1237
-#EXTINF:-1 group-title="常用频道" ,美国Cooking Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国Cooking Channel
 http://ublive.fhtv.top/UBlive.php?id=1238
-#EXTINF:-1 group-title="常用频道" ,美国-BET
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国-BET
 http://ublive.fhtv.top/UBlive.php?id=270
-#EXTINF:-1 group-title="常用频道" ,美国-HGTV-
+#EXTINF:-1 tvg-id="6167" tvg-name="HGTV居家乐活" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HGTV.png" group-title="常用频道",美国-HGTV-
 http://ublive.fhtv.top/UBlive.php?id=274
-#EXTINF:-1 group-title="常用频道" ,美国-HBO Comedy East
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国-HBO Comedy East
 http://ublive.fhtv.top/UBlive.php?id=269
-#EXTINF:-1 group-title="常用频道" ,美国-HBO East
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国-HBO East
 http://ublive.fhtv.top/UBlive.php?id=271
-#EXTINF:-1 group-title="常用频道" ,美国-HBO Signature
+#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="常用频道",美国-HBO Signature
 http://ublive.fhtv.top/UBlive.php?id=272
-#EXTINF:-1 group-title="常用频道" ,美国-HBO Zone East
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国-HBO Zone East
 http://ublive.fhtv.top/UBlive.php?id=273
-#EXTINF:-1 group-title="常用频道" ,美国HBO Comedy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国HBO Comedy
 http://ublive.fhtv.top/UBlive.php?id=1109
-#EXTINF:-1 group-title="常用频道" ,美国HBO1US
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国HBO1US
 http://ublive.fhtv.top/UBlive.php?id=1110
-#EXTINF:-1 group-title="常用频道" ,美国HBO2US
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国HBO2US
 http://ublive.fhtv.top/UBlive.php?id=1111
-#EXTINF:-1 group-title="常用频道" ,美国HBO Signature
+#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="常用频道",美国HBO Signature
 http://ublive.fhtv.top/UBlive.php?id=1112
-#EXTINF:-1 group-title="常用频道" ,美国HBO Family
+#EXTINF:-1 tvg-id="6155" tvg-name="HBOFamily" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="常用频道",美国HBO Family
 http://ublive.fhtv.top/UBlive.php?id=1113
-#EXTINF:-1 group-title="常用频道" ,美国ShowTime 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国ShowTime 1
 http://ublive.fhtv.top/UBlive.php?id=1114
-#EXTINF:-1 group-title="常用频道" ,美国ShowTime 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国ShowTime 2
 http://ublive.fhtv.top/UBlive.php?id=1115
-#EXTINF:-1 group-title="常用频道" ,美国ShowCase US
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国ShowCase US
 http://ublive.fhtv.top/UBlive.php?id=1116
-#EXTINF:-1 group-title="常用频道" ,美国Starz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国Starz
 http://ublive.fhtv.top/UBlive.php?id=1117
-#EXTINF:-1 group-title="常用频道" ,美国Starz Comedy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国Starz Comedy
 http://ublive.fhtv.top/UBlive.php?id=1118
-#EXTINF:-1 group-title="常用频道" ,美国Starz Edge
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国Starz Edge
 http://ublive.fhtv.top/UBlive.php?id=1119
-#EXTINF:-1 group-title="常用频道" ,美国Starz Kids Family
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国Starz Kids Family
 http://ublive.fhtv.top/UBlive.php?id=1120
-#EXTINF:-1 group-title="常用频道" ,美国Starz Encore
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国Starz Encore
 http://ublive.fhtv.top/UBlive.php?id=1121
-#EXTINF:-1 group-title="常用频道" ,美国Starz Encore Westerns
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国Starz Encore Westerns
 http://ublive.fhtv.top/UBlive.php?id=1122
-#EXTINF:-1 group-title="常用频道" ,美国Cinemax
+#EXTINF:-1 tvg-id="6089" tvg-name="CINEMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="常用频道",美国Cinemax
 http://ublive.fhtv.top/UBlive.php?id=1123
-#EXTINF:-1 group-title="常用频道" ,美国-American Horrors
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国-American Horrors
 http://ublive.fhtv.top/UBlive.php?id=1054
-#EXTINF:-1 group-title="常用频道" ,美国ESPN 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国ESPN 1
 http://ublive.fhtv.top/UBlive.php?id=1182
-#EXTINF:-1 group-title="常用频道" ,美国ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国ESPN 2
 http://ublive.fhtv.top/UBlive.php?id=1183
-#EXTINF:-1 group-title="常用频道" ,美国ESPN U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国ESPN U
 http://ublive.fhtv.top/UBlive.php?id=1196
-#EXTINF:-1 group-title="常用频道" ,美国NBA TV US
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国NBA TV US
 http://ublive.fhtv.top/UBlive.php?id=1185
-#EXTINF:-1 group-title="常用频道" ,美国-TNT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国-TNT
 http://ublive.fhtv.top/UBlive.php?id=284
-#EXTINF:-1 group-title="常用频道" ,加拿大-Discovery Canada
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",加拿大-Discovery Canada
 http://ublive.fhtv.top/UBlive.php?id=1261
-#EXTINF:-1 group-title="常用频道" ,加拿大-Love Nature
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",加拿大-Love Nature
 http://ublive.fhtv.top/UBlive.php?id=1263
-#EXTINF:-1 group-title="常用频道" ,加拿大-Food Network Cabada
+#EXTINF:-1 tvg-id="6158" tvg-name="FoodNetwork美食台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoodNetwork.png" group-title="常用频道",加拿大-Food Network Cabada
 http://ublive.fhtv.top/UBlive.php?id=1265
-#EXTINF:-1 group-title="常用频道" ,加拿大-Cooking Channel Canada
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",加拿大-Cooking Channel Canad
 http://ublive.fhtv.top/UBlive.php?id=1266
-#EXTINF:-1 group-title="常用频道" ,加拿大-CTV Comedy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",加拿大-CTV Comedy
 http://ublive.fhtv.top/UBlive.php?id=1267
-#EXTINF:-1 group-title="常用频道" ,加拿大-CTV Sci-Fi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",加拿大-CTV Sci-Fi
 http://ublive.fhtv.top/UBlive.php?id=1268
-#EXTINF:-1 group-title="常用频道" ,加拿大-Crave 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",加拿大-Crave 1
 http://ublive.fhtv.top/UBlive.php?id=1269
-#EXTINF:-1 group-title="常用频道" ,加拿大-Crave 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",加拿大-Crave 2
 http://ublive.fhtv.top/UBlive.php?id=1270
-#EXTINF:-1 group-title="常用频道" ,加拿大-Crave 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",加拿大-Crave 3
 http://ublive.fhtv.top/UBlive.php?id=1271
-#EXTINF:-1 group-title="常用频道" ,加拿大-Crave 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",加拿大-Crave 4
 http://ublive.fhtv.top/UBlive.php?id=1272
-#EXTINF:-1 group-title="常用频道" ,加拿大-NBA CA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",加拿大-NBA CA
 http://ublive.fhtv.top/UBlive.php?id=1282
-#EXTINF:-1 group-title="常用频道" ,加拿大-新时代东部
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",加拿大-新时代东部
 http://ublive.fhtv.top/UBlive.php?id=1286
-#EXTINF:-1 group-title="常用频道" ,加拿大-新时代西部
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",加拿大-新时代西部
 http://ublive.fhtv.top/UBlive.php?id=1287
-#EXTINF:-1 group-title="常用频道" ,加拿大-城市电视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",加拿大-城市电视
 http://ublive.fhtv.top/UBlive.php?id=1289
-#EXTINF:-1 group-title="常用频道" ,加拿大-新时代2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",加拿大-新时代2
 http://ublive.fhtv.top/UBlive.php?id=1288
-#EXTINF:-1 group-title="常用频道" ,印度HBO
+#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="常用频道",印度HBO
 http://ublive.fhtv.top/UBlive.php?id=464
-#EXTINF:-1 group-title="常用频道" ,印度Sony Mix
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",印度Sony Mix
 http://ublive.fhtv.top/UBlive.php?id=474
-#EXTINF:-1 group-title="常用频道" ,印度Sony Sab
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",印度Sony Sab
 http://ublive.fhtv.top/UBlive.php?id=475
-#EXTINF:-1 group-title="常用频道" ,印度Star Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",印度Star Movies
 http://ublive.fhtv.top/UBlive.php?id=478
-#EXTINF:-1 group-title="常用频道" ,印度Star Plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",印度Star Plus
 http://ublive.fhtv.top/UBlive.php?id=479
-#EXTINF:-1 group-title="常用频道" ,印度Zee Marathi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",印度Zee Marathi
 http://ublive.fhtv.top/UBlive.php?id=480
-#EXTINF:-1 group-title="常用频道" ,印度Zee Studio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",印度Zee Studio
 http://ublive.fhtv.top/UBlive.php?id=481
-#EXTINF:-1 group-title="常用频道" ,印度Zee TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",印度Zee TV
 http://ublive.fhtv.top/UBlive.php?id=482
-#EXTINF:-1 group-title="常用频道" ,印度Sony
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",印度Sony
 http://ublive.fhtv.top/UBlive.php?id=483
-#EXTINF:-1 group-title="常用频道" ,印度Zee Cinema
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",印度Zee Cinema
 http://ublive.fhtv.top/UBlive.php?id=484
-
-#EXTINF:-1 group-title="台湾频道" ,猪哥亮歌厅秀
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",猪哥亮歌厅秀
 http://ublive.fhtv.top/UBlive.php?id=75
-#EXTINF:-1 group-title="台湾频道" ,台视
+#EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="台湾频道",台视
 http://ublive.fhtv.top/UBlive.php?id=27
-#EXTINF:-1 group-title="台湾频道" ,台视
+#EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="台湾频道",台视
 http://ublive.fhtv.top/UBlive.php?id=326
-#EXTINF:-1 group-title="台湾频道" ,台视新闻
+#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="台湾频道",台视新闻
 http://ublive.fhtv.top/UBlive.php?id=1
-#EXTINF:-1 group-title="台湾频道" ,台视综合
+#EXTINF:-1 tvg-id="6145" tvg-name="台视综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视综合.png" group-title="台湾频道",台视综合
 http://ublive.fhtv.top/UBlive.php?id=309
-#EXTINF:-1 group-title="台湾频道" ,台视财经
+#EXTINF:-1 tvg-id="6144" tvg-name="台视财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视财经.png" group-title="台湾频道",台视财经
 http://ublive.fhtv.top/UBlive.php?id=300
-#EXTINF:-1 group-title="台湾频道" ,民视
+#EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="台湾频道",民视
 http://ublive.fhtv.top/UBlive.php?id=26
-#EXTINF:-1 group-title="台湾频道" ,民视
+#EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="台湾频道",民视
 http://ublive.fhtv.top/UBlive.php?id=336
-#EXTINF:-1 group-title="台湾频道" ,民视新闻台
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台湾频道",民视新闻台
 http://ublive.fhtv.top/UBlive.php?id=13
-#EXTINF:-1 group-title="台湾频道" ,民视综艺
+#EXTINF:-1 tvg-id="7145" tvg-name="民视综艺台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png" group-title="台湾频道",民视综艺
 http://ublive.fhtv.top/UBlive.php?id=98
-#EXTINF:-1 group-title="台湾频道" ,民视第一台
+#EXTINF:-1 tvg-id="7133" tvg-name="民视第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-1.png" group-title="台湾频道",民视第一台
 http://ublive.fhtv.top/UBlive.php?id=34
-#EXTINF:-1 group-title="台湾频道" ,民视台湾台
+#EXTINF:-1 tvg-id="7134" tvg-name="民视台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="台湾频道",民视台湾台
 http://ublive.fhtv.top/UBlive.php?id=36
-#EXTINF:-1 group-title="台湾频道" ,民视影剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",民视影剧
 http://ublive.fhtv.top/UBlive.php?id=1023
-#EXTINF:-1 group-title="台湾频道" ,民视旅游
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",民视旅游
 http://ublive.fhtv.top/UBlive.php?id=78
-#EXTINF:-1 group-title="台湾频道" ,华视
+#EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台湾频道",华视
 http://ublive.fhtv.top/UBlive.php?id=32
-#EXTINF:-1 group-title="台湾频道" ,华视
+#EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台湾频道",华视
 http://ublive.fhtv.top/UBlive.php?id=327
-#EXTINF:-1 group-title="台湾频道" ,华视资讯
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",华视资讯
 http://ublive.fhtv.top/UBlive.php?id=6
-#EXTINF:-1 group-title="台湾频道" ,华纳电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",华纳电影
 http://ublive.fhtv.top/UBlive.php?id=83
-#EXTINF:-1 group-title="台湾频道" ,华艺综合台
+#EXTINF:-1 tvg-id="7147" tvg-name="华艺MBC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/huayimbc.png" group-title="台湾频道",华艺综合台
 http://ublive.fhtv.top/UBlive.php?id=310
-#EXTINF:-1 group-title="台湾频道" ,中视
+#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="台湾频道",中视
 http://ublive.fhtv.top/UBlive.php?id=333
-#EXTINF:-1 group-title="台湾频道" ,中视经典
+#EXTINF:-1 tvg-id="7172" tvg-name="中视经典" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视经典.png" group-title="台湾频道",中视经典
 http://ublive.fhtv.top/UBlive.php?id=185
-#EXTINF:-1 group-title="台湾频道" ,中视新闻
+#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="台湾频道",中视新闻
 http://ublive.fhtv.top/UBlive.php?id=7
-#EXTINF:-1 group-title="台湾频道" ,中视新闻
+#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="台湾频道",中视新闻
 http://ublive.fhtv.top/UBlive.php?id=28
-#EXTINF:-1 group-title="台湾频道" ,中视菁采
+#EXTINF:-1 tvg-id="7136" tvg-name="中视菁采台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视菁采.png" group-title="台湾频道",中视菁采
 http://ublive.fhtv.top/UBlive.php?id=74
-#EXTINF:-1 group-title="台湾频道" ,中天新闻
+#EXTINF:-1 tvg-id="6070" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="台湾频道",中天新闻
 http://ublive.fhtv.top/UBlive.php?id=3
-#EXTINF:-1 group-title="台湾频道" ,中天综合
+#EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="台湾频道",中天综合
 http://ublive.fhtv.top/UBlive.php?id=54
-#EXTINF:-1 group-title="台湾频道" ,中天娱乐
+#EXTINF:-1 tvg-id="6057" tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="台湾频道",中天娱乐
 http://ublive.fhtv.top/UBlive.php?id=324
-#EXTINF:-1 group-title="台湾频道" ,中天综合
+#EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="台湾频道",中天综合
 http://ublive.fhtv.top/UBlive.php?id=325
-#EXTINF:-1 group-title="台湾频道" ,中天亚洲台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",中天亚洲台
 http://ublive.fhtv.top/UBlive.php?id=322
-#EXTINF:-1 group-title="台湾频道" ,公视
+#EXTINF:-1 tvg-id="6031" tvg-name="公视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="台湾频道",公视
 http://ublive.fhtv.top/UBlive.php?id=86
-#EXTINF:-1 group-title="台湾频道" ,公视
+#EXTINF:-1 tvg-id="6031" tvg-name="公视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="台湾频道",公视
 http://ublive.fhtv.top/UBlive.php?id=59
-#EXTINF:-1 group-title="台湾频道" ,公视
+#EXTINF:-1 tvg-id="6031" tvg-name="公视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="台湾频道",公视
 http://ublive.fhtv.top/UBlive.php?id=361
-#EXTINF:-1 group-title="台湾频道" ,公视戏剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",公视戏剧
 http://ublive.fhtv.top/UBlive.php?id=69
-#EXTINF:-1 group-title="台湾频道" ,八大精彩台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",八大精彩台
 http://ublive.fhtv.top/UBlive.php?id=1024
-#EXTINF:-1 group-title="台湾频道" ,八大综合台
+#EXTINF:-1 tvg-id="6046" tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="台湾频道",八大综合台
 http://ublive.fhtv.top/UBlive.php?id=90
-#EXTINF:-1 group-title="台湾频道" ,八大戏剧台
+#EXTINF:-1 tvg-id="6059" tvg-name="八大戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVDramaHD.png" group-title="台湾频道",八大戏剧台
 http://ublive.fhtv.top/UBlive.php?id=81
-#EXTINF:-1 group-title="台湾频道" ,东森幼幼
+#EXTINF:-1 tvg-id="6043" tvg-name="东森幼幼台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png" group-title="台湾频道",东森幼幼
 http://ublive.fhtv.top/UBlive.php?id=371
-#EXTINF:-1 group-title="台湾频道" ,东森综合台
+#EXTINF:-1 tvg-id="6050" tvg-name="东森综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png" group-title="台湾频道",东森综合台
 http://ublive.fhtv.top/UBlive.php?id=372
-#EXTINF:-1 group-title="台湾频道" ,龙祥时代
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",龙祥时代
 http://ublive.fhtv.top/UBlive.php?id=373
-#EXTINF:-1 group-title="台湾频道" ,东森新闻
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台湾频道",东森新闻
 http://ublive.fhtv.top/UBlive.php?id=9
-#EXTINF:-1 group-title="台湾频道" ,东森新闻
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台湾频道",东森新闻
 http://ublive.fhtv.top/UBlive.php?id=12
-#EXTINF:-1 group-title="台湾频道" ,东森超视
+#EXTINF:-1 tvg-id="6051" tvg-name="东森超视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="台湾频道",东森超视
 http://ublive.fhtv.top/UBlive.php?id=80
-#EXTINF:-1 group-title="台湾频道" ,东森戏剧
+#EXTINF:-1 tvg-id="6058" tvg-name="东森戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" group-title="台湾频道",东森戏剧
 http://ublive.fhtv.top/UBlive.php?id=321
-#EXTINF:-1 group-title="台湾频道" ,东森电影
+#EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="台湾频道",东森电影
 http://ublive.fhtv.top/UBlive.php?id=350
-#EXTINF:-1 group-title="台湾频道" ,东森洋片
+#EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="台湾频道",东森洋片
 http://ublive.fhtv.top/UBlive.php?id=1128
-#EXTINF:-1 group-title="台湾频道" ,东森购物1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",东森购物1
 http://ublive.fhtv.top/UBlive.php?id=1155
-#EXTINF:-1 group-title="台湾频道" ,东森购物2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",东森购物2
 http://ublive.fhtv.top/UBlive.php?id=1156
-#EXTINF:-1 group-title="台湾频道" ,龙华经典
+#EXTINF:-1 tvg-id="7130" tvg-name="龙华经典" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华经典.png" group-title="台湾频道",龙华经典
 http://ublive.fhtv.top/UBlive.php?id=364
-#EXTINF:-1 group-title="台湾频道" ,龙华戏剧
+#EXTINF:-1 tvg-id="7127" tvg-name="龙华戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华戏剧.png" group-title="台湾频道",龙华戏剧
 http://ublive.fhtv.top/UBlive.php?id=365
-#EXTINF:-1 group-title="台湾频道" ,龙华动画
+#EXTINF:-1 tvg-id="7188" tvg-name="龙华动画" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/longhuadonghua.png" group-title="台湾频道",龙华动画
 http://ublive.fhtv.top/UBlive.php?id=366
-#EXTINF:-1 group-title="台湾频道" ,龙华电影
+#EXTINF:-1 tvg-id="7128" tvg-name="龙华电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华电影.png" group-title="台湾频道",龙华电影
 http://ublive.fhtv.top/UBlive.php?id=311
-#EXTINF:-1 group-title="台湾频道" ,龙华经典
+#EXTINF:-1 tvg-id="7130" tvg-name="龙华经典" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华经典.png" group-title="台湾频道",龙华经典
 http://ublive.fhtv.top/UBlive.php?id=100
-#EXTINF:-1 group-title="台湾频道" ,龙华偶像
+#EXTINF:-1 tvg-id="7126" tvg-name="龙华偶像" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华偶像.png" group-title="台湾频道",龙华偶像
 http://ublive.fhtv.top/UBlive.php?id=347
-#EXTINF:-1 group-title="台湾频道" ,龙华日韩
+#EXTINF:-1 tvg-id="7158" tvg-name="龙华日韩台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华日韩.png" group-title="台湾频道",龙华日韩
 http://ublive.fhtv.top/UBlive.php?id=382
-#EXTINF:-1 group-title="台湾频道" ,纬来日本
+#EXTINF:-1 tvg-id="6095" tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="台湾频道",纬来日本
 http://ublive.fhtv.top/UBlive.php?id=46
-#EXTINF:-1 group-title="台湾频道" ,纬来日本
+#EXTINF:-1 tvg-id="6095" tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="台湾频道",纬来日本
 http://ublive.fhtv.top/UBlive.php?id=337
-#EXTINF:-1 group-title="台湾频道" ,纬来体育
+#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="台湾频道",纬来体育
 http://ublive.fhtv.top/UBlive.php?id=52
-#EXTINF:-1 group-title="台湾频道" ,纬来电影
+#EXTINF:-1 tvg-id="6081" tvg-name="纬来电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="台湾频道",纬来电影
 http://ublive.fhtv.top/UBlive.php?id=96
-#EXTINF:-1 group-title="台湾频道" ,纬来体育
+#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="台湾频道",纬来体育
 http://ublive.fhtv.top/UBlive.php?id=118
-#EXTINF:-1 group-title="台湾频道" ,纬来育乐
+#EXTINF:-1 tvg-id="6088" tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="台湾频道",纬来育乐
 http://ublive.fhtv.top/UBlive.php?id=312
-#EXTINF:-1 group-title="台湾频道" ,靖天育乐台
+#EXTINF:-1 tvg-id="6151" tvg-name="靖天育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天育乐.png" group-title="台湾频道",靖天育乐台
 http://ublive.fhtv.top/UBlive.php?id=1029
-#EXTINF:-1 group-title="台湾频道" ,靖天卡通台
+#EXTINF:-1 tvg-id="6192" tvg-name="靖天卡通台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天卡通.png" group-title="台湾频道",靖天卡通台
 http://ublive.fhtv.top/UBlive.php?id=344
-#EXTINF:-1 group-title="台湾频道" ,靖天国际台
+#EXTINF:-1 tvg-id="7187" tvg-name="靖天国际" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天国际.png" group-title="台湾频道",靖天国际台
 http://ublive.fhtv.top/UBlive.php?id=345
-#EXTINF:-1 group-title="台湾频道" ,靖洋卡通台
+#EXTINF:-1 tvg-id="6191" tvg-name="靖洋卡通台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖洋卡通.png" group-title="台湾频道",靖洋卡通台
 http://ublive.fhtv.top/UBlive.php?id=348
-#EXTINF:-1 group-title="台湾频道" ,靖天映画
+#EXTINF:-1 tvg-id="6116" tvg-name="靖天映画" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天映画.png" group-title="台湾频道",靖天映画
 http://ublive.fhtv.top/UBlive.php?id=349
-#EXTINF:-1 group-title="台湾频道" ,靖洋戏剧台
+#EXTINF:-1 tvg-id="6101" tvg-name="靖洋戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖洋戏剧.png" group-title="台湾频道",靖洋戏剧台
 http://ublive.fhtv.top/UBlive.php?id=319
-#EXTINF:-1 group-title="台湾频道" ,靖天综合台
+#EXTINF:-1 tvg-id="6098" tvg-name="靖天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天综合.png" group-title="台湾频道",靖天综合台
 http://ublive.fhtv.top/UBlive.php?id=308
-#EXTINF:-1 group-title="台湾频道" ,靖天日本台
+#EXTINF:-1 tvg-id="6157" tvg-name="靖天日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天日本.png" group-title="台湾频道",靖天日本台
 http://ublive.fhtv.top/UBlive.php?id=108
-#EXTINF:-1 group-title="台湾频道" ,靖天戏剧台
+#EXTINF:-1 tvg-id="7159" tvg-name="靖天戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天戏剧.png" group-title="台湾频道",靖天戏剧台
 http://ublive.fhtv.top/UBlive.php?id=109
-#EXTINF:-1 group-title="台湾频道" ,靖天电影台
+#EXTINF:-1 tvg-id="7164" tvg-name="靖天电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天电影.png" group-title="台湾频道",靖天电影台
 http://ublive.fhtv.top/UBlive.php?id=110
-#EXTINF:-1 group-title="台湾频道" ,靖天资讯台
+#EXTINF:-1 tvg-id="6099" tvg-name="靖天资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天资讯.png" group-title="台湾频道",靖天资讯台
 http://ublive.fhtv.top/UBlive.php?id=49
-#EXTINF:-1 group-title="台湾频道" ,靖天欢乐台
+#EXTINF:-1 tvg-id="6150" tvg-name="靖天欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天欢乐.png" group-title="台湾频道",靖天欢乐台
 http://ublive.fhtv.top/UBlive.php?id=51
-#EXTINF:-1 group-title="台湾频道" ,TVBS
+#EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="台湾频道",TVBS
 http://ublive.fhtv.top/UBlive.php?id=16
-#EXTINF:-1 group-title="台湾频道" ,TVBS
+#EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="台湾频道",TVBS
 http://ublive.fhtv.top/UBlive.php?id=88
-#EXTINF:-1 group-title="台湾频道" ,TVBS欢乐台
+#EXTINF:-1 tvg-id="6060" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="台湾频道",TVBS欢乐台
 http://ublive.fhtv.top/UBlive.php?id=40
-#EXTINF:-1 group-title="台湾频道" ,TVBS精采台
+#EXTINF:-1 tvg-id="7138" tvg-name="TVBS精采台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS精采.png" group-title="台湾频道",TVBS精采台
 http://ublive.fhtv.top/UBlive.php?id=66
-#EXTINF:-1 group-title="台湾频道" ,三立LIVE新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",三立LIVE新闻
 http://ublive.fhtv.top/UBlive.php?id=4
-#EXTINF:-1 group-title="台湾频道" ,三立台湾台
+#EXTINF:-1 tvg-id="6047" tvg-name="三立台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="台湾频道",三立台湾台
 http://ublive.fhtv.top/UBlive.php?id=35
-#EXTINF:-1 group-title="台湾频道" ,三立都会台
+#EXTINF:-1 tvg-id="6048" tvg-name="三立都会台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png" group-title="台湾频道",三立都会台
 http://ublive.fhtv.top/UBlive.php?id=38
-#EXTINF:-1 group-title="台湾频道" ,三立戏剧台
+#EXTINF:-1 tvg-id="7221" tvg-name="三立戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/setxiju.png" group-title="台湾频道",三立戏剧台
 http://ublive.fhtv.top/UBlive.php?id=64
-#EXTINF:-1 group-title="台湾频道" ,寰宇综合
+#EXTINF:-1 tvg-id="7196" tvg-name="寰宇HD综合" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/huanyuzonghe.png" group-title="台湾频道",寰宇综合
 http://ublive.fhtv.top/UBlive.php?id=190
-#EXTINF:-1 group-title="台湾频道" ,寰宇新闻台
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="台湾频道",寰宇新闻台
 http://ublive.fhtv.top/UBlive.php?id=304
-#EXTINF:-1 group-title="台湾频道" ,寰宇新闻台湾台
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="台湾频道",寰宇新闻台湾台
 http://ublive.fhtv.top/UBlive.php?id=87
-#EXTINF:-1 group-title="台湾频道" ,寰宇财经台
+#EXTINF:-1 tvg-id="7204" tvg-name="寰宇财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/huanyucaijing.png" group-title="台湾频道",寰宇财经台
 http://ublive.fhtv.top/UBlive.php?id=320
-#EXTINF:-1 group-title="台湾频道" ,壹综合
+#EXTINF:-1 tvg-id="608" tvg-name="壹电视综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NEXTTVZonghe.png" group-title="台湾频道",壹综合
 http://ublive.fhtv.top/UBlive.php?id=305
-#EXTINF:-1 group-title="台湾频道" ,壹新闻
+#EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="台湾频道",壹新闻
 http://ublive.fhtv.top/UBlive.php?id=303
-#EXTINF:-1 group-title="台湾频道" ,YouTube健康2.0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",YouTube健康2.0
 http://ublive.fhtv.top/UBlive.php?id=2
-#EXTINF:-1 group-title="台湾频道" ,JET综合
+#EXTINF:-1 tvg-id="6063" tvg-name="JET综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/JETVariety.png" group-title="台湾频道",JET综合
 http://ublive.fhtv.top/UBlive.php?id=41
-#EXTINF:-1 group-title="台湾频道" ,好莱坞电影
+#EXTINF:-1 tvg-id="6086" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="台湾频道",好莱坞电影
 http://ublive.fhtv.top/UBlive.php?id=37
-#EXTINF:-1 group-title="台湾频道" ,天映经典
+#EXTINF:-1 tvg-id="828" tvg-name="天映经典" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv112_mobile.png" group-title="台湾频道",天映经典
 http://ublive.fhtv.top/UBlive.php?id=328
-#EXTINF:-1 group-title="台湾频道" ,SET iNEWS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",SET iNEWS
 http://ublive.fhtv.top/UBlive.php?id=8
-#EXTINF:-1 group-title="台湾频道" ,幸福空间居家
+#EXTINF:-1 tvg-id="6138" tvg-name="幸福空间居家台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/gstv.png" group-title="台湾频道",幸福空间居家
 http://ublive.fhtv.top/UBlive.php?id=61
-#EXTINF:-1 group-title="台湾频道" ,采昌影剧
+#EXTINF:-1 tvg-id="7180" tvg-name="采昌影剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/采昌影剧.png" group-title="台湾频道",采昌影剧
 http://ublive.fhtv.top/UBlive.php?id=62
-#EXTINF:-1 group-title="台湾频道" ,国兴卫视
+#EXTINF:-1 tvg-id="6096" tvg-name="国兴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GoldSunTV.png" group-title="台湾频道",国兴卫视
 http://ublive.fhtv.top/UBlive.php?id=65
-#EXTINF:-1 group-title="台湾频道" ,希望电视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",希望电视
 http://ublive.fhtv.top/UBlive.php?id=67
-#EXTINF:-1 group-title="台湾频道" ,达文西频道
+#EXTINF:-1 tvg-id="6186" tvg-name="达文西频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/davinci.png" group-title="台湾频道",达文西频道
 http://ublive.fhtv.top/UBlive.php?id=68
-#EXTINF:-1 group-title="台湾频道" ,时尚运动X
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",时尚运动X
 http://ublive.fhtv.top/UBlive.php?id=71
-#EXTINF:-1 group-title="台湾频道" ,韩国娱乐
+#EXTINF:-1 tvg-id="6161" tvg-name="韩国娱乐台KMTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/KMTV.png" group-title="台湾频道",韩国娱乐
 http://ublive.fhtv.top/UBlive.php?id=73
-#EXTINF:-1 group-title="台湾频道" ,HakkqTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",HakkqTV
 http://ublive.fhtv.top/UBlive.php?id=76
-#EXTINF:-1 group-title="台湾频道" ,亚洲旅游
+#EXTINF:-1 tvg-id="6172" tvg-name="亚洲旅游台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="台湾频道",亚洲旅游
 http://ublive.fhtv.top/UBlive.php?id=77
-#EXTINF:-1 group-title="台湾频道" ,卫视体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",卫视体育
 http://ublive.fhtv.top/UBlive.php?id=79
-#EXTINF:-1 group-title="台湾频道" ,智林体育
+#EXTINF:-1 tvg-id="7182" tvg-name="智林体育" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/智林体育台.png" group-title="台湾频道",智林体育
 http://ublive.fhtv.top/UBlive.php?id=82
-#EXTINF:-1 group-title="台湾频道" ,CinemaWorld
+#EXTINF:-1 tvg-id="871" tvg-name="cinemaworld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="台湾频道",CinemaWorld
 http://ublive.fhtv.top/UBlive.php?id=84
-#EXTINF:-1 group-title="台湾频道" ,爆笑频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",爆笑频道
 http://ublive.fhtv.top/UBlive.php?id=85
-#EXTINF:-1 group-title="台湾频道" ,AMC最爱电影
+#EXTINF:-1 tvg-id="7165" tvg-name="AMC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AMC.png" group-title="台湾频道",AMC最爱电影
 http://ublive.fhtv.top/UBlive.php?id=92
-#EXTINF:-1 group-title="台湾频道" ,世新综合5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",世新综合5
 http://ublive.fhtv.top/UBlive.php?id=95
-#EXTINF:-1 group-title="台湾频道" ,高点综合
+#EXTINF:-1 tvg-id="6062" tvg-name="高点综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TOPTVHD.png" group-title="台湾频道",高点综合
 http://ublive.fhtv.top/UBlive.php?id=99
-#EXTINF:-1 group-title="台湾频道" ,人間衛視
+#EXTINF:-1 tvg-id="6029" tvg-name="人间卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="台湾频道",人间卫视
 http://ublive.fhtv.top/UBlive.php?id=101
-#EXTINF:-1 group-title="台湾频道" ,好消息TV
+#EXTINF:-1 tvg-id="6033" tvg-name="GoodTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GoodTV.png" group-title="台湾频道",好消息TV
 http://ublive.fhtv.top/UBlive.php?id=104
-#EXTINF:-1 group-title="台湾频道" ,国兴卫视
+#EXTINF:-1 tvg-id="6096" tvg-name="国兴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GoldSunTV.png" group-title="台湾频道",国兴卫视
 http://ublive.fhtv.top/UBlive.php?id=105
-#EXTINF:-1 group-title="台湾频道" ,博斯魅力
+#EXTINF:-1 tvg-id="6179" tvg-name="博斯魅力网" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-trendsport.png" group-title="台湾频道",博斯魅力
 http://ublive.fhtv.top/UBlive.php?id=175
-#EXTINF:-1 group-title="台湾频道" ,大爱
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",大爱
 http://ublive.fhtv.top/UBlive.php?id=184
-#EXTINF:-1 group-title="台湾频道" ,金光布袋戲
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",金光布袋戏
 http://ublive.fhtv.top/UBlive.php?id=1060
-#EXTINF:-1 group-title="台湾频道" ,第1商业
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",第1商业
 http://ublive.fhtv.top/UBlive.php?id=186
-#EXTINF:-1 group-title="台湾频道" ,EYE戏剧
+#EXTINF:-1 tvg-id="7222" tvg-name="EYE戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyexiju.png" group-title="台湾频道",EYE戏剧
 http://ublive.fhtv.top/UBlive.php?id=191
-#EXTINF:-1 group-title="台湾频道" ,Nick儿童
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",Nick儿童
 http://ublive.fhtv.top/UBlive.php?id=50
-#EXTINF:-1 group-title="台湾频道" ,Boomerang
+#EXTINF:-1 tvg-id="6188" tvg-name="Boomerang" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BOOMERANG.png" group-title="台湾频道",Boomerang
 http://ublive.fhtv.top/UBlive.php?id=57
-#EXTINF:-1 group-title="台湾频道" ,AFN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",AFN
 http://ublive.fhtv.top/UBlive.php?id=195
-#EXTINF:-1 group-title="台湾频道" ,中文字Smithsonian
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",中文字Smithsonian
 http://ublive.fhtv.top/UBlive.php?id=291
-#EXTINF:-1 group-title="台湾频道" ,中文字FoodNetwork
+#EXTINF:-1 tvg-id="6158" tvg-name="FoodNetwork美食台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoodNetwork.png" group-title="台湾频道",中文字FoodNetwork
 http://ublive.fhtv.top/UBlive.php?id=294
-#EXTINF:-1 group-title="台湾频道" ,Eleven 体育2
+#EXTINF:-1 tvg-id="7149" tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="台湾频道",Eleven 体育2
 http://ublive.fhtv.top/UBlive.php?id=301
-#EXTINF:-1 group-title="台湾频道" ,国家地理
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="台湾频道",国家地理
 http://ublive.fhtv.top/UBlive.php?id=302
-#EXTINF:-1 group-title="台湾频道" ,非凡商业
+#EXTINF:-1 tvg-id="6107" tvg-name="非凡商业台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueUSTVHDUSTVHD.png" group-title="台湾频道",非凡商业
 http://ublive.fhtv.top/UBlive.php?id=187
-#EXTINF:-1 group-title="台湾频道" ,年代新闻
+#EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="台湾频道",年代新闻
 http://ublive.fhtv.top/UBlive.php?id=236
-#EXTINF:-1 group-title="台湾频道" ,探索亚洲
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",探索亚洲
 http://ublive.fhtv.top/UBlive.php?id=306
-#EXTINF:-1 group-title="台湾频道" ,探索频道
+#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="台湾频道",探索频道
 http://ublive.fhtv.top/UBlive.php?id=1035
-#EXTINF:-1 group-title="台湾频道" ,国家野生
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",国家野生
 http://ublive.fhtv.top/UBlive.php?id=1038
-#EXTINF:-1 group-title="台湾频道" ,AFN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",AFN
 http://ublive.fhtv.top/UBlive.php?id=307
-#EXTINF:-1 group-title="台湾频道" ,空中英语教
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",空中英语教
 http://ublive.fhtv.top/UBlive.php?id=313
-#EXTINF:-1 group-title="台湾频道" ,非凡新闻
+#EXTINF:-1 tvg-id="6076" tvg-name="非凡新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" group-title="台湾频道",非凡新闻
 http://ublive.fhtv.top/UBlive.php?id=314
-#EXTINF:-1 group-title="台湾频道" ,立综合台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",立综合台
 http://ublive.fhtv.top/UBlive.php?id=315
-#EXTINF:-1 group-title="台湾频道" ,曼迪日本台
+#EXTINF:-1 tvg-id="7223" tvg-name="曼迪日本" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mandi_japan.png" group-title="台湾频道",曼迪日本台
 http://ublive.fhtv.top/UBlive.php?id=316
-#EXTINF:-1 group-title="台湾频道" ,中华财经台
+#EXTINF:-1 tvg-id="6109" tvg-name="中华财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChineseSecuritiesTV.png" group-title="台湾频道",中华财经台
 http://ublive.fhtv.top/UBlive.php?id=317
-#EXTINF:-1 group-title="台湾频道" ,生活英语台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",生活英语台
 http://ublive.fhtv.top/UBlive.php?id=323
-#EXTINF:-1 group-title="台湾频道" ,探索科学
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",探索科学
 http://ublive.fhtv.top/UBlive.php?id=343
-#EXTINF:-1 group-title="台湾频道" ,ELTA娱乐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",ELTA娱乐
 http://ublive.fhtv.top/UBlive.php?id=351
-#EXTINF:-1 group-title="台湾频道" ,CATCHPLAY电影台
+#EXTINF:-1 tvg-id="7206" tvg-name="CatchPlay电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/catchplay.png" group-title="台湾频道",CATCHPLAY电影台
 http://ublive.fhtv.top/UBlive.php?id=362
-#EXTINF:-1 group-title="台湾频道" ,好消息2
+#EXTINF:-1 tvg-id="578" tvg-name="GoodTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GoodTV2.png" group-title="台湾频道",好消息2
 http://ublive.fhtv.top/UBlive.php?id=363
-#EXTINF:-1 group-title="台湾频道" ,卫视西片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",卫视西片
 http://ublive.fhtv.top/UBlive.php?id=369
-#EXTINF:-1 group-title="台湾频道" ,Love Nature
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",Love Nature
 http://ublive.fhtv.top/UBlive.php?id=388
-#EXTINF:-1 group-title="台湾频道" ,TV5MONDE STYLE
+#EXTINF:-1 tvg-id="731" tvg-name="TV5Monde" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tv5monde.png" group-title="台湾频道",TV5MONDE STYLE
 http://ublive.fhtv.top/UBlive.php?id=389
-#EXTINF:-1 group-title="台湾频道" ,ELTA影剧
+#EXTINF:-1 tvg-id="7201" tvg-name="爱尔达影剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_yingju.png" group-title="台湾频道",ELTA影剧
 http://ublive.fhtv.top/UBlive.php?id=500
-#EXTINF:-1 group-title="台湾频道" ,CLASSICA 古典乐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",CLASSICA 古典乐
 http://ublive.fhtv.top/UBlive.php?id=1027
-#EXTINF:-1 group-title="台湾频道" ,ELTA综合
+#EXTINF:-1 tvg-id="7219" tvg-name="爱尔达综合" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_zonghehd.png" group-title="台湾频道",ELTA综合
 http://ublive.fhtv.top/UBlive.php?id=1137
-#EXTINF:-1 group-title="台湾频道" ,MOMO親子台
+#EXTINF:-1 tvg-id="6042" tvg-name="MOMO亲子台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" group-title="台湾频道",MOMO亲子台
 http://ublive.fhtv.top/UBlive.php?id=1149
-#EXTINF:-1 group-title="台湾频道" ,CN卡通频道
+#EXTINF:-1 tvg-id="673" tvg-name="CN卡通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNCartoon.png" group-title="台湾频道",CN卡通频道
 http://ublive.fhtv.top/UBlive.php?id=107
-#EXTINF:-1 group-title="台湾频道" ,爱放
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",爱放
 http://ublive.fhtv.top/UBlive.php?id=1127
-#EXTINF:-1 group-title="台湾频道" ,爱放2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",爱放2
 http://ublive.fhtv.top/UBlive.php?id=299
-#EXTINF:-1 group-title="台湾频道" ,愛放3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",爱放3
 http://ublive.fhtv.top/UBlive.php?id=259
-#EXTINF:-1 group-title="台湾频道" ,唯心電視
+#EXTINF:-1 tvg-id="7229" tvg-name="唯心电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" group-title="台湾频道",唯心电视
 http://ublive.fhtv.top/UBlive.php?id=1150
-#EXTINF:-1 group-title="台湾频道" ,光影歐洲
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",光影欧洲
 http://ublive.fhtv.top/UBlive.php?id=1157
-#EXTINF:-1 group-title="台湾频道" ,History 2
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="台湾频道",History 2
 http://ublive.fhtv.top/UBlive.php?id=1158
-#EXTINF:-1 group-title="台湾频道" ,CI罪案偵查
+#EXTINF:-1 tvg-id="7178" tvg-name="CI" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CrimeInvestigation.png" group-title="台湾频道",CI罪案侦查
 http://ublive.fhtv.top/UBlive.php?id=1159
-#EXTINF:-1 group-title="台湾频道" ,AXN亞洲
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",AXN亚洲
 http://ublive.fhtv.top/UBlive.php?id=1066
-#EXTINF:-1 group-title="台湾频道" ,MOMO亲子
+#EXTINF:-1 tvg-id="6042" tvg-name="MOMO亲子台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" group-title="台湾频道",MOMO亲子
 http://ublive.fhtv.top/UBlive.php?id=1126
-#EXTINF:-1 group-title="台湾频道" ,Z频道
+#EXTINF:-1 tvg-id="6122" tvg-name="Z频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ZChannel.png" group-title="台湾频道",Z频道
 http://ublive.fhtv.top/UBlive.php?id=1130
-#EXTINF:-1 group-title="台湾频道" ,Cartoon
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",Cartoon
 http://ublive.fhtv.top/UBlive.php?id=48
-#EXTINF:-1 group-title="台湾频道" ,FOX 体育1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",FOX 体育1
 http://ublive.fhtv.top/UBlive.php?id=1131
-#EXTINF:-1 group-title="台湾频道" ,FOX 体育2
+#EXTINF:-1 tvg-id="6092" tvg-name="FOXSports2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports2.png" group-title="台湾频道",FOX 体育2
 http://ublive.fhtv.top/UBlive.php?id=1132
-#EXTINF:-1 group-title="台湾频道" ,FOX
+#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="台湾频道",FOX
 http://ublive.fhtv.top/UBlive.php?id=384
-#EXTINF:-1 group-title="台湾频道" ,FOX ACTION
+#EXTINF:-1 tvg-id="870" tvg-name="FOXActionMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="台湾频道",FOX ACTION
 http://ublive.fhtv.top/UBlive.php?id=385
-#EXTINF:-1 group-title="台湾频道" ,FOX CRIME
+#EXTINF:-1 tvg-id="354" tvg-name="FOXCRIME" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXCRIME.png" group-title="台湾频道",FOX CRIME
 http://ublive.fhtv.top/UBlive.php?id=386
-#EXTINF:-1 group-title="台湾频道" ,Eleven 体育1
+#EXTINF:-1 tvg-id="6093" tvg-name="ELEVEN体育一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" group-title="台湾频道",Eleven 体育1
 http://ublive.fhtv.top/UBlive.php?id=1133
-#EXTINF:-1 group-title="台湾频道" ,TRACE体育Stars
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",TRACE体育Stars
 http://ublive.fhtv.top/UBlive.php?id=1037
-#EXTINF:-1 group-title="台湾频道" ,动物星球1
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="台湾频道",动物星球1
 http://ublive.fhtv.top/UBlive.php?id=367
-#EXTINF:-1 group-title="台湾频道" ,动物星球2
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="台湾频道",动物星球2
 http://ublive.fhtv.top/UBlive.php?id=368
-#EXTINF:-1 group-title="台湾频道" ,博斯高球1
+#EXTINF:-1 tvg-id="6177" tvg-name="博斯高球1台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports-golfch.png" group-title="台湾频道",博斯高球1
 http://ublive.fhtv.top/UBlive.php?id=377
-#EXTINF:-1 group-title="台湾频道" ,博斯无限
+#EXTINF:-1 tvg-id="6176" tvg-name="博斯无限台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_unlimited.png" group-title="台湾频道",博斯无限
 http://ublive.fhtv.top/UBlive.php?id=381
-#EXTINF:-1 group-title="台湾频道" ,博斯无限2
+#EXTINF:-1 tvg-id="6181" tvg-name="博斯无限二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_unlimited2.png" group-title="台湾频道",博斯无限2
 http://ublive.fhtv.top/UBlive.php?id=426
-#EXTINF:-1 group-title="台湾频道" ,博斯高球2
+#EXTINF:-1 tvg-id="6178" tvg-name="博斯高球2台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-golfplus.png" group-title="台湾频道",博斯高球2
 http://ublive.fhtv.top/UBlive.php?id=378
-#EXTINF:-1 group-title="台湾频道" ,博斯运动1
+#EXTINF:-1 tvg-id="6180" tvg-name="博斯运动一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-sports_net.png" group-title="台湾频道",博斯运动1
 http://ublive.fhtv.top/UBlive.php?id=379
-#EXTINF:-1 group-title="台湾频道" ,博斯运动2
+#EXTINF:-1 tvg-id="6174" tvg-name="博斯运动二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png" group-title="台湾频道",博斯运动2
 http://ublive.fhtv.top/UBlive.php?id=380
-#EXTINF:-1 group-title="台湾频道" ,博斯网球
+#EXTINF:-1 tvg-id="6175" tvg-name="博斯网球台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_tennis.png" group-title="台湾频道",博斯网球
 http://ublive.fhtv.top/UBlive.php?id=498
-#EXTINF:-1 group-title="台湾频道" ,ELTA体育1台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",ELTA体育1台
 http://ublive.fhtv.top/UBlive.php?id=192
-#EXTINF:-1 group-title="台湾频道" ,ELTA体育2台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",ELTA体育2台
 http://ublive.fhtv.top/UBlive.php?id=193
-#EXTINF:-1 group-title="台湾频道" ,ELTA体育3台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",ELTA体育3台
 http://ublive.fhtv.top/UBlive.php?id=194
-
-#EXTINF:-1 group-title="港澳频道" ,18台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳频道",18台
 http://ublive.fhtv.top/UBlive.php?id=44
-#EXTINF:-1 group-title="港澳频道" ,翡翠台1
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳频道",翡翠台1
 http://ublive.fhtv.top/UBlive.php?id=390
-#EXTINF:-1 group-title="港澳频道" ,翡翠台2
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳频道",翡翠台2
 http://ublive.fhtv.top/UBlive.php?id=1084
-#EXTINF:-1 group-title="港澳频道" ,明珠台
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳频道",明珠台
 http://ublive.fhtv.top/UBlive.php?id=391
-#EXTINF:-1 group-title="港澳频道" ,J2
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港澳频道",J2
 http://ublive.fhtv.top/UBlive.php?id=392
-#EXTINF:-1 group-title="港澳频道" ,香港开电视
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港澳频道",香港开电视
 http://ublive.fhtv.top/UBlive.php?id=17
-#EXTINF:-1 group-title="港澳频道" ,澳门卫星
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳频道",澳门卫星
 http://ublive.fhtv.top/UBlive.php?id=29
-#EXTINF:-1 group-title="港澳频道" ,美国唐人街台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳频道",美国唐人街台
 http://ublive.fhtv.top/UBlive.php?id=43
-#EXTINF:-1 group-title="港澳频道" ,RTHK31
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳频道",RTHK31
 http://ublive.fhtv.top/UBlive.php?id=353
-#EXTINF:-1 group-title="港澳频道" ,RTHK32
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳频道",RTHK32
 http://ublive.fhtv.top/UBlive.php?id=397
-#EXTINF:-1 group-title="港澳频道" ,有线娱乐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳频道",有线娱乐
 http://ublive.fhtv.top/UBlive.php?id=360
-#EXTINF:-1 group-title="港澳频道" ,有线体育2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳频道",有线体育2
 http://ublive.fhtv.top/UBlive.php?id=356
-#EXTINF:-1 group-title="港澳频道" ,无线财经
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳频道",无线财经
 http://ublive.fhtv.top/UBlive.php?id=393
-#EXTINF:-1 group-title="港澳频道" ,无线新闻
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳频道",无线新闻
 http://ublive.fhtv.top/UBlive.php?id=394
-#EXTINF:-1 group-title="港澳频道" ,有线新闻
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳频道",有线新闻
 http://ublive.fhtv.top/UBlive.php?id=395
-#EXTINF:-1 group-title="港澳频道" ,无线新闻
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳频道",无线新闻
 http://ublive.fhtv.top/UBlive.php?id=45
-#EXTINF:-1 group-title="港澳频道" ,澳门莲花
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳频道",澳门莲花
 http://ublive.fhtv.top/UBlive.php?id=70
-#EXTINF:-1 group-title="港澳频道" ,ViUtv
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳频道",ViUtv
 http://ublive.fhtv.top/UBlive.php?id=72
-#EXTINF:-1 group-title="港澳频道" ,星卫娱乐台
+#EXTINF:-1 tvg-id="7203" tvg-name="星卫娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmovieyule.png" group-title="港澳频道",星卫娱乐台
 http://ublive.fhtv.top/UBlive.php?id=89
-#EXTINF:-1 group-title="港澳频道" ,卫视电影
+#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="港澳频道",卫视电影
 http://ublive.fhtv.top/UBlive.php?id=93
-#EXTINF:-1 group-title="港澳频道" ,星卫电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳频道",星卫电影
 http://ublive.fhtv.top/UBlive.php?id=496
-#EXTINF:-1 group-title="港澳频道" ,影迷数位电影
+#EXTINF:-1 tvg-id="7185" tvg-name="影迷数位电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/影迷电影.png" group-title="港澳频道",影迷数位电影
 http://ublive.fhtv.top/UBlive.php?id=497
-#EXTINF:-1 group-title="港澳频道" ,有线电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳频道",有线电影
 http://ublive.fhtv.top/UBlive.php?id=354
-#EXTINF:-1 group-title="港澳频道" ,澳视葡语
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳频道",澳视葡语
 http://ublive.fhtv.top/UBlive.php?id=24
-#EXTINF:-1 group-title="港澳频道" ,凤凰资讯
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳频道",凤凰资讯
 http://ublive.fhtv.top/UBlive.php?id=1080
-#EXTINF:-1 group-title="港澳频道" ,凤凰电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳频道",凤凰电影
 http://ublive.fhtv.top/UBlive.php?id=18
-#EXTINF:-1 group-title="港澳频道" ,凤凰电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳频道",凤凰电影
 http://ublive.fhtv.top/UBlive.php?id=19
-#EXTINF:-1 group-title="港澳频道" ,凤凰资讯
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳频道",凤凰资讯
 http://ublive.fhtv.top/UBlive.php?id=21
-#EXTINF:-1 group-title="港澳频道" ,凤凰中文
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳频道",凤凰中文
 http://ublive.fhtv.top/UBlive.php?id=357
-#EXTINF:-1 group-title="港澳频道" ,凤凰香港
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳频道",凤凰香港
 http://ublive.fhtv.top/UBlive.php?id=358
-#EXTINF:-1 group-title="港澳频道" ,凤凰资讯
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳频道",凤凰资讯
 http://ublive.fhtv.top/UBlive.php?id=359
-#EXTINF:-1 group-title="港澳频道" ,香港卫视
+#EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港澳频道",香港卫视
 http://ublive.fhtv.top/UBlive.php?id=399
-#EXTINF:-1 group-title="港澳频道" ,美亚电影
+#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="港澳频道",美亚电影
 http://ublive.fhtv.top/UBlive.php?id=375
-#EXTINF:-1 group-title="港澳频道" ,NOW新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳频道",NOW新闻
 http://ublive.fhtv.top/UBlive.php?id=396
-#EXTINF:-1 group-title="港澳频道" ,NOW直播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳频道",NOW直播
 http://ublive.fhtv.top/UBlive.php?id=400
-#EXTINF:-1 group-title="港澳频道" ,有线体育1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳频道",有线体育1
 http://ublive.fhtv.top/UBlive.php?id=401
-#EXTINF:-1 group-title="港澳频道" ,翡翠台
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳频道",翡翠台
 http://ublive.fhtv.top/UBlive.php?id=429
-#EXTINF:-1 group-title="港澳频道" ,新时代温哥华
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳频道",新时代温哥华
 http://ublive.fhtv.top/UBlive.php?id=1032
-#EXTINF:-1 group-title="港澳频道" ,新时代多伦多2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳频道",新时代多伦多2
 http://ublive.fhtv.top/UBlive.php?id=1033
-#EXTINF:-1 group-title="港澳频道" ,TVB星河
+#EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="港澳频道",TVB星河
 http://ublive.fhtv.top/UBlive.php?id=1079
-#EXTINF:-1 group-title="港澳频道" ,卫视卡式台
+#EXTINF:-1 tvg-id="526" tvg-name="卫视卡式台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weishikashi.png" group-title="港澳频道",卫视卡式台
 http://ublive.fhtv.top/UBlive.php?id=1085
-
-#EXTINF:-1 group-title="新马频道" ,新马-双星
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马-双星
 http://ublive.fhtv.top/UBlive.php?id=1086
-#EXTINF:-1 group-title="新马频道" ,新马CERIA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马CERIA
 http://ublive.fhtv.top/UBlive.php?id=1161
-#EXTINF:-1 group-title="新马频道" ,新马AOD351
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马AOD351
 http://ublive.fhtv.top/UBlive.php?id=1162
-#EXTINF:-1 group-title="新马频道" ,新马AOD352
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马AOD352
 http://ublive.fhtv.top/UBlive.php?id=1163
-#EXTINF:-1 group-title="新马频道" ,新马AOD353
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马AOD353
 http://ublive.fhtv.top/UBlive.php?id=1164
-#EXTINF:-1 group-title="新马频道" ,新马AOD354
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马AOD354
 http://ublive.fhtv.top/UBlive.php?id=1165
-#EXTINF:-1 group-title="新马频道" ,新马AOD355
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马AOD355
 http://ublive.fhtv.top/UBlive.php?id=1166
-#EXTINF:-1 group-title="新马频道" ,新马WWE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马WWE
 http://ublive.fhtv.top/UBlive.php?id=1167
-#EXTINF:-1 group-title="新马频道" ,新马EGG
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马EGG
 http://ublive.fhtv.top/UBlive.php?id=1168
-#EXTINF:-1 group-title="新马频道" ,新马OKTO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马OKTO
 http://ublive.fhtv.top/UBlive.php?id=1169
-#EXTINF:-1 group-title="新马频道" ,新马TVN
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="新马频道",新马TVN
 http://ublive.fhtv.top/UBlive.php?id=1170
-#EXTINF:-1 group-title="新马频道" ,新马BNC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马BNC
 http://ublive.fhtv.top/UBlive.php?id=1171
-#EXTINF:-1 group-title="新马频道" ,新马Arena
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马Arena
 http://ublive.fhtv.top/UBlive.php?id=1172
-#EXTINF:-1 group-title="新马频道" ,新马CRICKET
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马CRICKET
 http://ublive.fhtv.top/UBlive.php?id=1173
-#EXTINF:-1 group-title="新马频道" ,新马IKIM TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马IKIM TV
 http://ublive.fhtv.top/UBlive.php?id=1147
-#EXTINF:-1 group-title="新马频道" ,新马AOD353
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马AOD353
 http://ublive.fhtv.top/UBlive.php?id=1067
-#EXTINF:-1 group-title="新马频道" ,新马AOD354
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马AOD354
 http://ublive.fhtv.top/UBlive.php?id=1068
-#EXTINF:-1 group-title="新马频道" ,新马AOD355
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马AOD355
 http://ublive.fhtv.top/UBlive.php?id=1069
-#EXTINF:-1 group-title="新马频道" ,新马ASSP1_
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马ASSP1_
 http://ublive.fhtv.top/UBlive.php?id=1070
-#EXTINF:-1 group-title="新马频道" ,新马ASSP2_
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马ASSP2_
 http://ublive.fhtv.top/UBlive.php?id=1071
-#EXTINF:-1 group-title="新马频道" ,新马ASSP3_
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马ASSP3_
 http://ublive.fhtv.top/UBlive.php?id=1072
-#EXTINF:-1 group-title="新马频道" ,新马AEC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马AEC
 http://ublive.fhtv.top/UBlive.php?id=1073
-#EXTINF:-1 group-title="新马频道" ,新马ASSP4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马ASSP4
 http://ublive.fhtv.top/UBlive.php?id=1074
-#EXTINF:-1 group-title="新马频道" ,新马OKEY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马OKEY
 http://ublive.fhtv.top/UBlive.php?id=1075
-#EXTINF:-1 group-title="新马频道" ,新马Suria
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马Suria
 http://ublive.fhtv.top/UBlive.php?id=1076
-#EXTINF:-1 group-title="新马频道" ,新马Channel U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马Channel U
 http://ublive.fhtv.top/UBlive.php?id=1077
-#EXTINF:-1 group-title="新马频道" ,新马Vasantham
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马Vasantham
 http://ublive.fhtv.top/UBlive.php?id=1078
-#EXTINF:-1 group-title="新马频道" ,新马AXN
+#EXTINF:-1 tvg-id="6085" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="新马频道",新马AXN
 http://ublive.fhtv.top/UBlive.php?id=1044
-#EXTINF:-1 group-title="新马频道" ,新马BNC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马BNC
 http://ublive.fhtv.top/UBlive.php?id=1045
-#EXTINF:-1 group-title="新马频道" ,新马ARENA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马ARENA
 http://ublive.fhtv.top/UBlive.php?id=1049
-#EXTINF:-1 group-title="新马频道" ,新马AOD351
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马AOD351
 http://ublive.fhtv.top/UBlive.php?id=1050
-#EXTINF:-1 group-title="新马频道" ,新马-全佳
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马-全佳
 http://ublive.fhtv.top/UBlive.php?id=427
-#EXTINF:-1 group-title="新马频道" ,新马-AOD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马-AOD
 http://ublive.fhtv.top/UBlive.php?id=428
-#EXTINF:-1 group-title="新马频道" ,新马-双星
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马-双星
 http://ublive.fhtv.top/UBlive.php?id=431
-#EXTINF:-1 group-title="新马频道" ,新马-欢喜台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马-欢喜台
 http://ublive.fhtv.top/UBlive.php?id=432
-#EXTINF:-1 group-title="新马频道" ,新马Astro AEC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马Astro AEC
 http://ublive.fhtv.top/UBlive.php?id=433
-#EXTINF:-1 group-title="新马频道" ,新马Astro suria
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马Astro suria
 http://ublive.fhtv.top/UBlive.php?id=434
-#EXTINF:-1 group-title="新马频道" ,新马TV1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马TV1
 http://ublive.fhtv.top/UBlive.php?id=435
-#EXTINF:-1 group-title="新马频道" ,新马TV2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马TV2
 http://ublive.fhtv.top/UBlive.php?id=436
-#EXTINF:-1 group-title="新马频道" ,新马TV3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马TV3
 http://ublive.fhtv.top/UBlive.php?id=437
-#EXTINF:-1 group-title="新马频道" ,新马TV9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马TV9
 http://ublive.fhtv.top/UBlive.php?id=438
-#EXTINF:-1 group-title="新马频道" ,新马NTV7 Awani
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马NTV7 Awani
 http://ublive.fhtv.top/UBlive.php?id=439
-#EXTINF:-1 group-title="新马频道" ,新马Astro Awani
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马Astro Awani
 http://ublive.fhtv.top/UBlive.php?id=440
-#EXTINF:-1 group-title="新马频道" ,新马-天映
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马-天映
 http://ublive.fhtv.top/UBlive.php?id=441
-#EXTINF:-1 group-title="新马频道" ,新马TV8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马TV8
 http://ublive.fhtv.top/UBlive.php?id=442
-#EXTINF:-1 group-title="新马频道" ,新马AOD352
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马AOD352
 http://ublive.fhtv.top/UBlive.php?id=450
-#EXTINF:-1 group-title="新马频道" ,新马Channel5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马Channel5
 http://ublive.fhtv.top/UBlive.php?id=141
-#EXTINF:-1 group-title="新马频道" ,新马Channel8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马Channel8
 http://ublive.fhtv.top/UBlive.php?id=142
-#EXTINF:-1 group-title="新马频道" ,新马AWANI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="新马频道",新马AWANI
 http://ublive.fhtv.top/UBlive.php?id=1151
-
-#EXTINF:-1 group-title="英美加印" ,Disney j
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",Disney j
 http://ublive.fhtv.top/UBlive.php?id=47
-#EXTINF:-1 group-title="英美加印" ,Disneyxd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",Disneyxd
 http://ublive.fhtv.top/UBlive.php?id=31
-#EXTINF:-1 group-title="英美加印" ,Nickj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",Nickj
 http://ublive.fhtv.top/UBlive.php?id=53
-#EXTINF:-1 group-title="英美加印" ,Nickelodeon europe
+#EXTINF:-1 tvg-id="6184" tvg-name="Nickelodeon" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="英美加印",Nickelodeon europe
 http://ublive.fhtv.top/UBlive.php?id=56
-#EXTINF:-1 group-title="英美加印" ,BabyFirst
+#EXTINF:-1 tvg-id="7143" tvg-name="BabyFirst" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyFirst.png" group-title="英美加印",BabyFirst
 http://ublive.fhtv.top/UBlive.php?id=173
-#EXTINF:-1 group-title="英美加印" ,BBC CBeebies
+#EXTINF:-1 tvg-id="6187" tvg-name="CBeebies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CBeebies.png" group-title="英美加印",BBC CBeebies
 http://ublive.fhtv.top/UBlive.php?id=115
-#EXTINF:-1 group-title="英美加印" ,Babylu
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",Babylu
 http://ublive.fhtv.top/UBlive.php?id=1129
-#EXTINF:-1 group-title="英美加印" ,国外5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",国外5
 http://ublive.fhtv.top/UBlive.php?id=5
-#EXTINF:-1 group-title="英美加印" ,皇马足球
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",皇马足球
 http://ublive.fhtv.top/UBlive.php?id=20
-#EXTINF:-1 group-title="英美加印" ,VOA衛視
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",VOA卫视
 http://ublive.fhtv.top/UBlive.php?id=22
-#EXTINF:-1 group-title="英美加印" ,Animax
+#EXTINF:-1 tvg-id="7238" tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="英美加印",Animax
 http://ublive.fhtv.top/UBlive.php?id=60
-#EXTINF:-1 group-title="英美加印" ,Travel Channel
+#EXTINF:-1 tvg-id="6168" tvg-name="TravelChannel" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/travelchannel.png" group-title="英美加印",Travel Channel
 http://ublive.fhtv.top/UBlive.php?id=63
-#EXTINF:-1 group-title="英美加印" ,cnex
+#EXTINF:-1 tvg-id="7179" tvg-name="cnex" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cnex.png" group-title="英美加印",cnex
 http://ublive.fhtv.top/UBlive.php?id=91
-#EXTINF:-1 group-title="英美加印" ,M2O音乐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",M2O音乐
 http://ublive.fhtv.top/UBlive.php?id=94
-#EXTINF:-1 group-title="英美加印" ,BBC earth
+#EXTINF:-1 tvg-id="6189" tvg-name="BBCEarth" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png" group-title="英美加印",BBC earth
 http://ublive.fhtv.top/UBlive.php?id=97
-#EXTINF:-1 group-title="英美加印" ,BLVE ANT EXTREME
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",BLVE ANT EXTREME
 http://ublive.fhtv.top/UBlive.php?id=103
-#EXTINF:-1 group-title="英美加印" ,音樂-MTV Live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",音乐-MTV Live
 http://ublive.fhtv.top/UBlive.php?id=106
-#EXTINF:-1 group-title="英美加印" ,LUXE.TV
+#EXTINF:-1 tvg-id="7193" tvg-name="LUXETV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/luxetv.png" group-title="英美加印",LUXE.TV
 http://ublive.fhtv.top/UBlive.php?id=112
-#EXTINF:-1 group-title="英美加印" ,Fashion One
+#EXTINF:-1 tvg-id="7151" tvg-name="FashionOne" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fashionone.png" group-title="英美加印",Fashion One
 http://ublive.fhtv.top/UBlive.php?id=113
-#EXTINF:-1 group-title="英美加印" ,History
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="英美加印",History
 http://ublive.fhtv.top/UBlive.php?id=116
-#EXTINF:-1 group-title="英美加印" ,英國-BBC 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",英国-BBC 1
 http://ublive.fhtv.top/UBlive.php?id=158
-#EXTINF:-1 group-title="英美加印" ,英國-BBC Parliament
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",英国-BBC Parliament
 http://ublive.fhtv.top/UBlive.php?id=159
-#EXTINF:-1 group-title="英美加印" ,英國-BBC Entertainment
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",英国-BBC Entertainment
 http://ublive.fhtv.top/UBlive.php?id=160
-#EXTINF:-1 group-title="英美加印" ,英國-BBC Alba
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",英国-BBC Alba
 http://ublive.fhtv.top/UBlive.php?id=161
-#EXTINF:-1 group-title="英美加印" ,英國-BBC Parliament
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",英国-BBC Parliament
 http://ublive.fhtv.top/UBlive.php?id=162
-#EXTINF:-1 group-title="英美加印" ,英國-BBC News
+#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="英美加印",英国-BBC News
 http://ublive.fhtv.top/UBlive.php?id=164
-#EXTINF:-1 group-title="英美加印" ,英国-BBC 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",英国-BBC 2
 http://ublive.fhtv.top/UBlive.php?id=157
-#EXTINF:-1 group-title="英美加印" ,BT Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",BT Sport 1
 http://ublive.fhtv.top/UBlive.php?id=165
-#EXTINF:-1 group-title="英美加印" ,BT Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",BT Sport 2
 http://ublive.fhtv.top/UBlive.php?id=166
-#EXTINF:-1 group-title="英美加印" ,BT Sport 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",BT Sport 3
 http://ublive.fhtv.top/UBlive.php?id=167
-#EXTINF:-1 group-title="英美加印" ,BT Sport ESPN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",BT Sport ESPN
 http://ublive.fhtv.top/UBlive.php?id=168
-#EXTINF:-1 group-title="英美加印" ,英国-Channel 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",英国-Channel 4
 http://ublive.fhtv.top/UBlive.php?id=169
-#EXTINF:-1 group-title="英美加印" ,ESPN-U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",ESPN-U
 http://ublive.fhtv.top/UBlive.php?id=170
-#EXTINF:-1 group-title="英美加印" ,Sky Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",Sky Sport 2
 http://ublive.fhtv.top/UBlive.php?id=171
-#EXTINF:-1 group-title="英美加印" ,Sky Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",Sky Sports 1
 http://ublive.fhtv.top/UBlive.php?id=172
-#EXTINF:-1 group-title="英美加印" ,車迷TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",车迷TV
 http://ublive.fhtv.top/UBlive.php?id=352
-#EXTINF:-1 group-title="英美加印" ,VIUTV6
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="英美加印",VIUTV6
 http://ublive.fhtv.top/UBlive.php?id=176
-#EXTINF:-1 group-title="英美加印" ,体育MainEvent
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",体育MainEvent
 http://ublive.fhtv.top/UBlive.php?id=177
-#EXTINF:-1 group-title="英美加印" ,Sky Sports Action
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",Sky Sports Action
 http://ublive.fhtv.top/UBlive.php?id=178
-#EXTINF:-1 group-title="英美加印" ,Sky Sports Cricket
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",Sky Sports Cricket
 http://ublive.fhtv.top/UBlive.php?id=179
-#EXTINF:-1 group-title="英美加印" ,Sky Sports Golf
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",Sky Sports Golf
 http://ublive.fhtv.top/UBlive.php?id=180
-#EXTINF:-1 group-title="英美加印" ,Sky Sports PremierLeague
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",Sky Sports PremierLeague
 http://ublive.fhtv.top/UBlive.php?id=181
-#EXTINF:-1 group-title="英美加印" ,Sky Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",Sky Sports
 http://ublive.fhtv.top/UBlive.php?id=182
-#EXTINF:-1 group-title="英美加印" ,Sky Sport 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",Sky Sport 3
 http://ublive.fhtv.top/UBlive.php?id=183
-#EXTINF:-1 group-title="英美加印" ,Medici Arts
+#EXTINF:-1 tvg-id="6173" tvg-name="梅迪奇艺术" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/medici-arts.png" group-title="英美加印",Medici Arts
 http://ublive.fhtv.top/UBlive.php?id=188
-#EXTINF:-1 group-title="英美加印" ,Bloomberg Europe
+#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="英美加印",Bloomberg Europe
 http://ublive.fhtv.top/UBlive.php?id=370
-#EXTINF:-1 group-title="英美加印" ,VTV4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",VTV4
 http://ublive.fhtv.top/UBlive.php?id=341
-#EXTINF:-1 group-title="英美加印" ,FOX Sport 3
+#EXTINF:-1 tvg-id="508" tvg-name="FoxSports3" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoxSports3.png" group-title="英美加印",FOX Sport 3
 http://ublive.fhtv.top/UBlive.php?id=376
-#EXTINF:-1 group-title="英美加印" ,FOX Family
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",FOX Family
 http://ublive.fhtv.top/UBlive.php?id=383
-#EXTINF:-1 group-title="英美加印" ,CW LIVE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",CW LIVE
 http://ublive.fhtv.top/UBlive.php?id=420
-#EXTINF:-1 group-title="英美加印" ,BBC world news
+#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="英美加印",BBC world news
 http://ublive.fhtv.top/UBlive.php?id=421
-#EXTINF:-1 group-title="英美加印" ,BBC lifestyle
+#EXTINF:-1 tvg-id="6147" tvg-name="BBCLifestyle" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" group-title="英美加印",BBC lifestyle
 http://ublive.fhtv.top/UBlive.php?id=424
-#EXTINF:-1 group-title="英美加印" ,Ginx csrortstv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",Ginx csrortstv
 http://ublive.fhtv.top/UBlive.php?id=425
-#EXTINF:-1 group-title="英美加印" ,探索EVE
+#EXTINF:-1 tvg-id="6164" tvg-name="EVE" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EVE.png" group-title="英美加印",探索EVE
 http://ublive.fhtv.top/UBlive.php?id=1036
-#EXTINF:-1 group-title="英美加印" ,體育-WWE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",体育-WWE
 http://ublive.fhtv.top/UBlive.php?id=1081
-#EXTINF:-1 group-title="英美加印" ,FOX WILD CARA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",FOX WILD CARA
 http://ublive.fhtv.top/UBlive.php?id=1083
-#EXTINF:-1 group-title="英美加印" ,印尼-Karaoke
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",印尼-Karaoke
 http://ublive.fhtv.top/UBlive.php?id=1141
-#EXTINF:-1 group-title="英美加印" ,印尼-Jakarta Globe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",印尼-Jakarta Globe
 http://ublive.fhtv.top/UBlive.php?id=1142
-#EXTINF:-1 group-title="英美加印" ,印尼-InsanTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",印尼-InsanTV
 http://ublive.fhtv.top/UBlive.php?id=1143
-#EXTINF:-1 group-title="英美加印" ,印尼-CNN Indonesia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",印尼-CNN Indonesia
 http://ublive.fhtv.top/UBlive.php?id=1145
-#EXTINF:-1 group-title="英美加印" ,印尼-MetroTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",印尼-MetroTV
 http://ublive.fhtv.top/UBlive.php?id=1124
-#EXTINF:-1 group-title="英美加印" ,DW德国之聲
+#EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="英美加印",DW德国之声
 http://ublive.fhtv.top/UBlive.php?id=1059
-#EXTINF:-1 group-title="英美加印" ,VOA美国之音
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",VOA美国之音
 http://ublive.fhtv.top/UBlive.php?id=495
-#EXTINF:-1 group-title="英美加印" ,美国5 Star Max
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国5 Star Max
 http://ublive.fhtv.top/UBlive.php?id=1174
-#EXTINF:-1 group-title="英美加印" ,美国Action Max
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国Action Max
 http://ublive.fhtv.top/UBlive.php?id=1175
-#EXTINF:-1 group-title="英美加印" ,美国MoreMax
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国MoreMax
 http://ublive.fhtv.top/UBlive.php?id=1176
-#EXTINF:-1 group-title="英美加印" ,美国Hallmark Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国Hallmark Channel
 http://ublive.fhtv.top/UBlive.php?id=1177
-#EXTINF:-1 group-title="英美加印" ,美国Hallmark Drama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国Hallmark Drama
 http://ublive.fhtv.top/UBlive.php?id=1178
-#EXTINF:-1 group-title="英美加印" ,美国Hallmark Movie
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国Hallmark Movie
 http://ublive.fhtv.top/UBlive.php?id=1179
-#EXTINF:-1 group-title="英美加印" ,美国TCM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国TCM
 http://ublive.fhtv.top/UBlive.php?id=1180
-#EXTINF:-1 group-title="英美加印" ,美国Starz in Black
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国Starz in Black
 http://ublive.fhtv.top/UBlive.php?id=1181
-#EXTINF:-1 group-title="英美加印" ,美国ESPN 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国ESPN 1
 http://ublive.fhtv.top/UBlive.php?id=1182
-#EXTINF:-1 group-title="英美加印" ,美国ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国ESPN 2
 http://ublive.fhtv.top/UBlive.php?id=1183
-#EXTINF:-1 group-title="英美加印" ,美国NBC Sport
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国NBC Sport
 http://ublive.fhtv.top/UBlive.php?id=1184
-#EXTINF:-1 group-title="英美加印" ,美国NBA TV US
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国NBA TV US
 http://ublive.fhtv.top/UBlive.php?id=1185
-#EXTINF:-1 group-title="英美加印" ,美国Fox Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国Fox Sport 1
 http://ublive.fhtv.top/UBlive.php?id=1186
-#EXTINF:-1 group-title="英美加印" ,美国Fox Sport 2
+#EXTINF:-1 tvg-id="6092" tvg-name="FOXSports2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports2.png" group-title="英美加印",美国Fox Sport 2
 http://ublive.fhtv.top/UBlive.php?id=1187
-#EXTINF:-1 group-title="英美加印" ,美国Tennis
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国Tennis
 http://ublive.fhtv.top/UBlive.php?id=1188
-#EXTINF:-1 group-title="英美加印" ,美国NFL Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国NFL Network
 http://ublive.fhtv.top/UBlive.php?id=1189
-#EXTINF:-1 group-title="英美加印" ,美国Golf
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国Golf
 http://ublive.fhtv.top/UBlive.php?id=1190
-#EXTINF:-1 group-title="英美加印" ,美国WWE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国WWE
 http://ublive.fhtv.top/UBlive.php?id=1191
-#EXTINF:-1 group-title="英美加印" ,美国UFC PASS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国UFC PASS
 http://ublive.fhtv.top/UBlive.php?id=1192
-#EXTINF:-1 group-title="英美加印" ,美国Willow
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国Willow
 http://ublive.fhtv.top/UBlive.php?id=1193
-#EXTINF:-1 group-title="英美加印" ,美国NHL Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国NHL Network
 http://ublive.fhtv.top/UBlive.php?id=1194
-#EXTINF:-1 group-title="英美加印" ,美国Bein Sports USA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国Bein Sports USA
 http://ublive.fhtv.top/UBlive.php?id=1195
-#EXTINF:-1 group-title="英美加印" ,美国ESPN U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国ESPN U
 http://ublive.fhtv.top/UBlive.php?id=1196
-#EXTINF:-1 group-title="英美加印" ,美国Big Ten Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国Big Ten Network
 http://ublive.fhtv.top/UBlive.php?id=1197
-#EXTINF:-1 group-title="英美加印" ,美国Discovery Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国Discovery Channel
 http://ublive.fhtv.top/UBlive.php?id=1198
-#EXTINF:-1 group-title="英美加印" ,美国Motor Trend
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国Motor Trend
 http://ublive.fhtv.top/UBlive.php?id=1199
-#EXTINF:-1 group-title="英美加印" ,美国National Geographic
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="英美加印",美国National Geographic
 http://ublive.fhtv.top/UBlive.php?id=1200
-#EXTINF:-1 group-title="英美加印" ,美国Nat Geo Wild
+#EXTINF:-1 tvg-id="427" tvg-name="国家地理野生频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" group-title="英美加印",美国Nat Geo Wild
 http://ublive.fhtv.top/UBlive.php?id=1201
-#EXTINF:-1 group-title="英美加印" ,美国Investigation Discovery US
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国Investigation Discovery
 http://ublive.fhtv.top/UBlive.php?id=1202
-#EXTINF:-1 group-title="英美加印" ,美国Animal Planet
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="英美加印",美国Animal Planet
 http://ublive.fhtv.top/UBlive.php?id=1203
-#EXTINF:-1 group-title="英美加印" ,美国History
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="英美加印",美国History
 http://ublive.fhtv.top/UBlive.php?id=1204
-#EXTINF:-1 group-title="英美加印" ,美国SMITHSONIAN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国SMITHSONIAN
 http://ublive.fhtv.top/UBlive.php?id=1205
-#EXTINF:-1 group-title="英美加印" ,美国TLC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国TLC
 http://ublive.fhtv.top/UBlive.php?id=1206
-#EXTINF:-1 group-title="英美加印" ,美国Science
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国Science
 http://ublive.fhtv.top/UBlive.php?id=1207
-#EXTINF:-1 group-title="英美加印" ,美国Disney
+#EXTINF:-1 tvg-id="6041" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" group-title="英美加印",美国Disney
 http://ublive.fhtv.top/UBlive.php?id=1208
-#EXTINF:-1 group-title="英美加印" ,美国Disney XD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国Disney XD
 http://ublive.fhtv.top/UBlive.php?id=1209
-#EXTINF:-1 group-title="英美加印" ,美国Disney Junior
+#EXTINF:-1 tvg-id="679" tvg-name="DisneyJunior" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DisneyJunior.png" group-title="英美加印",美国Disney Junior
 http://ublive.fhtv.top/UBlive.php?id=1210
-#EXTINF:-1 group-title="英美加印" ,美国Cartoon Network US
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国Cartoon Network US
 http://ublive.fhtv.top/UBlive.php?id=1211
-#EXTINF:-1 group-title="英美加印" ,美国Nickelodeon US
+#EXTINF:-1 tvg-id="6184" tvg-name="Nickelodeon" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="英美加印",美国Nickelodeon US
 http://ublive.fhtv.top/UBlive.php?id=1212
-#EXTINF:-1 group-title="英美加印" ,美国Nick Junior
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国Nick Junior
 http://ublive.fhtv.top/UBlive.php?id=1213
-#EXTINF:-1 group-title="英美加印" ,美国Boomerang
+#EXTINF:-1 tvg-id="6188" tvg-name="Boomerang" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BOOMERANG.png" group-title="英美加印",美国Boomerang
 http://ublive.fhtv.top/UBlive.php?id=1214
-#EXTINF:-1 group-title="英美加印" ,美国Universal Kids
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国Universal Kids
 http://ublive.fhtv.top/UBlive.php?id=1215
-#EXTINF:-1 group-title="英美加印" ,美国ABC
+#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5b3af185b2db8.png" group-title="英美加印",美国ABC
 http://ublive.fhtv.top/UBlive.php?id=1216
-#EXTINF:-1 group-title="英美加印" ,美国NBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国NBC
 http://ublive.fhtv.top/UBlive.php?id=1217
-#EXTINF:-1 group-title="英美加印" ,美国FOX
+#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="英美加印",美国FOX
 http://ublive.fhtv.top/UBlive.php?id=1218
-#EXTINF:-1 group-title="英美加印" ,美国CBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国CBS
 http://ublive.fhtv.top/UBlive.php?id=1219
-#EXTINF:-1 group-title="英美加印" ,美国CW
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国CW
 http://ublive.fhtv.top/UBlive.php?id=1220
-#EXTINF:-1 group-title="英美加印" ,美国SYFY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国SYFY
 http://ublive.fhtv.top/UBlive.php?id=1221
-#EXTINF:-1 group-title="英美加印" ,美国E!
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国E!
 http://ublive.fhtv.top/UBlive.php?id=1222
-#EXTINF:-1 group-title="英美加印" ,美国Comedy Central
+#EXTINF:-1 tvg-id="874" tvg-name="ComedyCentralAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ComedyCentral.png" group-title="英美加印",美国Comedy Central
 http://ublive.fhtv.top/UBlive.php?id=1223
-#EXTINF:-1 group-title="英美加印" ,美国TNT US
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国TNT US
 http://ublive.fhtv.top/UBlive.php?id=1224
-#EXTINF:-1 group-title="英美加印" ,美国Bravo US
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国Bravo US
 http://ublive.fhtv.top/UBlive.php?id=1225
-#EXTINF:-1 group-title="英美加印" ,美国LifeTime US
+#EXTINF:-1 tvg-id="509" tvg-name="Lifetime" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Lifetime.png" group-title="英美加印",美国LifeTime US
 http://ublive.fhtv.top/UBlive.php?id=1226
-#EXTINF:-1 group-title="英美加印" ,美国Arts and Entertainment
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国Arts and Entertainment
 http://ublive.fhtv.top/UBlive.php?id=1227
-#EXTINF:-1 group-title="英美加印" ,美国AMC
+#EXTINF:-1 tvg-id="7165" tvg-name="AMC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AMC.png" group-title="英美加印",美国AMC
 http://ublive.fhtv.top/UBlive.php?id=1228
-#EXTINF:-1 group-title="英美加印" ,美国WE TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国WE TV
 http://ublive.fhtv.top/UBlive.php?id=1229
-#EXTINF:-1 group-title="英美加印" ,美国USA Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国USA Network
 http://ublive.fhtv.top/UBlive.php?id=1230
-#EXTINF:-1 group-title="英美加印" ,美国BET
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国BET
 http://ublive.fhtv.top/UBlive.php?id=1231
-#EXTINF:-1 group-title="英美加印" ,美国Lifetime Movie Network
+#EXTINF:-1 tvg-id="509" tvg-name="Lifetime" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Lifetime.png" group-title="英美加印",美国Lifetime Movie Network
 http://ublive.fhtv.top/UBlive.php?id=1232
-#EXTINF:-1 group-title="英美加印" ,美国VH-1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国VH-1
 http://ublive.fhtv.top/UBlive.php?id=1233
-#EXTINF:-1 group-title="英美加印" ,美国TBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国TBS
 http://ublive.fhtv.top/UBlive.php?id=1234
-#EXTINF:-1 group-title="英美加印" ,美国OWN US
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国OWN US
 http://ublive.fhtv.top/UBlive.php?id=1235
-#EXTINF:-1 group-title="英美加印" ,美国GSN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国GSN
 http://ublive.fhtv.top/UBlive.php?id=1236
-#EXTINF:-1 group-title="英美加印" ,美国HGTV US
+#EXTINF:-1 tvg-id="6167" tvg-name="HGTV居家乐活" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HGTV.png" group-title="英美加印",美国HGTV US
 http://ublive.fhtv.top/UBlive.php?id=1237
-#EXTINF:-1 group-title="英美加印" ,美国Cooking Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国Cooking Channel
 http://ublive.fhtv.top/UBlive.php?id=1238
-#EXTINF:-1 group-title="英美加印" ,美国MTV US
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国MTV US
 http://ublive.fhtv.top/UBlive.php?id=1239
-#EXTINF:-1 group-title="英美加印" ,美国FYI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国FYI
 http://ublive.fhtv.top/UBlive.php?id=1240
-#EXTINF:-1 group-title="英美加印" ,美国BabyTV
+#EXTINF:-1 tvg-id="708" tvg-name="BabyTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyTV.png" group-title="英美加印",美国BabyTV
 http://ublive.fhtv.top/UBlive.php?id=1241
-#EXTINF:-1 group-title="英美加印" ,美国TVB1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国TVB1
 http://ublive.fhtv.top/UBlive.php?id=1242
-#EXTINF:-1 group-title="英美加印" ,美国TVB DRAMA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国TVB DRAMA
 http://ublive.fhtv.top/UBlive.php?id=1243
-#EXTINF:-1 group-title="英美加印" ,美国TVBJ1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国TVBJ1
 http://ublive.fhtv.top/UBlive.php?id=1244
-#EXTINF:-1 group-title="英美加印" ,美国TVBE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国TVBE
 http://ublive.fhtv.top/UBlive.php?id=1245
-#EXTINF:-1 group-title="英美加印" ,美国NOWTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国NOWTV
 http://ublive.fhtv.top/UBlive.php?id=1246
-#EXTINF:-1 group-title="英美加印" ,美国CNN USA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国CNN USA
 http://ublive.fhtv.top/UBlive.php?id=1102
-#EXTINF:-1 group-title="英美加印" ,美国FOX
+#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="英美加印",美国FOX
 http://ublive.fhtv.top/UBlive.php?id=1103
-#EXTINF:-1 group-title="英美加印" ,美国MSNBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国MSNBC
 http://ublive.fhtv.top/UBlive.php?id=1104
-#EXTINF:-1 group-title="英美加印" ,美国The Weather
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国The Weather
 http://ublive.fhtv.top/UBlive.php?id=1105
-#EXTINF:-1 group-title="英美加印" ,美国CNBC
+#EXTINF:-1 tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="英美加印",美国CNBC
 http://ublive.fhtv.top/UBlive.php?id=1106
-#EXTINF:-1 group-title="英美加印" ,美国Bloomberg
+#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="英美加印",美国Bloomberg
 http://ublive.fhtv.top/UBlive.php?id=1107
-#EXTINF:-1 group-title="英美加印" ,美国Fox Business
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国Fox Business
 http://ublive.fhtv.top/UBlive.php?id=1108
-#EXTINF:-1 group-title="英美加印" ,美国HBO Comedy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国HBO Comedy
 http://ublive.fhtv.top/UBlive.php?id=1109
-#EXTINF:-1 group-title="英美加印" ,美国HBO1US
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国HBO1US
 http://ublive.fhtv.top/UBlive.php?id=1110
-#EXTINF:-1 group-title="英美加印" ,美国HBO2US
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国HBO2US
 http://ublive.fhtv.top/UBlive.php?id=1111
-#EXTINF:-1 group-title="英美加印" ,美国HBO Signature
+#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="英美加印",美国HBO Signature
 http://ublive.fhtv.top/UBlive.php?id=1112
-#EXTINF:-1 group-title="英美加印" ,美国HBO Family
+#EXTINF:-1 tvg-id="6155" tvg-name="HBOFamily" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="英美加印",美国HBO Family
 http://ublive.fhtv.top/UBlive.php?id=1113
-#EXTINF:-1 group-title="英美加印" ,美国ShowTime 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国ShowTime 1
 http://ublive.fhtv.top/UBlive.php?id=1114
-#EXTINF:-1 group-title="英美加印" ,美国ShowTime 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国ShowTime 2
 http://ublive.fhtv.top/UBlive.php?id=1115
-#EXTINF:-1 group-title="英美加印" ,美国ShowCase US
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国ShowCase US
 http://ublive.fhtv.top/UBlive.php?id=1116
-#EXTINF:-1 group-title="英美加印" ,美国Starz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国Starz
 http://ublive.fhtv.top/UBlive.php?id=1117
-#EXTINF:-1 group-title="英美加印" ,美国Starz Comedy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国Starz Comedy
 http://ublive.fhtv.top/UBlive.php?id=1118
-#EXTINF:-1 group-title="英美加印" ,美国Starz Edge
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国Starz Edge
 http://ublive.fhtv.top/UBlive.php?id=1119
-#EXTINF:-1 group-title="英美加印" ,美国Starz Kids Family
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国Starz Kids Family
 http://ublive.fhtv.top/UBlive.php?id=1120
-#EXTINF:-1 group-title="英美加印" ,美国Starz Encore
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国Starz Encore
 http://ublive.fhtv.top/UBlive.php?id=1121
-#EXTINF:-1 group-title="英美加印" ,美国Starz Encore Westerns
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国Starz Encore Westerns
 http://ublive.fhtv.top/UBlive.php?id=1122
-#EXTINF:-1 group-title="英美加印" ,美国Cinemax
+#EXTINF:-1 tvg-id="6089" tvg-name="CINEMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="英美加印",美国Cinemax
 http://ublive.fhtv.top/UBlive.php?id=1123
-#EXTINF:-1 group-title="英美加印" ,美国-30A TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国-30A TV
 http://ublive.fhtv.top/UBlive.php?id=1052
-#EXTINF:-1 group-title="英美加印" ,美国-American Horrors
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国-American Horrors
 http://ublive.fhtv.top/UBlive.php?id=1054
-#EXTINF:-1 group-title="英美加印" ,美国-Atlanta
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国-Atlanta
 http://ublive.fhtv.top/UBlive.php?id=1055
-#EXTINF:-1 group-title="英美加印" ,美国-Panama City
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国-Panama City
 http://ublive.fhtv.top/UBlive.php?id=1056
-#EXTINF:-1 group-title="英美加印" ,美国-Pawleys Island
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国-Pawleys Island
 http://ublive.fhtv.top/UBlive.php?id=1057
-#EXTINF:-1 group-title="英美加印" ,美国-Bloomberg Television,
+#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="英美加印",美国-Bloomberg Television,
 http://ublive.fhtv.top/UBlive.php?id=1058
-#EXTINF:-1 group-title="英美加印" ,美国-HBO Comedy East
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国-HBO Comedy East
 http://ublive.fhtv.top/UBlive.php?id=269
-#EXTINF:-1 group-title="英美加印" ,美国-BET
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国-BET
 http://ublive.fhtv.top/UBlive.php?id=270
-#EXTINF:-1 group-title="英美加印" ,美国-HBO East
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国-HBO East
 http://ublive.fhtv.top/UBlive.php?id=271
-#EXTINF:-1 group-title="英美加印" ,美国-HBO Signature
+#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="英美加印",美国-HBO Signature
 http://ublive.fhtv.top/UBlive.php?id=272
-#EXTINF:-1 group-title="英美加印" ,美国-HBO Zone East
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国-HBO Zone East
 http://ublive.fhtv.top/UBlive.php?id=273
-#EXTINF:-1 group-title="英美加印" ,美国-HGTV-
+#EXTINF:-1 tvg-id="6167" tvg-name="HGTV居家乐活" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HGTV.png" group-title="英美加印",美国-HGTV-
 http://ublive.fhtv.top/UBlive.php?id=274
-#EXTINF:-1 group-title="英美加印" ,美国-HISTORY
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="英美加印",美国-HISTORY
 http://ublive.fhtv.top/UBlive.php?id=275
-#EXTINF:-1 group-title="英美加印" ,美国-GOD TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国-GOD TV
 http://ublive.fhtv.top/UBlive.php?id=276
-#EXTINF:-1 group-title="英美加印" ,美国-Box Nation
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国-Box Nation
 http://ublive.fhtv.top/UBlive.php?id=277
-#EXTINF:-1 group-title="英美加印" ,美国-Big Ten Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国-Big Ten Network
 http://ublive.fhtv.top/UBlive.php?id=278
-#EXTINF:-1 group-title="英美加印" ,美国-Sec Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国-Sec Network
 http://ublive.fhtv.top/UBlive.php?id=279
-#EXTINF:-1 group-title="英美加印" ,美国-NFL RedZone
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国-NFL RedZone
 http://ublive.fhtv.top/UBlive.php?id=280
-#EXTINF:-1 group-title="英美加印" ,美国-NESN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国-NESN
 http://ublive.fhtv.top/UBlive.php?id=281
-#EXTINF:-1 group-title="英美加印" ,美国-Tennis
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国-Tennis
 http://ublive.fhtv.top/UBlive.php?id=282
-#EXTINF:-1 group-title="英美加印" ,美国-UFC Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国-UFC Network
 http://ublive.fhtv.top/UBlive.php?id=283
-#EXTINF:-1 group-title="英美加印" ,美国-TNT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国-TNT
 http://ublive.fhtv.top/UBlive.php?id=284
-#EXTINF:-1 group-title="英美加印" ,美国-NAT-GEO
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="英美加印",美国-NAT-GEO
 http://ublive.fhtv.top/UBlive.php?id=285
-#EXTINF:-1 group-title="英美加印" ,美国-MTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",美国-MTV
 http://ublive.fhtv.top/UBlive.php?id=286
-#EXTINF:-1 group-title="英美加印" ,加拿大-CP 24 Canada
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-CP 24 Canada
 http://ublive.fhtv.top/UBlive.php?id=1247
-#EXTINF:-1 group-title="英美加印" ,加拿大-CBC News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-CBC News
 http://ublive.fhtv.top/UBlive.php?id=1248
-#EXTINF:-1 group-title="英美加印" ,加拿大-CTV News
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="英美加印",加拿大-CTV News
 http://ublive.fhtv.top/UBlive.php?id=1249
-#EXTINF:-1 group-title="英美加印" ,加拿大-Business Network News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-Business Network News
 http://ublive.fhtv.top/UBlive.php?id=1250
-#EXTINF:-1 group-title="英美加印" ,加拿大-The Weather Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-The Weather Network
 http://ublive.fhtv.top/UBlive.php?id=1251
-#EXTINF:-1 group-title="英美加印" ,加拿大-CBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-CBC
 http://ublive.fhtv.top/UBlive.php?id=1252
-#EXTINF:-1 group-title="英美加印" ,加拿大-CTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-CTV
 http://ublive.fhtv.top/UBlive.php?id=1253
-#EXTINF:-1 group-title="英美加印" ,加拿大-Global
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-Global
 http://ublive.fhtv.top/UBlive.php?id=1254
-#EXTINF:-1 group-title="英美加印" ,加拿大-City
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-City
 http://ublive.fhtv.top/UBlive.php?id=1255
-#EXTINF:-1 group-title="英美加印" ,加拿大-CHCH
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-CHCH
 http://ublive.fhtv.top/UBlive.php?id=1256
-#EXTINF:-1 group-title="英美加印" ,加拿大-CTV 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-CTV 2
 http://ublive.fhtv.top/UBlive.php?id=1257
-#EXTINF:-1 group-title="英美加印" ,加拿大-OMNI 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-OMNI 1
 http://ublive.fhtv.top/UBlive.php?id=1258
-#EXTINF:-1 group-title="英美加印" ,加拿大-OMNI 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-OMNI 2
 http://ublive.fhtv.top/UBlive.php?id=1259
-#EXTINF:-1 group-title="英美加印" ,加拿大-TVO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-TVO
 http://ublive.fhtv.top/UBlive.php?id=1260
-#EXTINF:-1 group-title="英美加印" ,加拿大-Discovery Canada
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-Discovery Canada
 http://ublive.fhtv.top/UBlive.php?id=1261
-#EXTINF:-1 group-title="英美加印" ,加拿大-TLC Canada
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-TLC Canada
 http://ublive.fhtv.top/UBlive.php?id=1262
-#EXTINF:-1 group-title="英美加印" ,加拿大-Love Nature
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-Love Nature
 http://ublive.fhtv.top/UBlive.php?id=1263
-#EXTINF:-1 group-title="英美加印" ,加拿大-Food Network Cabada
+#EXTINF:-1 tvg-id="6158" tvg-name="FoodNetwork美食台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoodNetwork.png" group-title="英美加印",加拿大-Food Network Cabada
 http://ublive.fhtv.top/UBlive.php?id=1265
-#EXTINF:-1 group-title="英美加印" ,加拿大-Cooking Channel Canada
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-Cooking Channel Canad
 http://ublive.fhtv.top/UBlive.php?id=1266
-#EXTINF:-1 group-title="英美加印" ,加拿大-CTV Comedy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-CTV Comedy
 http://ublive.fhtv.top/UBlive.php?id=1267
-#EXTINF:-1 group-title="英美加印" ,加拿大-CTV Sci-Fi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-CTV Sci-Fi
 http://ublive.fhtv.top/UBlive.php?id=1268
-#EXTINF:-1 group-title="英美加印" ,加拿大-Crave 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-Crave 1
 http://ublive.fhtv.top/UBlive.php?id=1269
-#EXTINF:-1 group-title="英美加印" ,加拿大-Crave 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-Crave 2
 http://ublive.fhtv.top/UBlive.php?id=1270
-#EXTINF:-1 group-title="英美加印" ,加拿大-Crave 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-Crave 3
 http://ublive.fhtv.top/UBlive.php?id=1271
-#EXTINF:-1 group-title="英美加印" ,加拿大-Crave 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-Crave 4
 http://ublive.fhtv.top/UBlive.php?id=1272
-#EXTINF:-1 group-title="英美加印" ,加拿大-TSN 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-TSN 2
 http://ublive.fhtv.top/UBlive.php?id=1274
-#EXTINF:-1 group-title="英美加印" ,加拿大-TSN 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-TSN 1
 http://ublive.fhtv.top/UBlive.php?id=1273
-#EXTINF:-1 group-title="英美加印" ,加拿大-TSN 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-TSN 3
 http://ublive.fhtv.top/UBlive.php?id=1275
-#EXTINF:-1 group-title="英美加印" ,加拿大-TSN 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-TSN 4
 http://ublive.fhtv.top/UBlive.php?id=1276
-#EXTINF:-1 group-title="英美加印" ,加拿大-TSN 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-TSN 5
 http://ublive.fhtv.top/UBlive.php?id=1277
-#EXTINF:-1 group-title="英美加印" ,加拿大-SportNet ON
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-SportNet ON
 http://ublive.fhtv.top/UBlive.php?id=1278
-#EXTINF:-1 group-title="英美加印" ,加拿大-SportNet One
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-SportNet One
 http://ublive.fhtv.top/UBlive.php?id=1279
-#EXTINF:-1 group-title="英美加印" ,加拿大-SportNet World
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-SportNet World
 http://ublive.fhtv.top/UBlive.php?id=1280
-#EXTINF:-1 group-title="英美加印" ,加拿大-SportNet 360
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-SportNet 360
 http://ublive.fhtv.top/UBlive.php?id=1281
-#EXTINF:-1 group-title="英美加印" ,加拿大-NBA CA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-NBA CA
 http://ublive.fhtv.top/UBlive.php?id=1282
-#EXTINF:-1 group-title="英美加印" ,加拿大-TreeHouse
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-TreeHouse
 http://ublive.fhtv.top/UBlive.php?id=1283
-#EXTINF:-1 group-title="英美加印" ,加拿大-Teletoon
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-Teletoon
 http://ublive.fhtv.top/UBlive.php?id=1284
-#EXTINF:-1 group-title="英美加印" ,加拿大-YTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-YTV
 http://ublive.fhtv.top/UBlive.php?id=1285
-#EXTINF:-1 group-title="英美加印" ,加拿大-新时代东部
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-新时代东部
 http://ublive.fhtv.top/UBlive.php?id=1286
-#EXTINF:-1 group-title="英美加印" ,加拿大-新时代西部
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-新时代西部
 http://ublive.fhtv.top/UBlive.php?id=1287
-#EXTINF:-1 group-title="英美加印" ,加拿大-城市电视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-城市电视
 http://ublive.fhtv.top/UBlive.php?id=1289
-#EXTINF:-1 group-title="英美加印" ,加拿大-新时代2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",加拿大-新时代2
 http://ublive.fhtv.top/UBlive.php?id=1288
-#EXTINF:-1 group-title="英美加印" ,印度DD News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",印度DD News
 http://ublive.fhtv.top/UBlive.php?id=463
-#EXTINF:-1 group-title="英美加印" ,印度HBO
+#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="英美加印",印度HBO
 http://ublive.fhtv.top/UBlive.php?id=464
-#EXTINF:-1 group-title="英美加印" ,印度ZeeNews
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",印度ZeeNews
 http://ublive.fhtv.top/UBlive.php?id=465
-#EXTINF:-1 group-title="英美加印" ,印度TEN1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",印度TEN1
 http://ublive.fhtv.top/UBlive.php?id=466
-#EXTINF:-1 group-title="英美加印" ,印度TEN2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",印度TEN2
 http://ublive.fhtv.top/UBlive.php?id=467
-#EXTINF:-1 group-title="英美加印" ,印度TEN3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",印度TEN3
 http://ublive.fhtv.top/UBlive.php?id=468
-#EXTINF:-1 group-title="英美加印" ,印度And Pictures
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",印度And Pictures
 http://ublive.fhtv.top/UBlive.php?id=469
-#EXTINF:-1 group-title="英美加印" ,印度Colors
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",印度Colors
 http://ublive.fhtv.top/UBlive.php?id=470
-#EXTINF:-1 group-title="英美加印" ,印度NDTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",印度NDTV
 http://ublive.fhtv.top/UBlive.php?id=471
-#EXTINF:-1 group-title="英美加印" ,印度Zee Tamil
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",印度Zee Tamil
 http://ublive.fhtv.top/UBlive.php?id=472
-#EXTINF:-1 group-title="英美加印" ,印度India TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",印度India TV
 http://ublive.fhtv.top/UBlive.php?id=473
-#EXTINF:-1 group-title="英美加印" ,印度Sony Mix
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",印度Sony Mix
 http://ublive.fhtv.top/UBlive.php?id=474
-#EXTINF:-1 group-title="英美加印" ,印度Sony Sab
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",印度Sony Sab
 http://ublive.fhtv.top/UBlive.php?id=475
-#EXTINF:-1 group-title="英美加印" ,印度Star Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",印度Star Movies
 http://ublive.fhtv.top/UBlive.php?id=478
-#EXTINF:-1 group-title="英美加印" ,印度Star Plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",印度Star Plus
 http://ublive.fhtv.top/UBlive.php?id=479
-#EXTINF:-1 group-title="英美加印" ,印度Zee Marathi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",印度Zee Marathi
 http://ublive.fhtv.top/UBlive.php?id=480
-#EXTINF:-1 group-title="英美加印" ,印度Zee Studio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",印度Zee Studio
 http://ublive.fhtv.top/UBlive.php?id=481
-#EXTINF:-1 group-title="英美加印" ,印度Zee TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",印度Zee TV
 http://ublive.fhtv.top/UBlive.php?id=482
-#EXTINF:-1 group-title="英美加印" ,印度Sony
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",印度Sony
 http://ublive.fhtv.top/UBlive.php?id=483
-#EXTINF:-1 group-title="英美加印" ,印度Zee Cinema
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",印度Zee Cinema
 http://ublive.fhtv.top/UBlive.php?id=484
-#EXTINF:-1 group-title="英美加印" ,印度Zee Classic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",印度Zee Classic
 http://ublive.fhtv.top/UBlive.php?id=485
-#EXTINF:-1 group-title="英美加印" ,印度Tv9 Bharatvarsh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英美加印",印度Tv9 Bharatvarsh
 http://ublive.fhtv.top/UBlive.php?id=1125
-
-#EXTINF:-1 group-title="韩日越泰" ,韩国TVN MOVIE
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="韩日越泰",韩国TVN MOVIE
 http://ublive.fhtv.top/UBlive.php?id=1082
-#EXTINF:-1 group-title="韩日越泰" ,韩国-YTN Science
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-YTN Science
 http://ublive.fhtv.top/UBlive.php?id=1092
-#EXTINF:-1 group-title="韩日越泰" ,韩国-EBS 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-EBS 2
 http://ublive.fhtv.top/UBlive.php?id=1093
-#EXTINF:-1 group-title="韩日越泰" ,韩国-EBS Kids
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-EBS Kids
 http://ublive.fhtv.top/UBlive.php?id=1094
-#EXTINF:-1 group-title="韩日越泰" ,韩国-EBS English
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-EBS English
 http://ublive.fhtv.top/UBlive.php?id=1095
-#EXTINF:-1 group-title="韩日越泰" ,韩国-EBSPlus 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-EBSPlus 1
 http://ublive.fhtv.top/UBlive.php?id=1096
-#EXTINF:-1 group-title="韩日越泰" ,韩国-EBSPlus 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-EBSPlus 2
 http://ublive.fhtv.top/UBlive.php?id=1097
-#EXTINF:-1 group-title="韩日越泰" ,韩国-EBS1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-EBS1
 http://ublive.fhtv.top/UBlive.php?id=1098
-#EXTINF:-1 group-title="韩日越泰" ,韩国-UBC SBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-UBC SBS
 http://ublive.fhtv.top/UBlive.php?id=1099
-#EXTINF:-1 group-title="韩日越泰" ,韩国-KTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-KTV
 http://ublive.fhtv.top/UBlive.php?id=1100
-#EXTINF:-1 group-title="韩日越泰" ,韩国-SBS Star
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-SBS Star
 http://ublive.fhtv.top/UBlive.php?id=1101
-#EXTINF:-1 group-title="韩日越泰" ,韩国-YTN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-YTN
 http://ublive.fhtv.top/UBlive.php?id=1061
-#EXTINF:-1 group-title="韩日越泰" ,韩国-KBS Dram
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-KBS Dram
 http://ublive.fhtv.top/UBlive.php?id=1062
-#EXTINF:-1 group-title="韩日越泰" ,韩国-NGC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-NGC
 http://ublive.fhtv.top/UBlive.php?id=1064
-#EXTINF:-1 group-title="韩日越泰" ,韩国-??TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-??TV
 http://ublive.fhtv.top/UBlive.php?id=1065
-#EXTINF:-1 group-title="韩日越泰" ,韩国-SBS??
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-SBS??
 http://ublive.fhtv.top/UBlive.php?id=486
-#EXTINF:-1 group-title="韩日越泰" ,韩国-SBS Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-SBS Sports
 http://ublive.fhtv.top/UBlive.php?id=487
-#EXTINF:-1 group-title="韩日越泰" ,韩国-OCN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-OCN
 http://ublive.fhtv.top/UBlive.php?id=488
-#EXTINF:-1 group-title="韩日越泰" ,韩国-iNet
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-iNet
 http://ublive.fhtv.top/UBlive.php?id=490
-#EXTINF:-1 group-title="韩日越泰" ,韩国-????
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-????
 http://ublive.fhtv.top/UBlive.php?id=492
-#EXTINF:-1 group-title="韩日越泰" ,韩国-半島国際新聞
+#EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="韩日越泰",韩国-半岛国际新闻
 http://ublive.fhtv.top/UBlive.php?id=494
-#EXTINF:-1 group-title="韩日越泰" ,韩国-OCNMOVIES
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-OCNMOVIES
 http://ublive.fhtv.top/UBlive.php?id=1020
-#EXTINF:-1 group-title="韩日越泰" ,韩国-KBS joy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-KBS joy
 http://ublive.fhtv.top/UBlive.php?id=1154
-#EXTINF:-1 group-title="韩日越泰" ,韩国-Tconvers
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-Tconvers
 http://ublive.fhtv.top/UBlive.php?id=1134
-#EXTINF:-1 group-title="韩日越泰" ,韩国-Mnet
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-Mnet
 http://ublive.fhtv.top/UBlive.php?id=1136
-#EXTINF:-1 group-title="韩日越泰" ,韩国-KBS2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-KBS2
 http://ublive.fhtv.top/UBlive.php?id=250
-#EXTINF:-1 group-title="韩日越泰" ,韩国-KBS1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-KBS1
 http://ublive.fhtv.top/UBlive.php?id=174
-#EXTINF:-1 group-title="韩日越泰" ,韩国-MBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-MBC
 http://ublive.fhtv.top/UBlive.php?id=251
-#EXTINF:-1 group-title="韩日越泰" ,韩国-SBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-SBS
 http://ublive.fhtv.top/UBlive.php?id=252
-#EXTINF:-1 group-title="韩日越泰" ,韩国-JTBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-JTBC
 http://ublive.fhtv.top/UBlive.php?id=253
-#EXTINF:-1 group-title="韩日越泰" ,韩国-SBS FUNE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-SBS FUNE
 http://ublive.fhtv.top/UBlive.php?id=254
-#EXTINF:-1 group-title="韩日越泰" ,韩国-SBS CNBC
+#EXTINF:-1 tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="韩日越泰",韩国-SBS CNBC
 http://ublive.fhtv.top/UBlive.php?id=255
-#EXTINF:-1 group-title="韩日越泰" ,韩国-CNTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-CNTV
 http://ublive.fhtv.top/UBlive.php?id=256
-#EXTINF:-1 group-title="韩日越泰" ,韩国-MBN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-MBN
 http://ublive.fhtv.top/UBlive.php?id=257
-#EXTINF:-1 group-title="韩日越泰" ,韩国-Channel A
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-Channel A
 http://ublive.fhtv.top/UBlive.php?id=258
-#EXTINF:-1 group-title="韩日越泰" ,韩国-SBS PLus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-SBS PLus
 http://ublive.fhtv.top/UBlive.php?id=262
-#EXTINF:-1 group-title="韩日越泰" ,韩国-KBSN???
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-KBSN???
 http://ublive.fhtv.top/UBlive.php?id=264
-#EXTINF:-1 group-title="韩日越泰" ,韩国-MBC???+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-MBC???+
 http://ublive.fhtv.top/UBlive.php?id=265
-#EXTINF:-1 group-title="韩日越泰" ,韩国-Spotv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-Spotv
 http://ublive.fhtv.top/UBlive.php?id=266
-#EXTINF:-1 group-title="韩日越泰" ,韩国-Spotv2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-Spotv2
 http://ublive.fhtv.top/UBlive.php?id=267
-#EXTINF:-1 group-title="韩日越泰" ,韩国-JTBC??
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-JTBC??
 http://ublive.fhtv.top/UBlive.php?id=268
-#EXTINF:-1 group-title="韩日越泰" ,韩国-MBCevery1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",韩国-MBCevery1
 http://ublive.fhtv.top/UBlive.php?id=476
-#EXTINF:-1 group-title="韩日越泰" ,日本-NHK World
+#EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="韩日越泰",日本-NHK World
 http://ublive.fhtv.top/UBlive.php?id=117
-#EXTINF:-1 group-title="韩日越泰" ,日本-NTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-NTV
 http://ublive.fhtv.top/UBlive.php?id=119
-#EXTINF:-1 group-title="韩日越泰" ,日本-NHKE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-NHKE
 http://ublive.fhtv.top/UBlive.php?id=120
-#EXTINF:-1 group-title="韩日越泰" ,日本-NHK-G
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-NHK-G
 http://ublive.fhtv.top/UBlive.php?id=121
-#EXTINF:-1 group-title="韩日越泰" ,日本-tvtokyo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-tvtokyo
 http://ublive.fhtv.top/UBlive.php?id=123
-#EXTINF:-1 group-title="韩日越泰" ,日本-TBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-TBS
 http://ublive.fhtv.top/UBlive.php?id=124
-#EXTINF:-1 group-title="韩日越泰" ,日本-大阪TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-大坂TV
 http://ublive.fhtv.top/UBlive.php?id=126
-#EXTINF:-1 group-title="韩日越泰" ,日本-ABC朝日
+#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5b3af185b2db8.png" group-title="韩日越泰",日本-ABC朝日
 http://ublive.fhtv.top/UBlive.php?id=127
-#EXTINF:-1 group-title="韩日越泰" ,日本-bs1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-bs1
 http://ublive.fhtv.top/UBlive.php?id=128
-#EXTINF:-1 group-title="韩日越泰" ,日本-jsport1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-jsport1
 http://ublive.fhtv.top/UBlive.php?id=129
-#EXTINF:-1 group-title="韩日越泰" ,日本-jsport2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-jsport2
 http://ublive.fhtv.top/UBlive.php?id=130
-#EXTINF:-1 group-title="韩日越泰" ,日本-jsport3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-jsport3
 http://ublive.fhtv.top/UBlive.php?id=131
-#EXTINF:-1 group-title="韩日越泰" ,日本-jsport4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-jsport4
 http://ublive.fhtv.top/UBlive.php?id=132
-#EXTINF:-1 group-title="韩日越泰" ,日本-wowo1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-wowo1
 http://ublive.fhtv.top/UBlive.php?id=133
-#EXTINF:-1 group-title="韩日越泰" ,日本-wowo2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-wowo2
 http://ublive.fhtv.top/UBlive.php?id=134
-#EXTINF:-1 group-title="韩日越泰" ,日本-wowo3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-wowo3
 http://ublive.fhtv.top/UBlive.php?id=135
-#EXTINF:-1 group-title="韩日越泰" ,日本-STAR1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-STAR1
 http://ublive.fhtv.top/UBlive.php?id=136
-#EXTINF:-1 group-title="韩日越泰" ,日本-STAR2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-STAR2
 http://ublive.fhtv.top/UBlive.php?id=137
-#EXTINF:-1 group-title="韩日越泰" ,日本-STAR3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-STAR3
 http://ublive.fhtv.top/UBlive.php?id=138
-#EXTINF:-1 group-title="韩日越泰" ,日本-animax
+#EXTINF:-1 tvg-id="7238" tvg-name="Animax" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png" group-title="韩日越泰",日本-animax
 http://ublive.fhtv.top/UBlive.php?id=139
-#EXTINF:-1 group-title="韩日越泰" ,日本-Green
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-Green
 http://ublive.fhtv.top/UBlive.php?id=140
-#EXTINF:-1 group-title="韩日越泰" ,日本-読売テレビ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-読売テレビ
 http://ublive.fhtv.top/UBlive.php?id=198
-#EXTINF:-1 group-title="韩日越泰" ,日本-毎日放送
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-毎日放送
 http://ublive.fhtv.top/UBlive.php?id=199
-#EXTINF:-1 group-title="韩日越泰" ,日本-関西テレビ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-関西テレビ
 http://ublive.fhtv.top/UBlive.php?id=235
-#EXTINF:-1 group-title="韩日越泰" ,日本-テレビ朝日
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-テレビ朝日
 http://ublive.fhtv.top/UBlive.php?id=237
-#EXTINF:-1 group-title="韩日越泰" ,日本-BSプレミアム
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-BSプレミアム
 http://ublive.fhtv.top/UBlive.php?id=238
-#EXTINF:-1 group-title="韩日越泰" ,日本-BSプレミアム
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-BSプレミアム
 http://ublive.fhtv.top/UBlive.php?id=239
-#EXTINF:-1 group-title="韩日越泰" ,日本-BS日テレ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-BS日テレ
 http://ublive.fhtv.top/UBlive.php?id=240
-#EXTINF:-1 group-title="韩日越泰" ,日本-BS朝日
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-BS朝日
 http://ublive.fhtv.top/UBlive.php?id=241
-#EXTINF:-1 group-title="韩日越泰" ,日本-BS-TBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-BS-TBS
 http://ublive.fhtv.top/UBlive.php?id=242
-#EXTINF:-1 group-title="韩日越泰" ,日本-BSテレビ東京
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-BSテレビ东京
 http://ublive.fhtv.top/UBlive.php?id=243
-#EXTINF:-1 group-title="韩日越泰" ,日本-BS-FUJI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-BS-FUJI
 http://ublive.fhtv.top/UBlive.php?id=244
-#EXTINF:-1 group-title="韩日越泰" ,日本-GREEN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-GREEN
 http://ublive.fhtv.top/UBlive.php?id=245
-#EXTINF:-1 group-title="韩日越泰" ,日本-SKY A
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-SKY A
 http://ublive.fhtv.top/UBlive.php?id=247
-#EXTINF:-1 group-title="韩日越泰" ,日本-Golf Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-Golf Network
 http://ublive.fhtv.top/UBlive.php?id=249
-#EXTINF:-1 group-title="韩日越泰" ,日本-Tokyo MX1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-Tokyo MX1
 http://ublive.fhtv.top/UBlive.php?id=33
-#EXTINF:-1 group-title="韩日越泰" ,日本-Japan Channel DX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-Japan Channel DX
 http://ublive.fhtv.top/UBlive.php?id=39
-#EXTINF:-1 group-title="韩日越泰" ,日本-NTV News24
+#EXTINF:-1 tvg-id="6159" tvg-name="tvN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="韩日越泰",日本-NTV News24
 http://ublive.fhtv.top/UBlive.php?id=42
-#EXTINF:-1 group-title="韩日越泰" ,日本-時代劇の専門家
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-时代剧の専门家
 http://ublive.fhtv.top/UBlive.php?id=287
-#EXTINF:-1 group-title="韩日越泰" ,日本-MUSIC JAPAN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-MUSIC JAPAN
 http://ublive.fhtv.top/UBlive.php?id=288
-#EXTINF:-1 group-title="韩日越泰" ,日本-KIDS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-KIDS
 http://ublive.fhtv.top/UBlive.php?id=289
-#EXTINF:-1 group-title="韩日越泰" ,日本-Discovery
+#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="韩日越泰",日本-Discovery
 http://ublive.fhtv.top/UBlive.php?id=290
-#EXTINF:-1 group-title="韩日越泰" ,日本-衛星劇場
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",日本-卫星剧场
 http://ublive.fhtv.top/UBlive.php?id=298
-#EXTINF:-1 group-title="韩日越泰" ,越南-THHN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",越南-THHN
 http://ublive.fhtv.top/UBlive.php?id=1290
-#EXTINF:-1 group-title="韩日越泰" ,越南-LA34
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",越南-LA34
 http://ublive.fhtv.top/UBlive.php?id=1291
-#EXTINF:-1 group-title="韩日越泰" ,越南-THGL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",越南-THGL
 http://ublive.fhtv.top/UBlive.php?id=1292
-#EXTINF:-1 group-title="韩日越泰" ,越南-PTP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",越南-PTP
 http://ublive.fhtv.top/UBlive.php?id=1293
-#EXTINF:-1 group-title="韩日越泰" ,越南-QRT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",越南-QRT
 http://ublive.fhtv.top/UBlive.php?id=1294
-#EXTINF:-1 group-title="韩日越泰" ,越南-THBT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",越南-THBT
 http://ublive.fhtv.top/UBlive.php?id=1295
-#EXTINF:-1 group-title="韩日越泰" ,越南-KonTumTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",越南-KonTumTV
 http://ublive.fhtv.top/UBlive.php?id=1296
-#EXTINF:-1 group-title="韩日越泰" ,越南-BPTV1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",越南-BPTV1
 http://ublive.fhtv.top/UBlive.php?id=1297
-#EXTINF:-1 group-title="韩日越泰" ,越南-BPTV2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",越南-BPTV2
 http://ublive.fhtv.top/UBlive.php?id=1298
-#EXTINF:-1 group-title="韩日越泰" ,越南-VITV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",越南-VITV
 http://ublive.fhtv.top/UBlive.php?id=1299
-#EXTINF:-1 group-title="韩日越泰" ,越南-ANTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",越南-ANTV
 http://ublive.fhtv.top/UBlive.php?id=1300
-#EXTINF:-1 group-title="韩日越泰" ,越南-ANTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",越南-ANTV
 http://ublive.fhtv.top/UBlive.php?id=1301
-#EXTINF:-1 group-title="韩日越泰" ,越南-HBTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",越南-HBTV
 http://ublive.fhtv.top/UBlive.php?id=1302
-#EXTINF:-1 group-title="韩日越泰" ,越南-KienGiangTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",越南-KienGiangTV
 http://ublive.fhtv.top/UBlive.php?id=1309
-#EXTINF:-1 group-title="韩日越泰" ,越南-KienGiangTV1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",越南-KienGiangTV1
 http://ublive.fhtv.top/UBlive.php?id=1310
-#EXTINF:-1 group-title="韩日越泰" ,越南-AnGiangTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",越南-AnGiangTV
 http://ublive.fhtv.top/UBlive.php?id=1311
-#EXTINF:-1 group-title="韩日越泰" ,越南-ANTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",越南-ANTV
 http://ublive.fhtv.top/UBlive.php?id=1312
-#EXTINF:-1 group-title="韩日越泰" ,越南-BenTreTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",越南-BenTreTV
 http://ublive.fhtv.top/UBlive.php?id=1313
-#EXTINF:-1 group-title="韩日越泰" ,越南-BinhPhuocTV1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",越南-BinhPhuocTV1
 http://ublive.fhtv.top/UBlive.php?id=1314
-#EXTINF:-1 group-title="韩日越泰" ,越南-BinhPhuocTV2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",越南-BinhPhuocTV2
 http://ublive.fhtv.top/UBlive.php?id=1315
-#EXTINF:-1 group-title="韩日越泰" ,越南-Da Nang TV1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",越南-Da Nang TV1
 http://ublive.fhtv.top/UBlive.php?id=1316
-#EXTINF:-1 group-title="韩日越泰" ,越南-DakLakTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",越南-DakLakTV
 http://ublive.fhtv.top/UBlive.php?id=1317
-#EXTINF:-1 group-title="韩日越泰" ,越南-KhanhHoaTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",越南-KhanhHoaTV
 http://ublive.fhtv.top/UBlive.php?id=1318
-#EXTINF:-1 group-title="韩日越泰" ,越南-KienGiangTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",越南-KienGiangTV
 http://ublive.fhtv.top/UBlive.php?id=1319
-#EXTINF:-1 group-title="韩日越泰" ,越南-KienGiangTV1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",越南-KienGiangTV1
 http://ublive.fhtv.top/UBlive.php?id=1320
-#EXTINF:-1 group-title="韩日越泰" ,越南-PhuYenTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",越南-PhuYenTV
 http://ublive.fhtv.top/UBlive.php?id=1323
-#EXTINF:-1 group-title="韩日越泰" ,越南-QuangNamTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",越南-QuangNamTV
 http://ublive.fhtv.top/UBlive.php?id=1324
-#EXTINF:-1 group-title="韩日越泰" ,越南-KonTumTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",越南-KonTumTV
 http://ublive.fhtv.top/UBlive.php?id=1325
-#EXTINF:-1 group-title="韩日越泰" ,越南-LongAnTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",越南-LongAnTV
 http://ublive.fhtv.top/UBlive.php?id=1321
-#EXTINF:-1 group-title="韩日越泰" ,越南-NhanDanTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",越南-NhanDanTV
 http://ublive.fhtv.top/UBlive.php?id=1322
-#EXTINF:-1 group-title="韩日越泰" ,泰国-Thai PBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",泰国-Thai PBS
 http://ublive.fhtv.top/UBlive.php?id=1047
-#EXTINF:-1 group-title="韩日越泰" ,泰国-NBT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",泰国-NBT
 http://ublive.fhtv.top/UBlive.php?id=1048
-#EXTINF:-1 group-title="韩日越泰" ,泰国-DDTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",泰国-DDTV
 http://ublive.fhtv.top/UBlive.php?id=1138
-#EXTINF:-1 group-title="韩日越泰" ,泰国-Thairath TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",泰国-Thairath TV
 http://ublive.fhtv.top/UBlive.php?id=1139
-#EXTINF:-1 group-title="韩日越泰" ,泰国-ChanneL8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="韩日越泰",泰国-ChanneL8
 http://ublive.fhtv.top/UBlive.php?id=1140
-
-#EXTINF:-1 group-title="AU" ,ABC News
+#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5b3af185b2db8.png" group-title="AU",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 group-title="AU" ,ABC
+#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5b3af185b2db8.png" group-title="AU",ABC
 https://c.mjh.nz/101002510251/
-#EXTINF:-1 group-title="AU" ,ABC
+#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5b3af185b2db8.png" group-title="AU",ABC
 https://c.mjh.nz/101002210221/
-#EXTINF:-1 group-title="AU" ,ABC Comedy
+#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5b3af185b2db8.png" group-title="AU",ABC Comedy
 https://c.mjh.nz/abc2/
-#EXTINF:-1 group-title="AU" ,ABC Kids
+#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5b3af185b2db8.png" group-title="AU",ABC Kids
 https://c.mjh.nz/101002210222/
-#EXTINF:-1 group-title="AU" ,ABC ME
+#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5b3af185b2db8.png" group-title="AU",ABC ME
 https://c.mjh.nz/101002210224/
-#EXTINF:-1 group-title="AU" ,SBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AU",SBS
 https://sbs-live.akamaized.net/hls/live/2002827/channel1/geo/master_2500K.m3u8
-#EXTINF:-1 group-title="AU" ,SBS Food
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AU",SBS Food
 https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8
-#EXTINF:-1 group-title="AU" ,SBS NITV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AU",SBS NITV
 https://sbs-live.akamaized.net/hls/live/2002826/channel4/geo/master_1800K.m3u8
-#EXTINF:-1 group-title="AU" ,SBS VICELAND
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AU",SBS VICELAND
 https://sbs-live.akamaized.net/hls/live/2002828/channel2/geo/master_2500K.m3u8
-#EXTINF:-1 group-title="AU" ,SBS World Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AU",SBS World Movies
 https://sbs-live.akamaized.net/hls/live/2005470/channel5/geo/master_2500K.m3u8
-#EXTINF:-1 group-title="AU" ,7ONE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AU",7ONE
 https://npc.cdn.7livecloud.io/hls/live/CNS1/masterSD.m3u8
-#EXTINF:-1 group-title="AU" ,7TWO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AU",7TWO
 https://npc.cdn.7livecloud.io/hls/live/BRI2/masterSD.m3u8
-#EXTINF:-1 group-title="AU" ,7flix Sydney
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AU",7flix Sydney
 https://npc.cdn.7livecloud.io/hls/live/SYD6/masterSD.m3u8
-#EXTINF:-1 group-title="AU" ,7mate Sydney
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AU",7mate Sydney
 https://npc.cdn.7livecloud.io/hls/live/SYD3/masterSD.m3u8
-#EXTINF:-1 group-title="AU" ,Fuel TV
+#EXTINF:-1 tvg-id="7186" tvg-name="ELTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eltv.png" group-title="AU",Fuel TV
 https://i.mjh.nz/au/Sydney/tv.7fueltv.m3u8
-#EXTINF:-1 group-title="AU" ,openshop
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AU",openshop
 https://npc.cdn.7livecloud.io/hls/live/ASN/masterSD.m3u8
-#EXTINF:-1 group-title="AU" ,RACING
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AU",RACING
 https://npc.cdn.7livecloud.io/hls/live/RAC/masterSD.m3u8
-#EXTINF:-1 group-title="AU" ,ausbiz TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AU",ausbiz TV
 https://i.mjh.nz/au/Sydney/tv.7ausbiz.m3u8
-#EXTINF:-1 group-title="AU" ,Channel 9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AU",Channel 9
 https://9now-livestreams.akamaized.net/hls/live/2007330/ch9-syd/master.m3u8
-#EXTINF:-1 group-title="AU" ,9Gem
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AU",9Gem
 https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
-#EXTINF:-1 group-title="AU" ,9Go!
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AU",9Go!
 https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
-#EXTINF:-1 group-title="AU" ,9Life
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AU",9Life
 https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
-#EXTINF:-1 group-title="AU" ,9Rush
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AU",9Rush
 https://9now-livestreams.akamaized.net/hls/live/2010626/rush-syd/master.m3u8
-#EXTINF:-1 group-title="AU" ,Channel 10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AU",Channel 10
 https://d2wbjmkh2b1mgc.cloudfront.net/10QLD/stream.m3u8
-#EXTINF:-1 group-title="AU" ,Outdoor Channel
+#EXTINF:-1 tvg-id="989" tvg-name="Outdoor" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/outdoor.png" group-title="AU",Outdoor Channel
 https://i.mjh.nz/au/Sydney/tv.7outdoor.m3u8
-#EXTINF:-1 group-title="AU" ,outdoor food
+#EXTINF:-1 tvg-id="989" tvg-name="Outdoor" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/outdoor.png" group-title="AU",outdoor food
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w996888467_b1006700.m3u8
-#EXTINF:-1 group-title="AU" ,Sky News Extra 1
+#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="AU",Sky News Extra 1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="AU" ,Sky News Extra 2
+#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="AU",Sky News Extra 2
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="AU" ,Sky News Extra 3
+#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="AU",Sky News Extra 3
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="AU" ,Fox Sports News
+#EXTINF:-1 tvg-id="6091" tvg-name="FOXSports" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXSports.png" group-title="AU",Fox Sports News
 https://i.mjh.nz/au/Sydney/tv.fox.sports.news.m3u8
-#EXTINF:-1 group-title="AU" ,Bloomberg
+#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="AU",Bloomberg
 https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="AU" ,Al Jazeera
+#EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="AU",Al Jazeera
 https://i.mjh.nz/au/Sydney/tv.46.m3u8
-#EXTINF:-1 group-title="AU" ,ACC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AU",ACC
 http://i.mjh.nz/au/Adelaide/tv.acctv.m3u8
-#EXTINF:-1 group-title="AU" ,Redbull TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AU",Redbull TV
 https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8
-#EXTINF:-1 group-title="AU" ,Snowy Mountains Television
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AU",Snowy Mountains Televisio
 https://c.mjh.nz/snowy-mountains/
-#EXTINF:-1 group-title="AU" ,PAC-12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AU",PAC-12
 https://pac12b.cdn.7livecloud.io/index.m3u8
-#EXTINF:-1 group-title="AU" ,Olympics Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="AU",Olympics Channel
 https://i.mjh.nz/au/Sydney/tv.7olympics.m3u8
-
-#EXTINF:-1 group-title="HK" ,凤凰中文
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="HK",凤凰中文
 http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
-#EXTINF:-1 group-title="HK" ,凤凰资讯
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="HK",凤凰资讯
 http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
-#EXTINF:-1 group-title="HK" ,凤凰香港
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="HK",凤凰香港
 http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
-#EXTINF:-1 group-title="HK" ,HKS香港卫视
+#EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="HK",HKS香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="HK" ,翡翠台
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="HK",翡翠台
 https://live-wxxcx.mtq.tvmmedia.cn/weixin/live_XGFeiCui.m3u8
-#EXTINF:-1 group-title="HK" ,无线新闻
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="HK",无线新闻
 http://45.93.217.106/jiuban/hg.php?id=1
-#EXTINF:-1 group-title="HK" ,有线新闻2
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="HK",有线新闻2
 http://danielwu.gz01.bdysite.com/iptv/?id=yxxw2
-#EXTINF:-1 group-title="HK" ,NOW新闻台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HK",NOW新闻台
 http://a.315600.xyz/dl/gt.php?id=nowtvlive
-#EXTINF:-1 group-title="HK" ,无线财经
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="HK",无线财经
 http://96.45.185.192/tv.php?vid=wxcjzx
-#EXTINF:-1 group-title="HK" ,耀才財經台1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HK",耀才财经台1
 http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 group-title="HK" ,环球电視
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HK",环球电视
 http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
-#EXTINF:-1 group-title="HK" ,亞美衛視
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HK",亚美卫视
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-#EXTINF:-1 group-title="HK" ,亚视本港
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HK",亚视本港
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
-#EXTINF:-1 group-title="HK" ,RHK32
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HK",RHK32
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
-#EXTINF:-1 group-title="HK" ,C+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HK",C+
 http://liveima.utvlive.top/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:-1 group-title="HK" ,VIUTV
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="HK",VIUTV
 http://61.238.6.49:8000/bysid/99
-#EXTINF:-1 group-title="HK" ,VIUTV
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="HK",VIUTV
 http://61.238.6.49:8000/bysid/96
-#EXTINF:-1 group-title="HK" ,凤凰电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HK",凤凰电影
 https://www.fanmingming.cn/hls/fhdy.m3u8
-#EXTINF:-1 group-title="HK" ,天映娱乐thrll
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HK",天映娱乐thrll
 http://210.210.155.35/qwr9ew/s/s34/02.m3u8
-#EXTINF:-1 group-title="HK" ,kk金马影院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HK",kk金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 group-title="HK" ,kk开心影院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HK",kk开心影院
 http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
-#EXTINF:-1 group-title="HK" ,歐美影院
+#EXTINF:-1 tvg-id="6650" tvg-name="欧美影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/OMYY.jpg" group-title="HK",欧美影院
 http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSEAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
-#EXTINF:-1 group-title="HK" ,亞洲影院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HK",亚洲影院
 http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSEAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
-#EXTINF:-1 group-title="HK" ,天映频道Celestial Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HK",天映频道Celestial Movies
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 group-title="HK" ,卡式台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HK",卡式台
 http://live.vpnyun.tk:8080/demo/456321/23
-#EXTINF:-1 group-title="HK" ,澳视澳门
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HK",澳视澳门
 https://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 group-title="HK" ,澳视电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HK",澳视电影
 https://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1 group-title="HK" ,澳视体育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HK",澳视体育
 https://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 group-title="HK" ,澳视资讯
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HK",澳视资讯
 https://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
-#EXTINF:-1 group-title="HK" ,澳視澳門
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HK",澳视澳门
 http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 group-title="HK" ,澳視衛星
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HK",澳视卫星
 http://live4.tdm.com.mo/ch3/_definst_//ch3.live/playlist.m3u8
-#EXTINF:-1 group-title="HK" ,澳视综艺
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HK",澳视综艺
 http://61.244.22.5/ch6/_definst_/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 group-title="HK" ,澳视葡文
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HK",澳视葡文
 http://61.244.22.4/ch2/ch2.live/index.m3u8
-#EXTINF:-1 group-title="HK" ,澳門微电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HK",澳门微电影
 http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
-
-#EXTINF:-1 group-title="TW" ,TVBS新闻 FHD ★
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="TW",TVBS新闻 FHD ★
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-#EXTINF:-1 group-title="TW" ,东森财经新闻 FHD ★
+#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="TW",东森财经新闻 FHD ★
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
-#EXTINF:-1 group-title="TW" ,东森新闻 FHD ★
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="TW",东森新闻 FHD ★
 http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 group-title="TW" ,华视新闻 FHD ★
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TW",华视新闻 FHD ★
 http://seb.sason.top/sc/hsxw_fhd.m3u8
-#EXTINF:-1 group-title="TW" ,民视新闻 FHD ★
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="TW",民视新闻 FHD ★
 http://seb.sason.top/sc/msxw_fhd.m3u8
-#EXTINF:-1 group-title="TW" ,三立iNews FHD ★
+#EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="TW",三立iNews FHD ★
 http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:-1 group-title="TW" ,三立Live FHD ★
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TW",三立Live FHD ★
 http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 group-title="TW" ,台视新闻 FHD ★
+#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="TW",台视新闻 FHD ★
 http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1 group-title="TW" ,中视新闻 FHD ★
+#EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="TW",中视新闻 FHD ★
 http://seb.sason.top/sc/zsxw_fhd.m3u8
-#EXTINF:-1 group-title="TW" ,中天新闻 FHD ★
+#EXTINF:-1 tvg-id="6070" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="TW",中天新闻 FHD ★
 http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 group-title="TW" ,壹新闻 FHD ★
+#EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="TW",壹新闻 FHD ★
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
-#EXTINF:-1 group-title="TW" ,三立新闻
+#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="TW",三立新闻
 http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
-#EXTINF:-1 group-title="TW" ,民视 ★
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TW",民视 ★
 http://seb.sason.top/ptv/ftv.php?id=ms
-#EXTINF:-1 group-title="TW" ,民视第一 ★
+#EXTINF:-1 tvg-id="7133" tvg-name="民视第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-1.png" group-title="TW",民视第一 ★
 http://seb.sason.top/ptv/ftv.php?id=dy
-#EXTINF:-1 group-title="TW" ,民视台湾 ★
+#EXTINF:-1 tvg-id="7134" tvg-name="民视台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="TW",民视台湾 ★
 http://seb.sason.top/ptv/ftv.php?id=tw
-#EXTINF:-1 group-title="TW" ,民视影剧 ★
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TW",民视影剧 ★
 http://seb.sason.top/ptv/ftv.php?id=yj
-#EXTINF:-1 group-title="TW" ,民视综艺 ★
+#EXTINF:-1 tvg-id="7145" tvg-name="民视综艺台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png" group-title="TW",民视综艺 ★
 http://seb.sason.top/ptv/ftv.php?id=zy
-#EXTINF:-1 group-title="TW" ,民视旅游 ★
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TW",民视旅游 ★
 http://seb.sason.top/ptv/ftv.php?id=ly
-#EXTINF:-1 group-title="TW" ,大爱1台
+#EXTINF:-1 tvg-id="6027" tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="TW",大爱1台
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 group-title="TW" ,TVBS新聞台
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="TW",TVBS新闻台
 http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
-#EXTINF:-1 group-title="TW" ,TVBS歡樂台
+#EXTINF:-1 tvg-id="6060" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="TW",TVBS欢乐台
 http://220.158.149.14:9999/live/TV00000000000000000079@HHZT;LIVE
-#EXTINF:-1 group-title="TW" ,CNEX Taiwan
+#EXTINF:-1 tvg-id="7179" tvg-name="cnex" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cnex.png" group-title="TW",CNEX Taiwan
 http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE
-#EXTINF:-1 group-title="TW" ,HBO Asia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TW",HBO Asia
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
-#EXTINF:-1 group-title="TW" ,博斯魅力
+#EXTINF:-1 tvg-id="6179" tvg-name="博斯魅力网" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-trendsport.png" group-title="TW",博斯魅力
 https://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:-1 group-title="TW" ,空中英語教室
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TW",空中英语教室
 http://220.158.149.14:9999/live/TV00000000000000000077@HHZT;LIVE
-#EXTINF:-1 group-title="TW" ,緯來體育台
+#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="TW",纬来体育台
 http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
-
-#EXTINF:-1 group-title="CCTV",CCTV-1 综合
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV-1 综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225710/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-2 财经
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="CCTV",CCTV-2 财经
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225747/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-3 文艺
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="CCTV",CCTV-3 文艺
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225606/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-4 中文国际
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="CCTV",CCTV-4 中文国际
 http://39.134.157.203/PLTV/88888888/224/3221225641/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-5 体育
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="CCTV",CCTV-5 体育
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-5+ 体育赛事
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="CCTV",CCTV-5+ 体育赛事
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-6 电影
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="CCTV",CCTV-6 电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225607/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-7 军事
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="CCTV",CCTV-7 军事
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-8 电视剧
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="CCTV",CCTV-8 电视剧
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225608/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-9 纪录
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="CCTV",CCTV-9 纪录
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-10 科教
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="CCTV",CCTV-10 科教
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-11 戏曲
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="CCTV",CCTV-11 戏曲
 http://39.134.157.203/PLTV/88888888/224/3221225622/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-12 社会与法
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="CCTV",CCTV-12 社会与法
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-13 新闻
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="CCTV",CCTV-13 新闻
 http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 group-title="CCTV",CCTV-14 少儿
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="CCTV",CCTV-14 少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-15 音乐
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="CCTV",CCTV-15 音乐
 http://39.134.157.199/PLTV/88888888/224/3221225610/index.m3u8
-#EXTINF:-1 group-title="CCTV",CCTV-17 农业农村
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="CCTV",CCTV-17 农业农村
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-
-#EXTINF:-1 group-title="卫视",湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
-#EXTINF:-1 group-title="卫视",江苏卫视
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
-#EXTINF:-1 group-title="卫视",东方卫视
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-#EXTINF:-1 group-title="卫视",广东卫视
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225736/index.m3u8
-#EXTINF:-1 group-title="卫视",深圳卫视
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
-#EXTINF:-1 group-title="卫视",广西卫视
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
-#EXTINF:-1 group-title="卫视",黑龙江卫视
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225640/index.m3u8
-#EXTINF:-1 group-title="卫视",江西卫视
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225615/index.m3u8
-#EXTINF:-1 group-title="卫视",宁夏卫视
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
-#EXTINF:-1 group-title="卫视",青海卫视
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
-#EXTINF:-1 group-title="卫视",山西卫视
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
-#EXTINF:-1 group-title="卫视",安徽卫视
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225727/index.m3u8
-#EXTINF:-1 group-title="卫视",甘肃卫视
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
-#EXTINF:-1 group-title="卫视",北京卫视
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
 http://39.130.206.213:6410/gitv_live/BTV-1/BTV-1.m3u8
-#EXTINF:-1 group-title="卫视",兵团卫视
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
 http://39.130.206.213:6410/gitv_live/G_BINGTUAN/G_BINGTUAN.m3u8
-#EXTINF:-1 group-title="卫视",重庆卫视
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
 http://39.130.206.213:6410/gitv_live/G_CHONGQING-HD/G_CHONGQING-HD.m3u8
-#EXTINF:-1 group-title="卫视",东南卫视
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
 http://39.130.206.213:6410/gitv_live/G_DONGNAN-HD/G_DONGNAN-HD.m3u8
-#EXTINF:-1 group-title="卫视",贵州卫视
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
 http://39.130.206.213:6410/gitv_live/G_GUIZHOU-HD/G_GUIZHOU-HD.m3u8
-#EXTINF:-1 group-title="卫视",河南卫视
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
 http://39.130.206.213:6410/gitv_live/HENAN/HENAN.m3u8
-#EXTINF:-1 group-title="卫视",四川卫视
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
 http://39.130.206.213:6410/gitv_live/G_SICHUAN-HD/G_SICHUAN-HD.m3u8
-#EXTINF:-1 group-title="卫视",山东卫视
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
 http://39.130.206.213:6410/gitv_live/G_SHANDONG-HD/G_SHANDONG-HD.m3u8
-#EXTINF:-1 group-title="卫视",天津卫视
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
 http://39.130.206.213:6410/gitv_live/G_TIANJIN-HD/G_TIANJIN-HD.m3u8
-#EXTINF:-1 group-title="卫视",云南卫视
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
 http://39.130.206.213:6410/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
-#EXTINF:-1 group-title="卫视",湖北卫视
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
 http://39.135.253.153/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226124/2.m3u8
-#EXTINF:-1 group-title="卫视",辽宁卫视
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
 http://39.135.253.153/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226157/3.m3u8
-#EXTINF:-1 group-title="卫视",浙江卫视
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-#EXTINF:-1 group-title="卫视",内蒙古卫视
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
 http://live.m2oplus.nmtv.cn/1/playlist.m3u8
-#EXTINF:-1 group-title="卫视",海南卫视
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
 http://tv.sason.xyz/proxy/hain.php?id=19
-#EXTINF:-1 group-title="卫视",河北卫视
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
 http://weblive.hebtv.com/live/hbwsbq_bq/index.m3u8
-#EXTINF:-1 group-title="卫视",延边卫视
+#EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="卫视",延边卫视
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
