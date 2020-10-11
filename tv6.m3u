@@ -167,319 +167,318 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-sports",WWE Network
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?@amarnettv.live
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",华纳电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",华纳电影
 http://ublive.fhtv.top/UBlive.php?id=83
-#EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="fhtv",东森电影
+#EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="常用频道",东森电影
 http://ublive.fhtv.top/UBlive.php?id=350
-#EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="fhtv",东森洋片
+#EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="常用频道",东森洋片
 http://ublive.fhtv.top/UBlive.php?id=1128
-#EXTINF:-1 tvg-id="7128" tvg-name="龙华电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华电影.png" group-title="fhtv",龙华电影
+#EXTINF:-1 tvg-id="7128" tvg-name="龙华电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华电影.png" group-title="常用频道",龙华电影
 http://ublive.fhtv.top/UBlive.php?id=311
-#EXTINF:-1 tvg-id="6081" tvg-name="纬来电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="fhtv",纬来电影
+#EXTINF:-1 tvg-id="6081" tvg-name="纬来电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="常用频道",纬来电影
 http://ublive.fhtv.top/UBlive.php?id=96
-#EXTINF:-1 tvg-id="7164" tvg-name="靖天电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天电影.png" group-title="fhtv",靖天电影台
+#EXTINF:-1 tvg-id="7164" tvg-name="靖天电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天电影.png" group-title="常用频道",靖天电影台
 http://ublive.fhtv.top/UBlive.php?id=110
-#EXTINF:-1 tvg-id="6086" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="fhtv",好莱坞电影
+#EXTINF:-1 tvg-id="6086" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="常用频道",好莱坞电影
 http://ublive.fhtv.top/UBlive.php?id=37
-#EXTINF:-1 tvg-id="871" tvg-name="cinemaworld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="fhtv",CinemaWorld
+#EXTINF:-1 tvg-id="871" tvg-name="cinemaworld" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png" group-title="常用频道",CinemaWorld
 http://ublive.fhtv.top/UBlive.php?id=84
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",爆笑频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",爆笑频道
 http://ublive.fhtv.top/UBlive.php?id=85
-#EXTINF:-1 tvg-id="7165" tvg-name="AMC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AMC.png" group-title="fhtv",AMC最爱电影
+#EXTINF:-1 tvg-id="7165" tvg-name="AMC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AMC.png" group-title="常用频道",AMC最爱电影
 http://ublive.fhtv.top/UBlive.php?id=92
-#EXTINF:-1 tvg-id="7178" tvg-name="CI" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CrimeInvestigation.png" group-title="fhtv",CI罪案侦查
+#EXTINF:-1 tvg-id="7178" tvg-name="CI" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CrimeInvestigation.png" group-title="常用频道",CI罪案侦查
 http://ublive.fhtv.top/UBlive.php?id=1159
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",AXN亚洲
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",AXN亚洲
 http://ublive.fhtv.top/UBlive.php?id=1066
-#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="fhtv",FOX
+#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="常用频道",FOX
 http://ublive.fhtv.top/UBlive.php?id=384
-#EXTINF:-1 tvg-id="870" tvg-name="FOXActionMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="fhtv",FOX ACTION
+#EXTINF:-1 tvg-id="870" tvg-name="FOXActionMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="常用频道",FOX ACTION
 http://ublive.fhtv.top/UBlive.php?id=385
-#EXTINF:-1 tvg-id="354" tvg-name="FOXCRIME" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXCRIME.png" group-title="fhtv",FOX CRIME
+#EXTINF:-1 tvg-id="354" tvg-name="FOXCRIME" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXCRIME.png" group-title="常用频道",FOX CRIME
 http://ublive.fhtv.top/UBlive.php?id=386
-#EXTINF:-1 tvg-id="7206" tvg-name="CatchPlay电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/catchplay.png" group-title="fhtv",CATCHPLAY电影台
+#EXTINF:-1 tvg-id="7206" tvg-name="CatchPlay电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/catchplay.png" group-title="常用频道",CATCHPLAY电影台
 http://ublive.fhtv.top/UBlive.php?id=362
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",卫视西片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",卫视西片
 http://ublive.fhtv.top/UBlive.php?id=369
-#EXTINF:-1 tvg-id="7158" tvg-name="龙华日韩台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华日韩.png" group-title="fhtv",龙华日韩
+#EXTINF:-1 tvg-id="7158" tvg-name="龙华日韩台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华日韩.png" group-title="常用频道",龙华日韩
 http://ublive.fhtv.top/UBlive.php?id=382
-#EXTINF:-1 tvg-id="6095" tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="fhtv",纬来日本
+#EXTINF:-1 tvg-id="6095" tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="常用频道",纬来日本
 http://ublive.fhtv.top/UBlive.php?id=46
-#EXTINF:-1 tvg-id="6095" tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="fhtv",纬来日本
+#EXTINF:-1 tvg-id="6095" tvg-name="纬来日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="常用频道",纬来日本
 http://ublive.fhtv.top/UBlive.php?id=337
-#EXTINF:-1 tvg-id="7187" tvg-name="靖天国际" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天国际.png" group-title="fhtv",靖天国际台
+#EXTINF:-1 tvg-id="7187" tvg-name="靖天国际" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天国际.png" group-title="常用频道",靖天国际台
 http://ublive.fhtv.top/UBlive.php?id=345
-#EXTINF:-1 tvg-id="6157" tvg-name="靖天日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天日本.png" group-title="fhtv",靖天日本台
+#EXTINF:-1 tvg-id="6157" tvg-name="靖天日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天日本.png" group-title="常用频道",靖天日本台
 http://ublive.fhtv.top/UBlive.php?id=108
-#EXTINF:-1 tvg-id="6063" tvg-name="JET综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/JETVariety.png" group-title="fhtv",JET综合
+#EXTINF:-1 tvg-id="6063" tvg-name="JET综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/JETVariety.png" group-title="常用频道",JET综合
 http://ublive.fhtv.top/UBlive.php?id=41
-#EXTINF:-1 tvg-id="7223" tvg-name="曼迪日本" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mandi_japan.png" group-title="fhtv",曼迪日本台
+#EXTINF:-1 tvg-id="7223" tvg-name="曼迪日本" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mandi_japan.png" group-title="常用频道",曼迪日本台
 http://ublive.fhtv.top/UBlive.php?id=316
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",AFN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",AFN
 http://ublive.fhtv.top/UBlive.php?id=195
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",AFN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",AFN
 http://ublive.fhtv.top/UBlive.php?id=307
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",中文字Smithsonian
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",中文字Smithsonian
 http://ublive.fhtv.top/UBlive.php?id=291
-#EXTINF:-1 tvg-id="6158" tvg-name="FoodNetwork美食台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoodNetwork.png" group-title="fhtv",中文字FoodNetwork
+#EXTINF:-1 tvg-id="6158" tvg-name="FoodNetwork美食台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoodNetwork.png" group-title="常用频道",中文字FoodNetwork
 http://ublive.fhtv.top/UBlive.php?id=294
-#EXTINF:-1 tvg-id="6161" tvg-name="韩国娱乐台KMTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/KMTV.png" group-title="fhtv",韩国娱乐
+#EXTINF:-1 tvg-id="6161" tvg-name="韩国娱乐台KMTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/KMTV.png" group-title="常用频道",韩国娱乐
 http://ublive.fhtv.top/UBlive.php?id=73
-#EXTINF:-1 tvg-id="6172" tvg-name="亚洲旅游台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="fhtv",亚洲旅游
+#EXTINF:-1 tvg-id="6172" tvg-name="亚洲旅游台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="常用频道",亚洲旅游
 http://ublive.fhtv.top/UBlive.php?id=77
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",Love Nature
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",Love Nature
 http://ublive.fhtv.top/UBlive.php?id=388
-#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="fhtv",国家地理
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="常用频道",国家地理
 http://ublive.fhtv.top/UBlive.php?id=302
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",探索亚洲
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",探索亚洲
 http://ublive.fhtv.top/UBlive.php?id=306
-#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="fhtv",探索频道
+#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="常用频道",探索频道
 http://ublive.fhtv.top/UBlive.php?id=1035
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",国家野生
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",国家野生
 http://ublive.fhtv.top/UBlive.php?id=1038
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",探索科学
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",探索科学
 http://ublive.fhtv.top/UBlive.php?id=343
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",光影欧洲
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",光影欧洲
 http://ublive.fhtv.top/UBlive.php?id=1157
-#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="fhtv",History 2
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="常用频道",History 2
 http://ublive.fhtv.top/UBlive.php?id=1158
-#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="fhtv",动物星球1
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="常用频道",动物星球1
 http://ublive.fhtv.top/UBlive.php?id=367
-#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="fhtv",动物星球2
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="常用频道",动物星球2
 http://ublive.fhtv.top/UBlive.php?id=368
-#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="fhtv",纬来体育
+#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="常用频道",纬来体育
 http://ublive.fhtv.top/UBlive.php?id=52
-#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="fhtv",纬来体育
+#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="常用频道",纬来体育
 http://ublive.fhtv.top/UBlive.php?id=118
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",空中英语教
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",空中英语教
 http://ublive.fhtv.top/UBlive.php?id=313
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",生活英语台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",生活英语台
 http://ublive.fhtv.top/UBlive.php?id=323
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="fhtv",ViUtv
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="常用频道",ViUtv
 http://ublive.fhtv.top/UBlive.php?id=72
-#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="fhtv",卫视电影
+#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="常用频道",卫视电影
 http://ublive.fhtv.top/UBlive.php?id=93
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",星卫电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",星卫电影
 http://ublive.fhtv.top/UBlive.php?id=496
-#EXTINF:-1 tvg-id="7185" tvg-name="影迷数位电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/影迷电影.png" group-title="fhtv",影迷数位电影
+#EXTINF:-1 tvg-id="7185" tvg-name="影迷数位电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/影迷电影.png" group-title="常用频道",影迷数位电影
 http://ublive.fhtv.top/UBlive.php?id=497
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",有线电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",有线电影
 http://ublive.fhtv.top/UBlive.php?id=354
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",凤凰电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",凤凰电影
 http://ublive.fhtv.top/UBlive.php?id=18
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",凤凰电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",凤凰电影
 http://ublive.fhtv.top/UBlive.php?id=19
-#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="fhtv",美亚电影
+#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="常用频道",美亚电影
 http://ublive.fhtv.top/UBlive.php?id=375
-#EXTINF:-1 tvg-id="6085" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="fhtv",新马AXN
+#EXTINF:-1 tvg-id="6085" tvg-name="AXN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AXN.png" group-title="常用频道",新马AXN
 http://ublive.fhtv.top/UBlive.php?id=1044
-#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="fhtv",BBC world news
+#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="常用频道",BBC world news
 http://ublive.fhtv.top/UBlive.php?id=421
-#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="fhtv",BBC News
+#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="常用频道",英国-BBC News
 http://ublive.fhtv.top/UBlive.php?id=164
-#EXTINF:-1 tvg-id="6147" tvg-name="BBCLifestyle" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" group-title="fhtv",BBC lifestyle
+#EXTINF:-1 tvg-id="6147" tvg-name="BBCLifestyle" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png" group-title="常用频道",BBC lifestyle
 http://ublive.fhtv.top/UBlive.php?id=424
-#EXTINF:-1 tvg-id="6189" tvg-name="BBCEarth" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png" group-title="fhtv",BBC earth
+#EXTINF:-1 tvg-id="6189" tvg-name="BBCEarth" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png" group-title="常用频道",BBC earth
 http://ublive.fhtv.top/UBlive.php?id=97
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",BBC 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",英国-BBC 1
 http://ublive.fhtv.top/UBlive.php?id=158
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",BBC 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",英国-BBC 2
 http://ublive.fhtv.top/UBlive.php?id=157
-#EXTINF:-1 tvg-id="6168" tvg-name="TravelChannel" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/travelchannel.png" group-title="fhtv",Travel Channel
+#EXTINF:-1 tvg-id="6168" tvg-name="TravelChannel" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/travelchannel.png" group-title="常用频道",Travel Channel
 http://ublive.fhtv.top/UBlive.php?id=63
-#EXTINF:-1 tvg-id="7179" tvg-name="cnex" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cnex.png" group-title="fhtv",cnex
+#EXTINF:-1 tvg-id="7179" tvg-name="cnex" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/cnex.png" group-title="常用频道",cnex
 http://ublive.fhtv.top/UBlive.php?id=91
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",FOX Family
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",FOX Family
 http://ublive.fhtv.top/UBlive.php?id=383
-#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="fhtv",History
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="常用频道",History
 http://ublive.fhtv.top/UBlive.php?id=116
-#EXTINF:-1 tvg-id="6164" tvg-name="EVE" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EVE.png" group-title="fhtv",探索EVE
+#EXTINF:-1 tvg-id="6164" tvg-name="EVE" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EVE.png" group-title="常用频道",探索EVE
 http://ublive.fhtv.top/UBlive.php?id=1036
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",FOX WILD CARA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",FOX WILD CARA
 http://ublive.fhtv.top/UBlive.php?id=1083
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",ESPN-U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",ESPN-U
 http://ublive.fhtv.top/UBlive.php?id=170
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",CNN USA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国CNN USA
 http://ublive.fhtv.top/UBlive.php?id=1102
-#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="fhtv",FOX
+#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="常用频道",美国FOX
 http://ublive.fhtv.top/UBlive.php?id=1103
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",MSNBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国MSNBC
 http://ublive.fhtv.top/UBlive.php?id=1104
-#EXTINF:-1 tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="fhtv",CNBC
+#EXTINF:-1 tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="常用频道",美国CNBC
 http://ublive.fhtv.top/UBlive.php?id=1106
-#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5b3af185b2db8.png" group-title="fhtv",ABC
+#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5b3af185b2db8.png" group-title="常用频道",美国ABC
 http://ublive.fhtv.top/UBlive.php?id=1216
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",NBC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国NBC
 http://ublive.fhtv.top/UBlive.php?id=1217
-#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="fhtv",FOX
+#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="常用频道",美国FOX
 http://ublive.fhtv.top/UBlive.php?id=1218
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",CBS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国CBS
 http://ublive.fhtv.top/UBlive.php?id=1219
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",CW
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国CW
 http://ublive.fhtv.top/UBlive.php?id=1220
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",VOA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",VOA美国之音
 http://ublive.fhtv.top/UBlive.php?id=495
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",VOA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",VOA卫视
 http://ublive.fhtv.top/UBlive.php?id=22
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",Discovery Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国Discovery Channel
 http://ublive.fhtv.top/UBlive.php?id=1198
-#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="fhtv",National Geographic
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="常用频道",美国National Geographic
 http://ublive.fhtv.top/UBlive.php?id=1200
-#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="fhtv",NAT-GEO
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="常用频道",美国-NAT-GEO
 http://ublive.fhtv.top/UBlive.php?id=285
-#EXTINF:-1 tvg-id="427" tvg-name="国家地理野生频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" group-title="fhtv",Nat Geo Wild
+#EXTINF:-1 tvg-id="427" tvg-name="国家地理野生频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" group-title="常用频道",美国Nat Geo Wild
 http://ublive.fhtv.top/UBlive.php?id=1201
-#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="fhtv",Animal Planet
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="常用频道",美国Animal Planet
 http://ublive.fhtv.top/UBlive.php?id=1203
-#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="fhtv",History
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="常用频道",美国History
 http://ublive.fhtv.top/UBlive.php?id=1204
-#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="fhtv",HISTORY
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="常用频道",美国-HISTORY
 http://ublive.fhtv.top/UBlive.php?id=275
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",Science
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国Science
 http://ublive.fhtv.top/UBlive.php?id=1207
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",Investigation Discovery
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国Investigation Discovery
 http://ublive.fhtv.top/UBlive.php?id=1202
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",YFY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国SYFY
 http://ublive.fhtv.top/UBlive.php?id=1221
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",E!
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国E!
 http://ublive.fhtv.top/UBlive.php?id=1222
-#EXTINF:-1 tvg-id="874" tvg-name="ComedyCentralAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ComedyCentral.png" group-title="fhtv",Comedy Central
+#EXTINF:-1 tvg-id="874" tvg-name="ComedyCentralAsia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ComedyCentral.png" group-title="常用频道",美国Comedy Central
 http://ublive.fhtv.top/UBlive.php?id=1223
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",TNT US
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国TNT US
 http://ublive.fhtv.top/UBlive.php?id=1224
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",Bravo US
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国Bravo US
 http://ublive.fhtv.top/UBlive.php?id=1225
-#EXTINF:-1 tvg-id="509" tvg-name="Lifetime" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Lifetime.png" group-title="fhtv",LifeTime US
+#EXTINF:-1 tvg-id="509" tvg-name="Lifetime" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Lifetime.png" group-title="常用频道",美国LifeTime US
 http://ublive.fhtv.top/UBlive.php?id=1226
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",Arts and Entertainment
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国Arts and Entertainment
 http://ublive.fhtv.top/UBlive.php?id=1227
-#EXTINF:-1 tvg-id="7165" tvg-name="AMC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AMC.png" group-title="fhtv",AMC
+#EXTINF:-1 tvg-id="7165" tvg-name="AMC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AMC.png" group-title="常用频道",美国AMC
 http://ublive.fhtv.top/UBlive.php?id=1228
-#EXTINF:-1 tvg-id="509" tvg-name="Lifetime" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Lifetime.png" group-title="fhtv",Lifetime Movie Network
+#EXTINF:-1 tvg-id="509" tvg-name="Lifetime" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Lifetime.png" group-title="常用频道",美国Lifetime Movie Network
 http://ublive.fhtv.top/UBlive.php?id=1232
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",5 Star Max
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国5 Star Max
 http://ublive.fhtv.top/UBlive.php?id=1174
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",Action Max
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国Action Max
 http://ublive.fhtv.top/UBlive.php?id=1175
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",MoreMax
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国MoreMax
 http://ublive.fhtv.top/UBlive.php?id=1176
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",Hallmark Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国Hallmark Channel
 http://ublive.fhtv.top/UBlive.php?id=1177
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",Hallmark Drama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国Hallmark Drama
 http://ublive.fhtv.top/UBlive.php?id=1178
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",Hallmark Movie
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国Hallmark Movie
 http://ublive.fhtv.top/UBlive.php?id=1179
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",Starz in Black
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国Starz in Black
 http://ublive.fhtv.top/UBlive.php?id=1181
-#EXTINF:-1 tvg-id="6167" tvg-name="HGTV居家乐活" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HGTV.png" group-title="fhtv",HGTV US
+#EXTINF:-1 tvg-id="6167" tvg-name="HGTV居家乐活" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HGTV.png" group-title="常用频道",美国HGTV US
 http://ublive.fhtv.top/UBlive.php?id=1237
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",Cooking Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国Cooking Channel
 http://ublive.fhtv.top/UBlive.php?id=1238
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",-BET
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国-BET
 http://ublive.fhtv.top/UBlive.php?id=270
-#EXTINF:-1 tvg-id="6167" tvg-name="HGTV居家乐活" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HGTV.png" group-title="fhtv",-HGTV-
+#EXTINF:-1 tvg-id="6167" tvg-name="HGTV居家乐活" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HGTV.png" group-title="常用频道",美国-HGTV-
 http://ublive.fhtv.top/UBlive.php?id=274
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",-HBO Comedy East
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国-HBO Comedy East
 http://ublive.fhtv.top/UBlive.php?id=269
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",-HBO East
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国-HBO East
 http://ublive.fhtv.top/UBlive.php?id=271
-#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="fhtv",-HBO Signature
+#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="常用频道",美国-HBO Signature
 http://ublive.fhtv.top/UBlive.php?id=272
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",-HBO Zone East
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国-HBO Zone East
 http://ublive.fhtv.top/UBlive.php?id=273
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",HBO Comedy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国HBO Comedy
 http://ublive.fhtv.top/UBlive.php?id=1109
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",HBO1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国HBO1US
 http://ublive.fhtv.top/UBlive.php?id=1110
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",HBO2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国HBO2US
 http://ublive.fhtv.top/UBlive.php?id=1111
-#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="fhtv",HBO Signature
+#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="常用频道",美国HBO Signature
 http://ublive.fhtv.top/UBlive.php?id=1112
-#EXTINF:-1 tvg-id="6155" tvg-name="HBOFamily" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="fhtv",HBO Family
+#EXTINF:-1 tvg-id="6155" tvg-name="HBOFamily" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png" group-title="常用频道",美国HBO Family
 http://ublive.fhtv.top/UBlive.php?id=1113
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",ShowTime 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国ShowTime 1
 http://ublive.fhtv.top/UBlive.php?id=1114
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",ShowTime 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国ShowTime 2
 http://ublive.fhtv.top/UBlive.php?id=1115
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",ShowCase US
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国ShowCase US
 http://ublive.fhtv.top/UBlive.php?id=1116
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",Starz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国Starz
 http://ublive.fhtv.top/UBlive.php?id=1117
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",Starz Comedy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国Starz Comedy
 http://ublive.fhtv.top/UBlive.php?id=1118
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",Starz Edge
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国Starz Edge
 http://ublive.fhtv.top/UBlive.php?id=1119
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",Starz Kids Family
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国Starz Kids Family
 http://ublive.fhtv.top/UBlive.php?id=1120
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",tarz Encore
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国Starz Encore
 http://ublive.fhtv.top/UBlive.php?id=1121
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",Starz Encore Westerns
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国Starz Encore Westerns
 http://ublive.fhtv.top/UBlive.php?id=1122
-#EXTINF:-1 tvg-id="6089" tvg-name="CINEMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="fhtv",Cinemax
+#EXTINF:-1 tvg-id="6089" tvg-name="CINEMAX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png" group-title="常用频道",美国Cinemax
 http://ublive.fhtv.top/UBlive.php?id=1123
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",American Horrors
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国-American Horrors
 http://ublive.fhtv.top/UBlive.php?id=1054
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",ESPN 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国ESPN 1
 http://ublive.fhtv.top/UBlive.php?id=1182
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国ESPN 2
 http://ublive.fhtv.top/UBlive.php?id=1183
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",ESPN U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国ESPN U
 http://ublive.fhtv.top/UBlive.php?id=1196
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",NBA TV US
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国NBA TV US
 http://ublive.fhtv.top/UBlive.php?id=1185
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",NT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",美国-TNT
 http://ublive.fhtv.top/UBlive.php?id=284
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",Discovery Canada
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",加拿大-Discovery Canada
 http://ublive.fhtv.top/UBlive.php?id=1261
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",Love Nature
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",加拿大-Love Nature
 http://ublive.fhtv.top/UBlive.php?id=1263
-#EXTINF:-1 tvg-id="6158" tvg-name="FoodNetwork美食台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoodNetwork.png" group-title="fhtv",Food Network Cabada
+#EXTINF:-1 tvg-id="6158" tvg-name="FoodNetwork美食台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoodNetwork.png" group-title="常用频道",加拿大-Food Network Cabada
 http://ublive.fhtv.top/UBlive.php?id=1265
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",Cooking Channel Canad
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",加拿大-Cooking Channel Canad
 http://ublive.fhtv.top/UBlive.php?id=1266
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",CTV Comedy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",加拿大-CTV Comedy
 http://ublive.fhtv.top/UBlive.php?id=1267
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",CTV Sci-Fi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",加拿大-CTV Sci-Fi
 http://ublive.fhtv.top/UBlive.php?id=1268
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",Crave 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",加拿大-Crave 1
 http://ublive.fhtv.top/UBlive.php?id=1269
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",Crave 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",加拿大-Crave 2
 http://ublive.fhtv.top/UBlive.php?id=1270
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",Crave 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",加拿大-Crave 3
 http://ublive.fhtv.top/UBlive.php?id=1271
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",Crave 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",加拿大-Crave 4
 http://ublive.fhtv.top/UBlive.php?id=1272
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",NBA CA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",加拿大-NBA CA
 http://ublive.fhtv.top/UBlive.php?id=1282
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",新时代东部
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",加拿大-新时代东部
 http://ublive.fhtv.top/UBlive.php?id=1286
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",新时代西部
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",加拿大-新时代西部
 http://ublive.fhtv.top/UBlive.php?id=1287
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",城市电视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",加拿大-城市电视
 http://ublive.fhtv.top/UBlive.php?id=1289
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",新时代2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",加拿大-新时代2
 http://ublive.fhtv.top/UBlive.php?id=1288
-#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="fhtv",HBO
+#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="常用频道",印度HBO
 http://ublive.fhtv.top/UBlive.php?id=464
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",Sony Mix
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",印度Sony Mix
 http://ublive.fhtv.top/UBlive.php?id=474
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",Sony Sab
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",印度Sony Sab
 http://ublive.fhtv.top/UBlive.php?id=475
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",Star Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",印度Star Movies
 http://ublive.fhtv.top/UBlive.php?id=478
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",Star Plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",印度Star Plus
 http://ublive.fhtv.top/UBlive.php?id=479
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",Zee Marathi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",印度Zee Marathi
 http://ublive.fhtv.top/UBlive.php?id=480
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",Zee Studio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",印度Zee Studio
 http://ublive.fhtv.top/UBlive.php?id=481
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",Zee TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",印度Zee TV
 http://ublive.fhtv.top/UBlive.php?id=482
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",Sony
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",印度Sony
 http://ublive.fhtv.top/UBlive.php?id=483
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="fhtv",Zee Cinema
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="常用频道",印度Zee Cinema
 http://ublive.fhtv.top/UBlive.php?id=484
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台湾频道",猪哥亮歌厅秀
 http://ublive.fhtv.top/UBlive.php?id=75
