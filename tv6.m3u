@@ -386,6 +386,10 @@ http://60.251.61.66:4014/VideoInput/play.ts
 http://103.102.136.106:8080/cmcltv/tcm_bbc.m3u8
 #EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="ama-news",BBC News
 http://anytv.live:8080/saiful/saiful/385
+#EXTINF:-1 group-title="ama-news",BBC One HD
+http://176.10.117.3:5000/play/a035
+#EXTINF:-1 group-title="ama-news",CNN Int. HD
+http://176.10.117.3:5000/play/a03e
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-news",CBBC
 http://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-news",CBSN Newyork
