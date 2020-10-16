@@ -1,222 +1,344 @@
 #EXTM3U
-#EXTINF:-1 group-title="VIP-US",CNN
-http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/11
-#EXTINF:-1 group-title="VIP-US",CNN
-http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/4
-#EXTINF:-1 group-title="VIP-US",CNN
-http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/8
-#EXTINF:-1 group-title="VIP-US",CNN
-http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/13750
-#EXTINF:-1 group-title="VIP-US"group-title="VIP-US",CNN
-http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/14377
-#EXTINF:-1 group-title="VIP-US",CNN
-http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/6359
-#EXTINF:-1 group-title="VIP-US",BBC News
-https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
-#EXTINF:-1 group-title="VIP-US",BBC America
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/157
-#EXTINF:-1 group-title="VIP-US",Fox News
-http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/2
-#EXTINF:-1 group-title="VIP-US",Fox News
-http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/14357
-#EXTINF:-1 group-title="VIP-US",Fox News
-http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/14358
-#EXTINF:-1 group-title="VIP-US",Fox News
-http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/4943
-#EXTINF:-1 group-title="VIP-US",CNBC News
-http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/14337
-#EXTINF:-1 group-title="VIP-US",MSNBC
-http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/15
-#EXTINF:-1 group-title="VIP-US",NAT GEO
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/143
-#EXTINF:-1 group-title="VIP-US",NAT GEO
-http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/4881
-#EXTINF:-1 group-title="VIP-US",NAT GEO
-http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/14339
-#EXTINF:-1 group-title="VIP-US",Nat Geo Wild
-http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/102
-#EXTINF:-1 group-title="VIP-US",Nat Geo Wild
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/108
-#EXTINF:-1 group-title="VIP-US",Nat Geo Wild
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/106
-#EXTINF:-1 group-title="VIP-US",Nat Geo Wild
-http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/13745
-#EXTINF:-1 group-title="VIP-US",Animal Planet
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/111
-#EXTINF:-1 group-title="VIP-US",Animal Planet
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/136
-#EXTINF:-1 group-title="VIP-US",Discovery Channel
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/62
-#EXTINF:-1 group-title="VIP-US",Discovery Channel
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/190
-#EXTINF:-1 group-title="VIP-US",Discovery Channel
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/33
-#EXTINF:-1 group-title="VIP-US",Discovery Channel
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/60
-#EXTINF:-1 group-title="VIP-US",Discovery Life
-http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/4933
-#EXTINF:-1 group-title="VIP-US",Discovery Science
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/23
-#EXTINF:-1 group-title="VIP-US",Discovery Velocity
-http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/14371
-#EXTINF:-1 group-title="VIP-US",Investigation Discovery
-http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/21
-#EXTINF:-1 group-title="VIP-US",Crime And Investigation
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/152
-#EXTINF:-1 group-title="VIP-US",History
-http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/42
-#EXTINF:-1 group-title="VIP-US",History
-http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/4880
-#EXTINF:-1 group-title="VIP-US",History
-http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/14347
-#EXTINF:-1 group-title="VIP-US",H2
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/172
-#EXTINF:-1 group-title="VIP-US",HBO
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/103
-#EXTINF:-1 group-title="VIP-US",HBO 2
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/26
-#EXTINF:-1 group-title="VIP-US",HBO 2
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/51
-#EXTINF:-1 group-title="VIP-US",HBO Comedy
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/119
-#EXTINF:-1 group-title="VIP-US",HBO Family
-http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/110
-#EXTINF:-1 group-title="VIP-US",HBO Family
-http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/109
-#EXTINF:-1 group-title="VIP-US",HBO Signature
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/44
-#EXTINF:-1 group-title="VIP-US",HBO Zone
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/82
-#EXTINF:-1 group-title="VIP-US",Cinemax Action
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/8
-#EXTINF:-1 group-title="VIP-US",Cinemax East
-http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/25
-#EXTINF:-1 group-title="VIP-US",Cinemax Outermax
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/90
-#EXTINF:-1 group-title="VIP-US",Cinemax Thrillermax
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/96
-#EXTINF:-1 group-title="VIP-US",Cinemaxx More Maxx
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/120
-#EXTINF:-1 group-title="VIP-US",Comedy Central
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/124
-#EXTINF:-1 group-title="VIP-US",Comedy Central
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/154
-#EXTINF:-1 group-title="VIP-US",Cooking Channel
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/55
-#EXTINF:-1 group-title="VIP-US",Food Network
-http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/27
-#EXTINF:-1 group-title="VIP-US",Food Network
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/1
-#EXTINF:-1 group-title="VIP-US",Travel Channel
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/89
-#EXTINF:-1 group-title="VIP-US",Travel Channel
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/146
-#EXTINF:-1 group-title="VIP-US",DIY Network
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/11
-#EXTINF:-1 group-title="VIP-US",Motor Trend
-http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/44
-#EXTINF:-1 group-title="VIP-US",EPIX
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/107
-#EXTINF:-1 group-title="VIP-US",EPIX 2
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/159
-#EXTINF:-1 group-title="VIP-US",EPIX Hits
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/30
-#EXTINF:-1 group-title="VIP-US",FX HD
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/63
-#EXTINF:-1 group-title="VIP-US",FXM
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/192
-#EXTINF:-1 group-title="VIP-US",FXX
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/138
-#EXTINF:-1 group-title="VIP-US",Starz Comedy
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/122
-#EXTINF:-1 group-title="VIP-US",Starz Encoure
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/13
-#EXTINF:-1 group-title="VIP-US",Starz Encore Westerns
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/5
-#EXTINF:-1 group-title="VIP-US",TNT
-http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/31
-#EXTINF:-1 group-title="VIP-US",TNT
-http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/99
-#EXTINF:-1 group-title="VIP-US",TNT
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/94
-#EXTINF:-1 group-title="VIP-US",ABC
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/188
-#EXTINF:-1 group-title="VIP-US",AMC
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/87
-#EXTINF:-1 group-title="VIP-US",A & E
-http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/14
-#EXTINF:-1 group-title="VIP-US",CBS East
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/68
-#EXTINF:-1 group-title="VIP-US",Fox Business
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/193
-#EXTINF:-1 group-title="VIP-US",Fox25 [Boston] HD VIP US
-http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/677122
-#EXTINF:-1 group-title="VIP-US",Oxygen
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/10
-#EXTINF:-1 group-title="VIP-US",VH1
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/3
-#EXTINF:-1 group-title="VIP-US",Film premiere
-http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/4956
-#EXTINF:-1 group-title="VIP-US",Destination America
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/110
-#EXTINF:-1 group-title="VIP-US",Destination America
-http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/17640
-#EXTINF:-1 group-title="VIP-US",American Hero's Channel
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/155
-#EXTINF:-1 group-title="VIP-US",BET
-http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/24
-#EXTINF:-1 group-title="VIP-US",BET HER
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/2
-#EXTINF:-1 group-title="VIP-US",Bravo
-http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/39
-#EXTINF:-1 group-title="VIP-US",E!
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/175
-#EXTINF:-1 group-title="VIP-US",Hallmark Movies & Mysteries
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/132
-#EXTINF:-1 group-title="VIP-US",Freeform
-http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/103
-#EXTINF:-1 group-title="VIP-US",FYI Network
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/131
-#EXTINF:-1 group-title="VIP-US",GSN
-http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/52
-#EXTINF:-1 group-title="VIP-US",HGTV
-http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/23
+#EXTINF:-1 group-title="VIP-US",A&E FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60137
+#EXTINF:-1 group-title="VIP-US",ABC News HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60110
+#EXTINF:-1 group-title="VIP-US",Amazing Discoveries HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60138
+#EXTINF:-1 group-title="VIP-US",AMC HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60139
+#EXTINF:-1 group-title="VIP-US",American Heroes Channel HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60140
+#EXTINF:-1 group-title="VIP-US",Animal Planet HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60141
+#EXTINF:-1 group-title="VIP-US",Atlanta Channel HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60142
+#EXTINF:-1 group-title="VIP-US",BBC America HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60143
+#EXTINF:-1 group-title="VIP-US",BET HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60144
+#EXTINF:-1 group-title="VIP-US",BET Her HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60145
+#EXTINF:-1 group-title="VIP-US",BET International
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60146
+#EXTINF:-1 group-title="VIP-US",BET Jams HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60147
+#EXTINF:-1 group-title="VIP-US",BET Soul HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60148
+#EXTINF:-1 group-title="VIP-US",Blaze TV
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60149
+#EXTINF:-1 group-title="VIP-US",Bloomberg FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60111
+#EXTINF:-1 group-title="VIP-US",Boomerang FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60101
+#EXTINF:-1 group-title="VIP-US",Bounce
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60150
+#EXTINF:-1 group-title="VIP-US",Bravo HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60151
+#EXTINF:-1 group-title="VIP-US",Bravo TV HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60152
+#EXTINF:-1 group-title="VIP-US",Bravo West
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60153
+#EXTINF:-1 group-title="VIP-US",Cartoon Network FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60109
+#EXTINF:-1 group-title="VIP-US",CBS News (East) HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60115
+#EXTINF:-1 group-title="VIP-US",CBSN HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60154
+#EXTINF:-1 group-title="VIP-US",Cinemax 5Starmax HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60155
+#EXTINF:-1 group-title="VIP-US",Cinemax ActionMax HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60156
+#EXTINF:-1 group-title="VIP-US",Cinemax East HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60157
+#EXTINF:-1 group-title="VIP-US",Cinemax FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60158
+#EXTINF:-1 group-title="VIP-US",Cinemax Moremax HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60159
+#EXTINF:-1 group-title="VIP-US",CMT HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60160
+#EXTINF:-1 group-title="VIP-US",CNN HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60116
+#EXTINF:-1 group-title="VIP-US",Comedy Central HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60161
+#EXTINF:-1 group-title="VIP-US",Cooking Channel FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60162
+#EXTINF:-1 group-title="VIP-US",Crime & Investigation Network FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60163
+#EXTINF:-1 group-title="VIP-US",C-SPAN 1 HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60112
+#EXTINF:-1 group-title="VIP-US",C-SPAN 2 HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60113
+#EXTINF:-1 group-title="VIP-US",C-SPAN 3 HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60114
+#EXTINF:-1 group-title="VIP-US",CW 11 FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60164
+#EXTINF:-1 group-title="VIP-US",CW Network FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60165
+#EXTINF:-1 group-title="VIP-US",DayStar FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60166
+#EXTINF:-1 group-title="VIP-US",Destination America FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60167
+#EXTINF:-1 group-title="VIP-US",Discovery Channel HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60168
+#EXTINF:-1 group-title="VIP-US",Discovery Family HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60169
+#EXTINF:-1 group-title="VIP-US",Discovery Life HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60170
+#EXTINF:-1 group-title="VIP-US",Discovery Science FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60171
+#EXTINF:-1 group-title="VIP-US",Disney Channel FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60108
+#EXTINF:-1 group-title="VIP-US",Disney Junior HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60107
+#EXTINF:-1 group-title="VIP-US",Disney XD FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60106
+#EXTINF:-1 group-title="VIP-US",District Knowledge Network
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60117
+#EXTINF:-1 group-title="VIP-US",District of Columbia Network
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60118
+#EXTINF:-1 group-title="VIP-US",DIY NETWORK FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60172
+#EXTINF:-1 group-title="VIP-US",DW News
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60119
+#EXTINF:-1 group-title="VIP-US",E! FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60173
+#EXTINF:-1 group-title="VIP-US",E! HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60174
+#EXTINF:-1 group-title="VIP-US",El Rey Network FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60175
+#EXTINF:-1 group-title="VIP-US",Entertainment Tonight FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60176
+#EXTINF:-1 group-title="VIP-US",Epix FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60177
+#EXTINF:-1 group-title="VIP-US",ET Live FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60178
+#EXTINF:-1 group-title="VIP-US",Fashion One HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60179
+#EXTINF:-1 group-title="VIP-US",Fine Living
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60180
+#EXTINF:-1 group-title="VIP-US",Food Network FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60181
+#EXTINF:-1 group-title="VIP-US",Food Network HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60182
+#EXTINF:-1 group-title="VIP-US",Fox Business Network HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60120
+#EXTINF:-1 group-title="VIP-US",Fox News Channel HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60121
+#EXTINF:-1 group-title="VIP-US",Fox News HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60122
+#EXTINF:-1 group-title="VIP-US",Freeform HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60183
+#EXTINF:-1 group-title="VIP-US",FrontDoor HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60184
+#EXTINF:-1 group-title="VIP-US",Fuse HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60185
+#EXTINF:-1 group-title="VIP-US",Fusion HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60186
+#EXTINF:-1 group-title="VIP-US",FX FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60187
+#EXTINF:-1 group-title="VIP-US",FX Movies FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60188
+#EXTINF:-1 group-title="VIP-US",FXX HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60189
+#EXTINF:-1 group-title="VIP-US",Grit HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60190
+#EXTINF:-1 group-title="VIP-US",Hallmark Channel HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60191
+#EXTINF:-1 group-title="VIP-US",Hallmark Drama HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60192
+#EXTINF:-1 group-title="VIP-US",Hallmark Movies And Mysteries HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60193
+#EXTINF:-1 group-title="VIP-US",HBO 2 HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60194
+#EXTINF:-1 group-title="VIP-US",HBO 2 West FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60195
+#EXTINF:-1 group-title="VIP-US",HBO Comedy FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60196
+#EXTINF:-1 group-title="VIP-US",HBO East FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60197
+#EXTINF:-1 group-title="VIP-US",HBO Family HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60198
+#EXTINF:-1 group-title="VIP-US",HBO Signature East HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60199
+#EXTINF:-1 group-title="VIP-US",HBO Zone FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60200
+#EXTINF:-1 group-title="VIP-US",HGTV FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60201
+#EXTINF:-1 group-title="VIP-US",HGTV HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60202
+#EXTINF:-1 group-title="VIP-US",History FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60203
 #EXTINF:-1 group-title="VIP-US",HLN
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/170
-#EXTINF:-1 group-title="VIP-US",IFC
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/186
-#EXTINF:-1 group-title="VIP-US",ION TV
-http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/49
-#EXTINF:-1 group-title="VIP-US",Lifetime
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/27
-#EXTINF:-1 group-title="VIP-US",LMN
-http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/22
-#EXTINF:-1 group-title="VIP-US",Showtime Extreme
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/28
-#EXTINF:-1 group-title="VIP-US",Spike/Paramount
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/127
-#EXTINF:-1 group-title="VIP-US",TBS
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/92
-#EXTINF:-1 group-title="VIP-US",TRU TV
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/181
-#EXTINF:-1 group-title="VIP-US",TV Land
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/56
-#EXTINF:-1 group-title="VIP-US",TV One
-http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/47
-#EXTINF:-1 group-title="VIP-US",Antenna TV
-http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/112
-#EXTINF:-1 group-title="VIP-US",Baby TV
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/180
-#EXTINF:-1 group-title="VIP-US",Cartoon Network FHD US
-http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/4886
-#EXTINF:-1 group-title="VIP-US",CMT
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/88
-#EXTINF:-1 group-title="VIP-US",Disney Jr
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/12
-#EXTINF:-1 group-title="VIP-US",ME TV
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/47
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60204
+#EXTINF:-1 group-title="VIP-US",ID Fashion FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60205
+#EXTINF:-1 group-title="VIP-US",IFC HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60206
+#EXTINF:-1 group-title="VIP-US",IndiePlex HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60207
+#EXTINF:-1 group-title="VIP-US",Info Wars HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60123
+#EXTINF:-1 group-title="VIP-US",Investigation Discovery FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60208
+#EXTINF:-1 group-title="VIP-US",Key TV HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60209
+#EXTINF:-1 group-title="VIP-US",Lifetime HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60210
+#EXTINF:-1 group-title="VIP-US",Lifetime Movie Network HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60211
+#EXTINF:-1 group-title="VIP-US",LMN HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60212
+#EXTINF:-1 group-title="VIP-US",MAV TV
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60213
+#EXTINF:-1 group-title="VIP-US",MovieMax HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60214
+#EXTINF:-1 group-title="VIP-US",MoviePlex FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60215
+#EXTINF:-1 group-title="VIP-US",MSNBC HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60124
+#EXTINF:-1 group-title="VIP-US",MTV HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60216
+#EXTINF:-1 group-title="VIP-US",MTV Live FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60217
+#EXTINF:-1 group-title="VIP-US",MTV Rocks
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60218
+#EXTINF:-1 group-title="VIP-US",My Jam TV HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60219
+#EXTINF:-1 group-title="VIP-US",NASA TV HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60220
+#EXTINF:-1 group-title="VIP-US",National Geographic HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60221
+#EXTINF:-1 group-title="VIP-US",National Geographic Wild HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60222
+#EXTINF:-1 group-title="VIP-US",NBC News (East) FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60125
+#EXTINF:-1 group-title="VIP-US",News 12 Bronx & Brooklyn HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60126
+#EXTINF:-1 group-title="VIP-US",News 12 Hudson Valley & Westchester HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60127
+#EXTINF:-1 group-title="VIP-US",News 12 Long Island HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60128
+#EXTINF:-1 group-title="VIP-US",News 12 New Jersey HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60129
+#EXTINF:-1 group-title="VIP-US",News 12 The Bronx HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60130
+#EXTINF:-1 group-title="VIP-US",Nick JR HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60104
+#EXTINF:-1 group-title="VIP-US",Nickelodeon HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60105
+#EXTINF:-1 group-title="VIP-US",One America News HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60131
+#EXTINF:-1 group-title="VIP-US",OWN HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60223
+#EXTINF:-1 group-title="VIP-US",Oxygen HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60224
+#EXTINF:-1 group-title="VIP-US",Paramount Network HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60225
+#EXTINF:-1 group-title="VIP-US",PBS HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60226
+#EXTINF:-1 group-title="VIP-US",PBS Kids HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60103
+#EXTINF:-1 group-title="VIP-US",Plays FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60227
+#EXTINF:-1 group-title="VIP-US",Reelz HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60228
+#EXTINF:-1 group-title="VIP-US",Revolt HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60229
+#EXTINF:-1 group-title="VIP-US",RT America FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60132
+#EXTINF:-1 group-title="VIP-US",Showtime 2 HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60230
+#EXTINF:-1 group-title="VIP-US",Showtime Beyond HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60231
+#EXTINF:-1 group-title="VIP-US",Showtime Extreme FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60232
+#EXTINF:-1 group-title="VIP-US",Showtime Family Zone HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60233
+#EXTINF:-1 group-title="VIP-US",Showtime HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60234
+#EXTINF:-1 group-title="VIP-US",Showtime Next HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60235
+#EXTINF:-1 group-title="VIP-US",Showtime Showcase FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60236
+#EXTINF:-1 group-title="VIP-US",Showtime West HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60237
+#EXTINF:-1 group-title="VIP-US",Showtime Women HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60238
+#EXTINF:-1 group-title="VIP-US",Sky News America HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60133
+#EXTINF:-1 group-title="VIP-US",Smithsonian Channel HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60239
+#EXTINF:-1 group-title="VIP-US",Sony Movie Channel HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60240
+#EXTINF:-1 group-title="VIP-US",Starz Black FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60241
+#EXTINF:-1 group-title="VIP-US",Starz Cinema FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60242
+#EXTINF:-1 group-title="VIP-US",Starz Comedy FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60243
+#EXTINF:-1 group-title="VIP-US",Starz East HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60244
+#EXTINF:-1 group-title="VIP-US",Starz Edge FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60245
+#EXTINF:-1 group-title="VIP-US",Starz Encore Family FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60246
+#EXTINF:-1 group-title="VIP-US",Starz Encore HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60247
+#EXTINF:-1 group-title="VIP-US",Starz Encore West FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60248
+#EXTINF:-1 group-title="VIP-US",Starz Encore Westerns FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60249
+#EXTINF:-1 group-title="VIP-US",Starz Kids & Family FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60250
+#EXTINF:-1 group-title="VIP-US",Starz West FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60251
+#EXTINF:-1 group-title="VIP-US",Sundance TV FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60252
+#EXTINF:-1 group-title="VIP-US",SYFY HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60253
+#EXTINF:-1 group-title="VIP-US",TBS HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60254
 #EXTINF:-1 group-title="VIP-US",TCM
-http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/208
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60255
+#EXTINF:-1 group-title="VIP-US",The Country Network HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60256
+#EXTINF:-1 group-title="VIP-US",The Weather Channel HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60134
+#EXTINF:-1 group-title="VIP-US",TLC FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60257
+#EXTINF:-1 group-title="VIP-US",TLC HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60258
+#EXTINF:-1 group-title="VIP-US",TNT FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60259
+#EXTINF:-1 group-title="VIP-US",Travel Channel FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60260
+#EXTINF:-1 group-title="VIP-US",Travel Channel HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60261
+#EXTINF:-1 group-title="VIP-US",Tru TV
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60262
+#EXTINF:-1 group-title="VIP-US",TV Land HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60263
+#EXTINF:-1 group-title="VIP-US",TV One FHD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60264
+#EXTINF:-1 group-title="VIP-US",Universal Kids HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60102
+#EXTINF:-1 group-title="VIP-US",VH1 Classic
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60265
+#EXTINF:-1 group-title="VIP-US",VH1 HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60266
+#EXTINF:-1 group-title="VIP-US",Viceland HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60267
+#EXTINF:-1 group-title="VIP-US",We TV HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60268
+#EXTINF:-1 group-title="VIP-US",WGN America HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60269
+#EXTINF:-1 group-title="VIP-US",World Fishing Network HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60270
+#EXTINF:-1 group-title="VIP-US",WPIX 11 News (New York)
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60136
+#EXTINF:-1 group-title="VIP-US",WPVI Channel 6 Action News (Philadelphia) HD
+http://mahs.work:80/a3seJKK9EB/kUiRZfGfhk/60135
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ama-movies",MBC 2 FHD
