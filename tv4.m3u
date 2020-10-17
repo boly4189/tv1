@@ -1,26 +1,30 @@
 #EXTM3U
-#EXTINF:-1 group-title="US-tv",CNN(美国)
+#EXTINF:-1 group-title="US-tv",CNN
 http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="US-tv",CNN SD
 http://203.162.235.41:16918?checkedby
-#EXTINF:-1 group-title="US-tv",CNN
+#EXTINF:-1 group-title="US-tv",CNN HD
 http://60.251.61.66:4014/VideoInput/play.ts
 #EXTINF:-1 group-title="US-tv",BBC WORLD NEWS
 http://188.195.58.187:8000/play/a07p
-#EXTINF:-1 group-title="US-tv",Sky News
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
-#EXTINF:-1 group-title="US-tv",Newsmax
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 #EXTINF:-1 group-title="US-tv",CNBC World
 http://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
-#EXTINF:-1 group-title="US-tv",NBC News(美国)
+#EXTINF:-1 group-title="US-tv",MSNBC
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=212&deviceId=56403d822d2719107d948cb9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="US-tv",NBC NEWS
+http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
 #EXTINF:-1 group-title="US-tv",CBSN
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 group-title="US-tv",CBSN
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1 group-title="US-tv",CSBN New York
+#EXTINF:-1 group-title="US-tv",CSBN
 https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+#EXTINF:-1 group-title="US-tv",Fox News(美国)
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="US-tv",Sky News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+#EXTINF:-1 group-title="US-tv",Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 #EXTINF:-1 group-title="US-tv",CBN News
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
 #EXTINF:-1 group-title="US-tv",TRT WORLD HD
@@ -31,12 +35,12 @@ https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
 http://203.162.235.41:16917
 #EXTINF:-1 group-title="US-tv",BBC One Scotland
 https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8
-#EXTINF:-1 group-title="US-tv",BBC Lifestyle
-https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="US-tv",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="US-tv",CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?@amarnettv.live
+#EXTINF:-1 group-title="US-tv",RT
+http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
 
 #EXTINF:-1 group-title="US-tv",Voice of America
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8?@amarnettv.live
@@ -45,13 +49,16 @@ http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 #EXTINF:-1 group-title="US-tv",VoA TV
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 
-#EXTINF:-1 group-title="US-tv",NBC
-http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:-1 group-title="US-tv",Movies Now
-https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-
+#EXTINF:-1 group-title="US-tv",MBC MAX FHD
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8?@amarnettv.live
+#EXTINF:-1 group-title="US-tv",MBC Action FHD
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8?@amarnettv.live
+#EXTINF:-1 group-title="US-tv",MBC 2 FHD
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8?@amarnettv.live
 #EXTINF:-1 group-title="US-tv",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="US-tv",Movies Now
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1 group-title="US-tv",CELESTIAL MOVIES
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8?@amarnettv.live
 
@@ -59,8 +66,9 @@ http://210.210.155.35/qwr9ew/s/s33/index.m3u8?@amarnettv.live
 http://136.243.177.164/ANIMALPLANET/playlist.m3u8?checkedby
 #EXTINF:-1 group-title="US-tv",AKC TV
 https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-#EXTINF:-1 group-title="US-tv",The Outdoor Cooking Channel
-http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="US-tv",BBC Lifestyle
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+
 #EXTINF:-1 group-title="US-tv",Tennis Channel
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 
@@ -95,10 +103,7 @@ https://gma2.blab.email/sec.m3u8
 http://rt-usa.secure.footprint.net:80/1105_2500Kb.m3u8?@amarnettv.live
 #EXTINF:-1 group-title="US-tv",RT Documentary
 http://rt-doc.secure.footprint.net:80/1101_2500Kb.m3u8?@amarnettv.live
-#EXTINF:-1 group-title="US-tv",RT
-http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
-#EXTINF:-1 group-title="US-tv",ROMEDY NOW
-https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+
 #EXTINF:-1 group-title="US-tv",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="US-tv",Really
@@ -137,16 +142,11 @@ https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
 
 #EXTINF:-1 group-title="US-tv",MBC MAX HD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8?@amarnettv.live
-#EXTINF:-1 group-title="US-tv",MBC MAX FHD
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8?@amarnettv.live
 #EXTINF:-1 group-title="US-tv",MBC Action HD
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8?@amarnettv.live
-#EXTINF:-1 group-title="US-tv",MBC Action FHD
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8?@amarnettv.live
 #EXTINF:-1 group-title="US-tv",MBC 2 HD
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8?@amarnettv.live
-#EXTINF:-1 group-title="US-tv",MBC 2 FHD
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8?@amarnettv.live
+
 #EXTINF:-1 group-title="US-tv",Maverick Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
 #EXTINF:-1 group-title="US-tv",Law And Crime Network
@@ -191,22 +191,13 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
 #EXTINF:-1 group-title="US-tv",Global News
 https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
-#EXTINF:-1 group-title="US-tv",Fuel TV(Aus VPN)
-https://fueltv.cdn.7livecloud.io/hls/live/FTV/master.m3u8
-#EXTINF:-1 group-title="US-tv",Frisbee
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
+
 #EXTINF:-1 group-title="US-tv",Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 #EXTINF:-1 group-title="US-tv",France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
-#EXTINF:-1 group-title="US-tv",Fox Sports 506
-http://45.58.62.92:8080/
-#EXTINF:-1 group-title="US-tv",Fox News(美国)
-http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="US-tv",FOX News
-https://bk7l2w4nlx53-hls-live.5centscdn.com/FOXNEWS/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1 group-title="US-tv",Fox News
-http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8?@amarnettv.live
+
+
 #EXTINF:-1 group-title="US-tv",FOX Business
 https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1 group-title="US-tv",Forces TV
@@ -311,4 +302,7 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 group-title="US-tv",24 Box TV
 http://51.158.190.97/hls/stream.m3u8?@amarnettv.live
+#EXTINF:-1 group-title="US-tv",The Outdoor Cooking Channel
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8
+
 
