@@ -1,5 +1,180 @@
 #EXTM3U
-#EXTM3U
+#EXTINF:-1 group-title="UK",4Music
+http://159.69.66.114:8080/uk4music/mpegts
+#EXTINF:-1 group-title="UK",4Seven
+http://159.69.66.114:8080/uk4seven/mpegts
+#EXTINF:-1 group-title="UK",Amc
+http://159.69.66.114:8080/ukamc/mpegts
+#EXTINF:-1 group-title="UK",AMC FROM BT
+http://159.69.66.114:8080/ukamcfrombt/mpegts
+#EXTINF:-1 group-title="UK",Animal Planet eng
+http://159.69.66.114:8080/animalplaneteng/mpegts
+#EXTINF:-1 group-title="UK",At The Races
+http://159.69.66.114:8080/attherace/mpegts
+#EXTINF:-1 group-title="UK",BBC 4 HD
+http://159.69.66.114:8080/ukbbc4hd/mpegts
+#EXTINF:-1 group-title="UK",BBC ALBA
+http://159.69.66.114:8080/bbcalba/mpegts
+#EXTINF:-1 group-title="UK",BBC ONE
+http://159.69.66.114:8080/bbcone/mpegts
+#EXTINF:-1 group-title="UK",BBC Parliament
+http://159.69.66.114:8080/bbcparlament/mpegts
+#EXTINF:-1 group-title="UK",BBC TWO HD
+http://159.69.66.114:8080/bbctwohd/mpegts
+#EXTINF:-1 group-title="UK",BBC World News
+http://159.69.66.114:8080/bbcworld/mpegts
+#EXTINF:-1 group-title="UK",Boomerang
+http://159.69.66.114:8080/ukboomerang/mpegts
+#EXTINF:-1 group-title="UK",CBBC
+http://159.69.66.114:8080/cbbc/mpegts
+#EXTINF:-1 group-title="UK",Cbeebies
+http://159.69.66.114:8080/ukcbeebies/mpegts
+#EXTINF:-1 group-title="UK",CBS Action
+http://159.69.66.114:8080/ukcbsaction/mpegts
+#EXTINF:-1 group-title="UK",CBS Drama
+http://159.69.66.114:8080/ukcbsdrama/mpegts
+#EXTINF:-1 group-title="UK",CBS reality
+http://159.69.66.114:8080/ukcbsreality/mpegts
+#EXTINF:-1 group-title="UK",Channel 4
+http://159.69.66.114:8080/channel4/mpegts
+#EXTINF:-1 group-title="UK",Channel AKA
+http://159.69.66.114:8080/ukchannelakka/mpegts
+#EXTINF:-1 group-title="UK",CNBC
+http://159.69.66.114:8080/cnbc/mpegts
+#EXTINF:-1 group-title="UK",CNN International
+http://159.69.66.114:8080/cnninternational/mpegts
+#EXTINF:-1 group-title="UK",Comedy Central
+http://159.69.66.114:8080/comedycentral/mpegts
+#EXTINF:-1 group-title="UK",Discovery
+http://159.69.66.114:8080/discovery/mpegts
+#EXTINF:-1 group-title="UK",Discovery History
+http://159.69.66.114:8080/discoveryhistory/mpegts
+#EXTINF:-1 group-title="UK",Discovery Shed
+http://159.69.66.114:8080/ukdiscoveryshed/mpegts
+#EXTINF:-1 group-title="UK",Discovery Turbo
+http://159.69.66.114:8080/ukdiscoveryturbo/mpegts
+#EXTINF:-1 group-title="UK",DiscoveryScience
+http://159.69.66.114:8080/discoveryscienceeng/mpegts
+#EXTINF:-1 group-title="UK",Disney Junior
+http://159.69.66.114:8080/disneyjunior/mpegts
+#EXTINF:-1 group-title="UK",DMax
+http://159.69.66.114:8080/ukdmax/mpegts
+#EXTINF:-1 group-title="UK",E4
+http://159.69.66.114:8080/e4/mpegts
+#EXTINF:-1 group-title="UK",EuroNews
+http://159.69.66.114:8080/euronewseng/mpegts
+#EXTINF:-1 group-title="UK",Food Network
+http://159.69.66.114:8080/foodnetwork/mpegts
+#EXTINF:-1 group-title="UK",FOX News
+http://159.69.66.114:8080/foxnews/mpegts
+#EXTINF:-1 group-title="UK",H2
+http://159.69.66.114:8080/ukh2/mpegts
+#EXTINF:-1 group-title="UK",History
+http://159.69.66.114:8080/historyeng/mpegts
+#EXTINF:-1 group-title="UK",Home & Health
+http://159.69.66.114:8080/ukhomeandhealth/mpegts
+#EXTINF:-1 group-title="UK",ID
+http://159.69.66.114:8080/id/mpegts
+#EXTINF:-1 group-title="UK",ITV be
+http://159.69.66.114:8080/itvbe/mpegts
+#EXTINF:-1 group-title="UK",ITV ENCORE
+http://159.69.66.114:8080/itvencore/mpegts
+#EXTINF:-1 group-title="UK",ITV1
+http://159.69.66.114:8080/itv1/mpegts
+#EXTINF:-1 group-title="UK",ITV2
+http://159.69.66.114:8080/itv2/mpegts
+#EXTINF:-1 group-title="UK",ITV3
+http://159.69.66.114:8080/itv3/mpegts
+#EXTINF:-1 group-title="UK",ITV4
+http://159.69.66.114:8080/itv4/mpegts
+#EXTINF:-1 group-title="UK",KERRANG
+http://159.69.66.114:8080/ukkerrang/mpegts
+#EXTINF:-1 group-title="UK",More 4
+http://159.69.66.114:8080/more4/mpegts
+#EXTINF:-1 group-title="UK",Movies 4 Men
+http://159.69.66.114:8080/ukmovie4man/mpegts
+#EXTINF:-1 group-title="UK",MTV
+http://159.69.66.114:8080/mtvuk/mpegts
+#EXTINF:-1 group-title="UK",MTV LIVE HD
+http://159.69.66.114:8080/ukmtvlivehd/mpegts
+#EXTINF:-1 group-title="UK",Nat Geo Graphic
+http://159.69.66.114:8080/natgeographic/mpegts
+#EXTINF:-1 group-title="UK",Nat Geo Wild
+http://159.69.66.114:8080/natgeowildeng/mpegts
+#EXTINF:-1 group-title="UK",ONY Movies
+http://159.69.66.114:8080/sonymovies/mpegts
+#EXTINF:-1 group-title="UK",PICK
+http://159.69.66.114:8080/ukpick/mpegts
+#EXTINF:-1 group-title="UK",Racing UK
+http://159.69.66.114:8080/racinguk/mpegts
+#EXTINF:-1 group-title="UK",RTE News Now
+http://159.69.66.114:8080/ukrtenews/mpegts
+#EXTINF:-1 group-title="UK",RTE One
+http://159.69.66.114:8080/ukrteone/mpegts
+#EXTINF:-1 group-title="UK",RTE Two
+http://159.69.66.114:8080/ukrtetwo/mpegts
+#EXTINF:-1 group-title="UK",S4C
+http://159.69.66.114:8080/uks4c/mpegts
+#EXTINF:-1 group-title="UK",SKY Arts
+http://159.69.66.114:8080/skyarts/mpegts
+#EXTINF:-1 group-title="UK",SKY Atlantic 1
+http://159.69.66.114:8080/skyatlantic1/mpegts
+#EXTINF:-1 group-title="UK",SKY Cinema Si-Fi & Horror HD
+http://159.69.66.114:8080/skycinemasifi/mpegts
+#EXTINF:-1 group-title="UK",SKY Living +1
+http://159.69.66.114:8080/skyliving1/mpegts
+#EXTINF:-1 group-title="UK",Sky Movies Action
+http://159.69.66.114:8080/skyaction/mpegts
+#EXTINF:-1 group-title="UK",SKY Movies Comedy
+http://159.69.66.114:8080/skycomedy/mpegts
+#EXTINF:-1 group-title="UK",Sky Movies Disney
+http://159.69.66.114:8080/skydisney/mpegts
+#EXTINF:-1 group-title="UK",Sky Movies Drama
+http://159.69.66.114:8080/skydrama/mpegts
+#EXTINF:-1 group-title="UK",SKY Movies Family
+http://159.69.66.114:8080/skyfamily/mpegts
+#EXTINF:-1 group-title="UK",SKY Movies Greats
+http://159.69.66.114:8080/skygreats/mpegts
+#EXTINF:-1 group-title="UK",Sky Movies Modern
+http://159.69.66.114:8080/skymodern/mpegts
+#EXTINF:-1 group-title="UK",SKY Movies Premier
+http://159.69.66.114:8080/skypremier/mpegts
+#EXTINF:-1 group-title="UK",SKY Movies Select HD
+http://159.69.66.114:8080/skyselecthd/mpegts
+#EXTINF:-1 group-title="UK",SKY Movies Showcase
+http://159.69.66.114:8080/skyshowcase/mpegts
+#EXTINF:-1 group-title="UK",SKY Movies Thriller
+http://159.69.66.114:8080/skythriller/mpegts
+#EXTINF:-1 group-title="UK",SKY News
+http://159.69.66.114:8080/skynews/mpegts
+#EXTINF:-1 group-title="UK",SKY One
+http://159.69.66.114:8080/skyone/mpegts
+#EXTINF:-1 group-title="UK",SKY Two
+http://159.69.66.114:8080/skytwo/mpegts
+#EXTINF:-1 group-title="UK",Sony Channel 1
+http://159.69.66.114:8080/uksonychannel/mpegts
+#EXTINF:-1 group-title="UK",Sony Max
+http://159.69.66.114:8080/uksonymax/mpegts
+#EXTINF:-1 group-title="UK",SONY TV
+http://159.69.66.114:8080/uksonytv/mpegts
+#EXTINF:-1 group-title="UK",Starz TV
+http://159.69.66.114:8080/ukstraz/mpegts
+#EXTINF:-1 group-title="UK",TLC
+http://159.69.66.114:8080/uktlc/mpegts
+#EXTINF:-1 group-title="UK",TLC   1
+http://159.69.66.114:8080/uktlc1/mpegts
+#EXTINF:-1 group-title="UK",True Crime
+http://159.69.66.114:8080/uktruecrime/mpegts
+#EXTINF:-1 group-title="UK",True Movies 1
+http://159.69.66.114:8080/uktruemovie/mpegts
+#EXTINF:-1 group-title="UK",TV3
+http://159.69.66.114:8080/uktv3/mpegts
+#EXTINF:-1 group-title="UK",VH1
+http://159.69.66.114:8080/ukvh1/mpegts
+#EXTINF:-1 group-title="UK",Zee Cinema
+http://159.69.66.114:8080/ukzeecinema/mpegts
+
+
 #EXTINF:-1 group-title="INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/220px-Asian_Food_Network.svg.png",AFC
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",ANIMAL PLANET HD [ENGLISH]
