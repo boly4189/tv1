@@ -57,314 +57,16 @@ CCTV-17农业农村,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/inde
 哈哈炫动,http://39.134.115.163:8080/PLTV/88888910/224/3221225720/index.m3u8
 风尚购物,http://39.134.115.163:8080/PLTV/88888910/224/3221225716/index.m3u8
 纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-US-TV,#genre#
-CNN,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/11
-CNN,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/4
-CNN,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/8
-CNN,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/13750
-CNN,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/14377
-CNN,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/6359
 
-BBC News,https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
-BBC America,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/157
-
-Fox News,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/2
-Fox News,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/14357
-Fox News,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/14358
-Fox News,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/4943
-
-CNBC News,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/14337
-MSNBC,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/15
-
-
-NAT GEO,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/143
-NAT GEO,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/4881
-NAT GEO,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/14339
-Nat Geo Wild,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/102
-Nat Geo Wild,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/108
-Nat Geo Wild,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/106
-Nat Geo Wild,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/13745
-Animal Planet,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/111
-Animal Planet,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/136
-
-Discovery Channel,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/62
-Discovery Channel,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/190
-Discovery Channel,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/33
-Discovery Channel,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/60
-Discovery Life,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/4933
-Discovery Science,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/23
-Discovery Velocity,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/14371
-Investigation Discovery,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/21
-Crime And Investigation,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/152
-
-History,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/42
-History,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/4880
-History,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/14347
-H2,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/172
-
-HBO,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/103
-HBO 2,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/26
-HBO 2,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/51
-HBO Comedy,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/119
-HBO Family,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/110
-HBO Family,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/109
-HBO Signature,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/44
-HBO Zone,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/82
-
-Cinemax Action,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/8
-Cinemax East,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/25
-Cinemax Outermax,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/90
-Cinemax Thrillermax,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/96
-Cinemaxx More Maxx,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/120
-
-Comedy Central,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/124
-Comedy Central,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/154
-Cooking Channel,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/55
-Food Network,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/27
-Food Network,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/1
-Travel Channel,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/89
-Travel Channel,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/146
-DIY Network,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/11
-Motor Trend,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/44
-
-EPIX,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/107
-EPIX 2,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/159
-EPIX Hits,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/30
-FX HD,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/63
-FXM,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/192
-FXX,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/138
-Starz Comedy,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/122
-Starz Encoure,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/13
-Starz Encore Westerns,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/5
-
-
-TNT,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/31
-TNT,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/99
-TNT,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/94
-ABC,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/188
-AMC,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/87
-A & E,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/14
-CBS East,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/68
-Fox Business,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/193
-Fox25 [Boston] HD VIP US,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/677122
-
-Oxygen,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/10
-VH1,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/3
-Film premiere,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/4956
-Destination America,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/110
-Destination America,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/17640
-American Hero's Channel,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/155
-BET,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/24
-BET HER,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/2
-Bravo,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/39
-E!,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/175
-Hallmark Movies & Mysteries,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/132
-
-Freeform,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/103
-FYI Network,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/131
-GSN,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/52
-HGTV,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/23
-HLN,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/170
-IFC,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/186
-ION TV,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/49
-Lifetime,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/27
-LMN,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/22
-Showtime Extreme,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/28
-Spike/Paramount,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/127
-TBS,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/92
-TRU TV,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/181
-TV Land,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/56
-TV One,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/47
-Antenna TV,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/112
-Baby TV,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/180
-Cartoon Network FHD US,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/4886
-CMT,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/88
-Disney Jr,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/12
-ME TV,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/47
-TCM,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/208
-
-T0,#genre#
-
-影视1台FHD,http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
-影视2台FHD,http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8
-影视3台FHD,http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
-影视4台FHD,http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
-影视5台FHD,http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
-影视6台FHD,http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
-影视7台FHD,http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
-影视8台FHD,http://112.17.40.145/PLTV/88888888/224/3221226608/index.m3u8
-影视9台FHD,http://112.17.40.145/PLTV/88888888/224/3221226606/index.m3u8
-影视10台HD,http://112.17.40.145/PLTV/88888888/224/3221226360/index.m3u8
-
-NewTV超级电视剧FHD,http://39.134.157.205/PLTV/88888888/224/3221225514/index.m3u8
-NewTV超级电影FHD,http://39.134.157.205/PLTV/88888888/224/3221225497/index.m3u8
-NewTV超级体育FHD,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
-NewTV超级综艺FHD,http://39.134.157.205/PLTV/88888888/224/3221225593/index.m3u8
-NewTV潮妈辣婆FHD,http://39.134.157.205/PLTV/88888888/224/3221225574/index.m3u8
-NewTV东北热剧FHD,http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8
-NewTV家庭剧场FHD,http://39.134.157.205/PLTV/88888888/224/3221225685/index.m3u8
-NewTV金牌综艺FHD,http://39.134.157.205/PLTV/88888888/224/3221225689/index.m3u8
-NewTV惊悚悬疑FHD,http://39.134.66.66/PLTV/88888888/224/3221225553/index.m3u8
-NewTV精品大剧FHD,http://39.134.157.205/PLTV/88888888/224/3221225666/index.m3u8
-NewTV精品纪录FHD,http://39.134.157.205/PLTV/88888888/224/3221225570/index.m3u8
-NewTV精品体育FHD,http://39.134.157.205/PLTV/88888888/224/3221225572/index.m3u8
-NewTV明星大片FHD,http://39.134.157.205/PLTV/88888888/224/3221225669/index.m3u8
-NewTV农业致富FHD,http://39.134.157.205/PLTV/88888888/224/3221225568/index.m3u8
-NewTV武搏世界FHD,http://39.134.157.205/PLTV/88888888/224/3221225560/index.m3u8
-NewTV炫舞未来FHD,http://39.134.157.205/PLTV/88888888/224/3221225558/index.m3u8
-NewTV中国功夫FHD,http://39.134.157.205/PLTV/88888888/224/3221225585/index.m3u8
-
-Newtv精品电影,http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
-Newtv精品体育,http://112.17.40.140/PLTV/88888888/224/3221226819/index.m3u8
-Newtv动作电影,http://112.17.40.140/PLTV/88888888/224/3221226747/index.m3u8
-Newtv古装剧场,http://112.17.40.140/PLTV/88888888/224/3221226753/index.m3u8
-Newtv明星大片,http://112.17.40.140/PLTV/88888888/224/3221226751/index.m3u8
-Newtv惊悚悬疑,http://112.17.40.140/PLTV/88888888/224/3221226656/index.m3u8
-Newtv金牌综艺,http://112.17.40.140/PLTV/88888888/224/3221226749/index.m3u8
-Newtv爱情喜剧,http://112.17.40.140/PLTV/88888888/224/3221226660/index.m3u8
-Newtv精品大剧,http://112.17.40.140/PLTV/88888888/224/3221226668/index.m3u8
-Newtv海外剧场,http://112.17.40.140/PLTV/88888888/224/3221226662/index.m3u8
-Newtv精品记录,http://112.17.40.140/PLTV/88888888/224/3221226763/index.m3u8
-Newtv健康有约,http://112.17.40.140/PLTV/88888888/224/3221226757/index.m3u8
-Newtv军旅剧场,http://112.17.40.140/PLTV/88888888/224/3221226682/index.m3u8
-Newtv家庭剧场,http://112.17.40.140/PLTV/88888888/224/3221226642/index.m3u8
-Newtv中国功夫,http://112.17.40.140/PLTV/88888888/224/3221226759/index.m3u8
-Newtv军事评论,http://112.17.40.140/PLTV/88888888/224/3221226658/index.m3u8
-Newtv搏击,http://112.17.40.140/PLTV/88888888/224/3221226737/index.m3u8
-Newtv农业致富,http://112.17.40.140/PLTV/88888888/224/3221226664/index.m3u8
-Newtv潮妈辣婆,http://112.17.40.140/PLTV/88888888/224/3221226666/index.m3u8
-Newtv动画王国,http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
-
-爱电竞,http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱动漫,http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱都市,http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱江湖,http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱解密,http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱经典,http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱军武,http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱科幻,http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱历史,http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱美食,http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱奇谈,http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱时尚,http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱世界,http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱玩具,http://101.71.255.229:6610/zjhs/2/10117/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱喜剧,http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱悬疑,http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱幼教,http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱院线,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱青春,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230130/index.m3u8
-爱家庭,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230118/index.m3u8
-爱探索,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
-爱科学,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
-爱猎奇,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230097/index.m3u8
-爱谍战,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
-爱娱乐,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230077/index.m3u8
-爱旅行,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
-爱怀旧,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/index.m3u8
-爱体育,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
-爱赛车,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
-爱浪漫,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls
-T1,#genre#
-Zee Cafe HD,http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
-AXN ASIA,https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
-WARNER TV HD,https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
-CBBC,http://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
-itv,http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
-TV Series,http://203.154.243.89:1423
-Cine Series,https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8?@amarnettv.live
-MBC MAX HD,https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8?@amarnettv.live
-MBC 2 HD,https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8?@amarnettv.live
-MBC Action HD,https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8?@amarnettv.live
-& Flix HD,http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andflixhd/index.m3u8
-HBO,https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbo.m3u8
-HBO Signature,https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbosig.m3u8
-HBO Hits,https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbohits.m3u8
-HBO Family,https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8
-HBO Chinese,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
-Movies Now,https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-FOX MOVIES PREMIUM EN,https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
-RED HBO HD,https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-Cinemax,http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_2.m3u8
-24 Box TV,http://51.158.190.97/hls/stream.m3u8?@amarnettv.live
-Cine Film,https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8?@amarnettv.live
-AlFajer MOVIE,http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8?@amarnettv.live
-CELESTIAL MOVIES,http://210.210.155.35/qwr9ew/s/s33/index.m3u8?@amarnettv.live
-TRAVEL XP,http://198.255.87.59:8080/INDIA_ENGLISH/TRAVEL_XP_HD/tracks-v1a1/mono.m3u8?token=test
-RT Documentary,http://rt-doc.secure.footprint.net:80/1101_2500Kb.m3u8?@amarnettv.live
-Docurama,https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
-WF,http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8?@amarnettv.live
-ID Fashion,https://sc.id-tv.kz/IDFashion_38_39.m3u8?@amarnettv.live
-HD Fashion & LifeStyle,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-ITV,http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
-Classic Arts Showcase,https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
-Fashion TV,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-Free Speech TV,https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
-Global News,https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
-
-test,#genre#
-CNN,http://zigfreed.ru/Y3O/1628.m3u8
-CNN,http://203.162.235.41:16918?checkedby
-CNN,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/8
-CNN,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/4
-CNN,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/11
-CNN HD,http://94.232.231.220:8080/cnn/mono.m3u8
-CNN,http://203.162.235.41:16918?checkedby
-
-BBC WORLD NEWS,http://188.195.58.187:8000/play/a07p
-BBC WORLD NEWS,http://84.47.174.140/hlsl/2/BBC_World/BBC_World.m3u8
-BBC WORLD NEWS,http://217.199.224.5:1212/udp/239.192.1.20:2121
-BBC News,https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
-
-TNT,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/99
-TNT,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/31
-TNT,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/94
-
-NAT GEO,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/102
-NAT GEO WILD,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/106
-NAT GEO WILD,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/108
-
-ANIMAL PLANET,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/136
-ANIMAL PLANET,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/111
-
-DISCOVERY CHANNEL,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/62
-DISCOVERY CHANNEL,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/33
-DISCOVERY CHANNEL,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/60
-DISCOVERY CHANNEL,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/190
-DISCOVERY SCIENCE,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/23
-
-HBO,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/103
-HBO FAMILY,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/110
-HBO FAMILY,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/109
-HBO COMEDY,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/119
-HBO 2,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/51
-HBO 2,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/26
-
-COMEDY CENTRAL,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/154
-COMEDY CENTRAL,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/124
-
-TRAVEL CHANNEL,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/89
-TRAVEL CHANNEL,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/146
-
-FOOD NETWORK,http://104.218.60.68:83/a0w10NwSwz/3522202035082235083522AM358352020/27
-FOOD NETWORK,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/1
-
-FOX 5,http://104.218.61.161:83/directline76598/3522202035082235083522AM358352020/81
+综合频道,#genre#
 
 求索一,http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
 求索二,http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
 求索三,http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
 求索四,http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 
-CNTV喜剧影院,http://120.221.5.113:8089/PLTV/88888888/224/3221225927/index.m3u8
-CNTV光影频道,http://120.221.5.177:8089/PLTV/88888888/224/3221225854/index.m3u8
-CNTV音乐现场,http://120.221.5.113:8089/PLTV/88888888/224/3221226059/index.m3u8
-CNTV古装剧场,http://120.221.5.113:8089/PLTV/88888888/224/3221226057/index.m3u8
-
 G+经典剧场,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225782/1/index.m3u8?fmt=ts2hls
-G+都市剧场,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225783/1/index.m3u8?fmt=ts2hls
 G+谍战剧场,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225784/1/index.m3u8?fmt=ts2hls
-G+动画乐园,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225785/1/index.m3u8?fmt=ts2hls
 G+海外佳片,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225786/1/index.m3u8?fmt=ts2hls
 G+华语影院,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
 
@@ -419,12 +121,118 @@ cctv6,http://112.17.40.140/PLTV/88888888/224/3221226433/index.m3u8
 CCTV-3蓝光1,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
 CCTV-6蓝光2,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
 CCTV-8蓝光1,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
+
+影视1台FHD,http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
+影视2台FHD,http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8
+影视3台FHD,http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
+影视4台FHD,http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
+影视5台FHD,http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
+影视6台FHD,http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
+影视7台FHD,http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
+影视8台FHD,http://112.17.40.145/PLTV/88888888/224/3221226608/index.m3u8
+影视9台FHD,http://112.17.40.145/PLTV/88888888/224/3221226606/index.m3u8
+影视10台HD,http://112.17.40.145/PLTV/88888888/224/3221226360/index.m3u8
+
+Newtv精品体育,http://112.17.40.140/PLTV/88888888/224/3221226819/index.m3u8
+Newtv动作电影,http://112.17.40.140/PLTV/88888888/224/3221226747/index.m3u8
+Newtv古装剧场,http://112.17.40.140/PLTV/88888888/224/3221226753/index.m3u8
+Newtv明星大片,http://112.17.40.140/PLTV/88888888/224/3221226751/index.m3u8
+Newtv惊悚悬疑,http://112.17.40.140/PLTV/88888888/224/3221226656/index.m3u8
+Newtv金牌综艺,http://112.17.40.140/PLTV/88888888/224/3221226749/index.m3u8
+Newtv爱情喜剧,http://112.17.40.140/PLTV/88888888/224/3221226660/index.m3u8
+Newtv精品大剧,http://112.17.40.140/PLTV/88888888/224/3221226668/index.m3u8
+Newtv海外剧场,http://112.17.40.140/PLTV/88888888/224/3221226662/index.m3u8
+Newtv精品记录,http://112.17.40.140/PLTV/88888888/224/3221226763/index.m3u8
+Newtv健康有约,http://112.17.40.140/PLTV/88888888/224/3221226757/index.m3u8
+Newtv军旅剧场,http://112.17.40.140/PLTV/88888888/224/3221226682/index.m3u8
+Newtv家庭剧场,http://112.17.40.140/PLTV/88888888/224/3221226642/index.m3u8
+Newtv中国功夫,http://112.17.40.140/PLTV/88888888/224/3221226759/index.m3u8
+Newtv军事评论,http://112.17.40.140/PLTV/88888888/224/3221226658/index.m3u8
+Newtv搏击,http://112.17.40.140/PLTV/88888888/224/3221226737/index.m3u8
+Newtv农业致富,http://112.17.40.140/PLTV/88888888/224/3221226664/index.m3u8
+Newtv潮妈辣婆,http://112.17.40.140/PLTV/88888888/224/3221226666/index.m3u8
+
+
+NewTV超级体育FHD,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
+NewTV东北热剧FHD,http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8
+NewTV惊悚悬疑FHD,http://39.134.66.66/PLTV/88888888/224/3221225553/index.m3u8
+
+爱电竞,http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱动漫,http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱都市,http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱江湖,http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱解密,http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱经典,http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱军武,http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱科幻,http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱历史,http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱美食,http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱奇谈,http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱时尚,http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱世界,http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱玩具,http://101.71.255.229:6610/zjhs/2/10117/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱喜剧,http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱悬疑,http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱幼教,http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+爱院线,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+
+T1,#genre#
+AXN ASIA,https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
+WARNER TV HD,https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
+CBBC,http://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
+itv,http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+TV Series,http://203.154.243.89:1423
+Cine Series,https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8?@amarnettv.live
+MBC MAX HD,https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8?@amarnettv.live
+MBC 2 HD,https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8?@amarnettv.live
+MBC Action HD,https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8?@amarnettv.live
+& Flix HD,http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andflixhd/index.m3u8
+HBO,https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbo.m3u8
+HBO Signature,https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbosig.m3u8
+HBO Hits,https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbohits.m3u8
+HBO Family,https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/hbofamily.m3u8
+HBO Chinese,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
+Movies Now,https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+FOX MOVIES PREMIUM EN,https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
+RED HBO HD,https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+Cinemax,http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_2.m3u8
+24 Box TV,http://51.158.190.97/hls/stream.m3u8?@amarnettv.live
+Cine Film,https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8?@amarnettv.live
+AlFajer MOVIE,http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8?@amarnettv.live
+CELESTIAL MOVIES,http://210.210.155.35/qwr9ew/s/s33/index.m3u8?@amarnettv.live
+TRAVEL XP,http://198.255.87.59:8080/INDIA_ENGLISH/TRAVEL_XP_HD/tracks-v1a1/mono.m3u8?token=test
+RT Documentary,http://rt-doc.secure.footprint.net:80/1101_2500Kb.m3u8?@amarnettv.live
+Docurama,https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+WF,http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8?@amarnettv.live
+ID Fashion,https://sc.id-tv.kz/IDFashion_38_39.m3u8?@amarnettv.live
+HD Fashion & LifeStyle,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+ITV,http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+Classic Arts Showcase,https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+Fashion TV,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+Free Speech TV,https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+Global News,https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
+
 NAT GEO,#genre#
+NAT GEO,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/4881
+NAT GEO,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/14339
+Nat Geo Wild,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/13745
+Discovery Life,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/4933
+Discovery Velocity,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/14371
+History,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/4880
+History,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/14347
+
 Discovery [CHINESE],https://www.fanmingming.cn/hls/discovery.m3u8
 NAT GEO HD [CHINESE],https://www.fanmingming.cn/hls/natlgeo.m3u8
 Love Nature 4K,https://bamus-eng-roku.amagi.tv/playlist.m3u8
 
+Fox25 [Boston] HD VIP US,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/677122
+Film premiere,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/4956
+Destination America,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/17640
+Cartoon Network FHD US,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/4886
+
 MOVICES,#genre#
+
+AXN ASIA,https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
 kk金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 kk开心影院,http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
 歐美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSEAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
@@ -435,11 +243,25 @@ HBO Asia,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 天映频道Celestial Movies,http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
 NEWS,#genre#
+CNN,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/6359
+CNN,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/13750
+CNN,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/14377
 CNN,http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+CNN,http://203.162.235.41:16918?checkedby
+
+BBC News,http://188.195.58.187:8000/play/a07p
+BBC News,https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
 BBC News,http://203.162.235.41:16917
 BBC News,http://www.mytvhd.xyz/tvm.php?id=BBCWorldNews
+
+Fox News,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/4943
+Fox News,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/14357
+Fox News,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/14358
 Fox News,http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+
+CNBC News,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/14337
 CNBC World,http://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
+
 CBSN News,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 CGTN,https://live.cgtn.com/1000/prog_index.m3u8
 EuroNews,https://exodiver.github.io/IPTV/M3U8/Token/EuroNews.m3u8
@@ -506,7 +328,6 @@ Redbull TV,https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8
 Snowy Mountains Television,https://c.mjh.nz/snowy-mountains/
 PAC-12,https://pac12b.cdn.7livecloud.io/index.m3u8
 Olympics Channel,https://i.mjh.nz/au/Sydney/tv.7olympics.m3u8
-
 
 HK TV,#genre#
 凤凰中文,http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
