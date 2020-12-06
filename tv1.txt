@@ -198,6 +198,273 @@ NewTV惊悚悬疑FHD,http://39.134.66.66/PLTV/88888888/224/3221225553/index.m3u8
 爱院线,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
 T1,#genre#
+翡翠台,http://61.238.6.49:8000/bysid/1
+J2台,http://61.238.6.49:8001/bysid/82
+無綫明珠台(TVB Pearl),http://61.238.6.49:8001/bysid/2
+無綫新聞台,http://livetv.dnsfor.me/channel.10.m3u8
+無綫財經資訊台,http://livetv.dnsfor.me/channel.11.m3u8
+鳳凰衛視香港台,http://live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c.m3u8
+ViuTVsix,http://61.238.6.49:8000/bysid/96
+ViuTV,http://61.238.6.49:8000/bysid/99
+有線綜合娱乐,http://livetv.dnsfor.me/channel.7.m3u8
+有線新闻,http://livetv.dnsfor.me:80/channel.5.m3u8
+有線財經資訊,http://livetv.dnsfor.me/channel.6.m3u8
+香港开電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+Now Sports Prime,http://teslagram.com/live/channel_630.m3u8
+澳亞衛視,http://mastvnet-hwcdn.utvlive.top/4rlff1m/1024/live.m3u8
+民視,http://seb.sason.top/ptv/ftv.php?id=ms
+民視第一,http://seb.sason.top/ptv/ftv.php?id=dy
+民視台灣,http://seb.sason.top/ptv/ftv.php?id=tw
+民視新聞,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
+東森財經新聞,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+TVBS新聞,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+TVBS歡樂,http://220.158.149.28:8180/live/TV00000000000000000079@HHZT
+台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
+中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
+華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
+中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
+三立新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
+三立財經新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
+大愛1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+信吉電視,http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
+華藏衛視,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
+人間衛視,https://bcovlive-a.akamaihd.net/a735d612667b460185bd29f9978178bd/ap-northeast-1/6169276188001/profile_2/chunklist.m3u8
+唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+番薯電視,http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
+安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225727/index.m3u8
+东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225736/index.m3u8
+湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
+浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225710/index.m3u8
+CCTV-2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225747/index.m3u8
+CCTV-3 文艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225606/index.m3u8
+CCTV-4 中文国际,http://39.134.157.203/PLTV/88888888/224/3221225641/index.m3u8
+CCTV-6 电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225607/index.m3u8
+CCTV-7 军事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV-8 电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225608/index.m3u8
+CCTV-9 纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV-10 科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV-11 戏曲,http://39.134.157.203/PLTV/88888888/224/3221225622/index.m3u8
+CCTV-12 社会与法,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV-13 新闻,http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+CCTV-14 少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV-15 音乐,http://39.134.157.199/PLTV/88888888/224/3221225610/index.m3u8
+CCTV-17 农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+北京卫视,http://39.130.206.213:6410/gitv_live/BTV-1/BTV-1.m3u8
+兵团卫视,http://39.130.206.213:6410/gitv_live/G_BINGTUAN/G_BINGTUAN.m3u8
+重庆卫视,http://39.130.206.213:6410/gitv_live/G_CHONGQING-HD/G_CHONGQING-HD.m3u8
+东南卫视,http://39.130.206.213:6410/gitv_live/G_DONGNAN-HD/G_DONGNAN-HD.m3u8
+贵州卫视,http://39.130.206.213:6410/gitv_live/G_GUIZHOU-HD/G_GUIZHOU-HD.m3u8
+甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
+广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
+海南卫视,http://tv.sason.xyz/proxy/hain.php?id=19
+河北卫视,http://weblive.hebtv.com/live/hbwsbq_bq/index.m3u8
+河南卫视,http://39.130.206.213:6410/gitv_live/HENAN/HENAN.m3u8
+黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225640/index.m3u8
+湖北卫视,http://39.135.253.153/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226124/2.m3u8
+吉林卫视,http://stream4.jlntv.cn/test2/sd/live.m3u8
+江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225615/index.m3u8
+辽宁卫视,http://39.135.253.153/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226157/3.m3u8
+内蒙古卫视,http://live.m2oplus.nmtv.cn/1/playlist.m3u8
+宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
+青海卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
+四川卫视,http://39.130.206.213:6410/gitv_live/G_SICHUAN-HD/G_SICHUAN-HD.m3u8
+深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
+山东卫视,http://39.130.206.213:6410/gitv_live/G_SHANDONG-HD/G_SHANDONG-HD.m3u8
+山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
+陕西卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225896/1.m3u8
+天津卫视,http://39.130.206.213:6410/gitv_live/G_TIANJIN-HD/G_TIANJIN-HD.m3u8
+云南卫视,http://39.130.206.213:6410/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
+西藏卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
+新疆卫视,http://tv.boye.ml/iptv/xjtv.php?id=1
+厦门卫视,https://live1.kxm.xmtv.cn/xmtv/tvzb/live.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
+Al Jazeera(中东),https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+Arirang(韩国),http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+Africa News(非洲),https://exodiver.github.io/IPTV/M3U8/Token/AfricaNews.m3u8
+BBC World News(英国),https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+Bloomberg(美国),https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+CBSN(美国),https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+CGTN(中国),https://live.cgtn.com/1000/prog_index.m3u8
+CGTN Documentary(中国),https://livedoc.cgtn.com/1000d/prog_index.m3u8
+CNN (美国),https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
+CNBC World(美国),http://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
+DW(德国),https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_4_av-p.m3u8
+EuroNews(欧洲),https://exodiver.github.io/IPTV/M3U8/Token/EuroNews.m3u8
+Fox News(美国),http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+France 24(法国),http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+鳳凰资讯(中国),http://live.centerch.com/fhzx.m3u8
+鳳凰衛視中文(中国),http://live-hwcdn.utvlive.top/live/551a1a8c3aca46708fd285217be3c96e/4538203d786e4803bac20e36392cffd9-1.m3u8
+NHK World(日本),https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+NDTV 24X7(印度),https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+RT(俄罗斯),http://rt-news.secure.footprint.net:80/1103_2500Kb.m3u8
+Sky News(英国),https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+Telesur,https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
+TRT World(土耳其),https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+&Flix,https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+&Prive,http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
+Cinemax,https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+CinemaWorld,https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+FOX Movies,https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
+Fox Action Movies,https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
+Fox Family Movies,https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
+HBO,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+HBO Family,https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+HBO Hits,https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+HBO Signature,https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+Hits,https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+Hits Movies,https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+Red by HBO,https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+Paramount Network,http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=fdb5e6bd-6102-4712-bf51-a879469a0d4b&advertisingId=&deviceLat=40.7308&deviceLon=-73.9975&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
+Romedy Now,https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+Sony Movies Action,http://51.52.156.22:8888/http/009
+Thrill,https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+Warner TV,https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+天映频道,https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+天映经典频,https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+衛視電影,https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
+衛視卡式,https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
+凤凰电影,https://www.fanmingming.cn/hls/fhdy.m3u8
+Asian Food Network,https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+Animal Planet,https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+AXN,https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+Channel [V],https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+Crime + Investigation,http://203.154.243.31:15001
+Comedy Central,http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+Discovery,https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+Discovery Asia,https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+HGTV,https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+History,https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+Fox Crime,https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
+KIX,https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+National Geographic,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+Nat Geo Wild,https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+Nat Geo People,https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd
+Premier HD1,http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
+Premier HD2,http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
+Liga de Campeones,http://digitalxpress.gcdn.co/live1/beinsportseshd/index.m3u8
+Astro Supersport,http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+Astro Supersport 3,http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+BT Sports 1,https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+BT Sports 2,https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+beIN Sports 1 Asia,https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
+beIN Sports 2 Asia,https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
+beIN Sports 1,http://116.203.40.131:80/hls/bein1.m3u8
+beIN Sports 2,http://116.203.40.131:80/hls/bein2.m3u8
+beIN Sports 3,http://116.203.40.131:80/hls/bein3.m3u8
+beIN Sports 4,http://116.203.40.131:80/hls/bein4.m3u8
+beIN Sports 5,http://116.203.40.131:80/hls/bein5.m3u8
+beIN Sports 6,http://116.203.40.131:80/hls/bein6.m3u8
+beIN Sports 7,http://116.203.40.131:80/hls/bein7.m3u8
+beIN Sports 8,http://116.203.40.131:80/hls/bein8.m3u8
+beIN Sports 9,http://116.203.40.131:80/hls/bein9.m3u8
+beIN Xtra,https://bein-plutolive-vo.akamaized.net/playlist.m3u8
+CCTV-5 体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
+CCTV-5+ 体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
+ESPN,https://e10.habrox.xyz/ingestnb4s/espn_usa/f.m3u8|Referer=https://espn-live.stream/stream/43572.html
+ESPN 2,https://gma2.blab.email/espn2.m3u8
+ESPN Brasil,https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8|X-Forwarded-For=18.231.200.200
+Fox Soccer Plus,https://e10.habrox.xyz/ingestnb4s/fsp/f.m3u8|Referer=https://espn-live.stream/stream/56872.html
+Fox Sports 1 Asia,https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+Fox Sports 2 Asia,https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+Fox Sports 3 Asia,https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+Fox Sports 1 Asia DRM,https://liveanevia.mncnow.id/live/eds/FOXSports/sa_dash_vmx/FOXSports.mpd
+Fox Sports 2 Asia DRM,https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_dash_vmx/FoxSports2.mpd
+Fox Sports 3 Asia DRM,https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
+FS1 USA,http://4.26.188.2:8081/udp/239.193.10.101:23901
+FS2 USA,http://4.26.188.2:8081/udp/239.193.10.102:23902
+Olympic Channel,https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
+MLB Network,http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+NFL Network,http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+Sky Racing 1,https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+Sky Racing 2,https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+Sky Thoroughbred Central,https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
+Tennis Channel,https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+Матч,http://hlsstr04.svc.iptv.rt.ru/hls/CH_MATCHTV/variant.m3u8
+BBC 1,http://digitalxpress.gcdn.co/live1/bbc1/index.m3u8
+BBC 2,http://bozztv.com/36bay2/gin/giniko_bbc22_1000kb_36bay2/tracks-v1a1/mono.m3u8
+BBC 4,http://digitalxpress.gcdn.co/live1/bbc4/index.m3u8
+BBC Earth,https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+BBC Lifestyle,https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+BBC News,https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
+Box Hits,http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+CBBC,http://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
+ITV,http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+ITV2,http://51.52.156.22:8888/http/005
+ITV3,http://51.52.156.22:8888/http/006
+ITV4,http://51.52.156.22:8888/http/007
+CITV,http://51.52.156.22:8888/http/001
+4 Music,http://csm-e.tm.yospace.com/csm/extlive/boxplus01,4music-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/4music/
+Forces TV,https://edge-1192-ch-gv.filmon.com/live/3386.high.stream/playlist.m3u8
+Kiss,http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
+Kerrang!,http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
+Magic,http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
+RTE News Now,https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
+Spotlight TV,https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
+TG4,http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+The Box,http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+ACCN,https://gma2.blab.email/acc.m3u8fes
+Adult Swim,https://media.cdn.adultswim.com/streams/playlists/live-stream.primary.v2.m3u8
+AHC,https://e10.habrox.xyz/ingestnb4s/ahc/f.m3u8|Referer=https://espn-live.stream/stream/70077.html
+BET,http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=174&deviceId=5ca670f6593a5d78f0e85aed&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+BET Her,http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=174&deviceId=5ca670f6593a5d78f0e85aed&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+Blue Ant Entertainment,https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
+Blue Ant Extreme,https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+British TV,http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=154&deviceId=5b68a18823ecb93393cba2f1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+BTN,https://e10.habrox.xyz/ingestnb4s/btn/d.m3u8|Referer=https://espn-live.stream/stream/45629.html
+Buzzr,https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_8.m3u8
+CBC,https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8|X-Forwarded-For=24.37.42.20
+CBC News,https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8|X-Forwarded-For=24.37.42.20
+CMT,http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=182&deviceId=5dcc42446750e200093b15e2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+Court TV,http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae0b4841a7d0000938ddbd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=395&deviceId=5dae0b4841a7d0000938ddbd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+CSBN New York,https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+CBSN Los Angeles,https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
+Cheddar,https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/4.m3u8
+Classic Arts Showcase,https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+ESPN News,https://e10.habrox.xyz/ingestnb4s/espn_news/f.m3u8|Referer=https://espn-live.stream/stream/45458.html
+ESPN U,https://gma2.blab.email/espnu.m3u8
+Fox,https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd
+Fox Life,https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+Fashion TV,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+Food Network,http://5.135.92.133:52841/out/u/502_1.m3u8
+Free Speech TV,https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+Global News,https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
+MLS TV,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+MavTV,https://mavtv-1.sinclair.wurl.com/manifest/2000.m3u8
+MTV,http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=178&deviceId=5ca672f515a62078d2ec0ad2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+Newsmax,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+Outdoor Channel,https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+Pop,https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+SEC Network,https://gma2.blab.email/sec.m3u8
+Stadium Network,https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_2000k.m3u8
+TLC,https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+Weather Channel,https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=on
+WeatherNation TV,http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751.m3u8
+VH1,https://e10.habrox.xyz/ingestnb4s/vh1/f.m3u8|Referer=https://espn-live.stream/stream/68075.html
+Australia Channel,https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+ACC,http://i.mjh.nz/au/Adelaide/tv.acctv.m3u8
+Channel 44,https://bdz47wk-lh.akamaihd.net/i/bdz47wkvo0zjom_1@1017167/index_0500_av-p.m3u8
+ABC,https://c.mjh.nz/101002510251/
+ABC Comedy,https://c.mjh.nz/abc2/
+ABC News 24,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+ABC ME,https://c.mjh.nz/101002210224/
+ABC Kids,https://c.mjh.nz/101002210222/
+Fox Sports News,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+SBS One,https://sbs-live.akamaized.net/hls/live/2002827/channel1/geo/master_2500K.m3u8|X-Forwarded-For=52.62.247.239
+SBS Food,https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8|X-Forwarded-For=52.62.247.239
+SBS Viceland,https://sbs-live.akamaized.net/hls/live/2002828/channel2/geo/master_2500K.m3u8|X-Forwarded-For=52.62.247.239
+SBS World Movies,https://sbs-live.akamaized.net/hls/live/2005470/channel5/geo/master_2500K.m3u8|X-Forwarded-For=52.62.247.239
+Prime,https://primetv-prod.akamaized.net/v1/prime-freeview-aes128.m3u8|X-Forwarded-For=202.89.4.222
+Maori Television,https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_iPad1080p.m3u8
+NITV,https://sbs-live.akamaized.net/hls/live/2002826/channel4/geo/master_1800K.m3u8|X-Forwarded-For=52.62.247.239
+Te Reo,https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad1080p.m3u8
+
+
 AXN ASIA,https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
 WARNER TV HD,https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
 CBBC,http://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
@@ -264,21 +531,21 @@ HBO Asia,http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 天映频道Celestial Movies,http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
 NEWS,#genre#
+CNN,http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 CNN,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/6359
 CNN,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/13750
 CNN,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/14377
-CNN,http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 CNN,http://203.162.235.41:16918?checkedby
 
+BBC News,http://203.162.235.41:16917
 BBC News,http://188.195.58.187:8000/play/a07p
 BBC News,https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
-BBC News,http://203.162.235.41:16917
 BBC News,http://www.mytvhd.xyz/tvm.php?id=BBCWorldNews
 
+Fox News,http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 Fox News,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/4943
 Fox News,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/14357
 Fox News,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/14358
-Fox News,http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 
 CNBC News,http://iptv.rent:8080/cvfhifduki/lpaduuyjo5/14337
 CNBC World,http://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
