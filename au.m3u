@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="skynews.com.au" group-title="au-tv"" tvg-logo="https://i.imgur.com/1XiQezD.png",Sky News Australia Extra 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1  tvg-id="skynews.com.au" group-title="au-tv"" tvg-logo="https://i.imgur.com/1XiQezD.png",Sky News Australia Extra 2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 t tvg-id="skynews.com.au" group-title="au-tv"" tvg-logo="https://i.imgur.com/1XiQezD.png",Sky News Australia Extra 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 
 #EXTINF:-1 tvg-id="tv.101002210220" tvg-logo="https://i.mjh.nz/.images/tv.101002210220.png" group-title="au-tv",ABC News
 https://c.mjh.nz/101002210220/ 
@@ -53,18 +59,27 @@ https://i.mjh.nz/au/Sydney/tv.101305020525.m3u8
 https://i.mjh.nz/au/Sydney/tv.101305020523.m3u8 
 
 #EXTINF:-1 tvg-id="tv.46" tvg-logo="http://i.mjh.nz/.images/tv.46.png" group-title="au-tv",Al Jazeera
-https://i.mjh.nz/au/Sydney/tv.46.m3u8 
-#EXTINF:-1 tvg-id="tv.7ausbiz" tvg-logo="http://i.mjh.nz/.images/tv.7ausbiz.png" group-title="au-tv",ausbiz TV
+https://i.mjh.nz/au/Sydney/tv.46.m3u8
+#EXTINF:-1 tvg-id="tv.7ausbiz" tvg-logo="https://i.imgur.com/8hYBj3q.png" group-title="au-tv",Ausbiz TV
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+#EXTINF:-1 tvg-id="tv.7ausbiz" tvg-logo="http://i.mjh.nz/.images/tv.7ausbiz.png" group-title="au-tv",Ausbiz TV
 https://i.mjh.nz/au/Sydney/tv.7ausbiz.m3u8
+#EXTINF:-1 tvg-id="australiachannel.com.au" group-title="au-tv" tvg-logo="https://i.imgur.com/KKFqbHw.png",Bloomberg Australia
+https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-440-1_live.m3u8
 #EXTINF:-1 tvg-id="tv.acctv" tvg-logo="http://i.mjh.nz/.images/tv.acctv.png" group-title="au-tv",ACCTV
 https://i.mjh.nz/au/Sydney/tv.acctv.m3u8 
 #EXTINF:-1 tvg-id="tv.7fueltv" tvg-logo="http://i.mjh.nz/.images/tv.7fueltv.png" group-title="au-tv",Fuel TV
 https://i.mjh.nz/au/Sydney/tv.7fueltv.m3u8
 #EXTINF:-1 tvg-id="tv.7openshop" tvg-logo="http://i.mjh.nz/.images/tv.7openshop.png" group-title="au-tv",openshop
 https://i.mjh.nz/au/Sydney/tv.7openshop.m3u8
-
+#EXTINF:-1 tvg-id="" group-title="au-tv" tvg-logo="https://i.imgur.com/Tl79upK.jpg",C31 Melbourne
+https://dcunilive47-lh.akamaihd.net/i/dclive_1@739220/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="au-tv" tvg-logo="https://i.imgur.com/RpCWw2I.png",Expo Channel
+https://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8
 #EXTINF:-1 tvg-id="tv.101305020528" tvg-logo="https://i.mjh.nz/.images/tv.101305020528.png" group-title="au-tv",RACING.COM
-https://i.mjh.nz/au/Sydney/tv.101305020528.m3u8 
+https://i.mjh.nz/au/Sydney/tv.101305020528.m3u8
+#EXTINF:-1 tvg-id="Racing.com" tvg-logo="https://i.imgur.com/NAY9DTt.png" group-title="au-tv",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
 #EXTINF:-1 tvg-id="tv.7pac12" tvg-logo="http://i.mjh.nz/.images/tv.7pac12.png" group-title="au-tv",PAC-12
 https://i.mjh.nz/au/Sydney/tv.7pac12.m3u8 
 #EXTINF:-1 tvg-id="tv.7olympics" tvg-logo="http://i.mjh.nz/.images/tv.7olympics.png" group-title="au-tv",Olympics Channel
@@ -73,6 +88,10 @@ https://i.mjh.nz/au/Sydney/tv.7olympics.m3u8
 https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8 
 #EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-logo="http://i.mjh.nz/.images/tv.fox.sports.news.png" group-title="au-tv",Fox Sports News
 https://i.mjh.nz/au/Sydney/tv.fox.sports.news.m3u8 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/gRrfqSb.png" group-title="au-tv",Rainbow TV Chinese
+http://rtvcdn.com.au:8082/TV_GG.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/TuHnkxP.png" group-title="au-tv",TVSN
+https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8
 
 #EXTINF:-1 tvg-id="tv.101002210222" tvg-logo="https://i.mjh.nz/.images/tv.abckids.png" group-title="au-tv",ABC KIDS
 https://c.mjh.nz/101002210222/ 
