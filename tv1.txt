@@ -304,9 +304,7 @@ Kral·音乐频道,http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
 News·Max,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 Racing·运动,http://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 
-·港台流畅·_122,#genre#
-此分类不适合,http://189.ly93.cc/ieiqaeqYJ3Ij/4154727899696922
-公共场合观看,http://189.ly93.cc/ieiqaeqYJ3Ij/4154727899696922
+港台流畅,#genre#
 有线新闻,https://flv3948069e.live.126.net/live/e772f84a44455371681ee70a953cce2b.flv#http://93.190.139.36:8278/streams/d/hkcnews_twn/playlist.m3u8
 有线18台,https://flv3948069e.live.126.net/live/eaef1d2c57fccf912ef282d8cb737e15.flv
 有线·603,https://flv3948069e.live.126.net/live/ec30d09bfc0e54fe722e62b3f0fd8c40.flv
@@ -340,13 +338,8 @@ TVBS·新闻台,https://flv3948069e.live.126.net/live/8968d992eb1566321bc0274ba0
 壹新闻台,https://flv3948069e.live.126.net/live/83b62d2c536264045587a63ea0bc25a6.flv
 港视31台,http://93.190.139.36:8278/streams/d/rhk31_twn/playlist.m3u8
 港视32台,https://flv3948069e.live.126.net/live/976379da864ff14d9829b370d091a39b.flv
-官方反馈QQ群,http://189.ly93.cc/eayIneMf6Bzm/8150024975560071
-QQ群·460178919,http://189.ly93.cc/yEnmMfaMfQrq/4154724975797142
 
-·港台联通·_122,#genre#
-联通用户专享,http://189.ly93.cc/ieiqaeqYJ3Ij/4154727899696922
-此分类不适合,http://189.ly93.cc/ieiqaeqYJ3Ij/4154727899696922
-公共场合观看,http://189.ly93.cc/ieiqaeqYJ3Ij/4154727899696922
+港台联通,#genre#
 无线·翡翠台,http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1001&key=86358849095
 无线·明珠台,http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1004&key=64480647552
 无线·星河台,http://96.44.140.132:18006/view.php?type=m3u8&id=c_58031&key=51867571109
@@ -424,6 +417,7 @@ FOX·综合台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12001&key=0
 FOX·电影台,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12002&key=98675714172
 非凡新闻,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12024&key=034186757117
 非凡商业,http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12023&key=655951867571
+
 央视卫视,#genre#
 CCTV-1综合频道,http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
 CCTV-2财经频道,http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
