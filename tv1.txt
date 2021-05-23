@@ -47,6 +47,35 @@ SKY NEWS,https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/
 MTV USA,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 &Flix HD,https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
 
+电影1_b站,https://cn-ahhf-cmcc-live-02.bilivideo.com/live-bvc/549233/live_416544064_58389145.m3u8
+电影2_b站,https://cn-ahhf-cmcc-live-02.bilivideo.com/live-bvc/100589/live_362963326_14864388.m3u8
+电影5_b站,https://cn-ahhf-cmcc-live-02.bilivideo.com/live-bvc/149917/live_400392_6822511.m3u8
+电影6_b站,https://cn-ahhf-cmcc-live-02.bilivideo.com/live-bvc/360949/live_14659392_8620418.m3u8
+电影7_b站,https://cn-ahhf-cmcc-live-02.bilivideo.com/live-bvc/374032/live_102569357_4797059.m3u8
+电影8_b站,https://cn-ahhf-cmcc-live-02.bilivideo.com/live-bvc/288712/live_22989278_9714011.m3u8
+电影9_b站,https://cn-ahhf-cmcc-live-02.bilivideo.com/live-bvc/889874/live_420351661_73320656.m3u8
+电影11_b站,https://cn-ahhf-cmcc-live-02.bilivideo.com/live-bvc/804389/live_97065163_17925468.m3u8
+电影12_b站,https://cn-ahhf-cmcc-live-02.bilivideo.com/live-bvc/545398/live_252582133_1552126.m3u8
+电影13_b站,https://cn-ahhf-cmcc-live-02.bilivideo.com/live-bvc/986331/live_123336671_4216482.m3u8
+电影16_b站,https://cn-ahhf-cmcc-live-02.bilivideo.com/live-bvc/383145/live_22989278_9714011.m3u8
+电影18_b站,https://cn-ahhf-cmcc-live-02.bilivideo.com/live-bvc/509520/live_420351661_73320656.m3u8
+电影19_b站,https://cn-ahhf-cmcc-live-02.bilivideo.com/live-bvc/800522/live_334056_8894439.m3u8
+电影23_b站,https://cn-ahhf-cmcc-live-02.bilivideo.com/live-bvc/842918/live_97065163_17925468.m3u8
+电影1_斗鱼,http://tx2play1.douyucdn.cn/live/52787rnTAmEUSJDl.flv?uuid=
+电影6_斗鱼,http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
+电影8_斗鱼,http://tx2play1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
+电影14_斗鱼,http://tx2play1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
+电影18_斗鱼,http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
+电影21_斗鱼,http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
+电影22_斗鱼,http://tx2play1.douyucdn.cn/live/8861179rFHC662RW.flv?uuid=
+电影34_斗鱼,http://tx2play1.douyucdn.cn/live/5129261rZlxiaokj.flv?uuid=
+电影35_斗鱼,http://tx2play1.douyucdn.cn/live/6763930rLhacsI7u.flv?uuid=
+电影41_斗鱼,http://tx2play1.douyucdn.cn/live/323876r0O5xiJdBl.flv?uuid=
+电影42_斗鱼,http://tx2play1.douyucdn.cn/live/7029806raJcPlPZm.flv?uuid=
+电影44_斗鱼,http://tx2play1.douyucdn.cn/live/2935323rnTpNsu74.flv?uuid=
+电影46_斗鱼,http://tx2play1.douyucdn.cn/live/310926rxaVCymr5Z.flv?uuid=
+电影47_斗鱼,http://tx2play1.douyucdn.cn/live/218859r1dmSVurJa.flv?uuid=
+
 4K[3840*2160],http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226400/1.m3u8
 CCTV1,http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
 CCTV1,http://117.136.156.37/PLTV/88888888/224/3221225499/index.m3u8
