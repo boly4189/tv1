@@ -1,3 +1,51 @@
+TEST10,#genre#
+Warner TV,http://203.154.243.89:1205
+FOX NEWS,http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+CNN,http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+American Horrors,http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+Fox Crime,http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+Fox HD,http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
+AXN HD,http://210.210.155.35/uq2663/h/h141/01.m3u8
+HBO,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+Sony Movies Action,http://51.52.156.22:8888/http/009
+BBC News,http://51.52.156.22:8888/http/004
+Star Movies Select HD,http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
+HDFashion,http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8
+CBS News,https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+CNN HD,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+AMC,http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+ABC News,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+Travel XP India,https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
+CNA HD,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?checkedby:iptvcat.com
+Discovery India,https://d3ojtyqvwc3vcz.cloudfront.net/DISC.m3u8
+Star Utsav,https://dolv5imquuojb.cloudfront.net/ST_UTSAV.m3u8
+Fashion TV,https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+PARIS: FASHION TV,http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+Fashion TV+,http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+ESPN,https://gma2.blab.email/espn2.m3u8
+Sony ESPN HD,https://gma2.blab.email/espnu.m3u8
+Paramount Channel,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+Cheddar Big News,https://live.chdrstatic.com/cbn/index.m3u8
+Lotus Maccau,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
+HBO RED,https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+HBO Comedy,http://M2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_==wSVBSekVWbvNEIPJES
+Sky Cinema Family,http://M2153683141.wo2.co/o.php?6949003927915110_164589908716168541711293286940_3487614956_==wSVBSeslWbhZEIZt0U
+Sky Cinema Select,http://M2153683141.wo2.co/o.php?6949003927915110_164589908716168541711293286940_3487614956_==wSVBCdjVGblNFIZt0U
+CGTN,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+NHK World,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+Newsmax,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+Rakuten Action Movies,https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+HBO,https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/HBO.m3u8
+HBO Family,https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/HBO%20Family.m3u8
+HBO HITS,https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/HBO%20Hits.m3u8
+HBO Signature,https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/HBO%20Sig.m3u8
+MBC 2 HD,https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/MBC%202.m3u8
+MBC MAX,https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/MBC%20Max.m3u8
+MBC Action HD,https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/MBC%20Action.m3u8
+Sky 2 HD,https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+SKY NEWS,https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+MTV USA,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+&Flix HD,https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
 央视频道,#genre#
 CCTV1 综合,http://101.71.255.229:6610/zjhs/2/10126/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://183.207.255.190/live/program/live/cctv1hd/4000000/mnf.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226226/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8#http://121.31.30.91:8085/ysten-business/live/cctv-1/1.m3u8#http://scgctvshow.sctv.com/hdlive/cctv1/1.m3u8#rtmp://58.200.131.2:1935/livetv/cctv1hd
 CCTV2 财经,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226655/40417429.smil#http://cm.wshls.homecdn.com/live/11ecc.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226230/index.m3u8#http://101.71.255.229:6610/zjhs/2/10127/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://121.31.30.87:8085/ysten-business/live/cctv-2/1.m3u8#rtmp://58.200.131.2:1935/livetv/cctv2hd
