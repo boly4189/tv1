@@ -1,7 +1,15 @@
 TEST10,#genre#
+Star Movies Select HD,http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
+HBO Comedy,http://M2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_==wSVBSekVWbvNEIPJES
+Sky Cinema Family,http://M2153683141.wo2.co/o.php?6949003927915110_164589908716168541711293286940_3487614956_==wSVBSeslWbhZEIZt0U
+Sky Cinema Select,http://M2153683141.wo2.co/o.php?6949003927915110_164589908716168541711293286940_3487614956_==wSVBCdjVGblNFIZt0U
+MBC 2 HD,https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/MBC%202.m3u8
+MBC MAX,https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/MBC%20Max.m3u8
+MBC Action HD,https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/MBC%20Action.m3u8
+CNN HD,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+ESPN2,https://gma2.blab.email/espn2.m3u8
 Warner TV,http://203.154.243.89:1205
 FOX NEWS,http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
-CNN,http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 American Horrors,http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 Fox Crime,http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 Fox HD,http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
@@ -9,39 +17,28 @@ AXN HD,http://210.210.155.35/uq2663/h/h141/01.m3u8
 HBO,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 Sony Movies Action,http://51.52.156.22:8888/http/009
 BBC News,http://51.52.156.22:8888/http/004
-Star Movies Select HD,http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 HDFashion,http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8
 CBS News,https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-CNN HD,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 AMC,http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 ABC News,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-Travel XP India,https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 CNA HD,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?checkedby:iptvcat.com
+Newsmax,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 Discovery India,https://d3ojtyqvwc3vcz.cloudfront.net/DISC.m3u8
-Star Utsav,https://dolv5imquuojb.cloudfront.net/ST_UTSAV.m3u8
 Fashion TV,https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 PARIS: FASHION TV,http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 Fashion TV+,http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-ESPN,https://gma2.blab.email/espn2.m3u8
 Sony ESPN HD,https://gma2.blab.email/espnu.m3u8
 Paramount Channel,https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 Cheddar Big News,https://live.chdrstatic.com/cbn/index.m3u8
 Lotus Maccau,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 HBO RED,https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-HBO Comedy,http://M2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_==wSVBSekVWbvNEIPJES
-Sky Cinema Family,http://M2153683141.wo2.co/o.php?6949003927915110_164589908716168541711293286940_3487614956_==wSVBSeslWbhZEIZt0U
-Sky Cinema Select,http://M2153683141.wo2.co/o.php?6949003927915110_164589908716168541711293286940_3487614956_==wSVBCdjVGblNFIZt0U
 CGTN,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 NHK World,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-Newsmax,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 Rakuten Action Movies,https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 HBO,https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/HBO.m3u8
 HBO Family,https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/HBO%20Family.m3u8
 HBO HITS,https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/HBO%20Hits.m3u8
 HBO Signature,https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/HBO%20Sig.m3u8
-MBC 2 HD,https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/MBC%202.m3u8
-MBC MAX,https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/MBC%20Max.m3u8
-MBC Action HD,https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/MBC%20Action.m3u8
 Sky 2 HD,https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 SKY NEWS,https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 MTV USA,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
@@ -1112,63 +1109,6 @@ NewTV惊悚悬疑FHD,http://39.134.66.66/PLTV/88888888/224/3221225553/index.m3u8
 爱院线,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
 T1,#genre#
-
-松視一台(720P),rtmp://161.202.204.248:1935/tv/ttv11
-松视三台,http://z2.ubtvfans.com/live/404/9e0e949eadda1be5504aed04b804d1f6/index.m3u8
-HAPPY成人(720P),rtmp://161.202.204.248:1935/tv/ttv12
-松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
-松视2欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
-松视2欧美版,http://cdn.adultiptv.net/interracial.m3u8
-松视3欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
-松视3欧美版,http://cdn.adultiptv.net/bigtits.m3u8
-松视4欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
-松视4欧美版,http://cdn.adultiptv.net/bigdick.m3u8
-潘多拉欧美版,http://live.redtraffic.xyz:80/pornstar.m3u8
-潘多拉欧美版,http://cdn.adultiptv.net/pornstar.m3u8
-香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
-香蕉台欧美版,http://cdn.adultiptv.net/milf.m3u8
-K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
-K频道欧美版,http://cdn.adultiptv.net/threesome.m3u8
-惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
-惊艳台欧美版,http://cdn.adultiptv.net/cuckold.m3u8
-HOT欧美版,http://live.redtraffic.xyz:80/hardcore.m3u8
-HOT欧美版,http://cdn.adultiptv.net/hardcore.m3u8
-粉红台欧美版,http://live.redtraffic.xyz:80/teen.m3u8
-粉红台欧美版,http://cdn.adultiptv.net/teen.m3u8
-玩美台欧美版,http://live.redtraffic.xyz:80/pov.m3u8
-玩美台欧美版,http://cdn.adultiptv.net/pov.m3u8
-一本道欧美版,http://live.redtraffic.xyz:80/bigass.m3u8
-一本道欧美版,http://cdn.adultiptv.net/bigass.m3u8
-二本道欧美版,http://live.redtraffic.xyz:80/blowjob.m3u8
-二本道欧美版,http://cdn.adultiptv.net/blowjob.m3u8
-樱花台欧美版,http://live.redtraffic.xyz:80/russian.m3u8
-樱花台欧美版,http://cdn.adultiptv.net/russian.m3u8
-Anal,http://cdn.adultiptv.net/anal.m3u8
-Blonde,http://cdn.adultiptv.net/blonde.m3u8
-Brunette,http://cdn.adultiptv.net/brunette.m3u8
-Compilation,http://cdn.adultiptv.net/compilation.m3u8
-Fetish,http://cdn.adultiptv.net/fetish.m3u8
-Gangbang,http://cdn.adultiptv.net/gangbang.m3u8
-Gay,http://cdn.adultiptv.net/gay.m3u8
-Latina,http://cdn.adultiptv.net/latina.m3u8
-Lesbian,http://cdn.adultiptv.net/lesbian.m3u8
-Live Cams,http://cdn.adultiptv.net/livecams.m3u8
-Jasmin TV,http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-RedTraffic Fetish,http://live.redtraffic.xyz/fetish.m3u8
-RedTraffic Lesbian,http://live.redtraffic.xyz/lesbian.m3u8
-俄罗斯成人5台,http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
-俄罗斯成人6台,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
-苹果片,http://tube.cheerleaderfacials.com/trailers/609/cheerleaderfacial_Natalia_Rossi_0006.flv
-???Web crawler4,http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-???Web crawler5,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-Miami TV Colombia [18+],http://hls-ott-zhibo.wasu.tv/live/256/index.m3u8
-Miami TV [18+],http://hls-ott-zhibo.wasu.tv/live/184/index.m3u8
-videos2.yjcontentdelivery.com/_hls/9/4/94f90c2feee4de53b7b4c3d90b67e3b01486994410-1280-720-2212-h264.mp4/index-v1-a1.m3u8
-Super One HD [18+],http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u
-7,http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
-PLAYBOY,p2p://147.135.39.171:9906/5e73be64000bc4a119b463b625bf0790
-
-
 亚洲新闻台(CNA),https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 鳳凰衛視中文,http://live-hwcdn.utvlive.top/live/551a1a8c3aca46708fd285217be3c96e/4538203d786e4803bac20e36392cffd9-1.m3u8
 港台電視32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
@@ -1446,6 +1386,63 @@ Classic Arts Showcase,https://classicarts.global.ssl.fastly.net/live/cas/master_
 Fashion TV,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 Free Speech TV,https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 Global News,https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
+
+松視一台(720P),rtmp://161.202.204.248:1935/tv/ttv11
+松视三台,http://z2.ubtvfans.com/live/404/9e0e949eadda1be5504aed04b804d1f6/index.m3u8
+HAPPY成人(720P),rtmp://161.202.204.248:1935/tv/ttv12
+松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
+松视2欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
+松视2欧美版,http://cdn.adultiptv.net/interracial.m3u8
+松视3欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
+松视3欧美版,http://cdn.adultiptv.net/bigtits.m3u8
+松视4欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
+松视4欧美版,http://cdn.adultiptv.net/bigdick.m3u8
+潘多拉欧美版,http://live.redtraffic.xyz:80/pornstar.m3u8
+潘多拉欧美版,http://cdn.adultiptv.net/pornstar.m3u8
+香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
+香蕉台欧美版,http://cdn.adultiptv.net/milf.m3u8
+K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
+K频道欧美版,http://cdn.adultiptv.net/threesome.m3u8
+惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
+惊艳台欧美版,http://cdn.adultiptv.net/cuckold.m3u8
+HOT欧美版,http://live.redtraffic.xyz:80/hardcore.m3u8
+HOT欧美版,http://cdn.adultiptv.net/hardcore.m3u8
+粉红台欧美版,http://live.redtraffic.xyz:80/teen.m3u8
+粉红台欧美版,http://cdn.adultiptv.net/teen.m3u8
+玩美台欧美版,http://live.redtraffic.xyz:80/pov.m3u8
+玩美台欧美版,http://cdn.adultiptv.net/pov.m3u8
+一本道欧美版,http://live.redtraffic.xyz:80/bigass.m3u8
+一本道欧美版,http://cdn.adultiptv.net/bigass.m3u8
+二本道欧美版,http://live.redtraffic.xyz:80/blowjob.m3u8
+二本道欧美版,http://cdn.adultiptv.net/blowjob.m3u8
+樱花台欧美版,http://live.redtraffic.xyz:80/russian.m3u8
+樱花台欧美版,http://cdn.adultiptv.net/russian.m3u8
+Anal,http://cdn.adultiptv.net/anal.m3u8
+Blonde,http://cdn.adultiptv.net/blonde.m3u8
+Brunette,http://cdn.adultiptv.net/brunette.m3u8
+Compilation,http://cdn.adultiptv.net/compilation.m3u8
+Fetish,http://cdn.adultiptv.net/fetish.m3u8
+Gangbang,http://cdn.adultiptv.net/gangbang.m3u8
+Gay,http://cdn.adultiptv.net/gay.m3u8
+Latina,http://cdn.adultiptv.net/latina.m3u8
+Lesbian,http://cdn.adultiptv.net/lesbian.m3u8
+Live Cams,http://cdn.adultiptv.net/livecams.m3u8
+Jasmin TV,http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
+RedTraffic Fetish,http://live.redtraffic.xyz/fetish.m3u8
+RedTraffic Lesbian,http://live.redtraffic.xyz/lesbian.m3u8
+俄罗斯成人5台,http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
+俄罗斯成人6台,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+苹果片,http://tube.cheerleaderfacials.com/trailers/609/cheerleaderfacial_Natalia_Rossi_0006.flv
+???Web crawler4,http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+???Web crawler5,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+Miami TV Colombia [18+],http://hls-ott-zhibo.wasu.tv/live/256/index.m3u8
+Miami TV [18+],http://hls-ott-zhibo.wasu.tv/live/184/index.m3u8
+videos2.yjcontentdelivery.com/_hls/9/4/94f90c2feee4de53b7b4c3d90b67e3b01486994410-1280-720-2212-h264.mp4/index-v1-a1.m3u8
+Super One HD [18+],http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u
+7,http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
+PLAYBOY,p2p://147.135.39.171:9906/5e73be64000bc4a119b463b625bf0790
+
+
 
 NAT GEO,#genre#
 
