@@ -661,28 +661,6 @@ SiTV游戏风云 8M1080,http://39.135.230.71/ott.fj.chinamobile.com/PLTV/8888888
 重庆卫视 8M1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225949/index.m3u8
 重庆卫视 8M1080,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225679/index.m3u8
 
-港澳频道,#genre#
-凤凰卫视[1280*720],http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
-凤凰卫视[1280*720],http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8
-凤凰中文 10M720,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
-凤凰资讯 10M720,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
-凤凰资讯[1280*720],http://otttv.bj.chinamobile.com:80/TVOD/88888888/224/3221225942/1.m3u8
-凤凰中文台,https://player.ggiptv.com/v/ifeng.php?id=2#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8#rtmp://58.200.131.2:1935/livetv/fhzw#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
-凤凰资讯台,https://player.ggiptv.com/v/ifeng.php?id=1#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8#rtmp://58.200.131.2:1935/livetv/fhzx
-凤凰香港台,https://player.ggiptv.com/v/ifeng.php?id=3
-凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-莲花卫视,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-澳视澳门,http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
-澳门卫星,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
-澳门资讯,http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
-天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-阳光卫视,https://stream.chinasuntv.com/680k/mid_video_index.m3u8
-开放电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8#http://cdn.hkdtmb.com/hls/77/index.m3u8
-港视31台·,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8#http://cdn.hkdtmb.com/hls/31/index.m3u8
-港视32台·,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8#http://cdn.hkdtmb.com/hls/32/index.m3u8
-有线新闻,http://93.190.139.36:8278/streams/d/hkcnews_twn/playlist.m3u8
 其它频道,#genre#
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/02.m3u8#https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
@@ -1631,8 +1609,29 @@ PAC-12,https://pac12b.cdn.7livecloud.io/index.m3u8
 Olympics Channel,https://i.mjh.nz/au/Sydney/tv.7olympics.m3u8
 
 HK TV,#genre#
-
+凤凰卫视[1280*720],http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
+凤凰卫视[1280*720],http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8
+凤凰中文 10M720,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
+凤凰资讯 10M720,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
+凤凰资讯[1280*720],http://otttv.bj.chinamobile.com:80/TVOD/88888888/224/3221225942/1.m3u8
+凤凰中文台,https://player.ggiptv.com/v/ifeng.php?id=2#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8#rtmp://58.200.131.2:1935/livetv/fhzw#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
+凤凰资讯台,https://player.ggiptv.com/v/ifeng.php?id=1#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8#rtmp://58.200.131.2:1935/livetv/fhzx
+凤凰香港台,https://player.ggiptv.com/v/ifeng.php?id=3
+凤凰电影台,rtmp://58.200.131.2:1935/livetv/fhdy
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+莲花卫视,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
+澳视澳门,http://61.244.22.5/ch1/_definst_/ch1.live/playlist.m3u8
+澳门卫星,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
+澳门资讯,http://61.244.22.5/ch5/_definst_/info_ch5.live/playlist.m3u8
+天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+阳光卫视,https://stream.chinasuntv.com/680k/mid_video_index.m3u8
+开放电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8#http://cdn.hkdtmb.com/hls/77/index.m3u8
+港视31台·,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8#http://cdn.hkdtmb.com/hls/31/index.m3u8
+港视32台·,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8#http://cdn.hkdtmb.com/hls/32/index.m3u8
+有线新闻,http://93.190.139.36:8278/streams/d/hkcnews_twn/playlist.m3u8
 鳳凰衛視香港台,http://live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c.m3u8
+
 凤凰中文,http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 凤凰中文,http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
 凤凰资讯台,http://live.centerch.com/fhzx.m3u8
@@ -1730,6 +1729,66 @@ TVBS新闻 FHD ★,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 原住民電視,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 
 CCTV,#genre#
+CCTV1 8M1080,http://39.135.138.8:6610/PLTV/88888888/224/3221225501/2/index.m3u8?fmt=ts2hls
+CCTV1 8M1080,http://39.135.138.8:6610/PLTV/88888888/224/3221225642/2/index.m3u8?fmt=ts2hls
+CCTV1 8M1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8
+CCTV1 8M1080,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225674/index.m3u8
+CCTV1 8M1080,http://39.135.230.69/ott.fj.chinamobile.com/PLTV/88888888/224/3221226995/index.m3u8
+CCTV1 8M1080,http://39.135.230.81/ott.fj.chinamobile.com/PLTV/88888888/224/3221226908/index.m3u8
+CCTV2 8M1080,http://39.135.138.8:6610/PLTV/88888888/224/3221225500/2/index.m3u8?fmt=ts2hls
+CCTV2 8M1080,http://39.135.138.8:6610/PLTV/88888888/224/3221225643/2/index.m3u8?fmt=ts2hls
+CCTV2 8M1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225923/index.m3u8
+CCTV2 8M1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226915/index.m3u8
+CCTV2 8M1080,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225676/index.m3u8
+CCTV3 8M1080,http://39.135.138.8:6610/PLTV/88888888/224/3221225634/2/index.m3u8?fmt=ts2hls
+CCTV3 8M1080,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225677/index.m3u8
+CCTV4 8M1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226968/index.m3u8
+CCTV4 8M1080,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225753/index.m3u8
+CCTV5 8M1080,http://39.135.138.8:6610/PLTV/88888888/224/3221225633/2/index.m3u8?fmt=ts2hls
+CCTV5 8M1080,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225680/index.m3u8
+CCTV5+ 8M1080,http://39.135.138.8:6610/PLTV/88888888/224/3221225706/2/index.m3u8?fmt=ts2hls
+CCTV5+ 8M1080,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225621/index.m3u8
+CCTV5+ 8M1080,http://39.135.230.72/ott.fj.chinamobile.com/PLTV/88888888/224/3221225939/index.m3u8
+CCTV5+ 8M1080,http://39.135.230.88/ott.fj.chinamobile.com/PLTV/88888888/224/3221226919/index.m3u8
+CCTV6 8M1080,http://39.135.138.8:6610/PLTV/88888888/224/3221225632/2/index.m3u8?fmt=ts2hls
+CCTV6 8M1080,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225683/index.m3u8
+CCTV7 8M1080,http://39.135.138.8:6610/PLTV/88888888/224/3221225499/2/index.m3u8?fmt=ts2hls
+CCTV7 8M1080,http://39.135.138.8:6610/PLTV/88888888/224/3221225644/2/index.m3u8?fmt=ts2hls
+CCTV7 8M1080,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225627/index.m3u8
+CCTV7 8M1080,http://39.135.230.81/ott.fj.chinamobile.com/PLTV/88888888/224/3221225927/index.m3u8
+CCTV7 8M1080,http://39.135.230.82/ott.fj.chinamobile.com/PLTV/88888888/224/3221226972/index.m3u8
+CCTV8 8M1080,http://39.135.138.8:6610/PLTV/88888888/224/3221225631/2/index.m3u8?fmt=ts2hls
+CCTV8 8M1080,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225630/index.m3u8
+CCTV9 8M1080,http://39.135.138.8:6610/PLTV/88888888/224/3221225646/2/index.m3u8?fmt=ts2hls
+CCTV9 8M1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225929/index.m3u8
+CCTV9 8M1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226923/index.m3u8
+CCTV9 8M1080,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225633/index.m3u8
+CCTV9? 8M1080,http://39.135.138.8:6610/PLTV/88888888/224/3221225920/2/index.m3u8?fmt=ts2hls
+CCTV10 8M1080,http://39.135.138.8:6610/PLTV/88888888/224/3221225496/2/index.m3u8?fmt=ts2hls
+CCTV10 8M1080,http://39.135.138.8:6610/PLTV/88888888/224/3221225636/2/index.m3u8?fmt=ts2hls
+CCTV10 8M1080,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225624/index.m3u8
+CCTV10 8M1080,http://39.135.230.66/ott.fj.chinamobile.com/PLTV/88888888/224/3221226976/index.m3u8
+CCTV10 8M1080,http://39.135.230.68/ott.fj.chinamobile.com/PLTV/88888888/224/3221226140/index.m3u8
+CCTV10 8M1080,http://39.135.230.86/ott.fj.chinamobile.com/PLTV/88888888/224/3221225931/index.m3u8
+CCTV11 8M1080,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225750/index.m3u8
+CCTV11 8M1080,http://39.135.230.89/ott.fj.chinamobile.com/PLTV/88888888/224/3221226927/index.m3u8
+CCTV12 8M1080,http://39.135.138.8:6610/PLTV/88888888/224/3221225495/2/index.m3u8?fmt=ts2hls
+CCTV12 8M1080,http://39.135.138.8:6610/PLTV/88888888/224/3221225637/2/index.m3u8?fmt=ts2hls
+CCTV12 8M1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225932/index.m3u8
+CCTV12 8M1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226931/index.m3u8
+CCTV12 8M1080,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225670/index.m3u8
+CCTV13 8M1080,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225787/index.m3u8
+CCTV13 8M1080,http://39.135.230.82/ott.fj.chinamobile.com/PLTV/88888888/224/3221226985/index.m3u8
+CCTV14 8M1080,http://39.135.138.8:6610/PLTV/88888888/224/3221225494/2/index.m3u8?fmt=ts2hls
+CCTV14 8M1080,http://39.135.138.8:6610/PLTV/88888888/224/3221225640/2/index.m3u8?fmt=ts2hls
+CCTV14 8M1080,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225673/index.m3u8
+CCTV14 8M1080,http://39.135.230.68/ott.fj.chinamobile.com/PLTV/88888888/224/3221227086/index.m3u8
+CCTV14 8M1080,http://39.135.230.80/ott.fj.chinamobile.com/PLTV/88888888/224/3221225933/index.m3u8
+CCTV15 8M1080,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226989/index.m3u8
+CCTV15 8M1080,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225830/index.m3u8
+CCTV17 8M1080,http://39.135.138.8:6610/PLTV/88888888/224/3221225909/2/index.m3u8?fmt=ts2hls
+CCTV17 8M1080,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225833/index.m3u8
+CCTV17 8M1080,http://39.135.230.72/ott.fj.chinamobile.com/PLTV/88888888/224/3221226986/index.m3u8
 CCTV1,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8
 CCTV2,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226371/1.m3u8
 CCTV2,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226472/1.m3u8
