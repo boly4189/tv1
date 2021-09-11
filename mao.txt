@@ -1,160 +1,7 @@
 
+
 {
   "sites": [
-     {
-      "key": "afys_spider",
-      "name": "阿房影视(原内置)",
-      "type": 2,
-      "api": "7gxke5P9eFZoVV",
-      "playUrl": "",
-      "filterable": 1
-    },
-    {
-      "key": "jpys_spider",
-      "name": "极品影视(原内置)",
-      "type": 2,
-      "api": "xZk2ejNzP8Gape",
-      "playUrl": "",
-      "filterable": 1
-    },
-    {
-      "key": "mgys_spider",
-      "name": "暮光影视(原内置)",
-      "type": 2,
-      "api": "vnEF7qPNzi6C6C",
-      "playUrl": "",
-      "quickSearch": 0
-    },
-    {
-      "key": "ysgc_spider",
-      "name": "影视工厂(原内置)",
-      "type": 2,
-      "api": "XXjMEvL4jg66rQ",
-      "playUrl": "",
-      "quickSearch": 0
-    },
-    {
-      "key": "auete_spider",
-      "name": "Auete影视(原内置)",
-      "type": 2,
-      "api": "eboTY5qAokEemZ",
-      "playUrl": "",
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
-      "key": "adys_spider",
-      "name": "爱迪影视(原内置)",
-      "type": 2,
-      "api": "48YdXbyTkTe55r",
-      "playUrl": "",
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
-      "key": "hgys_spider",
-      "name": "HG影视(原内置)",
-      "type": 2,
-      "api": "wkjskK5hA6Cxr7",
-      "playUrl": "",
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
-      "key": "zjdr_spider",
-      "name": "追剧达人(原内置)",
-      "type": 2,
-      "api": "irB66BwzwhbL4r",
-      "playUrl": "",
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
-      "key": "zjm_spider",
-      "name": "追剧喵(原内置)",
-      "type": 2,
-      "api": "KaxKyHhd9ErA9n",
-      "playUrl": "",
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
-      "key": "xysgc_spider",
-      "name": "新影视工厂(原内置)",
-      "type": 2,
-      "api": "Gy35wr8J2YUrtC",
-      "playUrl": "",
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
-      "key": "kby_spider",
-      "name": "恐怖鸭(原内置)",
-      "type": 2,
-      "api": "ZdZYGB9BcfXR6W",
-      "playUrl": "",
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    	{
-		"key": "片库",
-		"name": "片库资源",
-		"type": 0,
-		"api": "https://pianku.wang/api.php/provide/vod/at/xml",
-		"playUrl": "https://api.jhdyw.vip/?url=",
-		"categories": []
-	},
-        	{
-		"key": "天堂资源",
-		"name": "天堂资源",
-		"type": 0,
-		"api": "http://vipmv.cc/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-         {
-      "key": "苗点蓝光",
-      "name": "苗点蓝光",
-      "type": 1,
-      "api": "https://www.neenl.com/api.php/provide/vod/?ac=list",
-      "playUrl": "https://jiexi.msdv.cn/jiemi/?url=",
-      "categories": [
-        "电影",
-        "连续剧",
-        "综艺",
-        "动漫",
-        "动作",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "国产剧",
-        "港台剧",
-        "日韩剧",
-        "欧美剧"
-      ]
-    },
-    {
-      "key": "好好资源",
-      "name": "好好资源",
-      "type": 0,
-      "api": "http://haohaozy.com/api.php/provide/vod/at/xml/"
-    },
-     {
-      "key": "游艺资源",
-      "name": "游艺资源",
-      "type": 1,
-      "api": "http://api01.hexh.ink/api.php/provide/vod/?ac=list",
-      "playUrl": "http://api.u1o.net/?url="
-    },
-    {
-      "key": "9875影视",
-      "name": "9875影视",
-      "type": 1,
-      "api": "https://www.9875.xyz/api.php/provide/vod/?ac=list"
-    },
         	{
 		"key": "淘片优质直解",
 		"name": "淘片优质直解",
@@ -165,26 +12,10 @@
 	},
 
 	{
-		"key": "喵派对蓝光",
-		"name": "喵派对蓝光",
-		"type": 0,
-		"api": "https://www.neenl.com/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
 		"key": "欧乐影院",
 		"name": "欧乐影院",
 		"type": 0,
 		"api": "https://www.olevod.tv/api.php/provide/vod/at/xml",
-		"playUrl": "",
-		"categories": []
-	},
-	{
-		"key": "U猫m3u8",
-		"name": "U猫m3u8",
-		"type": 0,
-		"api": "http://umao.ml/api.php/provide/vod/at/xml",
 		"playUrl": "",
 		"categories": []
 	},
@@ -221,36 +52,6 @@
     "海外剧",
     "纪录片",
     "动画片"
- ]
-    },
-          {
-      "key": "0号资源",
-      "name": "0号资源",
-      "type": 0,
-      "api": "http://api.000zy.com/provide/vod/at/xml/",
-      "playUrl": "", 
- "categories": [
-       "综艺",
-   "动漫",
-   "动作片",
-   "喜剧片",
-   "爱情片",
-   "科幻片",
-   "恐怖片",
-   "剧情片",
-   "战争片",
-   "国产剧",
-   "港台剧",
-   "日韩剧",
-   "欧美剧",
-   "泰国剧",
-   "海外剧",
-   "犯罪片",
-   "奇幻片",
-   "悬疑片",
-   "惊悚片",
-   "古装片",
-   "动画片"
  ]
     },
         {
