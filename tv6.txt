@@ -1,6 +1,15 @@
 点播：
 极品资源,https://www.jpysvip.net/api.php/provide/vod/at/xml/,不解析
+KK看剧,http://www.kkkanju.com/api.php/provide/vod/at/xml,解析
+饭团资源,https://fantuan.wkfile.com/api.php/provide/vod/at/xml,解析
+乐奇艺,https://www.lqiyi.co/api.php/provide/vod/at/xml,解析
+u猫,http://umao.ml/api.php/provide/vod/at/xml,解析
 快播云,http://www.kuaibozy.com/api.php/provide/vod/at/xml/,不解析
 39影视,https://www.39kan.com/api.php/provide/vod/at/xml,不解析
 安逸影院,http://dy.51isu.com:11801/api.php/provide/vod/at/xml,不解析
+结束
+解析：
+解析1,https://jf.4z.cm/jx/?url=
+Parwix解析,https://vip.parwix.com:4433/player/?url=
+虾米,https://jx.xmflv.com/?url=
 结束
