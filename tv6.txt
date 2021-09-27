@@ -11,9 +11,9 @@ u猫,http://umao.ml/api.php/provide/vod/at/xml,解析
 结束
 解析：
 默认解析,https://api.jhdyw.vip/?url=
+虾米,https://jx.xmflv.com/?url=
 解析1,https://jf.4z.cm/jx/?url=
 Parwix解析,https://vip.parwix.com:4433/player/?url=
-虾米,https://jx.xmflv.com/?url=
 OK解析,Https://okjx.cc/?url=
 结束
 直播：
