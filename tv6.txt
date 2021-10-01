@@ -2,7 +2,7 @@
 极品资源,https://www.jpysvip.net/api.php/provide/vod/at/xml/,不解析
 KK看剧,http://www.kkkanju.com/api.php/provide/vod/at/xml,解析
 欧乐影院,https://www.olevod.tv/api.php/provide/vod/at/xml,解析
-番号,https://www.mgav1.cc/api.php/provide/vod/at/xml/,解析
+芒果,https://www.mgav1.cc/api.php/provide/vod/at/xml/,不解析
 饭团资源,https://fantuan.wkfile.com/api.php/provide/vod/at/xml,解析
 乐奇艺,https://www.lqiyi.co/api.php/provide/vod/at/xml,解析
 u猫,http://umao.ml/api.php/provide/vod/at/xml,解析
