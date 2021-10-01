@@ -43,6 +43,13 @@
       "type": 0,
       "api": "https://www.olevod.com/api.php/provide/vod/at/xml",
       "playUrl": ""
+       "categories": [
+        "电影",
+        "连续剧",
+        "综艺",
+        "午夜影院",
+        "VIP蓝光影院",
+      ]     
     },
       {
       "key": "红牛资源",
