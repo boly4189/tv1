@@ -116,8 +116,7 @@
             "name": "欧乐影院",
             "type": 0,
             "api": "https://www.olevod.tv/api.php/provide/vod/at/xml",
-            "playUrl": "",
-            "categories": []
+            "playUrl": "https://vip.laobandq.com/jiexi.php?url="
        },
         {
             "key": "电影牛",
