@@ -295,6 +295,6 @@
  
 "wallpaper":"https://i.ibb.co/9rcmg7n/cat.jpg",
  
-"spider":"https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true;md5;c6ed6bc8285f0aca90e7cb3abf7f9caa"
+"spider":"https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true;md5;e3642e4250acb195fe39913ed4e0204e"
 }
  
