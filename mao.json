@@ -11244,6 +11244,6 @@
         "cdnjs.hnfenxun.com", 
         "cms.qdwght.com"
     ], 
-    "spider": "https://cncncloud.com/api/v3/file/source/3064086/S_custom_spider.jar?sign=Ukm6YDT5i2ycisEVT5UXLXJLOlhaue1CWaPrVQmOonY%3D%3A0", 
+    "spider": "https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true;md5;c6ed6bc8285f0aca90e7cb3abf7f9caa", 
     "wallpaper": "https://picsum.photos/1080/"
 }
