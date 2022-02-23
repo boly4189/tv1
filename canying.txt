@@ -1,0 +1,94 @@
+点播：
+快播云,http://www.kuaibozy.com/api.php/provide/vod/at/xml/,不解析
+if101资源,https://demo.if101.tv/api.php/provide/vod/at/xml,不解析
+欧乐影院,https://www.olevod.tv/api.php/provide/vod/at/xml,解析
+VIP影视,https://www.dianyingn.cc/api.php/provide/vod/at/xml/,解析
+MBO影视,https://www.mbomovie.com/api.php/provide/vod/at/xml,解析
+淘片资源,https://fantuan.wkfile.com/api.php/provide/vod/at/xml,解析
+飞鱼影视,https://app.feiyu5.com/api.php/provide/vod/at/xml/,解析
+唐人街,https://www.tangrenjie.tv/api.php/provide/vod/at/xml,解析
+爱看1080,http://www.ik1080.com/api.php/provide/vod/at/xml/,解析
+结束
+解析：
+maojiexi,https://www.meiju56.com/a/jmplay/?url=
+ 
+灵狐影视,https://api.parwix.com:4433/analysis/json/?uid=84&my=gijkmnouvxyFHPYZ28&url=
+ 
+高清解析1,https://titan.mgtv.com.jumi.tv/player/?url=
+ 
+高清解析2,https://dmku.dijiaxia.com/?url=
+ 
+高清解析3,https://jx.ysgc.xyz/?url=
+ 
+高清解析4,http://egwang186.gitee.io/?url=
+ 
+高清解析5,https://jx.daidaitv.top:43810/?url=
+ 
+高清解析6,https://okjx.cc/?url=
+ 
+高清解析7,https://jx.ppflv.com/?url=
+ 
+高清解析8,http://an61.com/jx/vip?v=
+ 
+高清解析9,http://60jx.com/?url=
+ 
+Json.VodJX,https://www.vodjx.top/api/?key=XSQzk8KFK1I7FfPK5X&url=
+ 
+默认解析,https://api.jhdyw.vip/?url=
+虾米,https://jx.xmflv.com/?url=
+解析1,https://jf.4z.cm/jx/?url=
+Parwix解析,https://vip.parwix.com:4433/player/?url=
+OK解析,Https://okjx.cc/?url=
+结束
+直播：
+【分类头】一点点-卫视【分类尾】
+【一点点头】
+ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+SBS,https://i.mjh.nz/au/Sydney/tv.320203000301.m3u8
+7,https://i.mjh.nz/au/Sydney/tv.101305020520.m3u8
+9,https://i.mjh.nz/au/Sydney/tv.101204200421.m3u8
+10,https://i.mjh.nz/au/Sydney/tv.101406020625.m3u8
+ABC TV (720p),https://c.mjh.nz/101002210221/
+ABC TV Plus (720p),https://c.mjh.nz/abc2/
+ABC ME,https://c.mjh.nz/101002210224/
+SBS Food,https://i.mjh.nz/au/Sydney/tv.320203000304.m3u8
+SBS Viceland,https://i.mjh.nz/au/Sydney/tv.320203000303.m3u8
+SBS World Movies,https://i.mjh.nz/au/Sydney/tv.320203000307.m3u8
+7flix,https://i.mjh.nz/au/Sydney/tv.101305020525.m3u8
+7mate,https://i.mjh.nz/au/Sydney/tv.101305020523.m3u8
+7two ,https://i.mjh.nz/au/Sydney/tv.101305020522.m3u8
+9Gem,https://i.mjh.nz/au/Sydney/tv.101204200427.m3u8
+9Go!,https://i.mjh.nz/au/Sydney/tv.101204200428.m3u8
+9Life,https://i.mjh.nz/au/Sydney/tv.101204200424.m3u8
+9Rush ,https://i.mjh.nz/au/Sydney/tv.101204200429.m3u8
+10 Bold,https://i.mjh.nz/au/Sydney/tv.101406020627.m3u8
+10 Peach,https://i.mjh.nz/au/Sydney/tv.101406020628.m3u8
+10 Shake,https://i.mjh.nz/au/Sydney/tv.101406020623.m3u8
+Real Stories (720p),https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
+【一点点尾】
+【卫视头】
+东森财经新闻 FHD,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+东森新闻 FHD,http://seb.sason.top/sc/dsxw_fhd.m3u8
+民视新闻 FHD,http://seb.sason.top/sc/msxw_fhd.m3u8
+三立iNews FHD,http://seb.sason.top/sc/slinews_fhd.m3u8
+台视新闻 FHD,http://seb.sason.top/sc/tsxw_fhd.m3u8
+壹新闻 FHD,http://stream.nexttv.com.tw:80/n001/hd/live.m3u8
+中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
+MSNBC (720p),http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/playlist.m3u8
+FOX News(美国),http://1111296894.rsc.cdn77.org/ls-54548-2/mono.m3u8
+FOX News Now (720p),https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+华视,http://50.7.61.147:30080/Entry/cts
+民视,http://50.7.61.147:30080/Entry/ftv
+台视,http://50.7.61.148:30080/Entry/ttv
+中视,http://50.7.61.148:30080/Entry/ctv
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+CCTV-13新闻,http://39.135.32.29:6610/000000001000/1000000002000021303/1.m3u8?
+CCTV5,http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
+CCTV5,http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
+CCTV-5,http://117.148.179.160/PLTV/88888888/224/3221231702/index.m3u8
+CCTV-5+,http://117.148.179.160/PLTV/88888888/224/3221231459/index.m3u8
+CCTV-5+体育赛事,http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
+ 
+【卫视尾】
+结束
