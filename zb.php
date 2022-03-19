@@ -29,3 +29,4 @@ USA Today (1080p),https://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg
 Euronews English(720p),https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8#
 DW English (1080p),https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8#
 #常用尾#
+}
