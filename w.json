@@ -1,4 +1,5 @@
 {"zhuyejiekou": [
+{"name":"天天视频","url":"http://app.qianju.cc/api.php/v1.vod"},  
 {"name":"独播社","url":"http://35ys.cc/api.php/v1.vod"},
 {"name":"爱西西","url":"https://myaixixi.com/xgapp.php/v1/"},
 {"name":"嘀哩嘀哩","url": "http://dilidili.la/api.php/app/"},
@@ -42,7 +43,6 @@
 {"name":"绿豆视频","url":"https://v.lvdoui.cn/mogai_api.php/v1.vod"},
 {"name":"蓝光视频","url":"http://vip.91iqiyi.com/mogai_api.php/v1.vod"},
 {"name":"皮皮动漫","url":"http://dm.muying.me/mogai_api.php/v1.vod"},
-{"name":"天天视频","url":"http://app.qianju.cc/api.php/v1.vod"},
 {"name":"吾爱影视","url":"http://app.5lp.net/api.php/v1.vod"},
 {"name":"小蜻蜓","url":"http://3ketv.com/mogai_api.php/v1.vod"},
 {"name":"玺心影视","url":"https://tv.arbd.cn/api.php/v1.vod"},
@@ -58,7 +58,7 @@
 {"name":"暖光影视","url":"https://app.bl210.com/api.php/v1.vod"}],
 "zhujiexi": "https://jb.vjiangbei.com/home/api?type=ys&uid=2219260&key=hlmnpqswHIKQRSX146&url=#https://jf.1080p.icu:3377/home/api?type=ys&uid=139706&key=cgjlntwxzAEMQTUVWX&url=#http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url=",
 "beiyongjiexi": "https://jx.blbo.cc:4433/?url=",
-"dianshizhibo": "https://gitee.com/tvb520/biubiu/raw/master/ds.php",
+"dianshizhibo": "https://raw.githubusercontent.com/boly4189/tv1/master/zb.php",
 "caijizhan": "https://koko.renrenmi.cc/api.php",
 "tiyuzhibo": "https://m.zhibo8.net",
 "reci": "https://v.sogou.com",
