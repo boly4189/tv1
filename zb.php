@@ -10,7 +10,6 @@ RT,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8#
 CCTV13-新闻,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8#
 凤凰资讯,http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1#http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8#
 凤凰中文,http://39.135.55.105:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1#http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8#
-
 北京冬奥纪实,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8?time=#
 中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8#
 France24,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8#
@@ -27,6 +26,6 @@ Newsmax (1080p),https://newsmax-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-newsm
 VoA TV (1080p),https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8#
 USA Today (1080p),https://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8#
 Euronews English(720p),https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8#
-DW English (1080p),https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8#
+DW English (1080p),https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #常用尾#
 }
