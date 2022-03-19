@@ -8,8 +8,8 @@ CNN LIVE,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_12
 BBC NEWS,http://84.22.33.214/bbc/tracks-v1a1/mono.m3u8#
 RT,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8#
 CCTV13-新闻,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8#
-凤凰资讯,http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1#http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8#
-凤凰中文,http://39.135.55.105:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1#http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8#
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8#
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8#
 北京冬奥纪实,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8?time=#
 中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8#
 France24,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8#
