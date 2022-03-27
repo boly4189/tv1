@@ -51,7 +51,7 @@
 {"name":"超级电视剧","urls":["http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/1.m3u8"]},
 {"name":"明星大片","urls":["http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/1.m3u8"]},
 {"name":"古装剧场","urls":["http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/1.m3u8"]},
-{"name":"欢乐剧场","urls":[""http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/1.m3u8"]},
+{"name":"欢乐剧场","urls":["http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/1.m3u8"]},
 {"name":"家庭剧场","urls":["http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/1.m3u8"]},
 {"name":"中国功夫","urls":["http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/1.m3u8"]},
 {"name":"军旅剧场","urls":["http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/1.m3u8"]},
