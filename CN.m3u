@@ -36,82 +36,35 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221225818/index.m3u8?servicetype=1
 http://39.135.55.105:6610/PLTV/88888888/224/3221227148/index.m3u8?servicetype=1
 #EXTINF:-1 ,CCTV-17
 http://39.135.55.105:6610/PLTV/88888888/224/3221226990/index.m3u8?servicetype=1
+#EXTINF:-1 ,冬奥纪实
+http://39.134.19.248:6610/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 ,湖南卫视
+http://39.135.55.105:6610/PLTV/88888888/224/3221225827/index.m3u8?servicetype=1
 #EXTINF:-1 ,江苏卫视
 http://39.135.55.105:6610/PLTV/88888888/224/3221225847/index.m3u8?servicetype=1
 #EXTINF:-1 ,浙江卫视
 http://39.135.55.105:6610/PLTV/88888888/224/3221225825/index.m3u8?servicetype=1
-#EXTINF:-1 ,湖南卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221225827/index.m3u8?servicetype=1
+#EXTINF:-1 ,北京卫视
+http://39.134.19.248:6610/yinhe/2/ch00000090990000001025/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 ,东方卫视
 http://39.135.55.105:6610/PLTV/88888888/224/3221225828/index.m3u8?servicetype=1
-
-#EXTINF:-1 ,CCTV1
-http://qijun.ink/ugzx
-#EXTINF:-1 ,CCTV2
-http://qijun.ink/QHiS
-#EXTINF:-1 ,CCTV3
-http://qijun.ink/Ujjn
-#EXTINF:-1 ,CCTV4
-http://qijun.ink/XZ7Q
-#EXTINF:-1 ,CCTV5
-http://qijun.ink/jkm4
-#EXTINF:-1 ,CCTV5+
-http://qijun.ink/n3xh
-#EXTINF:-1 ,CCTV6
-http://qijun.ink/Njxp
-#EXTINF:-1 ,CCTV7
-http://qijun.ink/76Pb
-#EXTINF:-1 ,CCTV8
-http://qijun.ink/zn5G
-#EXTINF:-1 ,CCTV9
-http://qijun.ink/KRkh
-#EXTINF:-1 ,CCTV10
-http://qijun.ink/nyAa
-#EXTINF:-1 ,CCTV11
-http://qijun.ink/5LUX
-#EXTINF:-1 ,CCTV12
-http://qijun.ink/kDvS
-#EXTINF:-1 ,CCTV13
-http://qijun.ink/rpDA
-#EXTINF:-1 ,CCTV14
-http://qijun.ink/utkF
-#EXTINF:-1 ,CCTV15
-http://qijun.ink/HQVU
-#EXTINF:-1 ,CCTV16
-http://qijun.ink/Siet
-#EXTINF:-1 ,CCTV17
-http://qijun.ink/B5yU
-#EXTINF:-1 ,CCTV4K
-http://qijun.ink/xDPZ
-#EXTINF:-1 ,央视台球
-http://qijun.ink/bHiU
-#EXTINF:-1 ,风云足球
-http://qijun.ink/Y9Z4
-#EXTINF:-1 ,高尔夫网球
-http://qijun.ink/JFFW
-#EXTINF:-1 ,世界地理
-http://qijun.ink/c5sS
-#EXTINF:-1 ,风云音乐
-http://qijun.ink/8gYh
-#EXTINF:-1 ,第一剧场
-http://qijun.ink/zCtb
-#EXTINF:-1 ,风云剧场
-http://qijun.ink/GBuL
-#EXTINF:-1 ,怀旧剧场
-http://qijun.ink/VyW8
-#EXTINF:-1 ,兵器科技
-http://qijun.ink/rHypaW
-#EXTINF:-1 ,女性时尚
-http://qijun.ink/Cezyn6
-#EXTINF:-1 ,央视精品
-http://qijun.ink/vTBkhc
-#EXTINF:-1 ,电视指南
-http://qijun.ink/002
+#EXTINF:-1 ,辽宁卫视
+http://39.134.19.248:6610/yinhe/2/ch00000090990000001296/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 ,吉林卫视SD
+http://39.134.19.248:6610/yinhe/2/ch00000090990000001049/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 ,黑龙江卫视
+http://39.134.19.248:6610/yinhe/2/ch00000090990000001030/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 ,山东卫视
+http://39.134.19.248:6610/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 ,精彩电视剧
+http://39.134.19.248:6610/yinhe/2/ch00000090990000001276/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 ,精彩体育
+http://39.134.19.248:6610/yinhe/2/ch00000090990000001274/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 ,精彩综艺
+http://39.134.19.248:6610/yinhe/2/ch00000090990000001273/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 ,凤凰资讯
-https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 ,凤凰中文
-https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-#EXTINF:-1 ,凤凰香港
-http://qijun.ink/94ks
-#EXTINF:-1 ,TVB翡翠台
-http://qijun.ink/J4uw
+http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+
+
