@@ -37,7 +37,7 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221227148/index.m3u8?servicetype=1
 #EXTINF:-1 ,CCTV-17
 http://39.135.55.105:6610/PLTV/88888888/224/3221226990/index.m3u8?servicetype=1
 #EXTINF:-1 ,冬奥纪实
-http://39.134.19.248:6610/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8?time=
 #EXTINF:-1 ,湖南卫视
 http://39.135.55.105:6610/PLTV/88888888/224/3221225827/index.m3u8?servicetype=1
 #EXTINF:-1 ,江苏卫视
