@@ -296,9 +296,8 @@
 {"name":"粤语歌姬","urls":["http://epg.112114.xyz/douyu/4728410"]},
 {"name":"朵声影视世界","urls":["http://epg.112114.xyz/douyu/9670906"]},
 {"name":"歌声天籁","urls":["http://epg.112114.xyz/douyu/9548612"]},
-{"name":"Q覃小七","urls":["http://epg.112114.xyz/douyu/5964044"]}
-]}
-],
+{"name":"Q覃小七","urls":["http://epg.112114.xyz/douyu/5964044"]}]}],
+
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
