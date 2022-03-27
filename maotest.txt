@@ -14,13 +14,11 @@
 {"key":"Gimy","name":"GimyTV(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/Gimy.json"},
 {"key":"csp_xpath_libv","name":"Libvio(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/libv.json"}
 ],
-
 "lives":[
 {"group":"redirect","channels":[
 {"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL1l1YW5Ic2luZy9PbmVDbGlja1J1bkBtYXN0ZXIveHBhdGgvbGl2ZS50eHQ="]}
 ]}
 ],
-
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
@@ -38,7 +36,6 @@
 {"name":"rx","type":0,"url":"https://80k.tv/player/analysis.php?v=","ext":{"flag":["rx"]}},
 {"name":"xfyun","type":0,"url":"https://jx.ak1080.me/?url=","ext":{"flag":["xfyun"]}},
 {"name":"duoduozy03","type":0,"url":"https://player.duoduozy.com/ddplay/?url=","ext":{"flag":["duoduozy"]}},
-
 # type1 聚合.并发.轮询
 {"name":"喵派对资源3","type":1,"url":"https://vip.aiaine.com/api/?key=fOWaGgFU45zlIjvbHI&url=","ext":{"flag":["ltnb","renrenmi"]}},
 {"name":"喵派对资源2","type":1,"url":"https://svip.iremind.me/api/?key=A5Db8HF8c8FSIOR6R1&url=","ext":{"flag":["renrenmi","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","哔哩哔哩","哔哩","sohu"]}},
