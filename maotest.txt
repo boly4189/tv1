@@ -35,8 +35,12 @@
 {"name":"中天新闻","urls":["http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw"]},
 {"name":"NHK华语视界","urls":["https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8"]},
 {"name":"Arirang","urls":["http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"]},
-{"name":"VoA TV","urls":["https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8"]}]}
-
+{"name":"VoA TV","urls":["https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8"]}]},
+{"group":"影视频道","channels":[
+{"name":"黑莓电影","urls":["http://111.40.196.9/PLTV/88888888/224/3221225610/index.m3u8"]},
+{"name":"动作电影","urls":["http://111.40.196.9/PLTV/88888888/224/3221225620/index.m3u8"]},
+{"name":"超级电影","urls":["http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/1.m3u8"]},
+{"name":"超燃电影","urls":["http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8"]}]}
 ],
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
