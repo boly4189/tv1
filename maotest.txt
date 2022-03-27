@@ -15,7 +15,7 @@
 {"key":"csp_xpath_libv","name":"Libvio(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/libv.json"}
 ],
 "lives":[
-{"group":"redirect","channels":[
+{"group":"CY","channels":[
 {"name":"ABC NEWS","urls":["https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8"]},
 {"name":"CNN","urls":["https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8"]},
 {"name":"BBC NEWS","urls":["http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8"]},
