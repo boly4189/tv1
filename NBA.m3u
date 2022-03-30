@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 ,NBA80
-https://play.zkshuye.cn/live/sd-2-3612080.m3u8
-#EXTINF:-1 ,NBA81
-https://play.zkshuye.cn/live/sd-2-3612081.m3u8
+#EXTINF:-1 ,NBA100
+https://play.zkshuye.cn/live/sd-2-3612100.m3u8
+#EXTINF:-1 ,NBA101
+https://play.zkshuye.cn/live/sd-2-36120101.m3u8
 #EXTINF:-1 ,NBA82
 https://play.zkshuye.cn/live/sd-2-3612082.m3u8
 #EXTINF:-1 ,NBA83
@@ -33,8 +33,8 @@ https://play.zkshuye.cn/live/sd-2-3612094.m3u8
 https://play.zkshuye.cn/live/sd-2-3612095.m3u8
 #EXTINF:-1 ,NBA96
 https://play.zkshuye.cn/live/sd-2-3612096.m3u8
-#EXTINF:-1 ,NBA98
-https://play.zkshuye.cn/live/sd-2-3612098.m3u8
+#EXTINF:-1 ,NBA97
+https://play.zkshuye.cn/live/sd-2-3612097.m3u8
 #EXTINF:-1 ,NBA98
 https://play.zkshuye.cn/live/sd-2-3612098.m3u8
 #EXTINF:-1 ,NBA99
