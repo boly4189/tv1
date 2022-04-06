@@ -1,5 +1,6 @@
 {
  // "spider": "https://fongmi.github.io/spider.jar",
+ //"spider":"https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
 "spider": "https://raw.github.com/boly4189/tv1/blob/master/jar/spider.jar",
   "sites": [
 {"key":"csp_xpath_ctv","name":"冲TMTV","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable": 1,"ext": "https://raw.githubusercontent.com/boly4189/tv1/master/XPMac/chongtmtv.json"},
@@ -52,15 +53,6 @@
       "filterable": 1,
       "api": "csp_XPathMacFilter",
       "ext": "https://fongmi.github.io/xpath/gimy.json"
-    },
-    {
-      "key": "AGE",
-      "name": "AGE",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_XPath",
-      "ext": "https://fongmi.github.io/xpath/age.json"
     },
     {
       "key": "快播雲",
