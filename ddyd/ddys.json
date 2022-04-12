@@ -186,5 +186,6 @@
   ],
   "ads": [],
   "wallpaper": "https://i.ibb.co/9rcmg7n/cat.jpg",
-  "spider": "https://raw.github.com/boly4189/tv1/blob/master/ddys/spider.jar"
+  //"spider": "https://raw.github.com/boly4189/tv1/blob/master/ddys/spider.jar"
+    "spider": "https://raw.githubusercontent.com/ColaMint/ColaCat/main/custom_spider.jar;md5;1b9a5bbcaa2e4aee4543feecea134e85"
 }
