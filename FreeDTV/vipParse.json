@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "id": 19,
+      "name": "自定义1",
+      "ad": "no",
+      "url": "http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url="
+    },
+    {
+      "id": 19,
+      "name": "自定义2",
+      "ad": "no",
+      "url": "http://api.diliktv.xyz/vip/jx.php?url="
+    }
+  ]
+}
