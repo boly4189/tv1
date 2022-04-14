@@ -1,49 +1,27 @@
 {
   "sites": [
     {
-    "key": "csp_Hdmoli1",
-    "name": "Hdmoli",
-    "type": 3,
-    "api": "csp_Hdmoli1",
-    "searchable": 1,
-    "quickSearch": 0,
-    "filterable": 1,
-    "ext":"https://xckjsys.coding.net/p/mao/d/maoce/git/raw/master/HDmoni.json"
-  }
-  ],
-  "lives": [
+      "key": "csp_DiDuan",
+      "name": "低端影视",
+      "type": 3,
+      "api": "csp_DiDuan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
     {
-      "group": "自定义",
-      "channels": [
-        {
-          "name": "直播源",
-          "urls": [
-            "about:blank"
-          ]
-        }
-      ]
+      "key": "csp_DY1990",
+      "name": "90影视网",
+      "type": 3,
+      "api": "csp_DY1990",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     }
   ],
-  "parses": [
-    {
-      "name": "解析1",
-      "type": 1,
-      "url": "https://hdmoli.net/api/ddys?url=",
-"ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺"]}
-    }
-  ],
-  "flags": [
-  
-    "qq",
-    "iqiyi",
-    "qiyi",
-    "letv",
-    "sohu",
-    "tudou",
-    "pptv",
-    "NetflixPro",
-    "Netflix"
-  ],
+  "lives": [],
+  "parses": [],
+  "flags": [],
   "ijk": [
     {
       "group": "软解码",
@@ -95,11 +73,6 @@
         },
         {
           "category": 4,
-          "name": "max-buffer-size",
-          "value": "5242880"
-        },
-        {
-          "category": 4,
           "name": "enable-accurate-seek",
           "value": "0"
         },
@@ -122,6 +95,11 @@
           "category": 4,
           "name": "mediacodec-hevc",
           "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
         }
       ]
     },
@@ -175,11 +153,6 @@
         },
         {
           "category": 4,
-          "name": "max-buffer-size",
-          "value": "5242880"
-        },
-        {
-          "category": 4,
           "name": "enable-accurate-seek",
           "value": "0"
         },
@@ -202,68 +175,16 @@
           "category": 4,
           "name": "mediacodec-hevc",
           "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "dns_cache_timeout",
+          "value": "600000000"
         }
       ]
     }
   ],
-  "ads": [
-    "mimg.0c1q0l.cn",
-    "www.googletagmanager.com",
-    "www.google-analytics.com",
-    "mc.usihnbcq.cn",
-    "mg.g1mm3d.cn",
-    "mscs.svaeuzh.cn",
-    "cnzz.hhttm.top",
-    "tp.vinuxhome.com",
-    "cnzz.mmstat.com",
-    "www.baihuillq.com",
-    "s23.cnzz.com",
-    "z3.cnzz.com",
-    "c.cnzz.com",
-    "stj.v1vo.top",
-    "z12.cnzz.com",
-    "img.mosflower.cn",
-    "tips.gamevvip.com",
-    "ehwe.yhdtns.com",
-    "xdn.cqqc3.com",
-    "www.jixunkyy.cn",
-    "sp.chemacid.cn",
-    "hm.baidu.com",
-    "s9.cnzz.com",
-    "z6.cnzz.com",
-    "um.cavuc.com",
-    "mav.mavuz.com",
-    "wofwk.aoidf3.com",
-    "z5.cnzz.com",
-    "xc.hubeijieshikj.cn",
-    "tj.tianwenhu.com",
-    "xg.gars57.cn",
-    "k.jinxiuzhilv.com",
-    "cdn.bootcss.com",
-    "ppl.xunzhuo123.com",
-    "xomk.jiangjunmh.top",
-    "img.xunzhuo123.com",
-    "z1.cnzz.com",
-    "s13.cnzz.com",
-    "xg.huataisangao.cn",
-    "z7.cnzz.com",
-    "xg.huataisangao.cn",
-    "z2.cnzz.com",
-    "s96.cnzz.com",
-    "q11.cnzz.com",
-    "thy.dacedsfa.cn",
-    "xg.whsbpw.cn",
-    "s19.cnzz.com",
-    "z8.cnzz.com",
-    "s4.cnzz.com",
-    "f5w.as12df.top",
-    "ae01.alicdn.com",
-    "www.92424.cn",
-    "k.wudejia.com",
-    "vivovip.mmszxc.top",
-    "qiu.xixiqiu.com",
-    "cdnjs.hnfenxun.com",
-    "cms.qdwght.com"
-  ],
-  "spider": "https://xckjsys.coding.net/p/mao/d/mao/git/raw/master/custom_spider.jar"
+  "ads": [],
+  "wallpaper": "https://i.ibb.co/9rcmg7n/cat.jpg",
+  "spider": "img+https://bitbucket.org/colamint/colacat/raw/c23d9747f09c291bf367671768cea0cbf521da60/b;md5;816408b690739558909f5c6d221034aa"
 }
