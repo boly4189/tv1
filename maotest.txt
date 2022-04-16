@@ -13,8 +13,7 @@
 {"key":"csp_xpath_auete","name":"Auete影视(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/boly4189/tv1/master/XPMac/auete.json"},
 {"key":"csp_xpath_lezhutv","name":"乐猪TV(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/boly4189/tv1/master/XPMac/lezhutv.json"},
 {"key":"csp_xpath_meiju56","name":"美剧网(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/boly4189/tv1/master/XPMac/meiju56.json"},
-{"key":"csp_xpath_libv","name":"Libvio(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/libv.json"},
-{"ext":"00d5a79deafa861eca9c11339c135e87","filterable":1,"quickSearch":0,"name":"酷猫(SP)","api":"csp_CSP","type":3,"key":"kmys_spider","searchable":1},
+{"key":"csp_xpath_libv","name":"Libvio(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/boly4189/tv1/master/XPMac/libv.json"},
 {"key": "csp_xpath_nmys","name": "农民影视","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/boly4189/tv1/master/XPMac/nmys.json"},
 
 {"key":"csp_AppYsV2_杨桃","name":"杨桃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ytys3456.com/mogai_api.php/v1.vod"},
