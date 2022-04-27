@@ -1,4 +1,4 @@
-##🐉央视##
+##央视##
 CCTV-1综合,http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8
 CCTV-2财经,http://117.148.179.147/PLTV/88888888/224/3221231678/index.m3u8
 CCTV-3综艺,http://117.148.179.183/PLTV/88888888/224/3221231682/index.m3u8
@@ -153,7 +153,7 @@ CETV-2,http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8
 CETV-4,http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8
 ##
 
-##🐼央视2##
+##央视2##
 CCTV1,http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
 CCTV2,http://39.134.115.163:8080/PLTV/88888910/224/3221225643/index.m3u8
 CCTV3,http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
@@ -197,7 +197,7 @@ CCTV-央视台球 25fps,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888
 CCTV-央视台球 25FPS,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226156/1/index.m3u8?fmt=ts2hls
 ##
 
-##🐇卫视##
+##卫视##
 北京卫视,http://117.148.179.168/PLTV/88888888/224/3221231732/index.m3u8
 天津卫视,http://117.148.179.146/PLTV/88888888/224/3221228905/index.m3u8
 东方卫视,http://117.148.179.160/PLTV/88888888/224/3221231738/index.m3u8
@@ -366,7 +366,7 @@ CCTV-央视台球 25FPS,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888
 贵州卫视,http://iptv.tvfix.org/hls/gzhd.m3u8
 ##
 
-##👶少儿##
+##少儿##
 黑莓电竞,http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
 哈哈炫动,http://39.135.138.59:18890/PLTV/88888910/224/3221225720/index.m3u8
 哈哈炫动,http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221226388/index.m3u8
@@ -427,7 +427,7 @@ CCTV-央视台球 25FPS,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888
 狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 ##
 
-##🏀体育##
+##体育##
 PP体育,http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
 CCTV5,http://iptv.tvfix.org/hls/cctv5hd.m3u8
 CCTV5,http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
@@ -470,7 +470,7 @@ HWF散打,http://pull-g.kktv8.com/livekktv/57588147.flv
 游戏风云,http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8
 ##
 
-##🌸港澳##
+##港澳##
 凤凰中文,http://iptv.tvfix.org/hls/fhzw.m3u8
 凤凰中文,http://hkss3.phoenixtv.com/fs/pcc.stream/.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
@@ -548,7 +548,7 @@ Channel V,http://iptv.tvfix.org/hls/channelv.m3u8
 Star Sports,http://iptv.tvfix.org/hls/starsports.m3u8
 ##
 
-##🀄台湾##
+##台湾##
 民視,rtmp://59.124.75.157/sat/tv051
 台視,rtmp://59.124.75.157/sat/tv071
 中視,rtmp://59.124.75.157/sat/tv091
@@ -604,7 +604,7 @@ GoodTV 共享观点,https://live-350k.streamingfast.net/hls-live/goodtv/_definst
 GoodTV 爱旅行台,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
 ##
 
-##🏯亚洲##
+##亚洲##
 韩国-ARS,https://media1.cpbc.co.kr:8888/vod/_definst_/mp4:ads/spot_khs.mp4/chunklist.m3u8
 韩国-Ajyal TV,http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
 韩国-Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
@@ -661,7 +661,7 @@ Jasmin TV,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 柬埔寨-SEATV,https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/playlist.m3u8
 ##
 
-##📺影视##
+##影视##
 SiTV动漫秀场,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
 SiTV游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
 SiTV欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
@@ -733,7 +733,7 @@ SiTV东方财经,http://140.207.241.2:8080/live/program/live/dfcj/1300000/mnf.m3
 龙岩公共,http://live.lytv.net.cn/ggpd/sd/live.m3u8
 ##
 
-##🔃轮播##
+##轮播##
 CHC动作电影,http://v.mp.haue.edu.cn/hls/chcatv.m3u8
 CHC动作电影,http://39.134.19.252:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC动作电影,http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8
@@ -799,7 +799,7 @@ CHC家庭影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/644368373
 ##
 
 
-##🎬电影##
+##电影##
 澳门莲花,http://nettvpro.live/hls/lotustv.php
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 凤凰电影,http://iptv.tvfix.org/hls/fhdy.m3u8
@@ -995,7 +995,7 @@ Office有鬼,http://hlsmgspdl.miguvideo.com:8080/depository_yqv/asset/zhengshi/5
 霹雳囧花,http://hlsmgspdl.miguvideo.com:8080/depository_yqv/asset/zhengshi/3012/701/055/3012701055/media/3012701055_5008080716_56.mp4.m3u8
 ##
 
-##🐠斗鱼##
+##斗鱼##
 1.华语经典,http://epg.112114.xyz/douyu/434971
 2.吃米滴虫,http://epg.112114.xyz/douyu/315457
 3.华语院线,http://epg.112114.xyz/douyu/5581257
@@ -1059,7 +1059,7 @@ Office有鬼,http://hlsmgspdl.miguvideo.com:8080/depository_yqv/asset/zhengshi/5
 61.国外电影,http://epg.112114.xyz/douyu/9683979
 ##
 
-##📼咪咕##
+##咪咕##
 MIGU古天乐影院,http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
 MIGU成龙作品集,http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
 MIGU郭富城影院,http://117.148.179.152/PLTV/88888888/224/3221231688/index.m3u8
@@ -1098,7 +1098,7 @@ MIGU每日荐影,http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8
 MIGU武侠剧场,http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8
 ##
 
-##🎏景区 ##
+##景区 ##
 峨眉山普贤菩萨,http://gcalic.v.myalicdn.com/gc/gccntv241-slf01_1/index.m3u8
 宁夏大漠孤烟,http://gcksc.v.kcdnvip.com/gc/tjhh01_1/index.m3u8
 映秀新城,http://gcbsc.v.live.baishancdnx.cn/gc/wcyxxc01_1/index.m3u8
@@ -1109,7 +1109,7 @@ MIGU武侠剧场,http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8
 舟山东极岛,http://gctxyc.liveplay.myqcloud.com/gc/djd01_1_md.m3u8
 福建三坊七巷,http://gcksc.v.kcdnvip.com/gc/hhdxg01_1/index.m3u8
 武汉两江四岸,https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8?contentid=2820180516001
-﻿四川达古冰川,https://gccncc.v.wscdns.com/gc/ztx_1/index.m3u8?contentid=2820180516001
+四川达古冰川,https://gccncc.v.wscdns.com/gc/ztx_1/index.m3u8?contentid=2820180516001
 广西崇左白头猴国家级自然保护区,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
 桂林象鼻山,https://gccncc.v.wscdns.com/gc/ztn_1/index.m3u8?contentid=2820180516001
 广州塔和海心桥,https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8?contentid=2820180516001
@@ -1176,7 +1176,7 @@ MIGU武侠剧场,http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8
 观景台,https://gccncc.v.wscdns.com/gc/mdjxxmhjygjt_1/index.m3u8?contentid=2820180516001
 江西武功山云顶,https://gctxyc.liveplay.myqcloud.com/gc/jyg04_1/index.m3u8?contentid=2820180516001
 嵌雪楼,https://gccncc.v.wscdns.com/gc/ljgcdsc_1/index.m3u8?contentid=2820180516001
-﻿丹霞山丹梯铁锁,http://gctxyc.liveplay.myqcloud.com/gc/dxsdtts_1_md.m3u8
+丹霞山丹梯铁锁,http://gctxyc.liveplay.myqcloud.com/gc/dxsdtts_1_md.m3u8
 韶音亭,http://gctxyc.liveplay.myqcloud.com/gc/dxssyt_1_md.m3u8
 坝达景点观景台,http://gccncc.v.wscdns.com/gc/hnttbdjd_1/index.m3u8
 多依树景点,http://gcksc.v.kcdnvip.com/gc/hnttdysjd_1/index.m3u8
@@ -1271,7 +1271,7 @@ MIGU武侠剧场,http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8
 黄龙洗身洞,http://gcalic.v.myalicdn.com/gc/hlxsd_1/index.m3u8
 ##
 
-##📀音乐##
+##音乐##
 Channel V,http://iptv.tvfix.org/hls/channelv.m3u8
 Soda东南亚之旅,https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.mp4
 SNH48剧场,http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
@@ -1350,7 +1350,7 @@ AOA - Like A Cat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtfm95QUok8Wu6AQ
 韩国太妍30,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240355734488.mp4
 ##
 
-##💃女团##
+##女团##
 韩国歌团★001,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
 韩国歌团★002,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp4
 韩国歌团★003,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239858729476.mp4
@@ -1505,7 +1505,7 @@ AOA - Like A Cat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtfm95QUok8Wu6AQ
 韩国歌团★153,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389031565.mp4
 ##
 
-##💘慢摇##
+##慢摇##
 今日热歌DJ《如果爱还在》,https://vd2.bdstatic.com/mda-mhhf5mr00yyhpfjs/1080p/cae_h264/1629284581057661229/mda-mhhf5mr00yyhpfjs.mp4
 推荐9首DJ舞曲,https://vd2.bdstatic.com/mda-mhig1c3sw223mx8p/1080p/cae_h264/1629380139191731149/mda-mhig1c3sw223mx8p.mp4
 动感DJ《苦了累了听听歌》,https://vd4.bdstatic.com/mda-mhqekuf2r91v08dt/1080p/cae_h264/1629888246186602728/mda-mhqekuf2r91v08dt.mp4
@@ -1558,7 +1558,7 @@ DJ 流浪兄弟,https://vd2.bdstatic.com/mda-mhrdtax1km0idkc5/1080p/cae_h264/162
 花都开了你来不来DJ,https://vd3.bdstatic.com/mda-mdee523swbezmsin/480p/h264/1618480997/mda-mdee523swbezmsin.mp4
 ##
 
-##🎤唱歌##
+##唱歌##
 贴身侍卫,http://em.21dtv.com/songs/60110002.mkv
 红尘里的花,http://em.21dtv.com/songs/60110001.mkv
 家乡,http://em.21dtv.com/songs/60110000.mkv
@@ -1606,7 +1606,7 @@ DJ 流浪兄弟,https://vd2.bdstatic.com/mda-mhrdtax1km0idkc5/1080p/cae_h264/162
 草原汉子,http://em.21dtv.com/songs/60110047.mkv
 ##
 
-##📻电台##
+##电台##
 500首华语经典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
 CRI 环球资讯广播 FM90.5,http://sk.cri.cn/905.m3u8
 CRI 环球资讯广播 FM90.5,http://live.xmcdn.com/live/1040/64.m3u8
@@ -1681,7 +1681,7 @@ CNR 中国交通广播,http://ls.qingting.fm/live/4985.m3u8
 CNR 中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 ##
 
-##📚爱TV##
+##爱TV##
 爱喜剧,http://39.135.189.194:80/0000000000001001/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=3&channel-id=wasusyt
 爱喜剧,http://39.135.189.195:80/0000000000001001/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=3&channel-id=wasusyt
 爱喜剧,http://39.135.189.196:80/0000000000001001/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=3&channel-id=wasusyt
@@ -1833,7 +1833,7 @@ CNR 中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 爱探索,http://39.135.189.199:80/0000000000001001/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=3&channel-id=wasusyt
 ##
 
-##👫MTV##
+##MTV##
 草蜢-失恋阵线联盟,http://vodcdn.video.taobao.com/oss/ali-video/bbae2fc164d9517913ed5a9117f8455b/video.m3u8
 草蜢-忘情森巴舞,http://vodcdn.video.taobao.com/oss/ali-video/a30020a6cd9ce2a8b387e029f9c5365c/video.m3u8
 草蜢-半点心,http://vodcdn.video.taobao.com/oss/ali-video/68fc953ff930412784dada5eb79d0821/1461058499/video.m3u8.m3u8
@@ -2246,7 +2246,7 @@ MMD初音未来,https://f0.mc.0sm.com/node0/2019/11/85DDD1715712B567-8e67449f05c
 曾经拥有的那些年,http://em.21dtv.com/songs/60110036.mkv
 ##
 
-##💯NewTV##
+##NewTV##
 古装剧场,http://39.135.34.150:8080/000000001000/6859053933687922163/1.m3u8?I
 动作电影,http://39.135.34.150:8080/000000001000/8103864434730665389/1.m3u8?I
 军旅剧场,http://39.135.34.150:8080/000000001000/7485075951068666323/1.m3u8?I
@@ -2270,7 +2270,7 @@ MMD初音未来,https://f0.mc.0sm.com/node0/2019/11/85DDD1715712B567-8e67449f05c
 炫舞未来,http://39.135.34.150:8080/000000001000/1000000001000000515/1.m3u8?I
 ##
 
-##😊埋堆堆##
+##埋堆堆##
 埋堆堆1,http://txtest-xp2p.p2p.huya.com/src/1199561277675-1199561277675-5434860597135015936-2399122678806-10057-A-0-1.xs
 埋堆堆2,http://txtest-xp2p.p2p.huya.com/src/1199563477578-1199563477578-5444309108574388224-2399127078612-10057-A-0-1.xs
 埋堆堆3,http://txtest-xp2p.p2p.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.xs
