@@ -32,7 +32,7 @@
       "playUrl": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1285201&key=bcikqtwxyADEGKUX36&url=",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 0
     }, 
 {
   "key": "push_agent",
