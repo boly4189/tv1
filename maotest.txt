@@ -34,6 +34,16 @@
       "quickSearch": 1,
       "filterable": 0
     }, 
+      {
+      "key": "腾讯视频(官源)",
+      "name": "腾讯视频（官源)     ",
+      "type": 0,
+      "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/qq/at/xml/",
+      "playUrl": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1285201&key=bcikqtwxyADEGKUX36&url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
 {
   "key": "push_agent",
   "name": "推送",
