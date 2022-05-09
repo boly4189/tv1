@@ -192,7 +192,8 @@
 "year": "全部$&lang=&year=#2022$&lang=&year=2022#2021$&lang=&year=2021#2020$&lang=&year=2020#2019$&lang=&year=2019#2018$&lang=&year=2018#2017$&lang=&year=2017#2016-2011$&lang=&year=2016#2010-2000$&lang=&year=2010#90年代$&lang=&year=90#80年代$&lang=&year=80#更早$&lang=&year=70"
 }
 },
-"zidingyi": {"name": "乐猪影视",
+"zidingyi": [
+{"name": "乐猪影视",
 "url": "http://www.lezhutv.com",
 "tihuan": "cnzz.com",
 "User": "空",
@@ -248,4 +249,6 @@
 "bfbiaotiqian": "\">",
 "bfbiaotihou": "</a>",
 "bflianjieqian": "href=\"",
-"bflianjiehou": "\""}}
+"bflianjiehou": "\""}
+]
+}
