@@ -1,8 +1,8 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider":"https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
+//"spider":"https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
   
-//"spider": "https://github.com/boly4189/tv1/tree/master/jar/custom_spider.jar?rwa=true",
+"spider": "https://github.com/boly4189/tv1/tree/master/jar/custom_spider.jar?rwa=true",
 //"spider": "https://github.com/boly4189/tv1/tree/master/jar/xm.jar?rwa=true",
 //"spider": "https://github.com/boly4189/tv1/tree/master/jar/baikan.jar?rwa=true",  
 
