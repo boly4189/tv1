@@ -385,5 +385,6 @@
 "cms.qdwght.com"
 ],
   "wallpaper": "",
-  "spider": "https://notabug.org/275497197/xiaoming/raw/master/xiaoming/xm.jar"
+  //"spider": "https://notabug.org/275497197/xiaoming/raw/master/xiaoming/xm.jar"
+  "spider":"https://raw.githubusercontent.com/boly4189/tv1/master/jar/xm.jar",
 }
