@@ -1,5 +1,5 @@
 { 
-"spider": "https://tangsan99999.github.io/custom_spider.jar",
+"spider": "https://raw.github.com/boly4189/tv1/blob/master/jar/custom_spider.jar",
   
   "sites": [
 {"key":"csp_xpath_ctv","name":"冲TMTV","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable": 1,"ext": "https://raw.githubusercontent.com/boly4189/tv1/master/XPMac/chongtmtv.json"},
@@ -39,36 +39,27 @@
       "filterable": 0,
       "ext": "https://raw.githubusercontent.com/boly4189/tv1/master/XBiubiu/lezhutv.json"
     }, 
-    {
-      "key": "小宝影院",
-      "name": "小宝影院",
-      "type": 3,
-      "api": "csp_Xiaoh",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/boly4189/tv1/master/Sjson/Xiaoh.json"
-    },
-    {
-      "key": "Auete",
-      "name": "Auete",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/boly4189/tv1/master/Sjson/Auete.json"
-    },
-    {
-      "key": "Cokemv",
-      "name": "Cokemv",
-      "type": 3,
-      "api": "csp_Cokemv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.githubusercontent.com/boly4189/tv1/master/Sjson/Cokemv.json"
-    },
+{"key":"csp_biubiu_ssdy","name":"双十电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://handong3.coding.net/p/catvod/d/handong/git/raw/master/biubiu/1010dy.json"},
+{"key":"csp_biubiu_ysgc","name":"影视工厂","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://handong3.coding.net/p/catvod/d/handong/git/raw/master/biubiu/ysgc.json"},
+{"key":"csp_biubiu_zmdy","name":"周末电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://handong3.coding.net/p/catvod/d/handong/git/raw/master/biubiu/zmdy.json"},
+{"key":"csp_biubiu_xqm","name":"小强迷","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://handong3.coding.net/p/catvod/d/handong/git/raw/master/biubiu/xqm.json"},
+{"key":"csp_biubiu_wmkk","name":"完美看看","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://handong3.coding.net/p/catvod/d/handong/git/raw/master/biubiu/wmkk.json"},
+{"key":"csp_biubiu_czzy","name":"厂长资源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://handong3.coding.net/p/catvod/d/handong/git/raw/master/biubiu/czzy.json"},
+{"key":"csp_biubiu_ftyy","name":"饭团影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://handong3.coding.net/p/catvod/d/handong/git/raw/master/biubiu/ftyy.json"},
+{"key":"csp_biubiu_kdyy","name":"口袋影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://handong3.coding.net/p/catvod/d/handong/git/raw/master/biubiu/kdyy.json"},
+{"key":"csp_biubiu_jbb","name":"剧白白","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://handong3.coding.net/p/catvod/d/handong/git/raw/master/biubiu/jbb.json"},
+{"key":"csp_biubiu_rrys","name":"如如影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://handong3.coding.net/p/catvod/d/handong/git/raw/master/biubiu/rrys.json"},
+{"key":"csp_biubiu_vip1280","name":"VIP1280","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://handong3.coding.net/p/catvod/d/handong/git/raw/master/biubiu/vip1280.json"},
+{"key":"csp_biubiu_qyyy","name":"奇优影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://handong3.coding.net/p/catvod/d/handong/git/raw/master/biubiu/qyyy.json"},
+{"key":"csp_biubiu_555dy","name":"555电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://handong3.coding.net/p/catvod/d/handong/git/raw/master/biubiu/555dy.json"},
+{"key":"csp_biubiu_wgyy","name":"乌龟影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://handong3.coding.net/p/catvod/d/handong/git/raw/master/biubiu/wgyy.json"},
+{"key":"csp_biubiu_lezhutv","name":"乐猪影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://handong3.coding.net/p/catvod/d/handong/git/raw/master/biubiu/lezhutv.json"},
+{"key":"csp_biubiu_xkys","name":"星空影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://handong3.coding.net/p/catvod/d/handong/git/raw/master/biubiu/xkys.json"},
+{"key":"csp_biubiu_shdy","name":"骚火电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://handong3.coding.net/p/catvod/d/handong/git/raw/master/biubiu/shdy.json"},
+{"key":"csp_biubiu_cokemv","name":"COKEMV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://handong3.coding.net/p/catvod/d/handong/git/raw/master/biubiu/cokemv.json"},
+{"key":"csp_biubiu_ldtv","name":"六度TV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://handong3.coding.net/p/catvod/d/handong/git/raw/master/biubiu/ldtv.json"},
+{"key":"csp_biubiu_zxzj","name":"在线之家","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://handong3.coding.net/p/catvod/d/handong/git/raw/master/biubiu/zxzj.json"},
+{"key":"csp_biubiu_libvio","name":"LIBVIO影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://handong3.coding.net/p/catvod/d/handong/git/raw/master/biubiu/libvio.json"},
    
 {"key":"csp_appysv2_迪迪影院","name":"迪迪影院(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://dd88.icu:6080/xgapp.php/v2/"},
     {
