@@ -1,5 +1,5 @@
 { 
-  "spider":"https://raw.githubusercontent.com/boly4189/tv1/master/jar/xm.jar",
+"spider": "https://tangsan99999.github.io/custom_spider.jar",
   
   "sites": [
 {"key":"csp_xpath_ctv","name":"冲TMTV","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable": 1,"ext": "https://raw.githubusercontent.com/boly4189/tv1/master/XPMac/chongtmtv.json"},
