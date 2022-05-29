@@ -1,5 +1,5 @@
 {
-"spider": "https://raw.github.com/boly4189/tv1/blob/master/jar/custom_spider.jar",
+"spider": "https://raw.github.com/boly4189/tv1/blob/master/jar/zanglao_spider.jar",
   "sites": [
 {"key":"csp_xpath_ctv","name":"冲TMTV","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable": 1,"ext": "https://raw.githubusercontent.com/boly4189/tv1/master/XPMac/chongtmtv.json"},
 {"key":"csp_xpath_汉城影院","name":"汉城影院(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/boly4189/tv1/master/XPMac/hancheng.json"}, {"key":"csp_xpath_if101","name":"if101(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/boly4189/tv1/master/XPMac/if101.json"},
