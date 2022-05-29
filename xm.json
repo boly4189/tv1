@@ -1,25 +1,5 @@
 {
   "sites": [
-      {
-      "key": "csp_360",
-      "name": "🎾 360",
-      "type": 3,
-      "api": "csp_ColaCat",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "ثلاثة مائة وستون"
-    },
-    {
-      "key": "csp_NaNa",
-      "name": "👒 七七",
-      "type": 3,
-      "api": "csp_ColaCat",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "سبعة وسبعة"
-    },
      {
       "key": "csp_DiDuan",
       "name": "🌀 低端影视",
@@ -39,46 +19,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "موارد مدير المصنع"
-    },
-   {
-      "key": "csp_Buka",
-      "name": "🧼 真不卡",
-      "type": 3,
-      "api": "csp_ColaCat",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "حقا ليس عالقا"
-    },
-    {
-      "key": "csp_Auete",
-      "name": "🧿 Auete",
-      "type": 3,
-      "api": "csp_ColaCat",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "أويتي"
-    },
-    {
-      "key": "csp_AliPanSou",
-      "name": "🐱 喵狸盘搜",
-      "type": 3,
-      "api": "csp_ColaCat",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "مواء الراكون"
-    },
-    {
-      "key": "csp_GitCafe",
-      "name": "🦊 小纸条",
-      "type": 3,
-      "api": "csp_ColaCat",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "ملاحظة"
     },
     {
       "key": "csp_Concert",
@@ -135,11 +75,10 @@
       "key": "push_agent",
       "name": "🍭 推送",
       "type": 3,
-      "api": "csp_ColaCat",
+      "api": "csp_PushAgent",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0,
-      "ext": "علي"
+      "filterable": 0
     }
   ],
 "lives":[
