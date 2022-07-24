@@ -1,9 +1,29 @@
 {
   "spider":"https://raw.githubusercontent.com/boly4189/tv1/master/jar/top921.jar",
   //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
-  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L2xpdmUudHh0"]}]}],
+"lives":[
+{"group":"CY","channels":[
+{"name":"ABC NEWS","urls":["https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8"]},
+{"name":"CNN","urls":["https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8"]},
+{"name":"BBC NEWS","urls":["http://live.tvfix.org/hls/bbcnews.m3u8"]},
+{"name":"Fox News","urls":["http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8"]},
+{"name":"凤凰资讯","urls":["http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8"]},
+{"name":"凤凰中文","urls":["http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8"]},
+{"name":"CCTV13-新闻频道","urls":["http://39.135.55.39:6610/PLTV/88888888/224/3221225817/index.m3u8?servicetype=1"]},
+{"name":"CCTV5-体育频道","urls":["http://39.134.65.179/PLTV/88888888/224/3221225818/index.m3u8"]},
+{"name":"CCTV5+体育赛事","urls":["http://39.134.65.181/PLTV/88888888/224/3221225507/index.m3u8"]},
+{"name":"RT","urls":["https://rt-glb.rttv.com/live/rtnews/playlist.m3u8"]},
+{"name":"France24","urls":["http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8"]},
+{"name":"DW English","urls":["https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"]},
+{"name":"TRT World","urls":["https://tv-trtworld.live.trt.com.tr/master.m3u8"]},
+{"name":"euronews","urls":["https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8"]},
+{"name":"CNA","urls":["https://i.mjh.nz/au/Sydney/tv.cna.m3u8"]},
+{"name":"中天新闻","urls":["http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw"]},
+{"name":"NHK华语视界","urls":["https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8"]},
+{"name":"Arirang","urls":["http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"]},
+{"name":"VoA TV","urls":["https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8"]}]}
+],
   
-
   "sites":[
     {"key":"csp_Kunyu77","name":"🥇七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},   
     //{"key":"293视频","name":"🥇293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
