@@ -17,3 +17,4 @@ CNA,https://i.mjh.nz/au/Sydney/tv.cna.m3u8
 NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 VoA TV,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+中天新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
