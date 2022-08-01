@@ -1,20 +1,20 @@
 常用,#genre#
 ABC NEWS,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 CNN,https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-BBC NEWS,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 Fox News,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 CCTV13-新闻频道,http://111.40.196.30/PLTV/88888888/224/3221225504/index.m3u8
 CCTV5-体育频道,http://39.134.65.181/PLTV/88888888/224/3221225818/index.m3u8
 CCTV5+体育赛事,http://39.134.65.181/PLTV/88888888/224/3221225507/index.m3u8
+中天新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
+Al Jazeera,https://i.mjh.nz/au/Sydney/tv.46.m3u8
+CNA,https://i.mjh.nz/au/Sydney/tv.cna.m3u8
+TRT World,https://tv-trtworld.live.trt.com.tr/master.m3u8
+euronews,https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 RT,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 France24,http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 DW English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-TRT World,https://tv-trtworld.live.trt.com.tr/master.m3u8
-euronews,https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-CNA,https://i.mjh.nz/au/Sydney/tv.cna.m3u8
-NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 VoA TV,https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
-中天新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
