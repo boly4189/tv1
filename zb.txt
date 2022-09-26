@@ -14,6 +14,18 @@ CCTV5,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/40
 CCTV5,http://111.20.33.93/PLTV/88888893/224/3221226395/index.m3u8
 CCTV5+,http://39.134.32.103:6610/270000001111/1110000306/index.m3u8?IASHttpSessionId=OTT
 CCTV5+,http://111.20.33.93/PLTV/88888893/224/3221226221/index.m3u8
+TW,#genre#
+中天新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30#http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
+TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
+半島國際新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85
+美國之音,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv03&nid=86
+東森新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234#http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
+三立iNEWS,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229#http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews
+華視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
+中視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
+中天美食旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
+亞洲旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
+新唐人亞太,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
 TVBS新闻台,rtmp://59.124.75.138/sat/tv551
 TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
@@ -27,39 +39,6 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 纬来体育,rtmp://59.124.75.138/sat/tv721
 纬来日本,rtmp://59.124.75.138/sat/tv771
-
-Al Jazeera,https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-Bloomberg TV,https://www.bloomberg.com/media-manifest/streams/asia.m3u8
-TRT World,https://tv-trtworld.live.trt.com.tr/master.m3u8
-DW English (1080p),https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-Bloomberg TV Asia Live Event,https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
-euronews,https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-
-五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
-五星体育,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
-体育赛场,http://txtest-xp2p.p2p.huya.com/1099531627962-1099531627962-85900144783917056-2199063379380-10057-A-0-1.xs
-北京东奥纪实,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8
-拳击,http://txtest-xp2p.p2p.huya.com/0-0-0-2399123531982-10057-A-0-1.xs
-斯诺克2,http://txtest-xp2p.p2p.huya.com/1099531739995-1099531739995-86381322854989824-2199063603446-10057-A-0-1.xs
-皮划艇,http://txtest-xp2p.p2p.huya.com/1099531728523-1099531728523-86332050990170112-2199063580502-10057-A-0-1.xs
-篮球,http://txtest-xp2p.p2p.huya.com/1099531627841-1099531627841-85899625092874240-2199063379138-10057-A-0-1.xs
-篮球3,http://txtest-xp2p.p2p.huya.com/1859752418-1859752418-7987575813966921728-3719628292-10057-A-0-1.xs
-篮球5,http://txtest-xp2p.p2p.huya.com/1099531739898-1099531739898-86380906243162112-2199063603252-10057-A-0-1.xs
-篮球7,http://txtest-xp2p.p2p.huya.com/1099531739953-1099531739953-86381142466363392-2199063603362-10057-A-0-1.xs
-篮球8,http://txtest-xp2p.p2p.huya.com/1099531739788-1099531739788-86380433796759552-2199063603032-10057-A-0-1.xs
-精品体育,http://39.134.65.166/PLTV/88888888/224/3221225526/1.m3u8
-街波王子,http://txtest-xp2p.p2p.huya.com/1099531739790-1099531739790-86380442386694144-2199063603036-10057-A-0-1.xs
-赛车,http://txtest-xp2p.p2p.huya.com/1447756351-1447756351-6218066180121296896-2895636158-10057-A-0-1.xs
-超级体育,http://39.134.65.164/PLTV/88888888/224/3221225635/1.m3u8
-ELEVEN1,rtmp://59.124.75.138/sat/tv731
-ELEVEN2,rtmp://59.124.75.138/sat/tv741
-ELTA体育2台,rtmp://59.124.75.138/sat/md011
-ELTA体育2台,rtmp://59.124.75.138/sat/md021
-ELTA体育3台,rtmp://59.124.75.138/sat/md041
-
 中视,rtmp://59.124.75.138:1935/sat/tv091
 华视,rtmp://59.124.75.138:1935/sat/tv111
 台视,rtmp://59.124.75.138:1935/sat/tv071
@@ -111,6 +90,39 @@ TVBS新闻,rtmp://59.124.75.138/sat/tv551
 中视,rtmp://59.124.75.150/sat/tv091
 中视,rtmp://59.124.75.138/sat/tv091
 
+
+Al Jazeera,https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+Bloomberg TV,https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+TRT World,https://tv-trtworld.live.trt.com.tr/master.m3u8
+DW English (1080p),https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+Bloomberg TV Asia Live Event,https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+euronews,https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+
+体育,#genre#
+五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
+五星体育,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+体育赛场,http://txtest-xp2p.p2p.huya.com/1099531627962-1099531627962-85900144783917056-2199063379380-10057-A-0-1.xs
+北京东奥纪实,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8
+拳击,http://txtest-xp2p.p2p.huya.com/0-0-0-2399123531982-10057-A-0-1.xs
+斯诺克2,http://txtest-xp2p.p2p.huya.com/1099531739995-1099531739995-86381322854989824-2199063603446-10057-A-0-1.xs
+皮划艇,http://txtest-xp2p.p2p.huya.com/1099531728523-1099531728523-86332050990170112-2199063580502-10057-A-0-1.xs
+篮球,http://txtest-xp2p.p2p.huya.com/1099531627841-1099531627841-85899625092874240-2199063379138-10057-A-0-1.xs
+篮球3,http://txtest-xp2p.p2p.huya.com/1859752418-1859752418-7987575813966921728-3719628292-10057-A-0-1.xs
+篮球5,http://txtest-xp2p.p2p.huya.com/1099531739898-1099531739898-86380906243162112-2199063603252-10057-A-0-1.xs
+篮球7,http://txtest-xp2p.p2p.huya.com/1099531739953-1099531739953-86381142466363392-2199063603362-10057-A-0-1.xs
+篮球8,http://txtest-xp2p.p2p.huya.com/1099531739788-1099531739788-86380433796759552-2199063603032-10057-A-0-1.xs
+精品体育,http://39.134.65.166/PLTV/88888888/224/3221225526/1.m3u8
+街波王子,http://txtest-xp2p.p2p.huya.com/1099531739790-1099531739790-86380442386694144-2199063603036-10057-A-0-1.xs
+赛车,http://txtest-xp2p.p2p.huya.com/1447756351-1447756351-6218066180121296896-2895636158-10057-A-0-1.xs
+超级体育,http://39.134.65.164/PLTV/88888888/224/3221225635/1.m3u8
+ELEVEN1,rtmp://59.124.75.138/sat/tv731
+ELEVEN2,rtmp://59.124.75.138/sat/tv741
+ELTA体育2台,rtmp://59.124.75.138/sat/md011
+ELTA体育2台,rtmp://59.124.75.138/sat/md021
+ELTA体育3台,rtmp://59.124.75.138/sat/md041
 
 CN,#genre#
 CCTV1,http://111.13.42.235/TVOD/88888888/224/3221226346/1.m3u8
