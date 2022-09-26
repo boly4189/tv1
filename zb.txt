@@ -8,8 +8,6 @@ Fox News,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 CCTV13,http://111.20.33.93/PLTV/88888893/224/3221226233/index.m3u8
 CCTV13,http://111.40.196.30/PLTV/88888888/224/3221225504/index.m3u8
-CCTV5,http://39.134.32.102:6610/270000001111/1110000305/index.m3u8?IASHttpSessionId=OTT
-CCTV5,http://39.134.66.2/PLTV/88888888/224/3221225818/index.m3u8
 CCTV5,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
 CCTV5,http://111.20.33.93/PLTV/88888893/224/3221226395/index.m3u8
 CCTV5+,http://39.134.32.103:6610/270000001111/1110000306/index.m3u8?IASHttpSessionId=OTT
