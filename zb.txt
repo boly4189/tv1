@@ -8,13 +8,27 @@ Fox News,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 CCTV13,http://111.20.33.93/PLTV/88888893/224/3221226233/index.m3u8
 CCTV13,http://111.40.196.30/PLTV/88888888/224/3221225504/index.m3u8
-CCTV5,http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
 CCTV5,http://111.20.33.93/PLTV/88888893/224/3221226395/index.m3u8
 CCTV5+,http://39.134.32.103:6610/270000001111/1110000306/index.m3u8?IASHttpSessionId=OTT
 CCTV5+,http://111.20.33.93/PLTV/88888893/224/3221226221/index.m3u8
+Al Jazeera,https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+Bloomberg TV,https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+TRT World,https://tv-trtworld.live.trt.com.tr/master.m3u8
+DW English (1080p),https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+Bloomberg TV Asia Live Event,https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+euronews,https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 TW,#genre#
-中天新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30#http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
-TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
+中天新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30#http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
+中天新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
+中天新闻,http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
+TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+TVBS新闻台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
+TVBS新闻台,rtmp://59.124.75.138/sat/tv551
 半島國際新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85
 美國之音,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv03&nid=86
 東森新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234#http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw
@@ -24,13 +38,6 @@ TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072
 中天美食旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
 亞洲旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
 新唐人亞太,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
-TVBS新闻台,rtmp://59.124.75.138/sat/tv551
-TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-中天新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
-中天新闻,http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
-
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
@@ -87,17 +94,6 @@ TVBS新闻,rtmp://59.124.75.138/sat/tv551
 纬来育乐,rtmp://59.124.75.138/sat/tv701
 中视,rtmp://59.124.75.150/sat/tv091
 中视,rtmp://59.124.75.138/sat/tv091
-
-
-Al Jazeera,https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-Bloomberg TV,https://www.bloomberg.com/media-manifest/streams/asia.m3u8
-TRT World,https://tv-trtworld.live.trt.com.tr/master.m3u8
-DW English (1080p),https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-Bloomberg TV Asia Live Event,https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
-euronews,https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 
 体育,#genre#
 五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
