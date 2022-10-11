@@ -5,6 +5,7 @@
   "sites":[
     {"key": "py_qie","name": " 🐦QE体育","type": 3,"api": "py_qie","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/boly4189/tv1/master/Py/py_qie.py"},
     {"key": "py_jrskbs","name": " 🐦JRS直播","type": 3,"api": "py_jrskbs","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/boly4189/tv1/master/Py/py_jrskbs.py"},
+    {"key": "py_freezb.","name": " 🐦体育直播","type": 3,"api": "py_freezb","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://raw.githubusercontent.com/boly4189/tv1/master/Py/py_freezb.py"},
     {"key": "csp_xpath_qiumi","name":"球赛直播","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/boly4189/tv1/master/ext/516-qiumi.js"},
             {
             "key" : "17kan",
@@ -42,8 +43,10 @@
 {"key":"csp_XYQBiu_17klive","name":"体育直播(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/boly4189/tv1/master/ext/17klive.json","jar":"https://raw.githubusercontent.com/boly4189/tv1/master/jar/0906.jar"},
 {"key":"csp_QB_17kan","name":"⚽17看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/boly4189/tv1/master/ext/17看球.json","jar":"https://raw.githubusercontent.com/boly4189/tv1/master/jar/2925.jar"},
 {"key":"csp_xp_球迷直播","name":"🏀dj看球","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/boly4189/tv1/master/ext/dj看球.json","jar":"https://raw.githubusercontent.com/boly4189/tv1/master/jar/2925.jar"},
+{"key":"csp_xBPQ_抓饭体育","name":" 🍂抓饭体育 xBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/boly4189/tv1/master/XBPQ/抓饭体育.json"},
 
-   //spider java
+	  
+  //spider java
     {"key":"csp_Nbys","name":"🐞泥巴(墙外)","type": 3,"api": "csp_Nbys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.githubusercontent.com/boly4189/tv1/master/jar/91d.jar"},
     {"key": "图图（SP）","name": "🐞图图（SP）","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key":"csp_xpath_HOHO","name":" 🌾HOHO(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/boly4189/tv1/master/MaooXP/Hoho.json"}, 	
