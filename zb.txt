@@ -25,7 +25,8 @@ euronews,https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9
 NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 TW,#genre#
-中天新闻,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30#http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
+中天新闻,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1665915170/ei/woRLY7zTI_OR_tcP67CpyAo/ip/20.97.15.131/id/_QbRXRnHMVY.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgQD8Ys8ClonTn1A2m2lAqainnfEojSIIflhLWpkkhf1QCIQCMjTcc6rpqGHFPNxeOQtnV-PGbijPuXk_2uYHn1iExKw%3D%3D/file/index.m3u8
+
 中天新闻,http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw
 中天新闻,http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
 TVBS新闻台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
