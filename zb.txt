@@ -42,9 +42,10 @@ TVBS新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=31
 NASA,http://140.238.155.232:9000/jmsytb.m3u8?c=17
 
 体育,#genre#
-CCTV5-高清(1),http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV5-高清(2),http://111.29.9.47:6610/000000001000/1000000005000025222/index.m3u8?channel-id=ystenlive&Contentid=1000000005000025222&livemode=1&stbId=3
-CCTV5-高清(3),http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
+JJ斗地主,http://akm-tct.douyucdn.cn/live/488743rAHScWyyII.flv
+JJ斗地主,http://akm-tct.douyucdn.cn/live/488743rAHScWyyII.flv
+JJ斗地主,http://wtv.weetai.cn/iptv/2022/tyzb07.php?id=14079954
+JJ斗地主,http://36.99.180.171/txdirect.hls.huya.com/src/0-0-0-3666366740-10057-A-0-1.flv
 五星体育(1),http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 五星体育(2),http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
 广东体育,http://121.51.249.88/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
