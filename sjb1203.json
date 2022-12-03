@@ -1,6 +1,7 @@
 {spider:'https://raw.githubusercontent.com/boly4189/tv1/master/jar/xo.jar',
+ 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2JvbHk0MTg5L3R2MS9tYXN0ZXIvemIudHh0"]}]}],
-wallpaper:'http://www.kf666888.cn/api/tvbox/img',
+
 sites:[
 {key:'世界杯',name:'一起看',type:'3',api:'csp_Dora',searchable:'1',quickSearch:'1',filterable:'1',ext:'8e3aefcba838d8dc5102ac786719d837',jar:'https://raw.githubusercontent.com/boly4189/tv1/master/jar/cs.jar'},
 
