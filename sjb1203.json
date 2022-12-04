@@ -3,6 +3,18 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2JvbHk0MTg5L3R2MS9tYXN0ZXIvemIudHh0"]}]}],
 
 sites:[
+     {
+      "key":"Yyy",
+      "name":"🦁在线直播〔SP〕",
+      "api":"csp_YQKAPP",
+      "type":3,
+      "filterable":1,
+      "playerType":2,
+      "quickSearch":1,
+      "searchable":1,
+      "ext":"https://api-tx.shumaxc.xyz",
+      "jar":"https://raw.githubusercontent.com/boly4189/tv1/master/jar/在线直播.jar"
+    },
 {key:'世界杯',name:'一起看',type:'3',api:'csp_Dora',searchable:'1',quickSearch:'1',filterable:'1',ext:'8e3aefcba838d8dc5102ac786719d837',jar:'https://raw.githubusercontent.com/boly4189/tv1/master/jar/cs.jar'},
 
 {key:'haiwaicaiji',name:'🍁海外看影视',type:0,api:'https://haiwaikan.com/api.php/provide/vod/at/xml',searchable:1,quickSearch:0,filterable:0},
