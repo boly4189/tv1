@@ -1,4 +1,4 @@
-{"spider":"https://raw.githubusercontent.com/boly4189/tv1/master/jar/xo.txt",
+{"spider":"https://raw.githubusercontent.com/boly4189/tv1/master/jar/xo.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2JvbHk0MTg5L3R2MS9tYXN0ZXIvemIudHh0"]}]}],
 
