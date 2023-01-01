@@ -23,6 +23,7 @@ sites:[
    {"key":"量子采集","name":" 🍁量子资源","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":0,"filterable":0},
    {"key":"csp_appysv2_M2_haiwai影视","name":"淘片影视","type":0,"api":"https://taopianapi.com/home/cjapi/as/mc/vod/xml","searchable":1,"quickSearch":0,"filterable":0},
 
+{"key":"csp_Nbys","name":"泥视频┃墙外","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 {key:'csp_trj',name:'🛫唐人街┃墙外',type:3,api:'csp_Tangrenjie',searchable:1,quickSearch:1,filterable:1},
 {key:'csp_Xiaoh',name:'🛫小宝┃墙外',type:3,api:'csp_Xiaoh',searchable:1,quickSearch:1,filterable:1,jar:'https://raw.githubusercontent.com/boly4189/tv1/master/jar/xo.jar'},
  
