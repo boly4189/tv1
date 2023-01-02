@@ -27,40 +27,15 @@ NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.
 俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 
 TW,#genre#
-中天新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=24
-TVBS56,http://140.238.155.232:9000/jmsytb.m3u8?c=29
-TVBS新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=31
-三立LIVE,http://140.238.155.232:9000/jmsytb.m3u8?c=23
-中视新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=25
-台视新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=26
-寰宇新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=27
-东森财经新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=35
-东森财经新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=36
-镜新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=38
-中视新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=25
-台湾inews,http://140.238.155.232:9000/jmsytb.m3u8?c=22
-NASA,http://140.238.155.232:9000/jmsytb.m3u8?c=17
-TVBS新闻台,http://140.238.155.232:9000/jmsytb.m3u8?c=31
-TVBS新闻台,http://198.16.64.10:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd
-TVBS新闻台,http://198.16.64.10:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
-TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-TVBS新闻台,rtmp://59.124.75.138/sat/tv551
-TVBS新闻台,rtmp://59.124.75.150/sat/tv551
-TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8 
-三立新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=23
-民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-民视新闻台,http://198.16.64.10:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-非凡新闻,http://198.16.64.10:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
-非凡新闻,http://50.7.220.74:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378 
-年代新闻台,http://198.16.64.10:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
-年代新闻台,http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd 
-中视新闻,http://198.16.64.10:8278/zhongshinews_twn/playlist.m3u8?tid=MD8D4836803548368035&ct=19226&tsum=a2f06c15a5e9c4dc67565c2b8598c8da
-中视新闻,http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
-中视新闻,http://50.7.220.74:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd 
+寰宇新闻,http://tv.redrainl.site:9500/live.m3u8?c=22#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8#http://140.238.155.232:9000/jmsytb.m3u8?c=27#https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8#http://140.238.155.232:9000/jmsytb.m3u8?c=27#https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
+镜新闻Mnews,http://tv.redrainl.site:9500/live.m3u8?c=28#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8#http://140.238.155.232:9000/jmsytb.m3u8?c=38#https://ytm2.yuanhsing.cf/mnews.m3u8#https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv075#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8#http://140.238.155.232:9000/jmsytb.m3u8?c=38#https://ytm2.yuanhsing.cf/mnews.m3u8#https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv075
+三立iNEWS,http://tv.redrainl.site:9500/live.m3u8?c=51#https://git.io/Jgkxj#http://140.238.155.232:9000/jmsytb.m3u8?c=22#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8#https://ytm2.yuanhsing.cf/setmoney159.m3u8#https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live089#https://git.io/Jgkxj#http://140.238.155.232:9000/jmsytb.m3u8?c=22#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8#https://ytm2.yuanhsing.cf/setmoney159.m3u8#https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live089
+中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=3#http://tv.redrainl.site:9500/live.m3u8?c=03#http://140.238.155.232:9000/jmsytb.m3u8?c=24#https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv009#http://tv.redrainl.site:9500/live.m3u8?c=03#http://140.238.155.232:9000/jmsytb.m3u8?c=24#https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv009
+民视新闻 HD,http://tv.redrainl.site:9500/live.m3u8?c=1#http://tv.redrainl.site:9500/live.m3u8?c=01#http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8#http://198.16.64.10:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689#http://50.7.220.74:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406#https://epg.pm/stream/c4e4884645d94d0d2e76e47c691546493b7031348b663eb9a67769b0096f8b7e.m3u8#https://ytm2.yuanhsing.cf/FTVCP.m3u8#http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8#https://lss.line-scdn.net/cc_tw/p/live/h6LXFIIC5aGI3UnZyDUd1VV48YAYYXyhgWFkvUhc6ZARBXCswClEgUEg2YwBNDSYwDQoiA0g2NFtISi40CwogUhQ_KVNJEC42WkYmBUAgN1FPBC40WFAn/720/chunklist.m3u8#https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=litv-ftv13#http://tv.redrainl.site:9500/live.m3u8?c=01#http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8#http://198.16.64.10:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689#http://50.7.220.74:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406#https://epg.pm/stream/c4e4884645d94d0d2e76e47c691546493b7031348b663eb9a67769b0096f8b7e.m3u8#https://ytm2.yuanhsing.cf/FTVCP.m3u8#http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8#https://lss.line-scdn.net/cc_tw/p/live/h6LXFIIC5aGI3UnZyDUd1VV48YAYYXyhgWFkvUhc6ZARBXCswClEgUEg2YwBNDSYwDQoiA0g2NFtISi40CwogUhQ_KVNJEC42WkYmBUAgN1FPBC40WFAn/720/chunklist.m3u8#https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=litv-ftv13
+台视新闻 HD,https://git.io/JgkxY#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#http://tv.redrainl.site:9500/live.m3u8?c=11#http://50.7.220.74:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c#http://140.238.155.232:9000/jmsytb.m3u8?c=26#https://ytm2.yuanhsing.cf/ttvnewsview.m3u8#http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#http://tv.redrainl.site:9500/live.m3u8?c=11#http://50.7.220.74:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c#http://140.238.155.232:9000/jmsytb.m3u8?c=26#https://ytm2.yuanhsing.cf/ttvnewsview.m3u8#http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8#http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+中视新闻 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8#https://git.io/Jgkxz#http://tv.redrainl.site:9500/live.m3u8?c=2#http://tv.redrainl.site:9500/live.m3u8?c=02#http://140.238.155.232:9000/jmsytb.m3u8?c=25#http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376#http://198.16.64.10:8278/zhongshinews_twn/playlist.m3u8?tid=MD8D4836803548368035&ct=19226&tsum=a2f06c15a5e9c4dc67565c2b8598c8da#http://50.7.220.74:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd#https://ytm2.yuanhsing.cf/twctvnews.m3u8#http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8#https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv074#https://git.io/Jgkxz#http://tv.redrainl.site:9500/live.m3u8?c=2#http://tv.redrainl.site:9500/live.m3u8?c=02#http://140.238.155.232:9000/jmsytb.m3u8?c=25#http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376#http://198.16.64.10:8278/zhongshinews_twn/playlist.m3u8?tid=MD8D4836803548368035&ct=19226&tsum=a2f06c15a5e9c4dc67565c2b8598c8da#http://50.7.220.74:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd#https://ytm2.yuanhsing.cf/twctvnews.m3u8#http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8#https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv074
+民视新闻台,http://tv.redrainl.site:9500/live.m3u8?c=01
+
 体育,#genre#
 JJ斗地主,http://akm-tct.douyucdn.cn/live/488743rAHScWyyII.flv
 JJ斗地主,http://akm-tct.douyucdn.cn/live/488743rAHScWyyII.flv
