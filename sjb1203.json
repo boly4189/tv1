@@ -42,7 +42,7 @@ sites:[
   
 {"key":"csp_XP_独播库","name":"独播库（XPMF）","type":3,"api":"csp_XPathMacFilter","playerType":0,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/boly4189/tv1/master/XPMac/duboku.json"},
 
-{"key":"push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://raw.githubusercontent.com/boly4189/tv1/master/ext/cs.jar"}
+{"key":"push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://raw.githubusercontent.com/boly4189/tv1/master/jar/cs.jar"}
 ],
 ijk:[{group:'硬解码',options:[{category:4,name:'opensles',value:'0'},
 {category:4,name:'overlay-format',value:'842225234'},
