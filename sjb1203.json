@@ -15,7 +15,6 @@ sites:[
       "ext":"https://api-tx.shumaxc.xyz",
       "jar":"https://raw.githubusercontent.com/boly4189/tv1/master/jar/在线直播.jar"
     },
-
  {"key":"csp_Yoozhibo","name":"体育┃赛事直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/boly4189/tv1/master/MaooXP/体育_yzb2.json"},
 {key:'世界杯',name:'一起看',type:'3',api:'csp_Dora',searchable:'1',quickSearch:'1',filterable:'1',ext:'8e3aefcba838d8dc5102ac786719d837',jar:'https://raw.githubusercontent.com/boly4189/tv1/master/jar/cs.jar'},
 
