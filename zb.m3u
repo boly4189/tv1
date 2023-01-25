@@ -1,0 +1,599 @@
+#EXTM3U
+
+http://0/0.m3u8
+#EXTINF:-1 ,ABC NEWS
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 ,CNN
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:-1 ,CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 ,Fox News
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 ,凤凰中文
+http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 ,CCTV13
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+#EXTINF:-1 ,CCTV5
+http://124.220.17.172/as.php?id=5
+#EXTINF:-1 ,CCTV5+
+http://124.220.17.172/as.php?id=5p
+#EXTINF:-1 ,CCTV16
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
+#EXTINF:-1 ,4k世界杯
+http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
+#EXTINF:-1 ,五星体育
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 ,五星体育
+http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 ,DW
+http://tv.redrainl.site:9500/live.m3u8?c=30
+#EXTINF:-1 ,半岛新闻
+http://tv.redrainl.site:9500/live.m3u8?c=34
+#EXTINF:-1 ,半岛新闻
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 ,TOP_News
+http://tv.redrainl.site:9500/live.m3u8?c=14
+#EXTINF:-1 ,Al Jazeera
+https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+#EXTINF:-1 ,CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 ,Bloomberg TV
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 ,TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 ,DW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 ,Bloomberg TV Asia Live Event
+https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 ,euronews
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:-1 ,NHK华语视界
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 ,俄罗斯中文
+http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+
+http://1/1.m3u8
+#EXTINF:-1 ,寰宇新闻
+http://tv.redrainl.site:9500/live.m3u8?c=22
+#EXTINF:-1 ,寰宇新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 ,寰宇新闻
+http://140.238.155.232:9000/jmsytb.m3u8?c=27
+#EXTINF:-1 ,寰宇新闻
+https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
+#EXTINF:-1 ,寰宇新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 ,寰宇新闻
+http://140.238.155.232:9000/jmsytb.m3u8?c=27
+#EXTINF:-1 ,寰宇新闻
+https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
+#EXTINF:-1 ,镜新闻Mnews
+http://tv.redrainl.site:9500/live.m3u8?c=28
+#EXTINF:-1 ,镜新闻Mnews
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+#EXTINF:-1 ,镜新闻Mnews
+http://140.238.155.232:9000/jmsytb.m3u8?c=38
+#EXTINF:-1 ,镜新闻Mnews
+https://ytm2.yuanhsing.cf/mnews.m3u8
+#EXTINF:-1 ,镜新闻Mnews
+https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv075
+#EXTINF:-1 ,镜新闻Mnews
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+#EXTINF:-1 ,镜新闻Mnews
+http://140.238.155.232:9000/jmsytb.m3u8?c=38
+#EXTINF:-1 ,镜新闻Mnews
+https://ytm2.yuanhsing.cf/mnews.m3u8
+#EXTINF:-1 ,镜新闻Mnews
+https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv075
+#EXTINF:-1 ,三立iNEWS
+http://tv.redrainl.site:9500/live.m3u8?c=51
+#EXTINF:-1 ,三立iNEWS
+https://git.io/Jgkxj
+#EXTINF:-1 ,三立iNEWS
+http://140.238.155.232:9000/jmsytb.m3u8?c=22
+#EXTINF:-1 ,三立iNEWS
+https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
+#EXTINF:-1 ,三立iNEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+#EXTINF:-1 ,三立iNEWS
+https://ytm2.yuanhsing.cf/setmoney159.m3u8
+#EXTINF:-1 ,三立iNEWS
+https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live089
+#EXTINF:-1 ,三立iNEWS
+https://git.io/Jgkxj
+#EXTINF:-1 ,三立iNEWS
+http://140.238.155.232:9000/jmsytb.m3u8?c=22
+#EXTINF:-1 ,三立iNEWS
+https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
+#EXTINF:-1 ,三立iNEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+#EXTINF:-1 ,三立iNEWS
+https://ytm2.yuanhsing.cf/setmoney159.m3u8
+#EXTINF:-1 ,三立iNEWS
+https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live089
+#EXTINF:-1 ,中天新闻
+http://tv.redrainl.site:9500/live.m3u8?c=3
+#EXTINF:-1 ,中天新闻
+http://tv.redrainl.site:9500/live.m3u8?c=03
+#EXTINF:-1 ,中天新闻
+http://140.238.155.232:9000/jmsytb.m3u8?c=24
+#EXTINF:-1 ,中天新闻
+https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv009
+#EXTINF:-1 ,中天新闻
+http://tv.redrainl.site:9500/live.m3u8?c=03
+#EXTINF:-1 ,中天新闻
+http://140.238.155.232:9000/jmsytb.m3u8?c=24
+#EXTINF:-1 ,中天新闻
+https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv009
+#EXTINF:-1 ,民视新闻 HD
+http://tv.redrainl.site:9500/live.m3u8?c=1
+#EXTINF:-1 ,民视新闻 HD
+http://tv.redrainl.site:9500/live.m3u8?c=01
+#EXTINF:-1 ,民视新闻 HD
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 ,民视新闻 HD
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 ,民视新闻 HD
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+#EXTINF:-1 ,民视新闻 HD
+http://198.16.64.10:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
+#EXTINF:-1 ,民视新闻 HD
+http://50.7.220.74:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
+#EXTINF:-1 ,民视新闻 HD
+https://epg.pm/stream/c4e4884645d94d0d2e76e47c691546493b7031348b663eb9a67769b0096f8b7e.m3u8
+#EXTINF:-1 ,民视新闻 HD
+https://ytm2.yuanhsing.cf/FTVCP.m3u8
+#EXTINF:-1 ,民视新闻 HD
+http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 ,民视新闻 HD
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 ,民视新闻 HD
+https://lss.line-scdn.net/cc_tw/p/live/h6LXFIIC5aGI3UnZyDUd1VV48YAYYXyhgWFkvUhc6ZARBXCswClEgUEg2YwBNDSYwDQoiA0g2NFtISi40CwogUhQ_KVNJEC42WkYmBUAgN1FPBC40WFAn/720/chunklist.m3u8
+#EXTINF:-1 ,民视新闻 HD
+https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=litv-ftv13
+#EXTINF:-1 ,民视新闻 HD
+http://tv.redrainl.site:9500/live.m3u8?c=01
+#EXTINF:-1 ,民视新闻 HD
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 ,民视新闻 HD
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 ,民视新闻 HD
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+#EXTINF:-1 ,民视新闻 HD
+http://198.16.64.10:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
+#EXTINF:-1 ,民视新闻 HD
+http://50.7.220.74:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
+#EXTINF:-1 ,民视新闻 HD
+https://epg.pm/stream/c4e4884645d94d0d2e76e47c691546493b7031348b663eb9a67769b0096f8b7e.m3u8
+#EXTINF:-1 ,民视新闻 HD
+https://ytm2.yuanhsing.cf/FTVCP.m3u8
+#EXTINF:-1 ,民视新闻 HD
+http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 ,民视新闻 HD
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 ,民视新闻 HD
+https://lss.line-scdn.net/cc_tw/p/live/h6LXFIIC5aGI3UnZyDUd1VV48YAYYXyhgWFkvUhc6ZARBXCswClEgUEg2YwBNDSYwDQoiA0g2NFtISi40CwogUhQ_KVNJEC42WkYmBUAgN1FPBC40WFAn/720/chunklist.m3u8
+#EXTINF:-1 ,民视新闻 HD
+https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=litv-ftv13
+#EXTINF:-1 ,台视新闻 HD
+https://git.io/JgkxY
+#EXTINF:-1 ,台视新闻 HD
+https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
+#EXTINF:-1 ,台视新闻 HD
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 ,台视新闻 HD
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 ,台视新闻 HD
+http://tv.redrainl.site:9500/live.m3u8?c=11
+#EXTINF:-1 ,台视新闻 HD
+http://50.7.220.74:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
+#EXTINF:-1 ,台视新闻 HD
+http://140.238.155.232:9000/jmsytb.m3u8?c=26
+#EXTINF:-1 ,台视新闻 HD
+https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
+#EXTINF:-1 ,台视新闻 HD
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 ,台视新闻 HD
+http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 ,台视新闻 HD
+https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
+#EXTINF:-1 ,台视新闻 HD
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 ,台视新闻 HD
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 ,台视新闻 HD
+http://tv.redrainl.site:9500/live.m3u8?c=11
+#EXTINF:-1 ,台视新闻 HD
+http://50.7.220.74:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
+#EXTINF:-1 ,台视新闻 HD
+http://140.238.155.232:9000/jmsytb.m3u8?c=26
+#EXTINF:-1 ,台视新闻 HD
+https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
+#EXTINF:-1 ,台视新闻 HD
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 ,台视新闻 HD
+http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 ,中视新闻 HD
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+#EXTINF:-1 ,中视新闻 HD
+https://git.io/Jgkxz
+#EXTINF:-1 ,中视新闻 HD
+http://tv.redrainl.site:9500/live.m3u8?c=2
+#EXTINF:-1 ,中视新闻 HD
+http://tv.redrainl.site:9500/live.m3u8?c=02
+#EXTINF:-1 ,中视新闻 HD
+http://140.238.155.232:9000/jmsytb.m3u8?c=25
+#EXTINF:-1 ,中视新闻 HD
+http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
+#EXTINF:-1 ,中视新闻 HD
+http://198.16.64.10:8278/zhongshinews_twn/playlist.m3u8?tid=MD8D4836803548368035&ct=19226&tsum=a2f06c15a5e9c4dc67565c2b8598c8da
+#EXTINF:-1 ,中视新闻 HD
+http://50.7.220.74:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
+#EXTINF:-1 ,中视新闻 HD
+https://ytm2.yuanhsing.cf/twctvnews.m3u8
+#EXTINF:-1 ,中视新闻 HD
+http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
+#EXTINF:-1 ,中视新闻 HD
+https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv074
+#EXTINF:-1 ,中视新闻 HD
+https://git.io/Jgkxz
+#EXTINF:-1 ,中视新闻 HD
+http://tv.redrainl.site:9500/live.m3u8?c=2
+#EXTINF:-1 ,中视新闻 HD
+http://tv.redrainl.site:9500/live.m3u8?c=02
+#EXTINF:-1 ,中视新闻 HD
+http://140.238.155.232:9000/jmsytb.m3u8?c=25
+#EXTINF:-1 ,中视新闻 HD
+http://50.7.220.74:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
+#EXTINF:-1 ,中视新闻 HD
+http://198.16.64.10:8278/zhongshinews_twn/playlist.m3u8?tid=MD8D4836803548368035&ct=19226&tsum=a2f06c15a5e9c4dc67565c2b8598c8da
+#EXTINF:-1 ,中视新闻 HD
+http://50.7.220.74:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
+#EXTINF:-1 ,中视新闻 HD
+https://ytm2.yuanhsing.cf/twctvnews.m3u8
+#EXTINF:-1 ,中视新闻 HD
+http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
+#EXTINF:-1 ,中视新闻 HD
+https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv074
+#EXTINF:-1 ,民视新闻台
+http://tv.redrainl.site:9500/live.m3u8?c=01
+#EXTINF:-1 ,====== 体育,#genre# ======
+http://2/2.m3u8
+#EXTINF:-1 ,JJ斗地主
+http://akm-tct.douyucdn.cn/live/488743rAHScWyyII.flv
+#EXTINF:-1 ,JJ斗地主
+http://akm-tct.douyucdn.cn/live/488743rAHScWyyII.flv
+#EXTINF:-1 ,JJ斗地主
+http://wtv.weetai.cn/iptv/2022/tyzb07.php?id=14079954
+#EXTINF:-1 ,JJ斗地主
+http://36.99.180.171/txdirect.hls.huya.com/src/0-0-0-3666366740-10057-A-0-1.flv
+#EXTINF:-1 ,五星体育(1)
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 ,五星体育(2)
+http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 ,广东体育
+http://121.51.249.88/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+#EXTINF:-1 ,五星体育
+http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:-1 ,五星体育
+http://112.132.214.218/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 ,体育赛场
+http://txtest-xp2p.p2p.huya.com/1099531627962-1099531627962-85900144783917056-2199063379380-10057-A-0-1.xs
+#EXTINF:-1 ,北京东奥纪实
+http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8
+#EXTINF:-1 ,拳击
+http://txtest-xp2p.p2p.huya.com/0-0-0-2399123531982-10057-A-0-1.xs
+#EXTINF:-1 ,斯诺克2
+http://txtest-xp2p.p2p.huya.com/1099531739995-1099531739995-86381322854989824-2199063603446-10057-A-0-1.xs
+#EXTINF:-1 ,皮划艇
+http://txtest-xp2p.p2p.huya.com/1099531728523-1099531728523-86332050990170112-2199063580502-10057-A-0-1.xs
+#EXTINF:-1 ,篮球
+http://txtest-xp2p.p2p.huya.com/1099531627841-1099531627841-85899625092874240-2199063379138-10057-A-0-1.xs
+#EXTINF:-1 ,篮球3
+http://txtest-xp2p.p2p.huya.com/1859752418-1859752418-7987575813966921728-3719628292-10057-A-0-1.xs
+#EXTINF:-1 ,篮球5
+http://txtest-xp2p.p2p.huya.com/1099531739898-1099531739898-86380906243162112-2199063603252-10057-A-0-1.xs
+#EXTINF:-1 ,篮球7
+http://txtest-xp2p.p2p.huya.com/1099531739953-1099531739953-86381142466363392-2199063603362-10057-A-0-1.xs
+#EXTINF:-1 ,篮球8
+http://txtest-xp2p.p2p.huya.com/1099531739788-1099531739788-86380433796759552-2199063603032-10057-A-0-1.xs
+#EXTINF:-1 ,精品体育
+http://39.134.65.166/PLTV/88888888/224/3221225526/1.m3u8
+#EXTINF:-1 ,街波王子
+http://txtest-xp2p.p2p.huya.com/1099531739790-1099531739790-86380442386694144-2199063603036-10057-A-0-1.xs
+#EXTINF:-1 ,赛车
+http://txtest-xp2p.p2p.huya.com/1447756351-1447756351-6218066180121296896-2895636158-10057-A-0-1.xs
+#EXTINF:-1 ,超级体育
+http://39.134.65.164/PLTV/88888888/224/3221225635/1.m3u8
+#EXTINF:-1 ,ELEVEN1
+rtmp://59.124.75.138/sat/tv731
+#EXTINF:-1 ,ELEVEN2
+rtmp://59.124.75.138/sat/tv741
+#EXTINF:-1 ,ELTA体育2台
+rtmp://59.124.75.138/sat/md011
+#EXTINF:-1 ,ELTA体育2台
+rtmp://59.124.75.138/sat/md021
+#EXTINF:-1 ,ELTA体育3台
+rtmp://59.124.75.138/sat/md041
+#EXTINF:-1 ,====== 🍺世界杯专线,#genre# ======
+http://3/3.m3u8
+#EXTINF:-1 ,CCTV1
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV2
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV3
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV4
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV5
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV5+
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV6
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV7
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV8
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv8hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV9
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV10
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV11
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV12
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV13
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV14
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctvsehd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV15
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV16
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV17
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,江苏卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/jswshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,湖南卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,浙江卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/zjwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,东方卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,北京卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/bjwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,天津卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/tjwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/lnwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,安徽卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/ahwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hljwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,广东卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/gdwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,深圳卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/szwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,湖北卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hubeiws8m/8000000/mnf.m3u8
+#EXTINF:-1 ,吉林卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/jlwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,山东卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/sdws8m/8000000/mnf.m3u8
+#EXTINF:-1 ,江西卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/jxws8m/8000000/mnf.m3u8
+#EXTINF:-1 ,河南卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hnwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,河北卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hbwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,甘肃卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/gswshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,广西卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/gxwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,四川卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/scwshd/8000000/mnf.m3u8
+#EXTINF:-1 ,重庆卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cqws8m/8000000/mnf.m3u8
+#EXTINF:-1 ,东南卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dnwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,云南卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/ynwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,贵州卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/gzwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,海南卫视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hainanwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,欢笑剧场
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hxjc8m/8000000/mnf.m3u8
+#EXTINF:-1 ,劲爆体育
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,快乐垂钓
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/klcd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,金鹰纪实
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/jyjs8m/8000000/mnf.m3u8
+#EXTINF:-1 ,戏曲精选
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/xqjx8m/8000000/mnf.m3u8
+#EXTINF:-1 ,上海第一财经
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dycjhd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,上视新闻
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,上海都市
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,上海纪实
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
+#EXTINF:-1 ,东方影视
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dfyshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,五星体育
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,上视外语
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/icshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,七彩戏剧
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/qcxjhd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,上海教育
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/setvhd/8000000/mnf.m3u8
+#EXTINF:-1 ,全纪实
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/qjshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,生活时尚
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/shss8m/8000000/mnf.m3u8
+#EXTINF:-1 ,新视觉
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,游戏风云
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/yxfy8m/8000000/mnf.m3u8
+#EXTINF:-1 ,热门综艺
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/rmzy8m/8000000/mnf.m3u8
+#EXTINF:-1 ,超级体育
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/qcsj8m/8000000/mnf.m3u8
+#EXTINF:-1 ,健康养生
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/jkys8m/8000000/mnf.m3u8
+#EXTINF:-1 ,百变课堂
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/bbkt8m/8000000/mnf.m3u8
+#EXTINF:-1 ,看天下精选
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/ktxjx8m/8000000/mnf.m3u8
+#EXTINF:-1 ,华语影院
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
+#EXTINF:-1 ,电竞天堂
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/djtt8m/8000000/mnf.m3u8
+#EXTINF:-1 ,青春动漫
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/qcdm8m/8000000/mnf.m3u8
+#EXTINF:-1 ,宝宝动画
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/bbdh8m/8000000/mnf.m3u8
+#EXTINF:-1 ,星光影院
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
+#EXTINF:-1 ,谍战剧场
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dzjc8m/8000000/mnf.m3u8
+#EXTINF:-1 ,全球大片
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/qqdp8m/8000000/mnf.m3u8
+#EXTINF:-1 ,热门剧场
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/rmjc8m/8000000/mnf.m3u8
+#EXTINF:-1 ,陶瓷高清
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/taocihd/8000000/mnf.m3u8
+#EXTINF:-1 ,中国教育-1
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/zgjy1t8m/8000000/mnf.m3u8
+#EXTINF:-1 ,中国教育-4
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,卡酷少儿
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/kkse8m/8000000/mnf.m3u8
+#EXTINF:-1 ,纪实科教
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dajs8m/8000000/mnf.m3u8
+#EXTINF:-1 ,茶频道
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cpdhdavs8m/8000000/mnf.m3u8
+#EXTINF:-1 ,足球高清
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/zqpd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,炫动卡通
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hhxd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,东方财经
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dfcjhd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,都市剧场
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dsjc8m/8000000/mnf.m3u8
+#EXTINF:-1 ,动漫秀场
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/dmxc8m/8000000/mnf.m3u8
+#EXTINF:-1 ,法治天地
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/fztd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,金色学堂
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/jingsepd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,魅力足球
+http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/mlyyhd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,====== CN,#genre# ======
+http://4/4.m3u8
+#EXTINF:-1 ,CCTV-1 综合
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-2 财经
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-3 综艺
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-4 中文国际
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-5 体育
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-5+ 体育赛事
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-6 电影
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-7 国防军事
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-8 电视剧
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv8hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-9 纪录
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-10 科教
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-11 戏曲
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-12 社会与法
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-13 新闻
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-14 少儿
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctvsehd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-15 音乐
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-16 奥林匹克
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-16 奥林匹克4K
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+#EXTINF:-1 ,CCTV-17 农业农村
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,====== WS,#genre# ======
+http://5/5.m3u8
+#EXTINF:-1 ,湖南卫视
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/hunanwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,浙江卫视
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/zjwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,东方卫视
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,江苏卫视
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/jswshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,北京卫视
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/bjwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,深圳卫视
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/szwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,山东卫视
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/sdws8m/8000000/mnf.m3u8
+#EXTINF:-1 ,广东卫视
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/gdwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,大湾区卫视
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000021/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 ,安徽卫视
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/ahwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,东南卫视
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/dnwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,山西卫视
+http://iptv.cooltv.top/tv/cutv.php?id=sxws2
+#EXTINF:-1 ,天津卫视
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/tjwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,重庆卫视
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cqws8m/8000000/mnf.m3u8
+#EXTINF:-1 ,湖北卫视
+http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000066/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 ,四川卫视
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/scwshd/8000000/mnf.m3u8
+#EXTINF:-1 ,河南卫视
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/hnwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,陕西卫视
+http://iptv.cooltv.top/tv/aishang.php?id=sxws
+#EXTINF:-1 ,吉林卫视
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/jlwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,云南卫视
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/ynwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,广西卫视
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/gxwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,江西卫视
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/jxws8m/8000000/mnf.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/lnwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/hljwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,河北卫视
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/hbwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,海南卫视
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/hainanwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,青海卫视
+http://stream.qhbtv.com/qhws/playlist.m3u8
+#EXTINF:-1 ,贵州卫视
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/gzwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 ,西藏卫视
+http://iptv.cooltv.top/tv/aishang.php?id=xzws
+#EXTINF:-1 ,甘肃卫视
+http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/gswshd8m/8000000/mnf.m3u8
