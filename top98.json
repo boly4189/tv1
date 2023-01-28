@@ -1,19 +1,6 @@
 {
   "spider": "https://raw.githubusercontent.com/boly4189/tv1/master/jar/top98.jar",
-  "lives": [
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "live",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2JvbHk0MTg5L3R2MS9tYXN0ZXIvemIudHh0"
-          ]
-        }
-      ],
-      "epg":"http://epg.51zmt.top:8000/api/diyp/"
-    }
-  ],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2JvbHk0MTg5L3R2MS9tYXN0ZXIvemIudHh0"]}]}],
 
   "sites": [
 
