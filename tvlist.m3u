@@ -24,13 +24,13 @@ http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/inde
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
 #EXTINF:-1,World Poker Tour
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
-#EXTINF:-1 group-title="未分组",TVBS
+#EXTINF:-1,TVBS
 https://securelive.e-chinalife.com/huanqiu/hkliveqpqovdxqoqfdeqodsqxcvlqqfvhnqlqqqobqqqsvhqchtvbs.flv
-#EXTINF:-1 group-title="未分组",中天新闻
+#EXTINF:-1,中天新闻
 https://securelive.e-chinalife.com/huanqiu/hklivepqqtvvqqqyquuqqfvbscvqdqtwqfsqqsqqqcvuyqemqeqtxw.flv
-#EXTINF:-1 group-title="未分组",寰宇新闻
+#EXTINF:-1,寰宇新闻
 https://securelive.e-chinalife.com/huanqiu/hklivephxehmffquxcxqveqeqyhmnqqxqqhqdhnqbnxfdqfhyxw.flv
-#EXTINF:-1 group-title="未分组",tbvs新闻
+#EXTINF:-1,tbvs新闻
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-721adc40-fec7-40e6-8501-5ee4af74afa5/index.m3u8
-#EXTINF:-1 group-title="未分组",东森新闻
+#EXTINF:-1,东森新闻
 https://pull-f5-spe.ixigua.com/live/YesLiveTV-77e58926-5ddd-4f34-92b1-1b1be2babd73/index.m3u8
