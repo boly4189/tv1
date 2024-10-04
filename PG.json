@@ -167,8 +167,8 @@
 		"searchable": 1,
 		"changeable": 0
 	  },
-	  {"key":"csp_小宝影院","name":"🛫小寶影院(海外推荐)","type": 3,"api":"csp_XBPQ","jar":"./xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"+display: none;\">&&</span>","分类url":"https://xiaoxintv.com/index.php/vod/show/by/time/id/{cateId}/page/{catePg}/year/{year}.html","分类": "電視劇$6#電影$7#動漫$5#綜藝$3#紀錄片$21#體育$20"}},
-      {"key":"csp_蘭花影院","name":"🛫唐人街影院(海外推荐)","type": 3,"api":"csp_XBPQ","jar":"./xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"hl-col-xs-12 blurb\">&&</li>","分类url":"https://tangrenjietv.net/vodshow/{cateId}--time------{catePg}---{year}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3#短劇$20"}},
+	  {"key":"csp_小宝影院","name":"🛫小寶影院(海外推荐)","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/boly4189/tv1/blob/master/jar/fm.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"+display: none;\">&&</span>","分类url":"https://xiaoxintv.com/index.php/vod/show/by/time/id/{cateId}/page/{catePg}/year/{year}.html","分类": "電視劇$6#電影$7#動漫$5#綜藝$3#紀錄片$21#體育$20"}},
+      {"key":"csp_蘭花影院","name":"🛫唐人街影院(海外推荐)","type": 3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/boly4189/tv1/blob/master/jar/fm.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"hl-col-xs-12 blurb\">&&</li>","分类url":"https://tangrenjietv.net/vodshow/{cateId}--time------{catePg}---{year}.html","分类": "電視劇$2#電影$1#動漫$4#綜藝$3#短劇$20"}},
 
 	  {
 		"key": "push_agent",
