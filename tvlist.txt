@@ -1,3 +1,13 @@
+pixman,#genre#
+中天新聞台,https://pixman.digimon.us.kg/litv/4gtv-4gtv009
+TVBS,https://pixman.digimon.us.kg/litv/4gtv-4gtv073
+TVBS 新聞台,https://pixman.digimon.us.kg/litv/4gtv-4gtv072
+寰宇新聞台,https://pixman.digimon.us.kg/litv/litv-longturn14
+寰宇新聞台灣台,https://pixman.digimon.us.kg/litv/litv-longturn15
+三立 iNEWS,https://pixman.digimon.us.kg/4gtv/229
+VOA 美國之音,https://pixman.digimon.us.kg/litv/litv-ftv03
+半島國際新聞台,https://pixman.digimon.us.kg/litv/litv-ftv10
+DW德國之聲,https://pixman.digimon.us.kg/4gtv/226
 TW,#genre#
 中天新闻,http://211.72.65.236:8541/.m3u8
 中天新闻,https://litv.zapi.us.kg/?id=4gtv-4gtv009
