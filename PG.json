@@ -6,7 +6,7 @@
             "name": "电视直播",
             "type": 3,
             "playerType": 1,
-            "jar": "https://raw.githubusercontent.com/boly4189/tv1/blob/master/jar/pg.jar;md5;8f72eb37260dc09264d1ca0fcbe9a3ee",
+            "jar": "https://raw.githubusercontent.com/boly4189/tv1/blob/master/jar/zb.jar;md5;8f72eb37260dc09264d1ca0fcbe9a3ee",
             "api": "csp_zb",
             "searchable": 0,
             "changeable": 0,
