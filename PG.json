@@ -76,6 +76,7 @@
 		  "港台综艺", "欧美综艺", "足球"  , "影视解说", "国产动漫"
 		]
 	  },
+
 	  {
 		"key": "xml_快看",
 		"name": "🎥｜快看資源",
@@ -117,6 +118,40 @@
 		  "动漫电影", "记录片" , "奇幻片" , "犯罪片"
 		]
 	  },
+	        {
+        "key": "Net_emby",
+        "name": "🍏 Net┃Emby",
+        "type": 3,
+        "api": "ttps://raw.githubusercontent.com/boly4189/tv1/blob/master/py/py_emby.py",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": {
+          "server": "http://net.creativeinfo.org:8096",
+          "username": "ntest",
+          "password": "ntest123",
+          "thread": 0,
+          "proxy": ""
+        },
+        "changeable": 1
+      },
+      {
+        "key": "San_emby",
+        "name": "🍏 San┃Emby",
+        "type": 3,
+        "api": "ttps://raw.githubusercontent.com/boly4189/tv1/blob/master/py/py_emby.py",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": {
+          "server": "http://san.creativeinfo.org:8096",
+          "username": "san",
+          "password": "san123",
+          "thread": 0,
+          "proxy": ""
+        },
+        "changeable": 1
+      },
 	  {
 		"key": "快车资源",
 		"name": "🎥｜快车",
@@ -159,6 +194,26 @@
 		"changeable": 1,
 		"ext": "海賊王#最新歌曲#動漫#新聞#卡提諾#追劇#爆笑#喜劇#新聞#旅遊#播放清單#財神爺我的歌單"
 	  },
+	  {
+        "key": "Youtube",
+        "name": "Youtube",
+        "type": 3,
+        "api": "csp_Youtube",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 0,
+        "timeout": 240,
+        "ext": {
+          "token": "https://raw.githubusercontent.com/boly4189/tv1/blob/master/json/tokenm.json",
+          "json": "https://raw.githubusercontent.com/boly4189/tv1/blob/master/json/youtube.json",
+          "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
+          "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
+          "codecs": "",
+          "proxy": "",
+          "danmu": true
+        },
+        "style": {"type": "rect", "ratio": 1.77}
+          },
 	  {
 		"key": "油管播放列表",
 		"name": "㊙︎｜油管播放列表",
