@@ -1,5 +1,5 @@
 {
-	"spider": "https://raw.githubusercontent.com/boly4189/tv1/blob/master/jar/pg.jar;md5;ce05c5b97df02ffcc700928eba3b515f",
+	"spider": "https://raw.githubusercontent.com/boly4189/tv1/refs/heads/master/jar/pg.jar;md5;ce05c5b97df02ffcc700928eba3b515f",
 	"sites": [	  
 	{
 		"key": "php_heimuer",
@@ -56,7 +56,7 @@
 		"name": "🎥｜索尼｜無更新頁",
 		"type": 4,
 		"api": "http://api.paoyun.eu.org/sn.php",
-		"jar": "https://raw.githubusercontent.com/boly4189/tv1/blob/master/jar/fm.jar",
+		"jar": "https://raw.githubusercontent.com/boly4189/tv1/refs/heads/master/jar/fm.jar",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1
@@ -122,7 +122,7 @@
         "key": "Net_emby",
         "name": "🍏 Net┃Emby",
         "type": 3,
-        "api": "https://raw.githubusercontent.com/boly4189/tv1/blob/master/py/py_emby.py",
+        "api": "https://raw.githubusercontent.com/boly4189/tv1/refs/heads/master/py/py_emby.py",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
@@ -139,7 +139,7 @@
         "key": "San_emby",
         "name": "🍏 San┃Emby",
         "type": 3,
-        "api": "https://raw.githubusercontent.com/boly4189/tv1/blob/master/py/py_emby.py",
+        "api": "https://raw.githubusercontent.com/boly4189/tv1/refs/heads/master/py/py_emby.py",
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
@@ -171,7 +171,7 @@
 		"name": "㊙︎｜直播轉點播",
 		"type": 4,
 		"api": "http://api.paoyun.eu.org/zh/2241-2.php",
-		"jar": "https://raw.githubusercontent.com/boly4189/tv1/blob/master/jar/fm.jar",
+		"jar": "https://raw.githubusercontent.com/boly4189/tv1/refs/heads/master/jar/fm.jar",
 		"searchable": 1,
 		"changeable": 0,
 		"ext": "1,2,3,4,5,6"
@@ -189,7 +189,7 @@
 		"name": "㊙︎｜YOUTUBE",
 		"type": 4,
 		"api": "https://api.paoyun.eu.org/yt/yt001.php",
-		"jar": "https://raw.githubusercontent.com/boly4189/tv1/blob/master/jar/custom_spider.jar",
+		"jar": "https://raw.githubusercontent.com/boly4189/tv1/refs/heads/master/jar/custom_spider.jar",
 		"searchable": 1,
 		"changeable": 1,
 		"ext": "海賊王#最新歌曲#動漫#新聞#卡提諾#追劇#爆笑#喜劇#新聞#旅遊#播放清單#財神爺我的歌單"
@@ -204,8 +204,8 @@
         "changeable": 0,
         "timeout": 240,
         "ext": {
-          "token": "https://raw.githubusercontent.com/boly4189/tv1/blob/master/json/tokenm.json",
-          "json": "https://raw.githubusercontent.com/boly4189/tv1/blob/master/json/youtube.json",
+          "token": "https://raw.githubusercontent.com/boly4189/tv1/refs/heads/master/json/tokenm.json",
+          "json": "https://raw.githubusercontent.com/boly4189/tv1/refs/heads/master/json/youtube.json",
           "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
           "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
           "codecs": "",
@@ -219,7 +219,7 @@
 		"name": "㊙︎｜油管播放列表",
 		"type": 4,
 		"api": "https://api.paoyun.eu.org/ytlb.php",
-		"jar": "https://raw.githubusercontent.com/boly4189/tv1/blob/master/jar/custom_spider.jar",
+		"jar": "https://raw.githubusercontent.com/boly4189/tv1/refs/heads/master/jar/custom_spider.jar",
 		"searchable": 1,
 		"changeable": 1
 	  },
@@ -228,7 +228,7 @@
 		"name": "㊙︎｜超级影视",
 		"type": 1,
 		"api": "http://cjvip.free.hr/api.php/provide/vod/?ac=list",
-		"jar": "https://raw.githubusercontent.com/boly4189/tv1/blob/master/jar/fm.jar",
+		"jar": "https://raw.githubusercontent.com/boly4189/tv1/refs/heads/master/jar/fm.jar",
 		"searchable": 1,
 		"changeable": 0
 	  },
