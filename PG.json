@@ -51,6 +51,17 @@
 		"filterable": 1,
 		"changeable": 0
 	  },
+	      {
+        "key": "hipy_js_网飞啦[自动]",
+        "name": "🎥｜网飞啦｜T3",
+        "type": 3,
+        "api": "https://raw.githubusercontent.com/boly4189/tv1/refs/heads/master/drpy/drpy2.min.js",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "order_num": 0,
+        "ext": "https://raw.githubusercontent.com/boly4189/tv1/refs/heads/master/drpy/网飞啦[自动].js"
+      },
 	  {
 		"key": "索尼克隆",
 		"name": "🎥｜索尼｜無更新頁",
