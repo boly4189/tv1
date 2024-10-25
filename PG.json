@@ -41,29 +41,6 @@
 		"filterable": 1,
 		"changeable": 0
 	  },
-          {
-        "key": "唐人",
-        "name": "🎥｜唐人",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "https://raw.githubusercontent.com/boly4189/tv1/refs/heads/master/jar/dokilwss.jar;md5;f6c383fb3037b666418e6648a1155bd4",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": {
-          "分类url": "https://www.trjvod.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-          "分类": "电影$1#连续剧$2#动漫$4#综艺$3#体育$59#短剧$53"
-        }
-        },
-	{
-        "key": "黑墙影视",
-        "name": "🎥｜黑墙",
-        "type": 1,
-        "api": "https://blackwallvideo.online/api.php/provide/vod/",
-        "jar": "https://raw.githubusercontent.com/boly4189/tv1/refs/heads/master/jar/dokilwss.jar;md5;f6c383fb3037b666418e6648a1155bd4",
-        "searchable": 1,
-        "quickSearch": 1
-          },
 	  {
 		"key": "T4-安博",
 		"name": "優質｜安博",
