@@ -51,6 +51,37 @@
 		"filterable": 1,
 		"changeable": 0
 	  },
+      {
+        "key": "苹果",
+        "name": "优质｜苹果(饭)",
+        "type": 3,
+        "api": "csp_LiteApple",
+        "spider": "https://raw.githubusercontent.com/boly4189/tv1/refs/heads/master/jar/fan.txt;md5;50fa74f281c898e7e2c6274261e691f7",
+        "jar": "https://raw.githubusercontent.com/boly4189/tv1/refs/heads/master/jar/fan.txt;md5;50fa74f281c898e7e2c6274261e691f7",
+        "playerType": 2,
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1
+      },
+      {
+        "key": "苹果忐忑",
+        "name": "优质｜苹果(忐忑)",
+        "type": 3,
+        "api": "csp_LiteApple",
+        "jar": "https://raw.githubusercontent.com/boly4189/tv1/refs/heads/master/jar/fanou.txt;md5;8e9fb079a792e12ed568d09a20457afb",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1
+      },
+      {
+        "key": "低端影视",
+        "name": "优质｜低端",
+        "type": 3,
+        "api": "https://raw.githubusercontent.com/boly4189/tv1/refs/heads/master/drpy/drpy2.min.js",
+        "searchable": 1,
+        "changeable": 1,
+        "ext": "https://raw.githubusercontent.com/boly4189/tv1/refs/heads/master/drpy/ddys.js"
+      },
 	  {
         "key": "hipy_js_网飞啦[自动]",
         "name": "🎥｜网飞啦｜T3",
