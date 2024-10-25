@@ -85,24 +85,6 @@
         "order_num": 0,
         "ext": "https://raw.githubusercontent.com/boly4189/tv1/refs/heads/master/drpy/网飞啦[自动].js"
           },
-         {
-        "key": "网飞影视",
-        "name": "🎥｜网飞｜T3",
-        "type": 3,
-        "api": "https://raw.githubusercontent.com/boly4189/tv1/refs/heads/master/drpy/drpy2.min.js",
-        "ext": "https://raw.githubusercontent.com/boly4189/tv1/refs/heads/master/drpy/wf.js"
-         },
-        "key": "MTV",
-        "name": "🎵｜MTV",
-        "type": 3,
-        "api": "csp_Bili",
-        "jar": "https://raw.githubusercontent.com/boly4189/tv1/refs/heads/master/jar/dokilwss.jar;md5;f6c383fb3037b666418e6648a1155bd4",
-        "style": {"type": "rect", "ratio": 1.597},
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 0,
-        "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json"
-      },
 	  {
 		"key": "索尼克隆",
 		"name": "🎥｜索尼｜無更新頁",
