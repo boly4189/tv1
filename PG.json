@@ -74,6 +74,57 @@
         "changeable": 1
       },
       {
+        "key": "Net_emby",
+        "name": "🍏 Net┃Emby",
+        "type": 3,
+        "api": "https://raw.githubusercontent.com/boly4189/tv1/refs/heads/master/py/py_emby.py",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": {
+          "server": "http://net.creativeinfo.org:8096",
+          "username": "ntest",
+          "password": "ntest123",
+          "thread": 0,
+          "proxy": ""
+        },
+        "changeable": 1
+      },
+      {
+        "key": "San_emby",
+        "name": "🍏 San┃Emby",
+        "type": 3,
+        "api": "https://raw.githubusercontent.com/boly4189/tv1/refs/heads/master/py/py_emby.py",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": {
+          "server": "http://san.creativeinfo.org:8096",
+          "username": "san",
+          "password": "san123",
+          "thread": 0,
+          "proxy": ""
+        },
+        "changeable": 1
+      },
+      {
+        "key": "ISO_emby",
+        "name": "🍏 ISO┃Emby",
+        "type": 3,
+        "api": "https://raw.githubusercontent.com/boly4189/tv1/refs/heads/master/py/py_emby.py",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": {
+          "server": "http://iso.creativeinfo.org:8096",
+          "username": "itest",
+          "password": "itest123",
+          "thread": 0,
+          "proxy": ""
+        },
+        "changeable": 1
+      },
+      {
         "key": "低端影视",
         "name": "优质｜低端",
         "type": 3,
@@ -160,40 +211,6 @@
 		  "动漫电影", "记录片" , "奇幻片" , "犯罪片"
 		]
 	  },
-	        {
-        "key": "Net_emby",
-        "name": "🍏 Net┃Emby",
-        "type": 3,
-        "api": "https://raw.githubusercontent.com/boly4189/tv1/refs/heads/master/py/py_emby.py",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": {
-          "server": "http://net.creativeinfo.org:8096",
-          "username": "ntest",
-          "password": "ntest123",
-          "thread": 0,
-          "proxy": ""
-        },
-        "changeable": 1
-      },
-      {
-        "key": "San_emby",
-        "name": "🍏 San┃Emby",
-        "type": 3,
-        "api": "https://raw.githubusercontent.com/boly4189/tv1/refs/heads/master/py/py_emby.py",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": {
-          "server": "http://san.creativeinfo.org:8096",
-          "username": "san",
-          "password": "san123",
-          "thread": 0,
-          "proxy": ""
-        },
-        "changeable": 1
-      },
 	  {
 		"key": "快车资源",
 		"name": "🎥｜快车",
