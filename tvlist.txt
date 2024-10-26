@@ -1,7 +1,22 @@
 inte,#genre#
-[BD]bbc news,https://stream1.freetv.fun/bbc-news-1.m3u8
+[BD]bbc world,https://stream1.freetv.fun/bbc-world-1.m3u8
 [BD]cnn,https://stream1.freetv.fun/cnn-1.m3u8
+[BD]fox now,https://stream1.freetv.fun/fox-now-1.m3u8
+[BD]france 24 en,https://stream1.freetv.fun/france-24-en-1.m3u8
+[BD]news max,https://stream1.freetv.fun/news-max-1.m3u8
+[BD]russia today,https://stream1.freetv.fun/russia-today-3.m3u8
+[BD]cna international (1080p),https://stream1.freetv.fun/cna-international-1.m3u8
 [BD]al jazeera english,https://stream1.freetv.fun/al-jazeera-english-1.m3u8
+usa today,https://stream1.freetv.fun/usa-today-2.m3u8
+euronews english,https://stream1.freetv.fun/euronews-english-1.m3u8
+[BD]中天新聞,https://stream1.freetv.fun/zhong-tian-xin-wen-1.m3u8
+[BD]tvbs新闻,https://stream1.freetv.fun/tvbsxin-wen-7.m3u8
+[BD]寰宇新闻,https://stream1.freetv.fun/huan-yu-xin-wen-7.m3u8
+[BD]三立新聞,https://stream1.freetv.fun/san-li-xin-wen-4.m3u8
+[BD]民视新闻,https://stream1.freetv.fun/min-shi--xin-wen-1.m3u8
+[BD]台视新闻台,https://stream1.freetv.fun/tai-shi-xin-wen-1.m3u8
+[BD]年代新聞,https://stream1.freetv.fun/nian-dai-xin-wen-7.m3u8
+[BD]東森新聞,https://stream1.freetv.fun/dong-sen-xin-wen-1.m3u8
 pixman,#genre#
 中天新聞台,https://pixman.digimon.us.kg/litv/4gtv-4gtv009
 TVBS,https://pixman.digimon.us.kg/litv/4gtv-4gtv073
