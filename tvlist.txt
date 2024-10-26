@@ -1,3 +1,7 @@
+inte,#genre#
+[BD]bbc news,https://stream1.freetv.fun/bbc-news-1.m3u8
+[BD]cnn,https://stream1.freetv.fun/cnn-1.m3u8
+[BD]al jazeera english,https://stream1.freetv.fun/al-jazeera-english-1.m3u8
 pixman,#genre#
 中天新聞台,https://pixman.digimon.us.kg/litv/4gtv-4gtv009
 TVBS,https://pixman.digimon.us.kg/litv/4gtv-4gtv073
